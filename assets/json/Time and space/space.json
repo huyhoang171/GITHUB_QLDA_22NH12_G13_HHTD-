@@ -1,0 +1,5809 @@
+[
+  {
+    "word": "aerospace",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aer/aeros/aerospace__gb_1.mp3",
+    "phonetic_text": "/ˈeərəʊspeɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aer/aeros/aerospace__us_1.mp3",
+    "phonetic_am_text": "/ˈerəʊspeɪs/",
+    "senses": [
+      {
+        "definition": "the industry of building aircraft, vehicles and equipment to be sent into space",
+        "examples": [
+          {
+            "cf": "",
+            "x": "jobs in aerospace and defence"
+          },
+          {
+            "cf": "",
+            "x": "the aerospace industry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "astrobiologist",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ast/astro/astrobiologist__gb_2.mp3",
+    "phonetic_text": "/ˌæstrəʊbaɪˈɒlədʒɪst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ast/astro/astrobiologist__us_1.mp3",
+    "phonetic_am_text": "/ˌæstrəʊbaɪˈɑːlədʒɪst/",
+    "senses": [
+      {
+        "definition": "a scientist who studies life on other planets",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "astrobiology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ast/astro/astrobiology__gb_2.mp3",
+    "phonetic_text": "/ˌæstrəʊbaɪˈɒlədʒi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ast/astro/astrobiology__us_2.mp3",
+    "phonetic_am_text": "/ˌæstrəʊbaɪˈɑːlədʒi/",
+    "senses": [
+      {
+        "definition": "the scientific study of life on other planets",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "astrophysics",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ast/astro/astrophysics__gb_1.mp3",
+    "phonetic_text": "/ˌæstrəʊˈfɪzɪks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ast/astro/astrophysics__us_1.mp3",
+    "phonetic_am_text": "/ˌæstrəʊˈfɪzɪks/",
+    "senses": [
+      {
+        "definition": "the scientific study of the physical and chemical structure of the stars, planets, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "alien",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alien/alien__gb_2.mp3",
+    "phonetic_text": "/ˈeɪliən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alien/alien__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈeɪliən/",
+    "senses": [
+      {
+        "definition": "strange and frightening; different from what you are used to",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an alien environment"
+          },
+          {
+            "cf": "",
+            "x": "Why pick an area that's totally alien to you, with which you have no links at all?"
+          }
+        ]
+      },
+      {
+        "definition": "from another country or society; foreign",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an alien culture"
+          },
+          {
+            "cf": "",
+            "x": "alien influences that threatened their way of life"
+          }
+        ]
+      },
+      {
+        "definition": "not usual or acceptable",
+        "examples": [
+          {
+            "cf": "alien to somebody/something",
+            "x": "The idea is alien to our religion."
+          },
+          {
+            "cf": "",
+            "x": "A referendum is alien to the party’s concept of democracy."
+          },
+          {
+            "cf": "",
+            "x": "Cruelty was quite alien to him."
+          }
+        ]
+      },
+      {
+        "definition": "connected with creatures from another world",
+        "examples": [
+          {
+            "cf": "",
+            "x": "alien beings from outer space"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alien",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alien/alien__gb_2.mp3",
+    "phonetic_text": "/ˈeɪliən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alien/alien__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈeɪliən/",
+    "senses": [
+      {
+        "definition": "a person who is not a citizen of the country in which they live or work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an illegal alien"
+          }
+        ]
+      },
+      {
+        "definition": "a creature from another world",
+        "examples": [
+          {
+            "cf": "",
+            "x": "aliens from outer space"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "astronomy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ast/astro/astronomy__gb_1.mp3",
+    "phonetic_text": "/əˈstrɒnəmi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ast/astro/astronomy__us_1.mp3",
+    "phonetic_am_text": "/əˈstrɑːnəmi/",
+    "senses": [
+      {
+        "definition": "the scientific study of the sun, moon, stars, planets, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "astronomer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ast/astro/astronomer__gb_1.mp3",
+    "phonetic_text": "/əˈstrɒnəmə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ast/astro/astronomer__us_1.mp3",
+    "phonetic_am_text": "/əˈstrɑːnəmər/",
+    "senses": [
+      {
+        "definition": "a scientist who studies astronomy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Astronomers all over the world will be observing the eclipse."
+          },
+          {
+            "cf": "",
+            "x": "Astronomers continue to discover new stars."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "astronaut",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ast/astro/astronaut__gb_2.mp3",
+    "phonetic_text": "/ˈæstrənɔːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ast/astro/astronaut__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈæstrənɔːt/",
+    "senses": [
+      {
+        "definition": "a person whose job involves travelling and working in a spacecraft",
+        "examples": [
+          {
+            "cf": "",
+            "x": "sending astronauts into space"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aurora australis",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aur/auror/aurora_australis_1_gb_4.mp3",
+    "phonetic_text": "/əˌrɔːrə ɒˈstreɪlɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aur/auror/aurora_australis_1_us_2.mp3",
+    "phonetic_am_text": "/əˌrɔːrə ɔːˈstreɪlɪs/",
+    "senses": [
+      {
+        "definition": "bands of coloured light that are sometimes seen in the sky at night in the most southern countries of the world",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "asteroid",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ast/aster/asteroid__gb_1.mp3",
+    "phonetic_text": "/ˈæstərɔɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ast/aster/asteroid__us_1.mp3",
+    "phonetic_am_text": "/ˈæstərɔɪd/",
+    "senses": [
+      {
+        "definition": "any one of the many small planets that go around the sun",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/atm/atmos/atmosphere__gb_1.mp3",
+    "phonetic_text": "/ˈætməsfɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/atm/atmos/atmosphere__us_2.mp3",
+    "phonetic_am_text": "/ˈætməsfɪr/",
+    "senses": [
+      {
+        "definition": "the mixture of gases that surrounds the earth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Wind power doesn't release carbon dioxide into the atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "greenhouse gases in the earth's atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "Volcanoes and hot springs can emit methane into the atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "the upper atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "pollution of the atmosphere"
+          }
+        ]
+      },
+      {
+        "definition": "a mixture of gases that surrounds another planet or a star",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Saturn’s atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "The probe will plunge into the planet's stormy atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "The outermost part of the sun's atmosphere is called the corona."
+          }
+        ]
+      },
+      {
+        "definition": "the air in a room or in a small space; the air around a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a smoky/stuffy atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "These plants love warm, humid atmospheres."
+          }
+        ]
+      },
+      {
+        "definition": "the feeling or mood that you have in a particular place or situation; a feeling between two people or in a group of people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Before the parade, the atmosphere was electric."
+          },
+          {
+            "cf": "",
+            "x": "This type of lighting creates a relaxing atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "City officials have created an atmosphere of fear."
+          },
+          {
+            "cf": "",
+            "x": "Use music and lighting to create a romantic atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "There was an atmosphere of mutual trust between them."
+          },
+          {
+            "cf": "",
+            "x": "The old house is full of atmosphere (= it's very interesting)."
+          },
+          {
+            "cf": "",
+            "x": "The children grew up in an atmosphere of violence and insecurity."
+          },
+          {
+            "cf": "",
+            "x": "a party atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "The hotel offers a friendly atmosphere and personal service."
+          }
+        ]
+      },
+      {
+        "definition": "a situation when people do not say anything, but feel embarrassed or uncomfortable",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "atmospheric",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/atm/atmos/atmospheric__gb_1.mp3",
+    "phonetic_text": "/ˌætməsˈferɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/atm/atmos/atmospheric__us_1_rr.mp3",
+    "phonetic_am_text": "/ˌætməsˈfɪrɪk/",
+    "senses": [
+      {
+        "definition": "related to the earth’s atmosphere",
+        "examples": [
+          {
+            "cf": "",
+            "x": "atmospheric pollution/conditions/pressure"
+          }
+        ]
+      },
+      {
+        "definition": "creating an exciting or emotional mood",
+        "examples": [
+          {
+            "cf": "",
+            "x": "atmospheric music"
+          },
+          {
+            "cf": "",
+            "x": "a stunningly atmospheric performance"
+          },
+          {
+            "cf": "",
+            "x": "The new restaurant is highly atmospheric."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aurora borealis",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aur/auror/aurora_borealis_1_gb_2.mp3",
+    "phonetic_text": "/əˌrɔːrə ˌbɔːriˈeɪlɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aur/auror/aurora_borealis_1_us_2.mp3",
+    "phonetic_am_text": "/əˌrɔːrə ˌbɔːriˈælɪs/",
+    "senses": [
+      {
+        "definition": "bands of coloured light, mainly green and red, that are sometimes seen in the sky at night in the most northern countries of the world",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "biosphere",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bio/biosp/biosphere__gb_1.mp3",
+    "phonetic_text": "/ˈbaɪəʊsfɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bio/biosp/biosphere__us_1.mp3",
+    "phonetic_am_text": "/ˈbaɪəʊsfɪr/",
+    "senses": [
+      {
+        "definition": "the part of the earth’s surface and atmosphere in which plants and animals can live",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "blast off",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "to leave the ground",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The rocket blasted off at noon."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "comet",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/comet/comet__gb_1.mp3",
+    "phonetic_text": "/ˈkɒmɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/comet/comet__us_2.mp3",
+    "phonetic_am_text": "/ˈkɑːmɪt/",
+    "senses": [
+      {
+        "definition": "a mass of ice and dust that moves around the sun and looks like a bright star with a tail",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "black hole",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/black/black_hole_1_gb_1.mp3",
+    "phonetic_text": "/ˌblæk ˈhəʊl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/black/black_hole_1_us_1.mp3",
+    "phonetic_am_text": "/ˌblæk ˈhəʊl/",
+    "senses": [
+      {
+        "definition": "an area in space that nothing, not even light, can escape from, because gravity (= the force that pulls objects in space towards each other) is so strong there",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The company viewed the venture as a financial black hole (= it would use a lot of the company's money with no real result)."
+          },
+          {
+            "cf": "",
+            "x": "Thousands of people have been plunged into the black hole of unemployment."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "come up",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "to appear above the soil",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The daffodils are just beginning to come up."
+          }
+        ]
+      },
+      {
+        "definition": "to rise",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We watched the sun come up."
+          }
+        ]
+      },
+      {
+        "definition": "to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm afraid something urgent has come up."
+          },
+          {
+            "cf": "",
+            "x": "We'll let you know if any vacancies come up."
+          }
+        ]
+      },
+      {
+        "definition": "to be mentioned or discussed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The subject came up in conversation."
+          },
+          {
+            "cf": "",
+            "x": "The question is bound to come up at the meeting."
+          }
+        ]
+      },
+      {
+        "definition": "to be going to happen, arrive or be ready soon",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her birthday is coming up soon."
+          },
+          {
+            "cf": "",
+            "x": "‘Is lunch ready?’ ‘Coming up!’"
+          }
+        ]
+      },
+      {
+        "definition": "to be dealt with by a court",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her divorce case comes up next month."
+          }
+        ]
+      },
+      {
+        "definition": "if your number, name, ticket, etc. comes up in a game in which you bet money, it is chosen and you win something",
+        "examples": []
+      },
+      {
+        "definition": "to arrive at a university, especially Oxford or Cambridge, at the beginning of a term or in order to begin your studies",
+        "examples": []
+      },
+      {
+        "definition": "to come from one place to another, especially from the south of a country to the north or from a smaller place to a larger one",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Why don't you come up to Scotland for a few days?"
+          }
+        ]
+      },
+      {
+        "definition": "to move towards somebody, in order to talk to them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He came up to me and asked me the way to the station."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "blast-off",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bla/blast/blast_off_1_gb_1.mp3",
+    "phonetic_text": "/ˈblɑːst ɒf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/blast/blast_off_1_us_1_rr.mp3",
+    "phonetic_am_text": "/ˈblæst ɔːf/",
+    "senses": [
+      {
+        "definition": "the moment when a spacecraft leaves the ground",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Blast-off is in 30 seconds."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "axis",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/axi/axis_/axis__gb_2.mp3",
+    "phonetic_text": "/ˈæksɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/axi/axis_/axis__us_1.mp3",
+    "phonetic_am_text": "/ˈæksɪs/",
+    "senses": [
+      {
+        "definition": "an imaginary line through the centre of an object, around which the object turns",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Mars takes longer to revolve on its axis than the Earth."
+          },
+          {
+            "cf": "",
+            "x": "the earth’s axis of rotation"
+          }
+        ]
+      },
+      {
+        "definition": "a fixed line against which the positions of points are measured, especially points on a graph",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the vertical/horizontal axis"
+          },
+          {
+            "cf": "",
+            "x": "The real wage is measured along the horizontal axis and the quantity of labour is measured along the vertical axis."
+          },
+          {
+            "cf": "",
+            "x": "The main road is on a north-south axis."
+          },
+          {
+            "cf": "",
+            "x": "the speed is measured along the horizontal axis"
+          }
+        ]
+      },
+      {
+        "definition": "a line that divides a shape into two equal parts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an axis of symmetry"
+          },
+          {
+            "cf": "",
+            "x": "The axis of a circle is its diameter."
+          }
+        ]
+      },
+      {
+        "definition": "an agreement or alliance between two or more countries that forms the centre for a larger grouping of nations",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the Franco-German axis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Big Bang",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/big/big_b/big_bang_1_gb_1.mp3",
+    "phonetic_text": "/ˌbɪɡ ˈbæŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/big/big_b/big_bang_1_us_1.mp3",
+    "phonetic_am_text": "/ˌbɪɡ ˈbæŋ/",
+    "senses": [
+      {
+        "definition": "the single large event, followed by a rapid expansion, that most scientists suggest created the universe",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "booster",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/boo/boost/booster__gb_1.mp3",
+    "phonetic_text": "/ˈbuːstə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/boost/booster__us_1.mp3",
+    "phonetic_am_text": "/ˈbuːstər/",
+    "senses": [
+      {
+        "definition": "a rocket that gives a spacecraft extra power when it leaves the earth, or that makes a missile go further",
+        "examples": []
+      },
+      {
+        "definition": "a device that gives extra power to a piece of electrical equipment",
+        "examples": []
+      },
+      {
+        "definition": "an extra small amount of a vaccine that is given to increase the effect of one given earlier, for example to protect you from a disease for longer",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a tetanus booster"
+          }
+        ]
+      },
+      {
+        "definition": "a thing that helps, encourages or improves somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a morale/confidence booster"
+          }
+        ]
+      },
+      {
+        "definition": "a person who gives their support to somebody/something, especially in politics",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a meeting of Republican boosters"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "come out",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "when the sun, moon or stars come out, they appear",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The rain stopped and the sun came out."
+          }
+        ]
+      },
+      {
+        "definition": "to open",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The daffodils came out early this year."
+          }
+        ]
+      },
+      {
+        "definition": "to be produced or published",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When is her new novel coming out?"
+          }
+        ]
+      },
+      {
+        "definition": "to become known",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The full story came out at the trial."
+          },
+          {
+            "cf": "it comes out that…",
+            "x": "It came out that he'd been telling lies."
+          }
+        ]
+      },
+      {
+        "definition": "to be shown clearly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her best qualities come out in a crisis."
+          }
+        ]
+      },
+      {
+        "definition": "when words come out, they are spoken",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I tried to say ‘I love you,’ but the words wouldn't come out."
+          }
+        ]
+      },
+      {
+        "definition": "to say publicly whether you agree or disagree with something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He came out against the plan."
+          },
+          {
+            "cf": "",
+            "x": "In her speech, the senator came out in favour of a change in the law."
+          }
+        ]
+      },
+      {
+        "definition": "to tell other people that you are gay",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My best friend came out when she was 18."
+          }
+        ]
+      },
+      {
+        "definition": "to stop work and go on strike",
+        "examples": [
+          {
+            "cf": "",
+            "x": "On 10 August the railway workers came out on strike."
+          }
+        ]
+      },
+      {
+        "definition": "if a photograph taken on film comes out, it is a clear picture when it is developed and printed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In the 1950s photographs often didn't come out at all."
+          }
+        ]
+      },
+      {
+        "definition": "to be formally introduced into society",
+        "examples": []
+      },
+      {
+        "definition": "to be removed from a place where it is fixed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This nail won't come out."
+          }
+        ]
+      },
+      {
+        "definition": "to be removed from something by washing or cleaning",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These ink stains won't come out of my dress."
+          },
+          {
+            "cf": "",
+            "x": "Will the colour come out (= become faint or disappear) if I wash it?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "constellation",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconstellation__gb_1.mp3",
+    "phonetic_text": "/ˌkɒnstəˈleɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconstellation__us_1.mp3",
+    "phonetic_am_text": "/ˌkɑːnstəˈleɪʃn/",
+    "senses": [
+      {
+        "definition": "a group of stars that forms a shape in the sky and has a name",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Little Bear constellation is still used by navigators at sea."
+          }
+        ]
+      },
+      {
+        "definition": "a group of related ideas, things or people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a constellation of Hollywood talent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cosmonaut",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/cosmo/cosmonaut__gb_1.mp3",
+    "phonetic_text": "/ˈkɒzmənɔːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cos/cosmo/cosmonaut__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈkɑːzmənɔːt/",
+    "senses": [
+      {
+        "definition": "an astronaut from the former Soviet Union",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "corona",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/coron/corona__gb_1.mp3",
+    "phonetic_text": "/kəˈrəʊnə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/coron/corona__us_1.mp3",
+    "phonetic_am_text": "/kəˈrəʊnə/",
+    "senses": [
+      {
+        "definition": "a ring of light seen around the sun or moon, especially during an eclipse",
+        "examples": []
+      },
+      {
+        "definition": "infection with or disease caused by a coronavirus",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The number of confirmed cases of corona infection continues to rise."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cosmic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/cosmi/cosmic__gb_1.mp3",
+    "phonetic_text": "/ˈkɒzmɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cos/cosmi/cosmic__us_1.mp3",
+    "phonetic_am_text": "/ˈkɑːzmɪk/",
+    "senses": [
+      {
+        "definition": "connected with the whole universe",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do you believe in a cosmic plan?"
+          }
+        ]
+      },
+      {
+        "definition": "very great and important",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This was disaster on a cosmic scale."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cosmic dust",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/cosmi/cosmic_dust_1_gb_1.mp3",
+    "phonetic_text": "/ˌkɒzmɪk ˈdʌst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cos/cosmi/cosmic_dust_1_us_1.mp3",
+    "phonetic_am_text": "/ˌkɑːzmɪk ˈdʌst/",
+    "senses": [
+      {
+        "definition": "very small pieces of matter floating in space",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "crescent",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cre/cresc/crescent__gb_1.mp3",
+    "phonetic_text": "/ˈkresnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cre/cresc/crescent__us_1.mp3",
+    "phonetic_am_text": "/ˈkresnt/",
+    "senses": [
+      {
+        "definition": "a curved shape that is wide in the middle and pointed at each end",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a crescent moon"
+          }
+        ]
+      },
+      {
+        "definition": "a curved street with a row of houses on it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I live at 7 Park Crescent."
+          },
+          {
+            "cf": "",
+            "x": "the city of Bath, with its elegant squares and crescents"
+          }
+        ]
+      },
+      {
+        "definition": "the curved shape that is used as a symbol of Islam",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "cosmos",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/cosmo/cosmos__gb_1.mp3",
+    "phonetic_text": "/ˈkɒzmɒs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cos/cosmo/cosmos__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈkɑːzməʊs/",
+    "senses": [
+      {
+        "definition": "the universe, especially when it is thought of as an ordered system",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the structure of the cosmos"
+          },
+          {
+            "cf": "",
+            "x": "our place in the cosmos"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "exoplanet",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exo/exopl/exoplanet__gb_4.mp3",
+    "phonetic_text": "/ˈeksəʊplænɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/exo/exopl/exoplanet__us_4.mp3",
+    "phonetic_am_text": "/ˈeksəʊplænɪt/",
+    "senses": [
+      {
+        "definition": "a planet outside the solar system",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The new data will help scientists find earth-like exoplanets."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dark matter",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dar/dark_/dark_matter_1_gb_1.mp3",
+    "phonetic_text": "/ˌdɑːk ˈmætə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dar/dark_/dark_matter_1_us_1.mp3",
+    "phonetic_am_text": "/ˌdɑːrk ˈmætər/",
+    "senses": [
+      {
+        "definition": "according to some theories, material that exists in space but does not reflect any light",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "cosmic rays",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/cosmi/cosmic_rays_1_gb_1.mp3",
+    "phonetic_text": "/ˌkɒzmɪk ˈreɪz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cos/cosmi/cosmic_rays_1_us_1.mp3",
+    "phonetic_am_text": "/ˌkɑːzmɪk ˈreɪz/",
+    "senses": [
+      {
+        "definition": "rays that reach the earth from outer space",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "countdown",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/count/countdown__gb_1.mp3",
+    "phonetic_text": "/ˈkaʊntdaʊn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/count/countdown__us_1.mp3",
+    "phonetic_am_text": "/ˈkaʊntdaʊn/",
+    "senses": [
+      {
+        "definition": "the action of counting numbers backwards to zero, for example before a spacecraft is launched",
+        "examples": []
+      },
+      {
+        "definition": "the period of time just before something important happens",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the countdown to the wedding"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "eclipse",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ecl/eclip/eclipse__gb_1.mp3",
+    "phonetic_text": "/ɪˈklɪps/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ecl/eclip/eclipse__us_1.mp3",
+    "phonetic_am_text": "/ɪˈklɪps/",
+    "senses": [
+      {
+        "definition": "an occasion when the moon passes between the earth and the sun so that you cannot see all or part of the sun for a time; an occasion when the earth passes between the moon and the sun so that you cannot see all or part of the moon for a time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an eclipse of the sun/moon"
+          },
+          {
+            "cf": "",
+            "x": "a total/partial eclipse"
+          }
+        ]
+      },
+      {
+        "definition": "a loss of importance, power, etc. especially because somebody/something else has become more important, powerful, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The election result marked the eclipse of the right wing."
+          },
+          {
+            "cf": "in eclipse",
+            "x": "Her work was in eclipse for most of the 20th century."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "falling star",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fal/falli/falling_star_1_gb_1.mp3",
+    "phonetic_text": "/ˌfɔːlɪŋ ˈstɑː(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fal/falli/falling_star_1_us_1.mp3",
+    "phonetic_am_text": "/ˌfɔːlɪŋ ˈstɑːr/",
+    "senses": [
+      {
+        "definition": "a small meteor (= a piece of rock in outer space) that travels very fast and burns with a bright light as it enters the earth’s atmosphere",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "extraterrestrial",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ext/extra/extraterrestrial__gb_1.mp3",
+    "phonetic_text": "/ˌekstrətəˈrestriəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ext/extra/extraterrestrial__us_1.mp3",
+    "phonetic_am_text": "/ˌekstrətəˈrestriəl/",
+    "senses": [
+      {
+        "definition": "(in stories) a creature that comes from another planet; a creature that may exist on another planet",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "extraterrestrial",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ext/extra/extraterrestrial__gb_1.mp3",
+    "phonetic_text": "/ˌekstrətəˈrestriəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ext/extra/extraterrestrial__us_1.mp3",
+    "phonetic_am_text": "/ˌekstrətəˈrestriəl/",
+    "senses": [
+      {
+        "definition": "connected with life existing outside the planet Earth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "extraterrestrial beings/life"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dock",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/doc/dock_/dock__gb_1.mp3",
+    "phonetic_text": "/dɒk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/doc/dock_/dock__us_1.mp3",
+    "phonetic_am_text": "/dɑːk/",
+    "senses": [
+      {
+        "definition": "if a ship docks or you dock a ship, it sails into a harbour and stays there",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The ferry is expected to dock at 6."
+          }
+        ]
+      },
+      {
+        "definition": "if two spacecraft dock, or are docked, they are joined together in space",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Next year, a technology module will be docked on the space station."
+          }
+        ]
+      },
+      {
+        "definition": "to take away part of somebody’s wages, etc.",
+        "examples": [
+          {
+            "cf": "dock something",
+            "x": "If you're late, your wages will be docked."
+          },
+          {
+            "cf": "dock something from/off something",
+            "x": "They've docked 15 per cent off my pay for this week."
+          }
+        ]
+      },
+      {
+        "definition": "to connect a computer to a docking station",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I docked my laptop and started work."
+          }
+        ]
+      },
+      {
+        "definition": "to cut an animal’s tail short",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The horse’s tail had been docked."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flying saucer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fly/flyin/flying_saucer_1_gb_1.mp3",
+    "phonetic_text": "/ˌflaɪɪŋ ˈsɔːsə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fly/flyin/flying_saucer_1_us_1.mp3",
+    "phonetic_am_text": "/ˌflaɪɪŋ ˈsɔːsər/",
+    "senses": [
+      {
+        "definition": "a round spacecraft that some people claim to have seen and that some people believe comes from another planet",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "full moon",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/ful/full_/full_moon_1_gb_1.mp3",
+    "phonetic_text": "/ˌfʊl ˈmuːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/ful/full_/full_moon_1_us_1.mp3",
+    "phonetic_am_text": "/ˌfʊl ˈmuːn/",
+    "senses": [
+      {
+        "definition": "the moon when it appears as a full circle; a time when this happens",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The road shone frostily under the full moon."
+          },
+          {
+            "cf": "",
+            "x": "The full moon hung high in the night sky."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "go around",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "to turn round in a circle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go around in a circle"
+          }
+        ]
+      },
+      {
+        "definition": "to be enough for everyone to have one or some",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There aren't enough chairs to go around."
+          }
+        ]
+      },
+      {
+        "definition": "to often be in a particular state or behave in a particular way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She often goes around barefoot."
+          },
+          {
+            "cf": "go around doing something",
+            "x": "It's unprofessional to go around criticizing your colleagues."
+          }
+        ]
+      },
+      {
+        "definition": "to spread from person to person",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There's a rumour going around that they're having an affair."
+          }
+        ]
+      },
+      {
+        "definition": "to visit somebody or a place that is near",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I went around to the post office."
+          },
+          {
+            "cf": "",
+            "x": "I'm going around to my sister's (= her house) later."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "earth",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ear/earth/earth__gb_1.mp3",
+    "phonetic_text": "/ɜːθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ear/earth/earth__us_1.mp3",
+    "phonetic_am_text": "/ɜːrθ/",
+    "senses": [
+      {
+        "definition": "the world; the planet that we live on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the planet Earth"
+          },
+          {
+            "cf": "",
+            "x": "The earth revolves around the sun."
+          },
+          {
+            "cf": "",
+            "x": "a satellite orbiting the earth"
+          },
+          {
+            "cf": "",
+            "x": "the earth's surface/crust"
+          },
+          {
+            "cf": "on earth",
+            "x": "the history of life on earth"
+          },
+          {
+            "cf": "",
+            "x": "I must be the happiest person on earth!"
+          }
+        ]
+      },
+      {
+        "definition": "land; the hard surface of the world that is not the sea or the sky; the ground",
+        "examples": [
+          {
+            "cf": "",
+            "x": "After a week at sea, it was good to feel the earth beneath our feet again."
+          },
+          {
+            "cf": "above the earth",
+            "x": "fifty feet above the earth"
+          },
+          {
+            "cf": "under/below/beneath the earth",
+            "x": "in mines deep under the earth"
+          },
+          {
+            "cf": "",
+            "x": "You could feel the earth shake as the truck came closer."
+          }
+        ]
+      },
+      {
+        "definition": "the substance that plants grow in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a clod/mound of earth"
+          },
+          {
+            "cf": "",
+            "x": "I cleaned off the earth clinging to my boots."
+          }
+        ]
+      },
+      {
+        "definition": "the hole under the ground where an animal, especially a fox, lives",
+        "examples": []
+      },
+      {
+        "definition": "a wire that connects an electric circuit with the ground and makes it safe",
+        "examples": []
+      },
+      {
+        "definition": "to be, feel, look, taste, etc. very bad",
+        "examples": []
+      },
+      {
+        "definition": "to charge, etc. a lot of money",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'd love that dress, but it costs the earth."
+          },
+          {
+            "cf": "",
+            "x": "If you want a house in London, you’ll have to pay the earth for it."
+          }
+        ]
+      },
+      {
+        "definition": "to return, or to make somebody return, to a normal way of thinking or behaving after a time when you/they have been very excited, not very practical, etc.",
+        "examples": []
+      },
+      {
+        "definition": "to disappear completely",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Keep looking—they can't just have vanished off the face of the earth."
+          }
+        ]
+      },
+      {
+        "definition": "to hide, especially to escape from somebody",
+        "examples": []
+      },
+      {
+        "definition": "to do everything possible, even if it is difficult, in order to get or achieve something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'd go to the ends of the earth to see her again."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize the question you are asking when you are surprised or angry or cannot think of an obvious answer",
+        "examples": [
+          {
+            "cf": "",
+            "x": "What on earth are you doing?"
+          },
+          {
+            "cf": "",
+            "x": "How on earth can she afford that?"
+          }
+        ]
+      },
+      {
+        "definition": "to do everything you possibly can in order to achieve something",
+        "examples": []
+      },
+      {
+        "definition": "used after negative nouns or pronouns to emphasize what you are saying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Nothing on earth would persuade me to go with him."
+          }
+        ]
+      },
+      {
+        "definition": "to make promises that will be impossible to keep",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Politicians promise the earth before an election, but things are different afterwards."
+          }
+        ]
+      },
+      {
+        "definition": "to find somebody/something after looking hard for a long time",
+        "examples": []
+      },
+      {
+        "definition": "a very good and honest person that you can always depend on",
+        "examples": []
+      },
+      {
+        "definition": "to destroy or remove somebody/something completely",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "galaxy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gal/galax/galaxy__gb_3.mp3",
+    "phonetic_text": "/ˈɡæləksi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gal/galax/galaxy__us_1.mp3",
+    "phonetic_am_text": "/ˈɡæləksi/",
+    "senses": [
+      {
+        "definition": "any of the large systems of stars, etc. in outer space",
+        "examples": [
+          {
+            "cf": "",
+            "x": "scientists observing phenomena in nearby galaxies"
+          }
+        ]
+      },
+      {
+        "definition": "the system of stars that contains our sun and its planets, seen as a band of light in the night sky",
+        "examples": []
+      },
+      {
+        "definition": "a group of famous people, or people with a particular skill",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a galaxy of Hollywood stars"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "half-moon",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hal/half_/half_moon_1_gb_1.mp3",
+    "phonetic_text": "/ˌhɑːf ˈmuːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hal/half_/half_moon_1_us_1.mp3",
+    "phonetic_am_text": "/ˌhæf ˈmuːn/",
+    "senses": [
+      {
+        "definition": "the moon when only half of it can be seen from the earth; the time when this happens",
+        "examples": []
+      },
+      {
+        "definition": "a thing that is like a half-moon in shape",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hyperspace",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hyp/hyper/hyperspace__gb_1.mp3",
+    "phonetic_text": "/ˈhaɪpəspeɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hyp/hyper/hyperspace__us_1.mp3",
+    "phonetic_am_text": "/ˈhaɪpərspeɪs/",
+    "senses": [
+      {
+        "definition": "space that consists of more than three dimensions",
+        "examples": []
+      },
+      {
+        "definition": "a situation in which it is possible to travel faster than light",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "gravity",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/gravi/gravity__gb_1.mp3",
+    "phonetic_text": "/ˈɡrævəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/gravi/gravity__us_1.mp3",
+    "phonetic_am_text": "/ˈɡrævəti/",
+    "senses": [
+      {
+        "definition": "the force that attracts objects in space towards each other, and that on the earth pulls them towards the centre of the planet, so that things fall to the ground when they are dropped",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Newton’s law of gravity"
+          }
+        ]
+      },
+      {
+        "definition": "extreme importance and a cause for worry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don't think you realise the gravity of the situation."
+          },
+          {
+            "cf": "",
+            "x": "Punishment varies according to the gravity of the offence."
+          }
+        ]
+      },
+      {
+        "definition": "serious behaviour, speech or appearance",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were asked to behave with the gravity that was appropriate in a court of law."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "intergalactic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/intergalactic__gb_1.mp3",
+    "phonetic_text": "/ˌɪntəɡəˈlæktɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/intergalactic__us_1.mp3",
+    "phonetic_am_text": "/ˌɪntərɡəˈlæktɪk/",
+    "senses": [
+      {
+        "definition": "existing or happening between galaxies of stars",
+        "examples": [
+          {
+            "cf": "",
+            "x": "intergalactic space/travel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "interstellar",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interstellar__gb_1.mp3",
+    "phonetic_text": "/ˌɪntəˈstelə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interstellar__us_1.mp3",
+    "phonetic_am_text": "/ˌɪntərˈstelər/",
+    "senses": [
+      {
+        "definition": "between the stars in the sky",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "interplanetary",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interplanetary__gb_1.mp3",
+    "phonetic_text": "/ˌɪntəˈplænɪtri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interplanetary__us_1.mp3",
+    "phonetic_am_text": "/ˌɪntərˈplænəteri/",
+    "senses": [
+      {
+        "definition": "between planets",
+        "examples": [
+          {
+            "cf": "",
+            "x": "interplanetary travel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ionosphere",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_i/the_ionosphere_1_gb_2.mp3",
+    "phonetic_text": "/ði aɪˈɒnəsfɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the_i/the_ionosphere_1_us_1.mp3",
+    "phonetic_am_text": "/ði aɪˈɑːnəsfɪr/",
+    "senses": [
+      {
+        "definition": "a layer of the earth’s atmosphere between about 80 and 1 000 kilometres above the surface of the earth that reflects radio waves around the earth",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "go round",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "to turn round in a circle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go around in a circle"
+          }
+        ]
+      },
+      {
+        "definition": "to be enough for everyone to have one or some",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There aren't enough chairs to go around."
+          }
+        ]
+      },
+      {
+        "definition": "to often be in a particular state or behave in a particular way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She often goes around barefoot."
+          },
+          {
+            "cf": "go around doing something",
+            "x": "It's unprofessional to go around criticizing your colleagues."
+          }
+        ]
+      },
+      {
+        "definition": "to spread from person to person",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There's a rumour going around that they're having an affair."
+          }
+        ]
+      },
+      {
+        "definition": "to visit somebody or a place that is near",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I went around to the post office."
+          },
+          {
+            "cf": "",
+            "x": "I'm going around to my sister's (= her house) later."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "go down",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "if the price of something, the temperature, etc. goes down, it becomes lower",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The price of oil is going down."
+          },
+          {
+            "cf": "",
+            "x": "Oil is going down in price."
+          }
+        ]
+      },
+      {
+        "definition": "to fall to the ground",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She tripped and went down with a bump."
+          }
+        ]
+      },
+      {
+        "definition": "if a ship, etc. goes down, it disappears below the water",
+        "examples": []
+      },
+      {
+        "definition": "when the sun or moon goes down, it disappears below the horizon",
+        "examples": []
+      },
+      {
+        "definition": "if food or drink will/will not go down, it is easy/difficult to swallow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A cold drink would go down very nicely (= I would very much like one)."
+          }
+        ]
+      },
+      {
+        "definition": "to get worse in quality",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The neighbourhood has gone down a lot recently."
+          }
+        ]
+      },
+      {
+        "definition": "to stop working temporarily",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The system is going down in ten minutes."
+          }
+        ]
+      },
+      {
+        "definition": "to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You really don't know what's going down?"
+          }
+        ]
+      },
+      {
+        "definition": "to be sent to prison",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She went down for ten years."
+          }
+        ]
+      },
+      {
+        "definition": "to leave a university, especially Oxford or Cambridge, at the end of a term or after finishing your studies",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She went down (from Cambridge) in 2018."
+          }
+        ]
+      },
+      {
+        "definition": "to be written in something; to be recorded or remembered in something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It all goes down (= she writes it all) in her notebook."
+          },
+          {
+            "cf": "",
+            "x": "He will go down in history as a great statesman."
+          }
+        ]
+      },
+      {
+        "definition": "to perform oral sex on somebody (= to use the mouth to give somebody sexual pleasure)",
+        "examples": []
+      },
+      {
+        "definition": "to be defeated by somebody, especially in a game or competition",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Italy went down to Brazil by three goals to one."
+          }
+        ]
+      },
+      {
+        "definition": "to go from one place to another, especially further south or from a city or large town to a smaller place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They've gone down to Brighton for a couple of days."
+          }
+        ]
+      },
+      {
+        "definition": "to be received in a particular way by somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The suggestion didn't go down very well with her boss."
+          },
+          {
+            "cf": "",
+            "x": "The novel went down well with the public."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Jupiter",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jup/jupit/jupiter__gb_1.mp3",
+    "phonetic_text": "/ˈdʒuːpɪtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jup/jupit/jupiter__us_1.mp3",
+    "phonetic_am_text": "/ˈdʒuːpɪtər/",
+    "senses": [
+      {
+        "definition": "the largest planet of the solar system, fifth in order of distance from the sun",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "landing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lan/landi/landing__gb_1.mp3",
+    "phonetic_text": "/ˈlændɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/landi/landing__us_1.mp3",
+    "phonetic_am_text": "/ˈlændɪŋ/",
+    "senses": [
+      {
+        "definition": "an act of bringing an aircraft or a spacecraft down to the ground after a journey",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a perfect/smooth/safe landing"
+          },
+          {
+            "cf": "",
+            "x": "the first Apollo moon landing"
+          },
+          {
+            "cf": "",
+            "x": "The pilot was forced to make an emergency landing."
+          },
+          {
+            "cf": "",
+            "x": "a landing site"
+          },
+          {
+            "cf": "",
+            "x": "the first successful lunar landing"
+          }
+        ]
+      },
+      {
+        "definition": "the area at the top of a set of stairs where you arrive before you go into an upstairs room or move onto another set of stairs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Go up to the first-floor landing and it’s the door on the right."
+          }
+        ]
+      },
+      {
+        "definition": "an act of bringing soldiers to land in an area that is controlled by the enemy",
+        "examples": []
+      },
+      {
+        "definition": "a flat wooden platform on the water where boats let people get on and off, and load and unload goods",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "launch vehicle",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lau/launc/launch_vehicle_1_gb_1.mp3",
+    "phonetic_text": "/ˈlɔːntʃ viːɪkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lau/launc/launch_vehicle_1_us_1.mp3",
+    "phonetic_am_text": "/ˈlɔːntʃ viːəkl/",
+    "senses": [
+      {
+        "definition": "a vehicle with a powerful engine that is used to take spacecraft and satellites into space",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The launch vehicle is discarded once the satellite has left Earth's atmosphere."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "launch",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lau/launc/launch__gb_1.mp3",
+    "phonetic_text": "/lɔːntʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lau/launc/launch__us_1.mp3",
+    "phonetic_am_text": "/lɔːntʃ/",
+    "senses": [
+      {
+        "definition": "the action of launching something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a missile/rocket launch"
+          },
+          {
+            "cf": "",
+            "x": "In the six months since its launch the car has sold extremely well."
+          },
+          {
+            "cf": "",
+            "x": "the launch of the campaign/website/service"
+          },
+          {
+            "cf": "",
+            "x": "the successful launch of the Ariane rocket"
+          },
+          {
+            "cf": "",
+            "x": "The official launch date is in May."
+          }
+        ]
+      },
+      {
+        "definition": "an event at which something is made available to the public for the first time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a book/product launch"
+          },
+          {
+            "cf": "",
+            "x": "Speaking at the launch of her new book, she thanked her family for their support."
+          },
+          {
+            "cf": "",
+            "x": "About 50 artists attended the official launch of the exhibition."
+          }
+        ]
+      },
+      {
+        "definition": "a large boat with a motor",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The crew members were taken ashore on a police launch."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lift-off",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lif/lift_/lift_off_1_gb_1.mp3",
+    "phonetic_text": "/ˈlɪft ɒf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lif/lift_/lift_off_1_us_2.mp3",
+    "phonetic_am_text": "/ˈlɪft ɔːf/",
+    "senses": [
+      {
+        "definition": "the act of a rocket or helicopter leaving the ground and rising into the air",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Ten minutes to lift-off."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "land",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lan/land_/land__gb_1.mp3",
+    "phonetic_text": "/lænd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/land_/land__us_1.mp3",
+    "phonetic_am_text": "/lænd/",
+    "senses": [
+      {
+        "definition": "to come down through the air onto the ground or another surface",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The plane landed safely."
+          },
+          {
+            "cf": "",
+            "x": "The flight is due to land at 3 o'clock."
+          },
+          {
+            "cf": "",
+            "x": "Both aircraft landed on the runway."
+          },
+          {
+            "cf": "",
+            "x": "A fly landed on his nose."
+          }
+        ]
+      },
+      {
+        "definition": "to control a plane and bring it down to the ground",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The pilot landed the plane safely."
+          },
+          {
+            "cf": "",
+            "x": "to land a helicopter/an aircraft"
+          },
+          {
+            "cf": "",
+            "x": "He landed the damaged aircraft in a field."
+          }
+        ]
+      },
+      {
+        "definition": "to arrive somewhere in a plane or a boat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We shall be landing shortly. Please fasten your seat belts."
+          },
+          {
+            "cf": "",
+            "x": "The troops landed at dawn."
+          },
+          {
+            "cf": "",
+            "x": "They were the first men to land on the moon."
+          }
+        ]
+      },
+      {
+        "definition": "to put somebody/something on land from an aircraft, a boat, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The troops were landed by helicopter."
+          }
+        ]
+      },
+      {
+        "definition": "to come down somewhere after jumping, falling or being thrown",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She fell and landed heavily on her back."
+          },
+          {
+            "cf": "",
+            "x": "I landed awkwardly and twisted my ankle."
+          },
+          {
+            "cf": "",
+            "x": "Several men were killed when rocket shells landed in the troop camp."
+          },
+          {
+            "cf": "",
+            "x": "The heavy ball landed with a thud."
+          },
+          {
+            "cf": "",
+            "x": "He came flying through the air and landed in a crumpled heap at my feet."
+          }
+        ]
+      },
+      {
+        "definition": "to arrive somewhere and cause difficulties that have to be dealt with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Why do complaints always land on my desk (= why do I always have to deal with them)?"
+          }
+        ]
+      },
+      {
+        "definition": "to succeed in getting a job, etc., especially one that a lot of other people want",
+        "examples": [
+          {
+            "cf": "land something",
+            "x": "He's just landed a starring role in a Hollywood movie."
+          },
+          {
+            "cf": "land somebody/yourself something",
+            "x": "She's just landed herself a company directorship."
+          }
+        ]
+      },
+      {
+        "definition": "to catch a fish and bring it out of the water on to the land",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It took me three attempts to land the fish."
+          }
+        ]
+      },
+      {
+        "definition": "to score a penalty (4) or conversion (3)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Ceri Sweeney landed a penalty with the last kick of the half."
+          }
+        ]
+      },
+      {
+        "definition": "to be lucky in finding yourself in a good situation, or in getting out of a difficult situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You landed on your feet, getting such a well-paid job with so little experience."
+          },
+          {
+            "cf": "",
+            "x": "Jim’s always getting himself in trouble, but he usually seems to fall on his feet."
+          }
+        ]
+      },
+      {
+        "definition": "to succeed in hitting somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She landed a punch on his chin."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "launch",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lau/launc/launch__gb_1.mp3",
+    "phonetic_text": "/lɔːntʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lau/launc/launch__us_1.mp3",
+    "phonetic_am_text": "/lɔːntʃ/",
+    "senses": [
+      {
+        "definition": "to start an activity, especially an organized one",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The government recently launched a national road safety campaign."
+          },
+          {
+            "cf": "",
+            "x": "Police have launched an investigation into the incident."
+          },
+          {
+            "cf": "",
+            "x": "to launch an appeal/initiative"
+          },
+          {
+            "cf": "",
+            "x": "Government forces launched an attack against militants in the north of the country."
+          },
+          {
+            "cf": "",
+            "x": "to launch an offensive/air strike"
+          }
+        ]
+      },
+      {
+        "definition": "to make a product or service available to the public for the first time; to become available for the first time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The company plans to launch the service to coincide with the World Cup this summer."
+          },
+          {
+            "cf": "",
+            "x": "The updated website will be officially launched at the conference in April."
+          },
+          {
+            "cf": "",
+            "x": "The new series launches in July."
+          }
+        ]
+      },
+      {
+        "definition": "to put a ship or boat into the water, especially one that has just been built",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Navy is to launch a new warship today."
+          },
+          {
+            "cf": "",
+            "x": "The lifeboat was launched immediately."
+          }
+        ]
+      },
+      {
+        "definition": "to send something such as a spacecraft, weapon, etc. into space, into the sky or through water",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to launch a missile/rocket"
+          },
+          {
+            "cf": "",
+            "x": "The satellite was successfully launched into orbit earlier this month."
+          }
+        ]
+      },
+      {
+        "definition": "to criticize somebody/something or protest strongly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He launched a biting attack on the senior management."
+          },
+          {
+            "cf": "",
+            "x": "Residents have launched a protest against the proposed development."
+          }
+        ]
+      },
+      {
+        "definition": "to jump forwards with a lot of force",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Without warning he launched himself at me."
+          },
+          {
+            "cf": "",
+            "x": "She launched herself on the rock world with a brilliant album."
+          }
+        ]
+      },
+      {
+        "definition": "to start a computer program; (of a computer program) to start",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You can launch programs and documents from your keyboard."
+          },
+          {
+            "cf": "",
+            "x": "It’s not the fastest way to launch an application."
+          },
+          {
+            "cf": "",
+            "x": "I was impressed with how fast the app launches."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "magnetic storm",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magne/magnetic_storm_1_gb_1.mp3",
+    "phonetic_text": "/mæɡˌnetɪk ˈstɔːm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magne/magnetic_storm_1_us_1.mp3",
+    "phonetic_am_text": "/mæɡˌnetɪk ˈstɔːrm/",
+    "senses": [
+      {
+        "definition": "a situation in which the magnetic field of the earth or of another planet, star, etc. is disturbed",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lift off",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "to leave the ground and rise into the air",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lunar",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lun/lunar/lunar__gb_1.mp3",
+    "phonetic_text": "/ˈluːnə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lun/lunar/lunar__us_1.mp3",
+    "phonetic_am_text": "/ˈluːnər/",
+    "senses": [
+      {
+        "definition": "connected with the moon",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a lunar eclipse/landscape"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mesosphere",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_m/the_mesosphere_1_gb_1.mp3",
+    "phonetic_text": "/ðə ˈmezəsfɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the_m/the_mesosphere_1_us_1.mp3",
+    "phonetic_am_text": "/ðə ˈmezəsfɪr/",
+    "senses": [
+      {
+        "definition": "the part of the earth’s atmosphere that is between 50 and 80 kilometres from the ground, between the stratosphere and the thermosphere",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "light year",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lig/light/light_year_1_gb_1.mp3",
+    "phonetic_text": "/ˈlaɪt jɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lig/light/light_year_1_us_2.mp3",
+    "phonetic_am_text": "/ˈlaɪt jɪr/",
+    "senses": [
+      {
+        "definition": "the distance that light travels in one year, 9.4607 × 1012 kilometres",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The nearest star to earth is about 4 light years away."
+          }
+        ]
+      },
+      {
+        "definition": "a very long time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Full employment still seems light years away."
+          },
+          {
+            "cf": "",
+            "x": "The new range puts us light years ahead of the competition."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Mars",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/mars_/mars__gb_1.mp3",
+    "phonetic_text": "/mɑːz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/mars_/mars__us_1.mp3",
+    "phonetic_am_text": "/mɑːrz/",
+    "senses": [
+      {
+        "definition": "the planet in the solar system that is fourth in order of distance from the sun, between the Earth and Jupiter",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Mercury",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mer/mercu/mercury__gb_1.mp3",
+    "phonetic_text": "/ˈmɜːkjəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mer/mercu/mercury__us_1.mp3",
+    "phonetic_am_text": "/ˈmɜːrkjəri/",
+    "senses": [
+      {
+        "definition": "the smallest planet in the solar system, nearest to the sun",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Martian",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marti/martian__gb_1.mp3",
+    "phonetic_text": "/ˈmɑːʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marti/martian__us_1.mp3",
+    "phonetic_am_text": "/ˈmɑːrʃn/",
+    "senses": [
+      {
+        "definition": "an imaginary creature from the planet Mars",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Martian",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marti/martian__gb_1.mp3",
+    "phonetic_text": "/ˈmɑːʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marti/martian__us_1.mp3",
+    "phonetic_am_text": "/ˈmɑːrʃn/",
+    "senses": [
+      {
+        "definition": "related to or coming from the planet Mars",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "meteorite",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/meteo/meteorite__gb_1.mp3",
+    "phonetic_text": "/ˈmiːtiəraɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/meteo/meteorite__us_1.mp3",
+    "phonetic_am_text": "/ˈmiːtiəraɪt/",
+    "senses": [
+      {
+        "definition": "a piece of rock from outer space that hits the earth’s surface",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "meteor",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/meteo/meteor__gb_1.mp3",
+    "phonetic_text": "/ˈmiːtiə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/meteo/meteor__us_1.mp3",
+    "phonetic_am_text": "/ˈmiːtiər/",
+    "senses": [
+      {
+        "definition": "a piece of rock from outer space that makes a bright line across the night sky as it burns up while falling through the earth’s atmosphere",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a meteor shower"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Milky Way",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/milky/milky_way_1_gb_2.mp3",
+    "phonetic_text": "/ˌmɪlki ˈweɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milky/milky_way_1_us_1.mp3",
+    "phonetic_am_text": "/ˌmɪlki ˈweɪ/",
+    "senses": [
+      {
+        "definition": "a band of light across the night sky made up of a huge number of stars that form a large part of the galaxy that includes our sun and its planets",
+        "examples": []
+      },
+      {
+        "definition": "a chocolate bar with a soft, light centre. For many years it was advertised as ‘the sweet you can eat between meals without ruining your appetite’.",
+        "examples": []
+      },
+      {
+        "definition": "a chocolate bar with a soft, light centre and caramel inside it. In Britain it is sold as a Mars Bar.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "meteoroid",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/meteo/meteoroid__gb_1.mp3",
+    "phonetic_text": "/ˈmiːtiərɔɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/meteo/meteoroid__us_1.mp3",
+    "phonetic_am_text": "/ˈmiːtiərɔɪd/",
+    "senses": [
+      {
+        "definition": "a small piece of rock in space that would become a meteor if it entered the earth’s atmosphere",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "NASA",
+    "pos": "abbreviation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nas/nasa_/nasa__gb_1.mp3",
+    "phonetic_text": "/ˈnæsə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nas/nasa_/nasa__us_1.mp3",
+    "phonetic_am_text": "/ˈnæsə/",
+    "senses": [
+      {
+        "definition": "National Aeronautics and Space Administration (a US government organization that does research into space and organizes space travel)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "moonlight",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/moo/moonl/moonlight__gb_1.mp3",
+    "phonetic_text": "/ˈmuːnlaɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moonl/moonlight__us_1.mp3",
+    "phonetic_am_text": "/ˈmuːnlaɪt/",
+    "senses": [
+      {
+        "definition": "the light of the moon",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go for a walk by moonlight/in the moonlight"
+          },
+          {
+            "cf": "",
+            "x": "The floor was dappled with pale moonlight."
+          }
+        ]
+      },
+      {
+        "definition": "to leave a place suddenly and secretly, especially at night, usually in order to avoid paying money that you owe to somebody",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Neptune",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nep/neptu/neptune__gb_1.mp3",
+    "phonetic_text": "/ˈneptjuːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nep/neptu/neptune__us_2.mp3",
+    "phonetic_am_text": "/ˈneptuːn/",
+    "senses": [
+      {
+        "definition": "a planet in the solar system that is 8th in order of distance from the sun",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "nebula",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/neb/nebul/nebula__gb_1.mp3",
+    "phonetic_text": "/ˈnebjələ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/neb/nebul/nebula__us_1.mp3",
+    "phonetic_am_text": "/ˈnebjələ/",
+    "senses": [
+      {
+        "definition": "a mass of dust or gas that can be seen in the night sky, often appearing very bright; a bright area in the night sky caused by a large cloud of stars that are far away",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "new moon",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/new/new_m/new_moon_1_gb_1.mp3",
+    "phonetic_text": "/ˌnjuː ˈmuːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/new/new_m/new_moon_1_us_1.mp3",
+    "phonetic_am_text": "/ˌnuː ˈmuːn/",
+    "senses": [
+      {
+        "definition": "the moon when it looks like a thin curved shape (= a crescent)",
+        "examples": []
+      },
+      {
+        "definition": "the time of the month when the moon has this shape",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Northern Lights",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_n/the_northern_lights_1_gb_1.mp3",
+    "phonetic_text": "/ðə ˌnɔːðən ˈlaɪts/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nor/north/northern_lights_1_us_2.mp3",
+    "phonetic_am_text": "/ðə ˌnɔːrðərn ˈlaɪts/",
+    "senses": [
+      {
+        "definition": "bands of coloured light, mainly green and red, that are sometimes seen in the sky at night in the most northern countries of the world",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "moon",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/moo/moon_/moon_1_gb_2.mp3",
+    "phonetic_text": "/muːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moon_/moon__us_1.mp3",
+    "phonetic_am_text": "/muːn/",
+    "senses": [
+      {
+        "definition": "the round object that moves around the earth once every 27½ days and shines at night by light reflected from the sun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the surface of the moon"
+          },
+          {
+            "cf": "",
+            "x": "the first man to walk on the moon"
+          },
+          {
+            "cf": "",
+            "x": "a moon landing"
+          }
+        ]
+      },
+      {
+        "definition": "the moon as it appears in the sky at a particular time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a crescent moon"
+          },
+          {
+            "cf": "",
+            "x": "There's no moon tonight (= no moon can be seen)."
+          },
+          {
+            "cf": "",
+            "x": "By the light of the moon I could just make out shapes and outlines."
+          }
+        ]
+      },
+      {
+        "definition": "a natural satellite that moves around a planet other than the earth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "How many moons does Jupiter have?"
+          }
+        ]
+      },
+      {
+        "definition": "to ask for something that is difficult or impossible to get or achieve",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Wanting a decent job and a home is hardly asking for the moon."
+          }
+        ]
+      },
+      {
+        "definition": "a very long time ago",
+        "examples": [
+          {
+            "cf": "",
+            "x": "All that happened many moons ago."
+          }
+        ]
+      },
+      {
+        "definition": "very rarely",
+        "examples": []
+      },
+      {
+        "definition": "extremely happy and excited",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They’re over the moon about their trip to Japan."
+          }
+        ]
+      },
+      {
+        "definition": "to make promises that will be impossible to keep",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Politicians promise the earth before an election, but things are different afterwards."
+          }
+        ]
+      },
+      {
+        "definition": "to make promises that will be impossible to keep",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Politicians promise the moon before an election, but things are different afterwards."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "orbit",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/orb/orbit/orbit__gb_1.mp3",
+    "phonetic_text": "/ˈɔːbɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/orb/orbit/orbit__us_1.mp3",
+    "phonetic_am_text": "/ˈɔːrbɪt/",
+    "senses": [
+      {
+        "definition": "a curved path followed by a planet or an object as it moves around another planet, star, moon, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the earth’s orbit around the sun"
+          },
+          {
+            "cf": "in orbit",
+            "x": "a space station in orbit around the moon"
+          },
+          {
+            "cf": "into orbit",
+            "x": "A new satellite has been put into orbit around the earth."
+          }
+        ]
+      },
+      {
+        "definition": "an area that a particular person, organization, etc. deals with or is able to influence",
+        "examples": [
+          {
+            "cf": "within somebody's orbit",
+            "x": "to come/fall/be within somebody’s orbit"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mission",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mis/missi/mission__gb_1.mp3",
+    "phonetic_text": "/ˈmɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mis/missi/mission__us_2.mp3",
+    "phonetic_am_text": "/ˈmɪʃn/",
+    "senses": [
+      {
+        "definition": "an important official job that a person or group of people is given to do, especially when they are sent to another country",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She led a recent trade mission to China."
+          },
+          {
+            "cf": "",
+            "x": "Thomas More toured Antwerp on a diplomatic mission for the king."
+          },
+          {
+            "cf": "",
+            "x": "It was too late to launch a rescue mission."
+          },
+          {
+            "cf": "",
+            "x": "They undertook a fact-finding mission in the region."
+          },
+          {
+            "cf": "",
+            "x": "a mercy mission to aid homeless refugees"
+          }
+        ]
+      },
+      {
+        "definition": "a group of people doing such a job; the place where they work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He is the head of the British mission in Berlin."
+          }
+        ]
+      },
+      {
+        "definition": "the work of teaching people about Christianity, especially in a foreign country; a group of people doing such work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Gandhi’s attitude to mission and conversion"
+          },
+          {
+            "cf": "",
+            "x": "a Catholic mission in Africa"
+          },
+          {
+            "cf": "",
+            "x": "She took up a position as a school teacher at St Peter's mission in Montana."
+          }
+        ]
+      },
+      {
+        "definition": "a building or group of buildings used by a Christian mission",
+        "examples": []
+      },
+      {
+        "definition": "particular work that you feel it is your duty to do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her mission in life was to work with homeless people."
+          },
+          {
+            "cf": "",
+            "x": "We are committed to the mission of helping students realize their full potential."
+          },
+          {
+            "cf": "",
+            "x": "You can tell by the determined way he talks that he is a man with a mission."
+          }
+        ]
+      },
+      {
+        "definition": "an important job that is done by a soldier, group of soldiers, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The squadron flew on a reconnaissance mission."
+          },
+          {
+            "cf": "",
+            "x": "The military are fulfilling an important peacekeeping mission."
+          }
+        ]
+      },
+      {
+        "definition": "a flight into space",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a US space mission"
+          },
+          {
+            "cf": "",
+            "x": "He's been on several shuttle missions over the last decade."
+          }
+        ]
+      },
+      {
+        "definition": "a task or journey that is very difficult and takes a long time to complete",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's a mission to get there."
+          }
+        ]
+      },
+      {
+        "definition": "used when you have successfully completed what you have had to do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Mission accomplished, we headed for home."
+          }
+        ]
+      },
+      {
+        "definition": "a difficult or impossible task",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Many regard this task as mission impossible."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "orbital",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/orb/orbit/orbital__gb_1.mp3",
+    "phonetic_text": "/ˈɔːbɪtl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/orb/orbit/orbital__us_1.mp3",
+    "phonetic_am_text": "/ˈɔːrbɪtl/",
+    "senses": [
+      {
+        "definition": "connected with the orbit of a planet or object in space",
+        "examples": []
+      },
+      {
+        "definition": "built around the edge of a town or city to reduce the amount of traffic travelling through the centre",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "ozone hole",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ozo/ozone/ozone_hole_1_gb_1.mp3",
+    "phonetic_text": "/ˈəʊzəʊn həʊl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/ozo/ozone/ozone_hole_1_us_1.mp3",
+    "phonetic_am_text": "/ˈəʊzəʊn həʊl/",
+    "senses": [
+      {
+        "definition": "an area in the ozone layer where the amount of ozone has been very much reduced so that harmful radiation from the sun can pass through it",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "penumbra",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pen/penum/penumbra__gb_1.mp3",
+    "phonetic_text": "/pəˈnʌmbrə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pen/penum/penumbra__us_1.mp3",
+    "phonetic_am_text": "/pəˈnʌmbrə/",
+    "senses": [
+      {
+        "definition": "an area of shadow which is between fully dark and fully light",
+        "examples": []
+      },
+      {
+        "definition": "the shadow made by the earth or the moon during a partial eclipse",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "outer space",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/out/outer/outer_space_1_gb_1.mp3",
+    "phonetic_text": "/ˌaʊtə ˈspeɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/out/outer/outer_space_1_us_1.mp3",
+    "phonetic_am_text": "/ˌaʊtər ˈspeɪs/",
+    "senses": [
+      {
+        "definition": "the area outside the earth’s atmosphere where all the other planets and stars are",
+        "examples": [
+          {
+            "cf": "",
+            "x": "radio waves from outer space"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "planet",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plane/planet__gb_1.mp3",
+    "phonetic_text": "/ˈplænɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plane/planet__us_1.mp3",
+    "phonetic_am_text": "/ˈplænɪt/",
+    "senses": [
+      {
+        "definition": "a large round object in space that moves around a star (such as the sun) and receives light from it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the planets of our solar system"
+          },
+          {
+            "cf": "",
+            "x": "the planet Earth/Venus/Mars"
+          },
+          {
+            "cf": "",
+            "x": "the possibility of life deep below the planet's surface"
+          }
+        ]
+      },
+      {
+        "definition": "used to mean ‘the world’, especially when talking about the environment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the battle to save the planet"
+          },
+          {
+            "cf": "",
+            "x": "He must be one of the few people on the planet without a website."
+          }
+        ]
+      },
+      {
+        "definition": "used to suggest that somebody’s ideas are not realistic or practical",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He thinks being a father is easy. What planet is he on?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ozone layer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ozo/ozone/ozone_layer_1_gb_1.mp3",
+    "phonetic_text": "/ˈəʊzəʊn leɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/ozo/ozone/ozone_layer_1_us_2.mp3",
+    "phonetic_am_text": "/ˈəʊzəʊn ler/",
+    "senses": [
+      {
+        "definition": "a layer of ozone high above the earth’s surface that helps to protect the earth from harmful radiation from the sun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A hole in the ozone layer was discovered over Antarctica."
+          },
+          {
+            "cf": "",
+            "x": "The ozone layer protects life on earth by absorbing harmful ultraviolet radiation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "radiation belt",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rad/radia/radiation_belt_1_gb_1.mp3",
+    "phonetic_text": "/ˌreɪdiˈeɪʃn belt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rad/radia/radiation_belt_1_us_1.mp3",
+    "phonetic_am_text": "/ˌreɪdiˈeɪʃn belt/",
+    "senses": [
+      {
+        "definition": "a region surrounding a planet where charged particles (= very small pieces of matter) are held in place by the planet's magnetic field",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The space mission provided new data on the Earth's radiation belts."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Pluto",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/plu/pluto/pluto__gb_1.mp3",
+    "phonetic_text": "/ˈpluːtəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/plu/pluto/pluto__us_1.mp3",
+    "phonetic_am_text": "/ˈpluːtəʊ/",
+    "senses": [
+      {
+        "definition": "one of a number of round objects in space that are not as large as planets but which go around the sun. In August 2006, the International Astronomical Union declared that Pluto should be called a dwarf planet because it is smaller and has different characteristics from the other planets in our solar system; in 2008 it declared that dwarf planets further from the sun than Neptune could also be called plutoids.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "red dwarf",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/red/red_d/red_dwarf_1_gb_1.mp3",
+    "phonetic_text": "/ˌred ˈdwɔːf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/red/red_d/red_dwarf_1_us_1.mp3",
+    "phonetic_am_text": "/ˌred ˈdwɔːrf/",
+    "senses": [
+      {
+        "definition": "a small, old star that is not very hot",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "probe",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/probe/probe__gb_1.mp3",
+    "phonetic_text": "/prəʊb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/probe/probe__us_1.mp3",
+    "phonetic_am_text": "/prəʊb/",
+    "senses": [
+      {
+        "definition": "a complete and careful investigation of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a police probe into the financial affairs of the company"
+          },
+          {
+            "cf": "",
+            "x": "Arson probe after three die at home."
+          }
+        ]
+      },
+      {
+        "definition": "a spacecraft without people on board that obtains information and sends it back to earth",
+        "examples": []
+      },
+      {
+        "definition": "a long, thin metal tool used by doctors for examining inside the body",
+        "examples": []
+      },
+      {
+        "definition": "a small device put inside something and used by scientists to test something or record information",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pod",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pod/pod__/pod__gb_1.mp3",
+    "phonetic_text": "/pɒd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pod/pod__/pod__us_1.mp3",
+    "phonetic_am_text": "/pɑːd/",
+    "senses": [
+      {
+        "definition": "a long thin case filled with seeds that develops from the flowers of some plants, especially peas and beans",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pea pod"
+          },
+          {
+            "cf": "",
+            "x": "a vanilla pod"
+          }
+        ]
+      },
+      {
+        "definition": "a small plastic container with something inside it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Single-use coffee pods are the fastest growing segment of the industry."
+          }
+        ]
+      },
+      {
+        "definition": "a long narrow container that is hung under an aircraft and used to carry fuel, equipment, weapons, etc.",
+        "examples": []
+      },
+      {
+        "definition": "part of a spacecraft or a boat that can be separated from the main part",
+        "examples": []
+      },
+      {
+        "definition": "a small group of sea animals, such as dolphins or whales, swimming together",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pod of adult dolphins"
+          },
+          {
+            "cf": "",
+            "x": "a pod of pilot whales"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ray",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ray/ray__/ray__gb_1.mp3",
+    "phonetic_text": "/reɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ray/ray__/ray__us_1.mp3",
+    "phonetic_am_text": "/reɪ/",
+    "senses": [
+      {
+        "definition": "a narrow line of light, heat or other energy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The last of the sun's rays shone on the grass."
+          },
+          {
+            "cf": "",
+            "x": "Ultraviolet rays damage the skin."
+          },
+          {
+            "cf": "",
+            "x": "The windows were shining in the reflected rays of the setting sun."
+          }
+        ]
+      },
+      {
+        "definition": "a small amount of something good or of something that you are hoping for",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was just one small ray of hope."
+          },
+          {
+            "cf": "",
+            "x": "The one ray of light in this whole affair is that justice has been done."
+          }
+        ]
+      },
+      {
+        "definition": "a sea fish with a large broad flat body and a long tail, that is used for food",
+        "examples": []
+      },
+      {
+        "definition": "the second note of a major scale",
+        "examples": []
+      },
+      {
+        "definition": "to sit or lie in the sun, especially in order to get a suntan",
+        "examples": []
+      },
+      {
+        "definition": "a person or thing that makes life brighter or more cheerful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My nephew is a little ray of sunshine."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "plate",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plate/plate__gb_2.mp3",
+    "phonetic_text": "/pleɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plate/plate__us_1.mp3",
+    "phonetic_am_text": "/pleɪt/",
+    "senses": [
+      {
+        "definition": "a flat, usually round, dish that you put food on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "sandwiches on a plate"
+          },
+          {
+            "cf": "",
+            "x": "There was an enormous pile of dirty plates in the kitchen sink."
+          },
+          {
+            "cf": "",
+            "x": "The set includes four dinner plates, four side plates and four soup bowls."
+          },
+          {
+            "cf": "",
+            "x": "They filled their plates with spaghetti."
+          }
+        ]
+      },
+      {
+        "definition": "the amount of food that you can put on a plate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a plate of sandwiches"
+          },
+          {
+            "cf": "",
+            "x": "two large plates of pasta"
+          },
+          {
+            "cf": "",
+            "x": "At dinner, Paul ate several plates of stew."
+          }
+        ]
+      },
+      {
+        "definition": "a whole main course of a meal, served on one plate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Try the seafood plate."
+          }
+        ]
+      },
+      {
+        "definition": "a thin flat piece of metal, used especially to join or make something stronger",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The tanks were mainly constructed of steel plates."
+          },
+          {
+            "cf": "",
+            "x": "She had a metal plate inserted in her arm."
+          }
+        ]
+      },
+      {
+        "definition": "a flat piece of metal with some information on it, for example somebody’s name",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A brass plate beside the door said ‘Dr Alan Tate’."
+          }
+        ]
+      },
+      {
+        "definition": "the pieces of metal or plastic at the front and back of a vehicle with numbers and letters on it",
+        "examples": []
+      },
+      {
+        "definition": "ordinary metal that is covered with a thin layer of silver or gold",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The cutlery is plate, not solid silver."
+          }
+        ]
+      },
+      {
+        "definition": "dishes, bowls, etc. that are made of silver or gold",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the family plate"
+          }
+        ]
+      },
+      {
+        "definition": "one of the thin flat pieces of horn or bone that cover and protect an animal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the armadillo’s protective shell of bony plates"
+          }
+        ]
+      },
+      {
+        "definition": "one of the very large pieces of rock that form the earth’s surface and move slowly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the Pacific plate"
+          },
+          {
+            "cf": "",
+            "x": "Earthquakes are caused by two tectonic plates bumping into each other."
+          }
+        ]
+      },
+      {
+        "definition": "a photograph that is used as a picture in a book, especially one that is printed on a separate page on high quality paper",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The book includes 55 colour plates."
+          },
+          {
+            "cf": "",
+            "x": "See plate 4."
+          },
+          {
+            "cf": "",
+            "x": "She looked like a fashion plate."
+          }
+        ]
+      },
+      {
+        "definition": "a sheet of metal, plastic, etc. that has been treated so that words or pictures can be printed from it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a printing plate"
+          }
+        ]
+      },
+      {
+        "definition": "a thin sheet of glass, metal, etc. that is covered with chemicals so that it reacts to light and can form an image, used in larger or older cameras",
+        "examples": []
+      },
+      {
+        "definition": "a thin piece of plastic with wire or artificial teeth attached to it which fits inside your mouth in order to make your teeth straight",
+        "examples": []
+      },
+      {
+        "definition": "the place where the person hitting the ball stands and where they must return to after running around all the bases",
+        "examples": []
+      },
+      {
+        "definition": "a flat dish that is used to collect money from people in a church",
+        "examples": []
+      },
+      {
+        "definition": "to give something to somebody without that person making any effort",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Nobody's going to hand you success on a plate."
+          }
+        ]
+      },
+      {
+        "definition": "to have a lot of work or problems, etc. to deal with",
+        "examples": []
+      },
+      {
+        "definition": "to do what is necessary in order to benefit from an opportunity or deal with a crisis",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's important for world leaders to step up to the plate and honor their commitments on global warming."
+          },
+          {
+            "cf": "",
+            "x": "It’s time for businesses to step up to the plate and accept responsibility."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "orbit",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/orb/orbit/orbit__gb_1.mp3",
+    "phonetic_text": "/ˈɔːbɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/orb/orbit/orbit__us_1.mp3",
+    "phonetic_am_text": "/ˈɔːrbɪt/",
+    "senses": [
+      {
+        "definition": "to move in an orbit (= a curved path) around a much larger object, especially a planet, star, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Stars near the edge of the galaxy orbit more slowly."
+          },
+          {
+            "cf": "orbit something",
+            "x": "The earth takes a year to orbit the sun."
+          },
+          {
+            "cf": "orbit around something",
+            "x": "This technique has been used to detect planets orbiting around other stars."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rotation",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rot/rotat/rotation__gb_1.mp3",
+    "phonetic_text": "/rəʊˈteɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rot/rotat/rotation__us_1.mp3",
+    "phonetic_am_text": "/rəʊˈteɪʃn/",
+    "senses": [
+      {
+        "definition": "the action of an object moving in a circle around a central fixed point",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the daily rotation of the earth on its axis"
+          },
+          {
+            "cf": "",
+            "x": "the earth's rotation around the sun"
+          }
+        ]
+      },
+      {
+        "definition": "one complete movement in a circle around a fixed point",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This switch controls the number of rotations per minute."
+          }
+        ]
+      },
+      {
+        "definition": "the act of regularly changing the thing that is being used in a particular situation, or of changing the person who does a particular job",
+        "examples": [
+          {
+            "cf": "",
+            "x": "crop rotation/the rotation of crops (= changing the crop that is grown on an area of land in order to protect the soil)"
+          },
+          {
+            "cf": "",
+            "x": "job rotation (= the practice of regularly changing the job that a particular person does so that they become experienced in different areas)"
+          },
+          {
+            "cf": "in rotation",
+            "x": "Wheat, maize and sugar beet are planted in rotation."
+          },
+          {
+            "cf": "",
+            "x": "The committee is chaired by all the members in rotation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Saturn",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sat/satur/saturn__gb_1.mp3",
+    "phonetic_text": "/ˈsætɜːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sat/satur/saturn__us_1.mp3",
+    "phonetic_am_text": "/ˈsætɜːrn/",
+    "senses": [
+      {
+        "definition": "a large planet in the solar system that has rings around it and is 6th in order of distance from the sun",
+        "examples": []
+      },
+      {
+        "definition": "a US rocket used in the 1960s and 1970s to send spacecraft and satellites into space. The original Saturn was developed in 1958 by Wernher von Braun, and it had two rockets used in sequence. Saturn 5 had three rockets and carried 12 million US gallons /45.6 million litres of fuel. It was used for the Apollo program to send men to the moon.",
+        "examples": []
+      },
+      {
+        "definition": "a popular make of small US car that is cheap to run, produced by General Motors since 1990",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "solar year",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sol/solar/solar_year_1_gb_1.mp3",
+    "phonetic_text": "/ˌsəʊlə ˈjɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sol/solar/solar_year_1_us_1.mp3",
+    "phonetic_am_text": "/ˌsəʊlər ˈjɪr/",
+    "senses": [
+      {
+        "definition": "the time it takes the earth to go around the sun once, approximately 365¼ days",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "shine",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/shi/shine/shine__gb_1.mp3",
+    "phonetic_text": "/ʃaɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/shi/shine/shine__us_1.mp3",
+    "phonetic_am_text": "/ʃaɪn/",
+    "senses": [
+      {
+        "definition": "to produce or reflect light; to be bright",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The sun shone brightly in a cloudless sky."
+          },
+          {
+            "cf": "",
+            "x": "A light was shining in the distance."
+          },
+          {
+            "cf": "",
+            "x": "The dark polished wood shone like glass."
+          },
+          {
+            "cf": "",
+            "x": "The stars were shining and the moon was bright."
+          },
+          {
+            "cf": "",
+            "x": "The hot desert sun shone down relentlessly."
+          },
+          {
+            "cf": "shine on somebody/something",
+            "x": "the beauty of the moon shining on the waves"
+          },
+          {
+            "cf": "shine with something",
+            "x": "Her eyes were shining with excitement."
+          },
+          {
+            "cf": "",
+            "x": "Excitement was shining in her eyes."
+          }
+        ]
+      },
+      {
+        "definition": "to aim or point the light of a lamp, etc. in a particular direction",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He shone the flashlight around the cellar."
+          },
+          {
+            "cf": "",
+            "x": "The watchman shone his torch at us."
+          },
+          {
+            "cf": "",
+            "x": "The doctor shone the light in my eyes several times."
+          },
+          {
+            "cf": "",
+            "x": "Campaigners are shining a spotlight on the world's diminishing natural resources."
+          }
+        ]
+      },
+      {
+        "definition": "to polish something; to make something smooth and bright",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He shined shoes and sold newspapers to make money."
+          }
+        ]
+      },
+      {
+        "definition": "to show that you are very good at something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He failed to shine academically but he was very good at sports."
+          },
+          {
+            "cf": "",
+            "x": "She has set a shining example of loyal service over four decades."
+          },
+          {
+            "cf": "",
+            "x": "These qualities shine forth in all that he produced."
+          }
+        ]
+      },
+      {
+        "definition": "a man who saves somebody, especially a woman, from a dangerous situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's still waiting for a knight in shining armour to come and rescue her."
+          }
+        ]
+      },
+      {
+        "definition": "to make good use of opportunities, good conditions, etc. while they last",
+        "examples": []
+      },
+      {
+        "definition": "usually used in orders to tell somebody to get out of bed and be active",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "shooting star",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sho/shoot/shooting_star_1_gb_1.mp3",
+    "phonetic_text": "/ˌʃuːtɪŋ ˈstɑː(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sho/shoot/shooting_star_1_us_1.mp3",
+    "phonetic_am_text": "/ˌʃuːtɪŋ ˈstɑːr/",
+    "senses": [
+      {
+        "definition": "a small meteor (= a piece of rock in outer space) that travels very fast and burns with a bright light as it enters the earth’s atmosphere",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "solar system",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sol/solar/solar_system_1_gb_1.mp3",
+    "phonetic_text": "/ˈsəʊlə sɪstəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sol/solar/solar_system_1_us_1.mp3",
+    "phonetic_am_text": "/ˈsəʊlər sɪstəm/",
+    "senses": [
+      {
+        "definition": "the sun and all the planets that move around it",
+        "examples": []
+      },
+      {
+        "definition": "any group of planets that all move around the same star",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We don’t know how many solar systems there are in each galaxy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "solar",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sol/solar/solar__gb_1.mp3",
+    "phonetic_text": "/ˈsəʊlə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sol/solar/solar__us_2.mp3",
+    "phonetic_am_text": "/ˈsəʊlər/",
+    "senses": [
+      {
+        "definition": "of or connected with the sun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "solar radiation"
+          },
+          {
+            "cf": "",
+            "x": "a solar eclipse"
+          },
+          {
+            "cf": "",
+            "x": "solar wind"
+          },
+          {
+            "cf": "",
+            "x": "the solar cycle"
+          }
+        ]
+      },
+      {
+        "definition": "using the sun’s energy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "solar heating"
+          },
+          {
+            "cf": "",
+            "x": "a satellite telephone with solar-powered batteries"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "satellite",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sat/satel/satellite__gb_1.mp3",
+    "phonetic_text": "/ˈsætəlaɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sat/satel/satellite__us_1.mp3",
+    "phonetic_am_text": "/ˈsætəlaɪt/",
+    "senses": [
+      {
+        "definition": "an electronic device that is sent into space and moves around the earth or another planet. It is used for communicating by radio, television, etc. and for gathering information.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a weather/communications/spy satellite"
+          },
+          {
+            "cf": "by/via satellite",
+            "x": "The interview came live by satellite from Hollywood."
+          },
+          {
+            "cf": "",
+            "x": "They could track the tagged sea turtles by satellite."
+          },
+          {
+            "cf": "",
+            "x": "The information was sent via a satellite link."
+          },
+          {
+            "cf": "",
+            "x": "satellite television/TV/radio (= broadcast using a satellite)"
+          },
+          {
+            "cf": "",
+            "x": "a satellite broadcast/channel/picture"
+          },
+          {
+            "cf": "",
+            "x": "The use of satellite phones meant that journalists could report directly from the arena of the battlefront."
+          },
+          {
+            "cf": "",
+            "x": "My car was fitted with a satellite navigation system."
+          },
+          {
+            "cf": "",
+            "x": "The software enables the user to set up a satellite communications link."
+          },
+          {
+            "cf": "",
+            "x": "They have successfully launched satellites into orbit."
+          }
+        ]
+      },
+      {
+        "definition": "a natural object that moves around a larger natural object in space",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The moon is a satellite of earth."
+          }
+        ]
+      },
+      {
+        "definition": "a town, a country or an organization that is controlled by and depends on another larger or more powerful one",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Following the Second World War it became a satellite state of the Soviet Union."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rise",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ris/rise_/rise__gb_2.mp3",
+    "phonetic_text": "/raɪz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ris/rise_/rise__us_1.mp3",
+    "phonetic_am_text": "/raɪz/",
+    "senses": [
+      {
+        "definition": "to come or go upwards; to reach a higher level or position",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The curtain rose to reveal an empty stage."
+          },
+          {
+            "cf": "+ adv./prep.",
+            "x": "Smoke was rising from the chimney."
+          },
+          {
+            "cf": "",
+            "x": "The river has risen by several metres."
+          },
+          {
+            "cf": "",
+            "x": "A stream of bubbles rose to the surface."
+          },
+          {
+            "cf": "",
+            "x": "The flood waters were rising fast."
+          }
+        ]
+      },
+      {
+        "definition": "to increase in amount or number",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Prices are still rising."
+          },
+          {
+            "cf": "",
+            "x": "rising fuel bills"
+          },
+          {
+            "cf": "",
+            "x": "The price of gas rose."
+          },
+          {
+            "cf": "rise in something",
+            "x": "Gas rose in price."
+          },
+          {
+            "cf": "",
+            "x": "The shares have risen in value."
+          },
+          {
+            "cf": "",
+            "x": "Global temperatures could rise three degrees or more."
+          },
+          {
+            "cf": "rise by something",
+            "x": "Unemployment rose by 3 per cent."
+          },
+          {
+            "cf": "rise to something",
+            "x": "Interest rates rose to a six-year high."
+          },
+          {
+            "cf": "",
+            "x": "to rise sharply/dramatically/rapidly/steeply"
+          },
+          {
+            "cf": "",
+            "x": "to rise steadily/slightly"
+          },
+          {
+            "cf": "",
+            "x": "We are seeing a rising tide of online crime (= a large increase in it)."
+          }
+        ]
+      },
+      {
+        "definition": "when the sun, moon, etc. rises, it appears above the horizon",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The sun rises in the east."
+          },
+          {
+            "cf": "",
+            "x": "It was almost dark and the moon was just rising."
+          }
+        ]
+      },
+      {
+        "definition": "to become more successful, important, powerful, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a rising young politician"
+          },
+          {
+            "cf": "+ adv./prep.",
+            "x": "He rose to prominence in the 90s."
+          },
+          {
+            "cf": "",
+            "x": "to rise to fame/power"
+          },
+          {
+            "cf": "",
+            "x": "You could rise to the top if you work hard."
+          },
+          {
+            "cf": "",
+            "x": "He rose to the rank of general."
+          },
+          {
+            "cf": "",
+            "x": "She has risen to a position of great responsibility."
+          },
+          {
+            "cf": "",
+            "x": "She rose through the ranks to become managing director."
+          }
+        ]
+      },
+      {
+        "definition": "to get up from a lying, sitting or kneeling position",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was accustomed to rising (= getting out of bed) early."
+          },
+          {
+            "cf": "",
+            "x": "They rose from the table."
+          },
+          {
+            "cf": "",
+            "x": "She rose to her feet."
+          }
+        ]
+      },
+      {
+        "definition": "to end a meeting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The House (= members of the House of Commons) rose at 10 p.m."
+          }
+        ]
+      },
+      {
+        "definition": "if a sound rises, it becomes louder and higher",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her voice rose angrily."
+          }
+        ]
+      },
+      {
+        "definition": "if the wind rises, it begins to blow more strongly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The wind is rising—I think there's a storm coming."
+          }
+        ]
+      },
+      {
+        "definition": "if a feeling rises inside you, it begins and gets stronger",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He felt anger rising inside him."
+          },
+          {
+            "cf": "",
+            "x": "Her spirits rose (= she felt happier) at the news."
+          }
+        ]
+      },
+      {
+        "definition": "if your colour rises, your face becomes pink or red because you are embarrassed",
+        "examples": []
+      },
+      {
+        "definition": "if hair rises, it stands up instead of lying flat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The hair on the back of my neck rose when I heard the scream."
+          }
+        ]
+      },
+      {
+        "definition": "to begin to fight against your government or leader or against a foreign army",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The peasants rose in revolt."
+          },
+          {
+            "cf": "",
+            "x": "He called on the people to rise up against the invaders."
+          }
+        ]
+      },
+      {
+        "definition": "to be able to be seen above everything that is around",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Mountains rose in the distance."
+          }
+        ]
+      },
+      {
+        "definition": "if land rises, it slopes upwards",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The ground rose steeply all around."
+          },
+          {
+            "cf": "",
+            "x": "Behind the house the ground rises steeply to the north."
+          }
+        ]
+      },
+      {
+        "definition": "a river rises where it begins to flow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Thames rises in the Cotswold hills."
+          }
+        ]
+      },
+      {
+        "definition": "when bread, cakes, etc. rise, they become larger and rounder because of the action of yeast or baking powder",
+        "examples": []
+      },
+      {
+        "definition": "to come to life again",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to rise from the dead"
+          },
+          {
+            "cf": "",
+            "x": "Can a new party rise from the ashes of the old one?"
+          }
+        ]
+      },
+      {
+        "definition": "to stand straight and tall in order to show that you are determined, powerful or important",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He drew himself up to his full height and glared at us."
+          }
+        ]
+      },
+      {
+        "definition": "somebody feels so angry about something that they feel physically sick",
+        "examples": []
+      },
+      {
+        "definition": "to become angry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Ben felt his hackles rise as the speaker continued."
+          }
+        ]
+      },
+      {
+        "definition": "usually used in orders to tell somebody to get out of bed and be active",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "rocket",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roc/rocke/rocket__gb_1.mp3",
+    "phonetic_text": "/ˈrɒkɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roc/rocke/rocket__us_1.mp3",
+    "phonetic_am_text": "/ˈrɑːkɪt/",
+    "senses": [
+      {
+        "definition": "a spacecraft in the shape of a tube that is driven by a stream of gases let out behind it when fuel is burned inside",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a space rocket"
+          },
+          {
+            "cf": "",
+            "x": "The rocket was launched in 2007."
+          },
+          {
+            "cf": "",
+            "x": "The idea took off like a rocket (= it immediately became popular)."
+          }
+        ]
+      },
+      {
+        "definition": "a missile (= a weapon that travels through the air) that carries a bomb and is driven by a stream of burning gases",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a rocket attack"
+          },
+          {
+            "cf": "",
+            "x": "A rocket smashed into the side of the building."
+          }
+        ]
+      },
+      {
+        "definition": "a firework that goes high into the air and then explodes with coloured lights",
+        "examples": []
+      },
+      {
+        "definition": "a plant with long green leaves that have a strong taste and are eaten raw in salads",
+        "examples": []
+      },
+      {
+        "definition": "to speak angrily to somebody because they have done something wrong; to be spoken to angrily for this reason",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Southern Cross",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_s/the_southern_cross_1_gb_1.mp3",
+    "phonetic_text": "/ðə ˌsʌðən ˈkrɒs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the_s/the_southern_cross_1_us_1.mp3",
+    "phonetic_am_text": "/ðə ˌsʌðərn ˈkrɔːs/",
+    "senses": [
+      {
+        "definition": "a group of stars in the shape of a cross that can be seen from the southern hemisphere",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Southern Lights",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_s/the_southern_lights_1_gb_1.mp3",
+    "phonetic_text": "/ðə ˌsʌðən ˈlaɪts/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the_s/the_southern_lights_1_us_1.mp3",
+    "phonetic_am_text": "/ðə ˌsʌðərn ˈlaɪts/",
+    "senses": [
+      {
+        "definition": "bands of coloured light that are sometimes seen in the sky at night in the most southern countries of the world",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "spaceship",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/spaceship__gb_1.mp3",
+    "phonetic_text": "/ˈspeɪsʃɪp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/spaceship__us_1.mp3",
+    "phonetic_am_text": "/ˈspeɪsʃɪp/",
+    "senses": [
+      {
+        "definition": "a vehicle that travels in space, carrying people",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "spacesuit",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/spacesuit__gb_1.mp3",
+    "phonetic_text": "/ˈspeɪssuːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/spacesuit__us_1.mp3",
+    "phonetic_am_text": "/ˈspeɪssuːt/",
+    "senses": [
+      {
+        "definition": "a special suit that covers the whole body and has a supply of air, allowing somebody to survive and move around in space",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "space probe",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/space_probe_1_gb_1.mp3",
+    "phonetic_text": "/ˈspeɪs prəʊb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/space_probe_1_us_1.mp3",
+    "phonetic_am_text": "/ˈspeɪs prəʊb/",
+    "senses": [
+      {
+        "definition": "a spacecraft without people on board that obtains information and sends it back to earth",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "spacecraft",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/spacecraft__gb_1.mp3",
+    "phonetic_text": "/ˈspeɪskrɑːft/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/spacecraft__us_1.mp3",
+    "phonetic_am_text": "/ˈspeɪskræft/",
+    "senses": [
+      {
+        "definition": "a vehicle that travels in space",
+        "examples": [
+          {
+            "cf": "",
+            "x": "An unmanned Chinese spacecraft has returned safely to Earth."
+          },
+          {
+            "cf": "",
+            "x": "They plan to send a spacecraft to the moon."
+          },
+          {
+            "cf": "",
+            "x": "a spacecraft orbiting the earth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spaceman",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/spaceman__gb_1.mp3",
+    "phonetic_text": "/ˈspeɪsmæn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/spaceman__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈspeɪsmæn/",
+    "senses": [
+      {
+        "definition": "a man who travels into space; an astronaut",
+        "examples": []
+      },
+      {
+        "definition": "(in stories) a creature that visits the earth from another planet",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "space shuttle",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/space_shuttle_1_gb_1.mp3",
+    "phonetic_text": "/ˈspeɪs ʃʌtl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/space_shuttle_1_us_1.mp3",
+    "phonetic_am_text": "/ˈspeɪs ʃʌtl/",
+    "senses": [
+      {
+        "definition": "a spacecraft designed to make repeated journeys, for example between the earth and a space station",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "space station",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/space_station_1_gb_1.mp3",
+    "phonetic_text": "/ˈspeɪs steɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/space_station_1_us_1.mp3",
+    "phonetic_am_text": "/ˈspeɪs steɪʃn/",
+    "senses": [
+      {
+        "definition": "a large structure that is sent into space and remains above the earth as a base for people working and travelling in space",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "space-time",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/space_time_1_gb_1.mp3",
+    "phonetic_text": "/ˈspeɪs taɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/space_time_1_us_1.mp3",
+    "phonetic_am_text": "/ˈspeɪs taɪm/",
+    "senses": [
+      {
+        "definition": "the universe considered as a continuum with four measurements—length, width, depth and time—inside which any event or physical object is located",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "spacewalk",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/spacewalk__gb_1.mp3",
+    "phonetic_text": "/ˈspeɪswɔːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/spacewalk__us_1.mp3",
+    "phonetic_am_text": "/ˈspeɪswɔːk/",
+    "senses": [
+      {
+        "definition": "a period of time that an astronaut spends in space outside a spacecraft",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "space",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/space__gb_1.mp3",
+    "phonetic_text": "/speɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/space__us_1.mp3",
+    "phonetic_am_text": "/speɪs/",
+    "senses": [
+      {
+        "definition": "the area outside the earth’s atmosphere where all the other planets and stars are",
+        "examples": [
+          {
+            "cf": "in space",
+            "x": "Valentina Tereshkova was the first woman in space."
+          },
+          {
+            "cf": "",
+            "x": "the possibility of visitors from outer space"
+          },
+          {
+            "cf": "",
+            "x": "space exploration/travel"
+          },
+          {
+            "cf": "",
+            "x": "a space flight/mission"
+          },
+          {
+            "cf": "",
+            "x": "the US space program"
+          }
+        ]
+      },
+      {
+        "definition": "an area or a place that is empty",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an empty space"
+          },
+          {
+            "cf": "",
+            "x": "a large/small/narrow/wide space"
+          },
+          {
+            "cf": "",
+            "x": "a space two metres by three metres"
+          },
+          {
+            "cf": "",
+            "x": "He reversed out of the parking space."
+          },
+          {
+            "cf": "in/into a space",
+            "x": "We were crowded together in a confined space."
+          },
+          {
+            "cf": "",
+            "x": "They cram hundreds of animals into a tiny space."
+          },
+          {
+            "cf": "space between A and B",
+            "x": "Put it in the space between the table and the wall."
+          },
+          {
+            "cf": "space for something",
+            "x": "I'll clear a space for your books."
+          },
+          {
+            "cf": "",
+            "x": "The sculpture occupies a space in the centre of the campus."
+          }
+        ]
+      },
+      {
+        "definition": "an amount of an area or of a place that is empty or that is available for use",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We have 50  000 square metres of floor space."
+          },
+          {
+            "cf": "",
+            "x": "Different brands compete for shelf space."
+          },
+          {
+            "cf": "",
+            "x": "Houses were built close together with almost no empty space between them."
+          },
+          {
+            "cf": "",
+            "x": "We must make good use of the available space."
+          },
+          {
+            "cf": "",
+            "x": "That desk takes up too much space."
+          },
+          {
+            "cf": "",
+            "x": "Traffic tends to expand to fill the space available."
+          },
+          {
+            "cf": "",
+            "x": "There is very little storage space in the department."
+          },
+          {
+            "cf": "",
+            "x": "Arrive early because space is limited."
+          },
+          {
+            "cf": "space for something",
+            "x": "This creates space for a bigger table."
+          },
+          {
+            "cf": "",
+            "x": "Can we make space for one more person?"
+          },
+          {
+            "cf": "",
+            "x": "disk/memory space (= on a computer or device)"
+          }
+        ]
+      },
+      {
+        "definition": "a place, especially a room or a building, that can be used for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The venue is a great space for music."
+          },
+          {
+            "cf": "",
+            "x": "various gallery and exhibition spaces"
+          },
+          {
+            "cf": "",
+            "x": "to rent/lease (a) space"
+          },
+          {
+            "cf": "",
+            "x": "He was sharing office space with a lawyer."
+          },
+          {
+            "cf": "",
+            "x": "The business began to occupy more space."
+          }
+        ]
+      },
+      {
+        "definition": "the quality of being large and empty, allowing you to move freely",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The room has been furnished and decorated to give a feeling of space."
+          },
+          {
+            "cf": "",
+            "x": "We're enjoying the space here after living in a small flat."
+          }
+        ]
+      },
+      {
+        "definition": "a large area of land that has no buildings on it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the wide open spaces of the Canadian prairies"
+          },
+          {
+            "cf": "",
+            "x": "protection for our parks and other green spaces"
+          },
+          {
+            "cf": "",
+            "x": "It's a city with fine buildings and plenty of open space."
+          },
+          {
+            "cf": "",
+            "x": "Green space is important in the urban environment."
+          }
+        ]
+      },
+      {
+        "definition": "a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Leave a space of two weeks between appointments."
+          },
+          {
+            "cf": "in the space of something",
+            "x": "Forty-four people died in the space of five days."
+          },
+          {
+            "cf": "",
+            "x": "They had achieved a lot in a short space of time."
+          }
+        ]
+      },
+      {
+        "definition": "the part of a line, page or document that is empty",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Don't waste space by leaving a wide margin."
+          },
+          {
+            "cf": "",
+            "x": "There was not enough space to print all the letters we received."
+          },
+          {
+            "cf": "",
+            "x": "Leave a space after the comma."
+          }
+        ]
+      },
+      {
+        "definition": "the freedom and the time to think or do what you want to",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was upset and needed space."
+          },
+          {
+            "cf": "",
+            "x": "You have to give teenagers plenty of space."
+          }
+        ]
+      },
+      {
+        "definition": "the whole area in which all things exist and move",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It is quite possible that space and time are finite."
+          },
+          {
+            "cf": "",
+            "x": "the fabric of space and time"
+          }
+        ]
+      },
+      {
+        "definition": "an area of business in which a person or an organization operates",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His investments have focused on the healthcare space."
+          },
+          {
+            "cf": "",
+            "x": "Right now, the team is primarily at work on products within the mobile space."
+          }
+        ]
+      },
+      {
+        "definition": "to be feeling happy, sad, worried, etc. about something; to be in a good, bad, unhappy, etc. state",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm happy now. I'm in a good place."
+          },
+          {
+            "cf": "",
+            "x": "Me and Ed are in a good space right now."
+          },
+          {
+            "cf": "",
+            "x": "The economy is in a better place than it was a year ago."
+          },
+          {
+            "cf": "",
+            "x": "He was in a bad place, mentally and emotionally."
+          },
+          {
+            "cf": "",
+            "x": "She was in a dark place after her mother's death."
+          }
+        ]
+      },
+      {
+        "definition": "to look straight in front of you without looking at a particular thing, usually because you are thinking about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He sat staring into space, like a man in a trance."
+          },
+          {
+            "cf": "",
+            "x": "She sat there motionless, staring into space."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is not useful or good at anything",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You are a pathetic waste of space!"
+          }
+        ]
+      },
+      {
+        "definition": "used in orders, to tell somebody to wait for more news about something to be announced",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I can't tell you any more right now, but watch this space."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spacewoman",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/space/spacewoman__gb_1.mp3",
+    "phonetic_text": "/ˈspeɪswʊmən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/space/spacewoman__us_1.mp3",
+    "phonetic_am_text": "/ˈspeɪswʊmən/",
+    "senses": [
+      {
+        "definition": "a woman who travels into space; an astronaut",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sputnik",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spu/sputn/sputnik__gb_1.mp3",
+    "phonetic_text": "/ˈspʌtnɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spu/sputn/sputnik__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈspʌtnɪk/",
+    "senses": [
+      {
+        "definition": "a satellite of the type that was put into space by the Soviet Union",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sunbeam",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sunbe/sunbeam__gb_1.mp3",
+    "phonetic_text": "/ˈsʌnbiːm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sunbe/sunbeam__us_1.mp3",
+    "phonetic_am_text": "/ˈsʌnbiːm/",
+    "senses": [
+      {
+        "definition": "a stream of light from the sun",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "stratosphere",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_s/the_stratosphere_1_gb_2.mp3",
+    "phonetic_text": "/ðə ˈstrætəsfɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the_s/the_stratosphere_1_us_1.mp3",
+    "phonetic_am_text": "/ðə ˈstrætəsfɪr/",
+    "senses": [
+      {
+        "definition": "the layer of the earth’s atmosphere between about 10 and 50 kilometres above the surface of the earth",
+        "examples": []
+      },
+      {
+        "definition": "at or to an extremely high level",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The technology boom sent share prices into the stratosphere."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stratospheric",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strat/stratospheric__gb_1.mp3",
+    "phonetic_text": "/ˌstrætəˈsferɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/strat/stratospheric__us_2_rr.mp3",
+    "phonetic_am_text": "/ˌstrætəˈsfɪrɪk/",
+    "senses": [
+      {
+        "definition": "in the layer of the earth's atmosphere between about 10 and 50 kilometres above the surface of the earth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "stratospheric clouds/ozone"
+          }
+        ]
+      },
+      {
+        "definition": "extremely high",
+        "examples": [
+          {
+            "cf": "",
+            "x": "stratospheric levels of success"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sunray",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sunra/sunray__gb_1.mp3",
+    "phonetic_text": "/ˈsʌnreɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sunra/sunray__us_1.mp3",
+    "phonetic_am_text": "/ˈsʌnreɪ/",
+    "senses": [
+      {
+        "definition": "a ray of light from the sun",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sunlight",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sunli/sunlight__gb_1.mp3",
+    "phonetic_text": "/ˈsʌnlaɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sunli/sunlight__us_1.mp3",
+    "phonetic_am_text": "/ˈsʌnlaɪt/",
+    "senses": [
+      {
+        "definition": "the light from the sun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a ray/pool of sunlight"
+          },
+          {
+            "cf": "",
+            "x": "shafts of bright sunlight"
+          },
+          {
+            "cf": "",
+            "x": "The morning sunlight flooded into the room."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "star",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/star_/star__gb_2.mp3",
+    "phonetic_text": "/stɑː(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/star_/star__us_1.mp3",
+    "phonetic_am_text": "/stɑːr/",
+    "senses": [
+      {
+        "definition": "a large ball of burning gas in space that we see as a point of light in the sky at night",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was a big moon and hundreds of stars were shining overhead."
+          },
+          {
+            "cf": "",
+            "x": "Sirius is the brightest star in the sky."
+          },
+          {
+            "cf": "under the stars",
+            "x": "We camped out under the stars."
+          }
+        ]
+      },
+      {
+        "definition": "an object, a decoration, a mark, etc., usually with five or six points, whose shape represents a star",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a horse with a white star on its forehead"
+          },
+          {
+            "cf": "",
+            "x": "a sheriff’s star"
+          },
+          {
+            "cf": "",
+            "x": "I've put a star by the names of the girls in the class."
+          },
+          {
+            "cf": "",
+            "x": "Liz deserves a gold star for all her hard work."
+          },
+          {
+            "cf": "",
+            "x": "a four-star general"
+          }
+        ]
+      },
+      {
+        "definition": "a mark that represents a star and tells you how good something is, especially a hotel or restaurant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "three-/four-/five-star hotels"
+          },
+          {
+            "cf": "",
+            "x": "What star rating does this restaurant have?"
+          }
+        ]
+      },
+      {
+        "definition": "a famous and excellent singer, performer, sports player, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "pop/rock/Hollywood/TV stars"
+          },
+          {
+            "cf": "",
+            "x": "a football/tennis/sports star"
+          },
+          {
+            "cf": "",
+            "x": "She acts well but she hasn't got star quality."
+          },
+          {
+            "cf": "",
+            "x": "Get used to her face as she is a rising star."
+          },
+          {
+            "cf": "",
+            "x": "She's a former child star."
+          },
+          {
+            "cf": "",
+            "x": "He's so good—I'm sure he'll be a big star."
+          },
+          {
+            "cf": "",
+            "x": "The best models receive star treatment."
+          }
+        ]
+      },
+      {
+        "definition": "a person who has the main part, or one of the main parts, in a film, play, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The star of the show was a young Italian singer."
+          },
+          {
+            "cf": "",
+            "x": "The show has plenty of guest stars appearing each week."
+          },
+          {
+            "cf": "",
+            "x": "She was the star of many popular television series."
+          }
+        ]
+      },
+      {
+        "definition": "a person or thing that is the best of a group",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a star student"
+          },
+          {
+            "cf": "",
+            "x": "Paula is the star of the class."
+          },
+          {
+            "cf": "",
+            "x": "He was the star performer at the championships."
+          },
+          {
+            "cf": "",
+            "x": "The star prize is a weekend for two in Paris."
+          },
+          {
+            "cf": "",
+            "x": "The monkey was the star attraction (= the best or most popular act) at the show."
+          },
+          {
+            "cf": "",
+            "x": "Through high school he was a track star."
+          }
+        ]
+      },
+      {
+        "definition": "used to show that you feel very grateful for something that somebody has done or that you think they are wonderful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Thanks! You're a star!"
+          }
+        ]
+      },
+      {
+        "definition": "a description of what somebody thinks is going to happen to somebody in the future, based on the position of the stars and planets when they were born",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do you read your stars in the paper?"
+          }
+        ]
+      },
+      {
+        "definition": "to try to be successful at something that is difficult",
+        "examples": []
+      },
+      {
+        "definition": "to see flashes of light in front of your eyes, usually because you have been hit on the head",
+        "examples": []
+      },
+      {
+        "definition": "if somebody has stars in their eyes, they have dreams of becoming famous, especially as an actor, singer, etc.",
+        "examples": []
+      },
+      {
+        "definition": "to feel very grateful and lucky about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Just thank your lucky stars you weren’t in the house at the time."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sun",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sun__/sun__gb_2.mp3",
+    "phonetic_text": "/sʌn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sun__/sun__us_1.mp3",
+    "phonetic_am_text": "/sʌn/",
+    "senses": [
+      {
+        "definition": "the star that shines in the sky during the day and gives the earth heat and light",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The sun was shining and birds were singing."
+          },
+          {
+            "cf": "",
+            "x": "the sun’s rays"
+          },
+          {
+            "cf": "",
+            "x": "The sun rises highest in the sky during the summer."
+          },
+          {
+            "cf": "",
+            "x": "the rising/setting sun"
+          },
+          {
+            "cf": "",
+            "x": "The sun was just setting."
+          },
+          {
+            "cf": "",
+            "x": "A pale wintry sun shone through the clouds."
+          },
+          {
+            "cf": "",
+            "x": "The vampire is killed by the first rays of the morning sun."
+          }
+        ]
+      },
+      {
+        "definition": "the light and heat from the sun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the warmth of the afternoon sun"
+          },
+          {
+            "cf": "",
+            "x": "The sun was blazing hot."
+          },
+          {
+            "cf": "",
+            "x": "This room gets the sun in the mornings."
+          },
+          {
+            "cf": "in the sun",
+            "x": "We sat in the sun."
+          },
+          {
+            "cf": "",
+            "x": "The harvested crop is dried in the hot Indian sun."
+          },
+          {
+            "cf": "",
+            "x": "They've booked a holiday in the sun (= in a place where it is warm and the sun shines a lot)."
+          },
+          {
+            "cf": "out of the sun",
+            "x": "We did our best to keep out of the sun."
+          },
+          {
+            "cf": "",
+            "x": "Her face had obviously caught the sun (= become red or brown) on holiday."
+          },
+          {
+            "cf": "",
+            "x": "Too much sun ages the skin."
+          },
+          {
+            "cf": "",
+            "x": "I was driving westwards and I had the sun in my eyes (= the sun was shining in my eyes)."
+          },
+          {
+            "cf": "",
+            "x": "Patients are advised to avoid sun exposure for six weeks."
+          }
+        ]
+      },
+      {
+        "definition": "any star around which planets move",
+        "examples": []
+      },
+      {
+        "definition": "to make good use of opportunities, good conditions, etc. while they last",
+        "examples": []
+      },
+      {
+        "definition": "a position in which you are comfortable or have an advantage over other people",
+        "examples": []
+      },
+      {
+        "definition": "used to emphasize that you are talking about a very large number of things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We talked about everything under the sun."
+          },
+          {
+            "cf": "",
+            "x": "I’ve been called all the names under the sun!"
+          },
+          {
+            "cf": "",
+            "x": "There is nothing new under the sun (= in the world)."
+          }
+        ]
+      },
+      {
+        "definition": "when the sun rises or sets",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I get up with the sun."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sunrise",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sunri/sunrise__gb_1.mp3",
+    "phonetic_text": "/ˈsʌnraɪz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sunri/sunrise__us_1.mp3",
+    "phonetic_am_text": "/ˈsʌnraɪz/",
+    "senses": [
+      {
+        "definition": "the time when the sun first appears in the sky in the morning",
+        "examples": [
+          {
+            "cf": "at sunrise",
+            "x": "We got up at sunrise."
+          },
+          {
+            "cf": "",
+            "x": "We left before sunrise."
+          }
+        ]
+      },
+      {
+        "definition": "the colours in the part of the sky where the sun first appears in the morning",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the pinks and yellows of the sunrise"
+          },
+          {
+            "cf": "",
+            "x": "They looked out at the silvery yellow of the highland sunrise."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sunset",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sunse/sunset__gb_1.mp3",
+    "phonetic_text": "/ˈsʌnset/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sunse/sunset__us_1.mp3",
+    "phonetic_am_text": "/ˈsʌnset/",
+    "senses": [
+      {
+        "definition": "the time when the sun goes down and night begins",
+        "examples": [
+          {
+            "cf": "at sunset",
+            "x": "Every evening at sunset the flag was lowered."
+          }
+        ]
+      },
+      {
+        "definition": "the colours in the part of the sky where the sun slowly goes down in the evening",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a spectacular sunset"
+          }
+        ]
+      },
+      {
+        "definition": "a fixed period of time after which a law or the effect of a law will end",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There is a five-year sunset on the new tax."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sunup",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sunup/sunup__gb_1.mp3",
+    "phonetic_text": "/ˈsʌnʌp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sunup/sunup__us_1.mp3",
+    "phonetic_am_text": "/ˈsʌnʌp/",
+    "senses": [
+      {
+        "definition": "the time when the sun rises and day begins",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "thermosphere",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_t/the_thermosphere_1_gb_1.mp3",
+    "phonetic_text": "/ðə ˈθɜːməsfɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the_t/the_thermosphere_1_us_1.mp3",
+    "phonetic_am_text": "/ðə ˈθɜːrməsfɪr/",
+    "senses": [
+      {
+        "definition": "the region of the atmosphere above the mesosphere",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "take off",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "to leave the ground and begin to fly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The plane took off an hour late."
+          }
+        ]
+      },
+      {
+        "definition": "to leave a place, especially in a hurry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When he saw me coming he took off in the opposite direction."
+          }
+        ]
+      },
+      {
+        "definition": "to become successful or popular very quickly or suddenly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The new magazine has really taken off."
+          },
+          {
+            "cf": "",
+            "x": "Her singing career took off after her TV appearance."
+          }
+        ]
+      },
+      {
+        "definition": "to copy somebody’s voice, actions or manner in a humorous way",
+        "examples": []
+      },
+      {
+        "definition": "to make somebody stop playing, acting, etc. and leave the field or the stage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was taken off after twenty minutes."
+          }
+        ]
+      },
+      {
+        "definition": "to remove something, especially a piece of clothing from your/somebody’s body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to take off your coat"
+          },
+          {
+            "cf": "",
+            "x": "He took off my wet boots and made me sit by the fire."
+          }
+        ]
+      },
+      {
+        "definition": "to have a period of time as a break from work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've decided to take a few days off next week."
+          }
+        ]
+      },
+      {
+        "definition": "to stop a public service, television programme, performances of a show, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The show was taken off because of poor audience figures."
+          }
+        ]
+      },
+      {
+        "definition": "to remove some of somebody’s hair, part of somebody’s body, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The hairdresser asked me how much she should take off."
+          },
+          {
+            "cf": "",
+            "x": "The explosion nearly took his arm off."
+          }
+        ]
+      },
+      {
+        "definition": "to leave a place; to make somebody leave a place",
+        "examples": []
+      },
+      {
+        "definition": "to remove somebody from something such as a job, position, piece of equipment, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The officer leading the investigation has been taken off the case."
+          },
+          {
+            "cf": "",
+            "x": "After three days she was taken off the ventilator."
+          }
+        ]
+      },
+      {
+        "definition": "to remove an amount of money or a number of marks, points, etc. in order to reduce the total",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The manager took $10 off the bill."
+          },
+          {
+            "cf": "",
+            "x": "That experience took ten years off my life (= made me feel ten years older)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "troposphere",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_t/the_troposphere_1_gb_1.mp3",
+    "phonetic_text": "/ðə ˈtrɒpəsfɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/the_t/the_troposphere_1_us_1.mp3",
+    "phonetic_am_text": "/ðə ˈtrəʊpəsfɪr/",
+    "senses": [
+      {
+        "definition": "the lowest layer of the earth’s atmosphere, between the surface of the earth and about 6–10 kilometres above the surface",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "take-off",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tak/take_/take_off_1_gb_3.mp3",
+    "phonetic_text": "/ˈteɪk ɒf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tak/take_/take_off_1_us_1_rr.mp3",
+    "phonetic_am_text": "/ˈteɪk ɔːf/",
+    "senses": [
+      {
+        "definition": "the moment at which an aircraft leaves the ground and starts to fly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The plane is ready for take-off."
+          },
+          {
+            "cf": "",
+            "x": "take-off speed"
+          },
+          {
+            "cf": "",
+            "x": "Owing to the fog, there were no take-offs from the airport yesterday."
+          },
+          {
+            "cf": "",
+            "x": "The local economy is poised for take-off."
+          }
+        ]
+      },
+      {
+        "definition": "the moment when your feet leave the ground when you jump",
+        "examples": []
+      },
+      {
+        "definition": "if you do a take-off of somebody, you copy the way they speak or behave, in a humorous way to entertain people",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Venus",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ven/venus/venus__gb_1.mp3",
+    "phonetic_text": "/ˈviːnəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ven/venus/venus__us_1.mp3",
+    "phonetic_am_text": "/ˈviːnəs/",
+    "senses": [
+      {
+        "definition": "the planet in the solar system that is second in order of distance from the sun, between Mercury and the Earth",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "UFO",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/ufo/ufo__/ufo__gb_1.mp3",
+    "phonetic_text": "/ˌjuː ef ˈəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/ufo/ufo__/ufo__us_1.mp3",
+    "phonetic_am_text": "/ˌjuː ef ˈəʊ/",
+    "senses": [
+      {
+        "definition": "a strange object that some people claim to have seen in the sky and believe is a spacecraft from another planet (the abbreviation for ‘unidentified flying object’)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "voyage",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/voy/voyag/voyage__gb_1.mp3",
+    "phonetic_text": "/ˈvɔɪɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/voy/voyag/voyage__us_1.mp3",
+    "phonetic_am_text": "/ˈvɔɪɪdʒ/",
+    "senses": [
+      {
+        "definition": "a long journey, especially by sea or in space",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an around-the-world voyage"
+          },
+          {
+            "cf": "",
+            "x": "a voyage in space"
+          },
+          {
+            "cf": "",
+            "x": "The Titanic sank on its maiden voyage (= first journey)."
+          },
+          {
+            "cf": "",
+            "x": "Going to college can be a voyage of self-discovery."
+          },
+          {
+            "cf": "",
+            "x": "Darwin’s epic voyage of exploration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "twilight",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/twi/twili/twilight__gb_1.mp3",
+    "phonetic_text": "/ˈtwaɪlaɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/twi/twili/twilight__us_1.mp3",
+    "phonetic_am_text": "/ˈtwaɪlaɪt/",
+    "senses": [
+      {
+        "definition": "the small amount of light or the period of time at the end of the day after the sun has gone down",
+        "examples": [
+          {
+            "cf": "in the twilight",
+            "x": "It was hard to see him clearly in the twilight."
+          },
+          {
+            "cf": "at twilight",
+            "x": "We went for a walk along the beach at twilight."
+          }
+        ]
+      },
+      {
+        "definition": "the final stage of something when it becomes weaker or less important than it was",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was in the twilight of her career by then."
+          },
+          {
+            "cf": "",
+            "x": "He spent his twilight years (= the last years of his life) living with his daughter in Bristol."
+          }
+        ]
+      },
+      {
+        "definition": "a state in which things are strange, mysterious or secret; a state that exists on the dividing line between two things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the twilight world of the occult"
+          },
+          {
+            "cf": "",
+            "x": "The dissidents lived in a twilight world of hushed voices and secret meetings."
+          },
+          {
+            "cf": "",
+            "x": "the twilight zone between living and merely existing"
+          },
+          {
+            "cf": "",
+            "x": "They lived in the twilight zone on the fringes of society."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "weightlessness",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wei/weigh/weightlessness__gb_1.mp3",
+    "phonetic_text": "/ˈweɪtləsnəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wei/weigh/weightlessness__us_1.mp3",
+    "phonetic_am_text": "/ˈweɪtləsnəs/",
+    "senses": [
+      {
+        "definition": "the fact of having or appearing to have no weight, for example because there is no gravity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an experience of weightlessness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Uranus",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/ura/uranu/uranus__gb_1.mp3",
+    "phonetic_text": "/ˈjʊərənəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/ura/uranu/uranus__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈjʊrənəs/",
+    "senses": [
+      {
+        "definition": "the planet in the solar system that is 7th in order of distance from the sun",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "weightless",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wei/weigh/weightless__gb_1.mp3",
+    "phonetic_text": "/ˈweɪtləs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wei/weigh/weightless__us_1.mp3",
+    "phonetic_am_text": "/ˈweɪtləs/",
+    "senses": [
+      {
+        "definition": "having no weight or appearing to have no weight, for example because there is no gravity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Astronauts work in weightless conditions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wane",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wan/wane_/wane__gb_1.mp3",
+    "phonetic_text": "/weɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wan/wane_/wane__us_1.mp3",
+    "phonetic_am_text": "/weɪn/",
+    "senses": [
+      {
+        "definition": "to become gradually weaker or less important",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her enthusiasm for the whole idea was waning rapidly."
+          },
+          {
+            "cf": "",
+            "x": "Their popularity waned during that period."
+          },
+          {
+            "cf": "",
+            "x": "Demand for the product shows no signs of waning."
+          }
+        ]
+      },
+      {
+        "definition": "to appear slightly smaller each day after being round and full",
+        "examples": []
+      },
+      {
+        "definition": "to increase then decrease in strength, importance, etc. over a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Public interest in the issue has waxed and waned over the years."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "telescope",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tel/teles/telescope__gb_1.mp3",
+    "phonetic_text": "/ˈtelɪskəʊp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tel/teles/telescope__us_1.mp3",
+    "phonetic_am_text": "/ˈtelɪskəʊp/",
+    "senses": [
+      {
+        "definition": "a piece of equipment like a tube in shape, containing lenses, that you look through to make objects that are far away appear larger and nearer",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to look at the stars through a telescope"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "universe",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/uni/unive/universe__gb_1.mp3",
+    "phonetic_text": "/ˈjuːnɪvɜːs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/uni/unive/universe__us_1.mp3",
+    "phonetic_am_text": "/ˈjuːnɪvɜːrs/",
+    "senses": [
+      {
+        "definition": "the whole of space and everything in it, including the earth, the planets and the stars",
+        "examples": [
+          {
+            "cf": "in the universe",
+            "x": "Could there be intelligent life elsewhere in the universe?"
+          },
+          {
+            "cf": "",
+            "x": "theories of how the universe began"
+          },
+          {
+            "cf": "",
+            "x": "As far as we know, the entire universe was created in the big bang."
+          }
+        ]
+      },
+      {
+        "definition": "a system of stars, planets, etc. in space outside our own",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The idea of a parallel universe is hard to grasp."
+          },
+          {
+            "cf": "",
+            "x": "He lives in a little universe of his own."
+          },
+          {
+            "cf": "",
+            "x": "A tidal pool is its own little universe, bustling with activity and life."
+          }
+        ]
+      },
+      {
+        "definition": "a particular area of experience or activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the moral universe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wormhole",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/wormh/wormhole__gb_1.mp3",
+    "phonetic_text": "/ˈwɜːmhəʊl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/wormh/wormhole__us_1.mp3",
+    "phonetic_am_text": "/ˈwɜːrmhəʊl/",
+    "senses": [
+      {
+        "definition": "a hole made by a worm or young insect",
+        "examples": []
+      },
+      {
+        "definition": "a possible connection between regions of space-time that are far apart",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "white dwarf",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/white/white_dwarf_1_gb_1.mp3",
+    "phonetic_text": "/ˌwaɪt ˈdwɔːf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/white/white_dwarf_1_us_1.mp3",
+    "phonetic_am_text": "/ˌwaɪt ˈdwɔːrf/",
+    "senses": [
+      {
+        "definition": "a small star that is near the end of its life and is very dense (= solid and heavy)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "zodiac",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zod/zodia/zodiac__gb_1.mp3",
+    "phonetic_text": "/ˈzəʊdiæk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zod/zodia/zodiac__us_1.mp3",
+    "phonetic_am_text": "/ˈzəʊdiæk/",
+    "senses": [
+      {
+        "definition": "the imaginary area in the sky in which the sun, moon and planets appear to lie, and which has been divided into twelve equal parts, each with a special name and symbol",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the signs of the zodiac"
+          }
+        ]
+      },
+      {
+        "definition": "a diagram of these twelve parts, and signs that some people believe can be used to predict how the planets will influence our lives",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "zenith",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zen/zenit/zenith__gb_1.mp3",
+    "phonetic_text": "/ˈzenɪθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zen/zenit/zenith__us_4.mp3",
+    "phonetic_am_text": "/ˈziːnɪθ/",
+    "senses": [
+      {
+        "definition": "the highest point that the sun or moon reaches in the sky, directly above you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The sun rose towards its zenith."
+          }
+        ]
+      },
+      {
+        "definition": "the time when something is strongest and most successful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The rock band was at the zenith of its creative powers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wax",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wax/wax__/wax__gb_1.mp3",
+    "phonetic_text": "/wæks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wax/wax__/wax__us_1.mp3",
+    "phonetic_am_text": "/wæks/",
+    "senses": [
+      {
+        "definition": "to polish something with wax",
+        "examples": []
+      },
+      {
+        "definition": "to cover something with wax",
+        "examples": [
+          {
+            "cf": "",
+            "x": "waxed paper"
+          },
+          {
+            "cf": "",
+            "x": "a waxed jacket"
+          }
+        ]
+      },
+      {
+        "definition": "to remove hair from a part of the body using wax",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to wax your legs/to have your legs waxed"
+          }
+        ]
+      },
+      {
+        "definition": "to seem to get gradually bigger until its full form can be seen",
+        "examples": []
+      },
+      {
+        "definition": "to become lyrical, etc. when speaking or writing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He waxed lyrical on the food at the new restaurant."
+          },
+          {
+            "cf": "",
+            "x": "He waxed eloquent about her talents as an actor."
+          }
+        ]
+      },
+      {
+        "definition": "to increase then decrease in strength, importance, etc. over a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Public interest in the issue has waxed and waned over the years."
+          }
+        ]
+      }
+    ]
+  }
+]

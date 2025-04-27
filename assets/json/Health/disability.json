@@ -1,0 +1,1908 @@
+[
+  {
+    "word": "Asperger’s syndrome",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/asp/asper/asperger_s_syndrome_1_gb_1.mp3",
+    "phonetic_text": "/ˈæspɜːɡəz sɪndrəʊm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/asp/asper/asperger_s_syndrome_1_us_2.mp3",
+    "phonetic_am_text": "/ˈæspərɡərz sɪndrəʊm/",
+    "senses": [
+      {
+        "definition": "an autism spectrum disorder (= one of a range of conditions affecting brain development and the ability to communicate or form relationships with others) that is less severe than some other forms",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "aphasia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aph/aphas/aphasia__gb_1.mp3",
+    "phonetic_text": "/əˈfeɪziə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aph/aphas/aphasia__us_1.mp3",
+    "phonetic_am_text": "/əˈfeɪʒə/",
+    "senses": [
+      {
+        "definition": "the loss of the ability to understand or produce speech, because of brain damage",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "assisted living",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assis/assisted_living_1_gb_1.mp3",
+    "phonetic_text": "/əˌsɪstɪd ˈlɪvɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assis/assisted_living_1_us_1.mp3",
+    "phonetic_am_text": "/əˌsɪstɪd ˈlɪvɪŋ/",
+    "senses": [
+      {
+        "definition": "accommodation for people who need help, for example with tasks like washing and dressing themselves",
+        "examples": [
+          {
+            "cf": "",
+            "x": "assisted living apartments"
+          },
+          {
+            "cf": "",
+            "x": "assisted living and other options for elderly people"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ASL",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/asl/asl_1/asl_1_gb_1.mp3",
+    "phonetic_text": "/ˌeɪ es ˈel/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/asl/asl_1/asl_1_us_1_abbr.mp3",
+    "phonetic_am_text": "/ˌeɪ es ˈel/",
+    "senses": [
+      {
+        "definition": "a sign language (= a language that uses hand movements rather than words) developed and used in the US and also used in English-speaking parts of Canada (the abbreviation for American Sign Language)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "All our staff use ASL."
+          },
+          {
+            "cf": "",
+            "x": "an ASL interpreter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accessibility",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/acces/accessibility__gb_1.mp3",
+    "phonetic_text": "/əkˌsesəˈbɪləti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/acces/accessibility__us_3.mp3",
+    "phonetic_am_text": "/əkˌsesəˈbɪləti/",
+    "senses": [
+      {
+        "definition": "how easy something is to reach, enter, use, see, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Data accessibility and reliability are essential factors in today's business world."
+          },
+          {
+            "cf": "accessibility to something",
+            "x": "Accessibility to computers is vital."
+          },
+          {
+            "cf": "accessibility (of something) (to somebody)",
+            "x": "Improving the accessibility of woodlands to the public is seen as a key issue."
+          }
+        ]
+      },
+      {
+        "definition": "how easy something is to reach, enter, use, etc. for somebody with a disability",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The building has limited wheelchair accessibility."
+          },
+          {
+            "cf": "",
+            "x": "This checklist will help you to evaluate the accessibility of a venue."
+          }
+        ]
+      },
+      {
+        "definition": "how easy something is to understand",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the accessibility of her poetry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "American Sign Language",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ame/ameri/american_sign_language_1_gb_1.mp3",
+    "phonetic_text": "/əˌmerɪkən ˈsaɪn læŋɡwɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ame/ameri/american_sign_language_1_us_1.mp3",
+    "phonetic_am_text": "/əˌmerɪkən ˈsaɪn læŋɡwɪdʒ/",
+    "senses": [
+      {
+        "definition": "a sign language (= a language that uses hand movements rather than words) developed and used in the US and also used in English-speaking parts of Canada",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their daughter is deaf and they all use American Sign Language."
+          },
+          {
+            "cf": "",
+            "x": "an American Sign Language interpreter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "assistance dog",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assis/assistance_dog_1_gb_1.mp3",
+    "phonetic_text": "/əˈsɪstəns dɒɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assis/assistance_dog_1_us_1.mp3",
+    "phonetic_am_text": "/əˈsɪstəns dɔːɡ/",
+    "senses": [
+      {
+        "definition": "a dog trained to help somebody who has a medical condition or disability",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Dogs are not allowed inside the cafe, with the exception of assistance dogs."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alexia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ale/alexi/alexia__gb_1.mp3",
+    "phonetic_text": "/əˈleksiə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ale/alexi/alexia__us_1.mp3",
+    "phonetic_am_text": "/əˈleksiə/",
+    "senses": [
+      {
+        "definition": "the condition of not being able to recognize written words or letters, usually because of brain damage",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "access",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/acces/access__gb_4.mp3",
+    "phonetic_text": "/ˈækses/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/acces/access__us_2.mp3",
+    "phonetic_am_text": "/ˈækses/",
+    "senses": [
+      {
+        "definition": "the opportunity or right to use something or to see somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "High-speed internet access has become a necessity."
+          },
+          {
+            "cf": "access to something/somebody",
+            "x": "You need a password to get access to the computer system."
+          },
+          {
+            "cf": "",
+            "x": "access to information/services/resources"
+          },
+          {
+            "cf": "",
+            "x": "access to healthcare/education"
+          },
+          {
+            "cf": "",
+            "x": "They are seeking increased access to markets overseas."
+          },
+          {
+            "cf": "",
+            "x": "to provide/allow access to something/somebody"
+          },
+          {
+            "cf": "",
+            "x": "to restrict/block access to something/somebody"
+          },
+          {
+            "cf": "",
+            "x": "Journalists were denied access to the President."
+          },
+          {
+            "cf": "",
+            "x": "Many divorced fathers only have access to their children at weekends (= they are allowed by law to see them only at weekends)."
+          }
+        ]
+      },
+      {
+        "definition": "a way of entering or reaching a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The police gained access through a broken window."
+          },
+          {
+            "cf": "",
+            "x": "Many paths have become overgrown, blocking access."
+          },
+          {
+            "cf": "",
+            "x": "There is easy access by road."
+          },
+          {
+            "cf": "access to something",
+            "x": "We welcome disabled visitors and there is wheelchair access to all parts of the park."
+          },
+          {
+            "cf": "",
+            "x": "The only access to the farmhouse is across the fields."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ASD",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/asd/asd_1/asd_1_gb_1.mp3",
+    "phonetic_text": "/ˌeɪ es ˈdiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/asd/asd_1/asd_1_us_1.mp3",
+    "phonetic_am_text": "/ˌeɪ es ˈdiː/",
+    "senses": [
+      {
+        "definition": "a range of conditions affecting brain development that can be severe or mild, in which a person can find it difficult to communicate and form relationships, and may show repeated or limited patterns of thought and behaviour (the abbreviation for autism spectrum disorder)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Many individuals with ASD find it challenging to navigate the social rules of dating."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "autism spectrum disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autis/autism_spectrum_disorder_1_gb_1.mp3",
+    "phonetic_text": "/ˌɔːtɪzəm ˈspektrəm dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autis/autism_spectrum_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/ˌɔːtɪzəm ˈspektrəm dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a range of conditions affecting brain development that can be severe or mild, or any one of these conditions. People with autism spectrum disorder can find it difficult to communicate and form relationships, and may show repeated or limited patterns of thought and behaviour.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "support for families with children who have autism spectrum disorder"
+          },
+          {
+            "cf": "",
+            "x": "He was diagnosed with an autistic spectrum disorder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "autistic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autis/autistic__gb_1.mp3",
+    "phonetic_text": "/ɔːˈtɪstɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autis/autistic__us_1.mp3",
+    "phonetic_am_text": "/ɔːˈtɪstɪk/",
+    "senses": [
+      {
+        "definition": "having autism; connected with autism",
+        "examples": [
+          {
+            "cf": "",
+            "x": "autistic children/traits"
+          },
+          {
+            "cf": "",
+            "x": "Our son is autistic."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "autism",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autis/autism__gb_1.mp3",
+    "phonetic_text": "/ˈɔːtɪzəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autis/autism__us_1.mp3",
+    "phonetic_am_text": "/ˈɔːtɪzəm/",
+    "senses": [
+      {
+        "definition": "a condition affecting brain development that can be severe or mild. People with autism can find it difficult to communicate and form relationships, and may show repeated or limited patterns of thought and behaviour.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "brain damage",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bra/brain/brain_damage_1_gb_1.mp3",
+    "phonetic_text": "/ˈbreɪn dæmɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bra/brain/brain_damage_1_us_1.mp3",
+    "phonetic_am_text": "/ˈbreɪn dæmɪdʒ/",
+    "senses": [
+      {
+        "definition": "permanent damage to the brain caused by illness or an accident",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "blindness",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bli/blind/blindness__gb_1.mp3",
+    "phonetic_text": "/ˈblaɪndnəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bli/blind/blindness__us_1.mp3",
+    "phonetic_am_text": "/ˈblaɪndnəs/",
+    "senses": [
+      {
+        "definition": "the condition of being unable to see",
+        "examples": [
+          {
+            "cf": "",
+            "x": "total/temporary/partial blindness"
+          }
+        ]
+      },
+      {
+        "definition": "the fact of not noticing or realizing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "her blindness to the truth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "British Sign Language",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/briti/british_sign_language_1_gb_1.mp3",
+    "phonetic_text": "/ˌbrɪtɪʃ ˈsaɪn læŋɡwɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/briti/british_sign_language_1_us_1.mp3",
+    "phonetic_am_text": "/ˌbrɪtɪʃ ˈsaɪn læŋɡwɪdʒ/",
+    "senses": [
+      {
+        "definition": "a sign language (= a language that uses hand movements rather than words) developed and used in the UK",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She uses British Sign Language."
+          },
+          {
+            "cf": "",
+            "x": "a British Sign Language interpreter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cerebral palsy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cer/cereb/cerebral_palsy_1_gb_1.mp3",
+    "phonetic_text": "/ˌserəbrəl ˈpɔːlzi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cer/cereb/cerebral_palsy_1_us_1.mp3",
+    "phonetic_am_text": "/səˌriːbrəl ˈpɔːlzi/",
+    "senses": [
+      {
+        "definition": "a medical condition caused by a brain injury or development problem, usually before or at birth, that causes the loss of control of movement in the arms and legs",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "BSL",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bsl/bsl_1/bsl_1_gb_1_abbr.mp3",
+    "phonetic_text": "/ˌbiː es ˈel/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bsl/bsl_1/bsl_1_us_1_abbr.mp3",
+    "phonetic_am_text": "/ˌbiː es ˈel/",
+    "senses": [
+      {
+        "definition": "a sign language (= a language that uses hand movements rather than words) developed and used in the UK (the abbreviation for British Sign Language)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She works with students who use BSL."
+          },
+          {
+            "cf": "",
+            "x": "a BSL interpreter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "blue badge",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blu/blue_/blue_badge_1_gb_1.mp3",
+    "phonetic_text": "/ˌbluː ˈbædʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blu/blue_/blue_badge_1_us_2.mp3",
+    "phonetic_am_text": "/ˌbluː ˈbædʒ/",
+    "senses": [
+      {
+        "definition": "a blue card with a picture of a wheelchair that can be displayed in the window of a car. It shows that somebody is recognized as having a disability and is allowed to park in certain places where other people may not park.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "blind",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bli/blind/blind__gb_11.mp3",
+    "phonetic_text": "/blaɪnd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bli/blind/blind__us_1.mp3",
+    "phonetic_am_text": "/blaɪnd/",
+    "senses": [
+      {
+        "definition": "not able to see",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Doctors think he will go blind."
+          },
+          {
+            "cf": "",
+            "x": "She went blind at the age of ten."
+          },
+          {
+            "cf": "",
+            "x": "blind and partially sighted people"
+          },
+          {
+            "cf": "",
+            "x": "One of her parents is blind."
+          },
+          {
+            "cf": "",
+            "x": "She has been legally blind since birth."
+          },
+          {
+            "cf": "",
+            "x": "The accident left me blind in one eye."
+          }
+        ]
+      },
+      {
+        "definition": "people who are blind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "recorded books for the blind"
+          },
+          {
+            "cf": "",
+            "x": "guide dogs for the blind"
+          }
+        ]
+      },
+      {
+        "definition": "not noticing or realizing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She is blind to her best friend's faults."
+          },
+          {
+            "cf": "",
+            "x": "I must have been blind not to realize the danger we were in."
+          },
+          {
+            "cf": "",
+            "x": "They seem to be totally blind to reality."
+          },
+          {
+            "cf": "",
+            "x": "The government is not blind to the fact that the national debt is increasing."
+          }
+        ]
+      },
+      {
+        "definition": "seeming to be unreasonable, and accepted without question; seeming to be out of control",
+        "examples": [
+          {
+            "cf": "",
+            "x": "blind faith/obedience"
+          },
+          {
+            "cf": "",
+            "x": "It was a moment of blind panic."
+          }
+        ]
+      },
+      {
+        "definition": "that cannot be controlled by reason",
+        "examples": [
+          {
+            "cf": "",
+            "x": "blind chance"
+          },
+          {
+            "cf": "",
+            "x": "the blind force of nature"
+          }
+        ]
+      },
+      {
+        "definition": "that a driver in a car cannot see, or cannot see around",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a blind driveway"
+          },
+          {
+            "cf": "",
+            "x": "a blind bend/corner"
+          }
+        ]
+      },
+      {
+        "definition": "that does not make a difference between people on the basis of the quality mentioned, or favour one group over another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In a piece of gender-blind casting, Hamlet is played by British actress Maxine Peake."
+          },
+          {
+            "cf": "",
+            "x": "She is very suspicious of anyone who claims to be race-blind."
+          }
+        ]
+      },
+      {
+        "definition": "not able to see well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She’s as blind as a bat without her glasses."
+          }
+        ]
+      },
+      {
+        "definition": "a situation in which people with almost no experience or knowledge give advice to others who also have no experience or knowledge",
+        "examples": []
+      },
+      {
+        "definition": "when you love somebody, you cannot see their faults",
+        "examples": []
+      },
+      {
+        "definition": "not any",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He didn't take a blind bit of notice of me (= he ignored me)."
+          },
+          {
+            "cf": "",
+            "x": "It won't make the blindest bit of difference (= it will make no difference at all)."
+          }
+        ]
+      },
+      {
+        "definition": "to pretend not to notice something bad that is happening, so you do not have to do anything about it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The authorities were either unaware of the problem or they turned a blind eye to it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "deaf",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dea/deaf_/deaf__gb_1.mp3",
+    "phonetic_text": "/def/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dea/deaf_/deaf__us_1.mp3",
+    "phonetic_am_text": "/def/",
+    "senses": [
+      {
+        "definition": "unable to hear anything or unable to hear very well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to become/go deaf"
+          },
+          {
+            "cf": "",
+            "x": "She was born deaf."
+          },
+          {
+            "cf": "",
+            "x": "partially deaf"
+          }
+        ]
+      },
+      {
+        "definition": "people who cannot hear",
+        "examples": [
+          {
+            "cf": "",
+            "x": "television subtitles for the deaf"
+          }
+        ]
+      },
+      {
+        "definition": "not willing to listen or pay attention to something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was deaf to my requests for help."
+          },
+          {
+            "cf": "",
+            "x": "The committee remained deaf to our suggestions."
+          }
+        ]
+      },
+      {
+        "definition": "very deaf",
+        "examples": []
+      },
+      {
+        "definition": "to be ignored or not noticed by other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her advice fell on deaf ears."
+          }
+        ]
+      },
+      {
+        "definition": "to ignore or refuse to listen to somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He turned a deaf ear to the rumours."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Down syndrome",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dow/down_/down_syndrome_1_gb_1.mp3",
+    "phonetic_text": "/ˈdaʊn sɪndrəʊm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dow/down_/down_syndrome_1_us_1.mp3",
+    "phonetic_am_text": "/ˈdaʊn sɪndrəʊm/",
+    "senses": [
+      {
+        "definition": "a medical condition that some people are born with, caused by a fault with one chromosome, which results in learning disabilities",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "disability",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dis/disab/disability__gb_1.mp3",
+    "phonetic_text": "/ˌdɪsəˈbɪləti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dis/disab/disability__us_1.mp3",
+    "phonetic_am_text": "/ˌdɪsəˈbɪləti/",
+    "senses": [
+      {
+        "definition": "a physical or mental condition that makes it difficult for somebody to do some things that most other people can do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a physical/developmental/intellectual disability"
+          },
+          {
+            "cf": "with a disability",
+            "x": "people with invisible disabilities such as hearing loss"
+          }
+        ]
+      },
+      {
+        "definition": "the state of having a physical or mental condition that makes it difficult to do some things that most other people can do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "learning to live with disability"
+          },
+          {
+            "cf": "",
+            "x": "He qualifies for help on the grounds of disability."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "closed-captioned",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/clo/close/closed_captioned_1_gb_1.mp3",
+    "phonetic_text": "/ˌkləʊzd ˈkæpʃnd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clo/close/closed_captioned_1_us_1.mp3",
+    "phonetic_am_text": "/ˌkləʊzd ˈkæpʃnd/",
+    "senses": [
+      {
+        "definition": "having captions that can only be read if you have a special machine (= a decoder)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "deafness",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dea/deafn/deafness__gb_1.mp3",
+    "phonetic_text": "/ˈdefnəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dea/deafn/deafness__us_1.mp3",
+    "phonetic_am_text": "/ˈdefnəs/",
+    "senses": [
+      {
+        "definition": "the condition of being unable to hear anything or unable to hear very well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Measles can cause deafness and blindness."
+          }
+        ]
+      },
+      {
+        "definition": "the fact of not being willing to listen or pay attention to something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "his deafness to criticism"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dyslexia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dys/dysle/dyslexia__gb_1.mp3",
+    "phonetic_text": "/dɪsˈleksiə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dys/dysle/dyslexia__us_1.mp3",
+    "phonetic_am_text": "/dɪsˈleksiə/",
+    "senses": [
+      {
+        "definition": "a condition affecting the brain that causes difficulty in reading and spelling, for example, but does not affect intelligence",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "deaf-blind",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dea/deaf_/deaf_blind_1_gb_2.mp3",
+    "phonetic_text": "/ˈdef blaɪnd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dea/deaf_/deaf_blind_1_us_3.mp3",
+    "phonetic_am_text": "/ˈdef blaɪnd/",
+    "senses": [
+      {
+        "definition": "unable to hear and see anything or unable to hear and see very well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Negotiating a public transport system presents all kinds of problems for people who are deaf-blind."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Down’s syndrome",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dow/down_/down_s_syndrome_1_gb_1.mp3",
+    "phonetic_text": "/ˈdaʊnz sɪndrəʊm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dow/down_/down_s_syndrome_1_us_1.mp3",
+    "phonetic_am_text": "/ˈdaʊnz sɪndrəʊm/",
+    "senses": [
+      {
+        "definition": "a medical condition that some people are born with, caused by a fault with one chromosome, which results in learning disabilities",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her older brother has Down's syndrome."
+          },
+          {
+            "cf": "",
+            "x": "Your chance of having a baby with Down's increases with age."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "disabled",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dis/disab/disabled__gb_1.mp3",
+    "phonetic_text": "/dɪsˈeɪbld/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dis/disab/disabled__us_1.mp3",
+    "phonetic_am_text": "/dɪsˈeɪbld/",
+    "senses": [
+      {
+        "definition": "having a condition that makes it difficult for you to do some things that most other people can do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "physically/developmentally/intellectually disabled"
+          },
+          {
+            "cf": "",
+            "x": "a new home for severely disabled people"
+          },
+          {
+            "cf": "",
+            "x": "My sister is learning disabled (= she has a learning disability)."
+          },
+          {
+            "cf": "",
+            "x": "temporarily/permanently disabled"
+          },
+          {
+            "cf": "",
+            "x": "The stroke left him disabled."
+          },
+          {
+            "cf": "",
+            "x": "The museum has special facilities for disabled people."
+          },
+          {
+            "cf": "",
+            "x": "Does the theatre have disabled access?"
+          }
+        ]
+      },
+      {
+        "definition": "people who are disabled",
+        "examples": [
+          {
+            "cf": "",
+            "x": "caring for the sick, elderly and disabled"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "echolalia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ech/echol/echolalia__gb_1.mp3",
+    "phonetic_text": "/ˌekəʊˈleɪliə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ech/echol/echolalia__us_1.mp3",
+    "phonetic_am_text": "/ˌekəʊˈleɪliə/",
+    "senses": [
+      {
+        "definition": "the act of repeating everything somebody says, as a result of a mental condition",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "dysphasia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dys/dysph/dysphasia__gb_1.mp3",
+    "phonetic_text": "/dɪsˈfeɪziə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dys/dysph/dysphasia__us_1.mp3",
+    "phonetic_am_text": "/dɪsˈfeɪʒə/",
+    "senses": [
+      {
+        "definition": "a condition affecting the brain that causes difficulty in speaking and understanding",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hearing dog",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heari/hearing_dog_1_gb_1.mp3",
+    "phonetic_text": "/ˈhɪərɪŋ dɒɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heari/hearing_dog_1_us_1.mp3",
+    "phonetic_am_text": "/ˈhɪrɪŋ dɔːɡ/",
+    "senses": [
+      {
+        "definition": "a dog trained to help a person who cannot hear well by making them aware of sounds such as the ringing of a phone or a doorbell",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "guide dog",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gui/guide/guide_dog_1_gb_1.mp3",
+    "phonetic_text": "/ˈɡaɪd dɒɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gui/guide/guide_dog_1_us_1.mp3",
+    "phonetic_am_text": "/ˈɡaɪd dɔːɡ/",
+    "senses": [
+      {
+        "definition": "a dog trained to guide somebody who cannot see well or at all",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These dogs have been bred to work as guide dogs for blind and visually impaired people."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hard of hearing",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/hard_/hard_of_hearing_1_gb_1.mp3",
+    "phonetic_text": "/ˌhɑːd əv ˈhɪərɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/hard_/hard_of_hearing_1_us_1.mp3",
+    "phonetic_am_text": "/ˌhɑːrd əv ˈhɪrɪŋ/",
+    "senses": [
+      {
+        "definition": "unable to hear very well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She is hard of hearing and her eyesight is starting to fail."
+          },
+          {
+            "cf": "",
+            "x": "You may need to interact with deaf or hard-of-hearing co-workers or clients."
+          }
+        ]
+      },
+      {
+        "definition": "people who are unable to hear very well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "subtitles for the deaf and the hard of hearing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "learning disability",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/learn/learning_disability_1_gb_1.mp3",
+    "phonetic_text": "/ˈlɜːnɪŋ dɪsəbɪləti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lea/learn/learning_disability_1_us_1.mp3",
+    "phonetic_am_text": "/ˈlɜːrnɪŋ dɪsəbɪləti/",
+    "senses": [
+      {
+        "definition": "difficulty in learning and understanding things or in managing everyday activities, which affects somebody for their whole life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She works in a school for children with learning disabilities."
+          },
+          {
+            "cf": "",
+            "x": "You may get extra help if your child has a learning disability."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "learning difficulty",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/learn/learning_difficulty_1_gb_1.mp3",
+    "phonetic_text": "/ˈlɜːnɪŋ dɪfɪkəlti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lea/learn/learning_difficulty_1_us_1.mp3",
+    "phonetic_am_text": "/ˈlɜːrnɪŋ dɪfɪkəlti/",
+    "senses": [
+      {
+        "definition": "difficulty in learning and understanding things or in managing everyday activities, which affects somebody for their whole life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a child with severe learning difficulties"
+          },
+          {
+            "cf": "",
+            "x": "A student may need extra support with a specific learning difficulty."
+          },
+          {
+            "cf": "",
+            "x": "Because of my learning difficulties, I struggle to order tickets online."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "impaired",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impai/impaired__gb_1.mp3",
+    "phonetic_text": "/ɪmˈpeəd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impai/impaired__us_1.mp3",
+    "phonetic_am_text": "/ɪmˈperd/",
+    "senses": [
+      {
+        "definition": "not working as it normally would or as it does in most people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "impaired vision/memory"
+          },
+          {
+            "cf": "",
+            "x": "Anxiety can lead to impaired cognitive function."
+          },
+          {
+            "cf": "",
+            "x": "Since my accident I have impaired mobility."
+          },
+          {
+            "cf": "",
+            "x": "patients with impaired renal function"
+          },
+          {
+            "cf": "",
+            "x": "The battery life of the product was seriously impaired."
+          }
+        ]
+      },
+      {
+        "definition": "having a particular kind of disability",
+        "examples": [
+          {
+            "cf": "",
+            "x": "people who are visually impaired"
+          },
+          {
+            "cf": "",
+            "x": "She is now registered as severely sight-impaired but has continued to paint and create works."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hearing aid",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/heari/hearing_aid_1_gb_1.mp3",
+    "phonetic_text": "/ˈhɪərɪŋ eɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/heari/hearing_aid_1_us_1.mp3",
+    "phonetic_am_text": "/ˈhɪrɪŋ eɪd/",
+    "senses": [
+      {
+        "definition": "a small device that fits inside the ear and makes sounds louder, used by people who cannot hear well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to have/wear a hearing aid"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mobility",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mob/mobil/mobility__gb_1.mp3",
+    "phonetic_text": "/məʊˈbɪləti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mob/mobil/mobility__us_1.mp3",
+    "phonetic_am_text": "/məʊˈbɪləti/",
+    "senses": [
+      {
+        "definition": "the ability to move easily from one place, social class or job to another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "social/geographical/career mobility"
+          },
+          {
+            "cf": "",
+            "x": "The high cost of living acts as an obstacle to mobility of labour."
+          }
+        ]
+      },
+      {
+        "definition": "the ability to move or travel around easily",
+        "examples": [
+          {
+            "cf": "",
+            "x": "An electric wheelchair has given her greater mobility."
+          },
+          {
+            "cf": "",
+            "x": "mobility training for blind people"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "limb difference",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lim/limb_/limb_difference_1_gb_1.mp3",
+    "phonetic_text": "/ˈlɪm dɪfrəns/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lim/limb_/limb_difference_1_us_1.mp3",
+    "phonetic_am_text": "/ˈlɪm dɪfrəns/",
+    "senses": [
+      {
+        "definition": "the fact of having an arm, leg, hand, finger, etc. that is not shaped in the usual way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was born with an upper limb difference."
+          },
+          {
+            "cf": "",
+            "x": "He has managed his limb difference deftly his whole life."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "on the spectrum",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spe/spect/spectrum__gb_1.mp3",
+    "phonetic_text": "/ˈspektrəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spe/spect/spectrum__us_1.mp3",
+    "phonetic_am_text": "/ˈspektrəm/",
+    "senses": [
+      {
+        "definition": "a band of coloured lights in order of their wavelengths, as seen in a rainbow and into which light may be separated",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A spectrum is formed by a ray of light passing through a prism."
+          },
+          {
+            "cf": "",
+            "x": "Red and violet are at opposite ends of the spectrum."
+          }
+        ]
+      },
+      {
+        "definition": "a range of sound waves or several other types of wave",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the electromagnetic/radio/sound spectrum"
+          }
+        ]
+      },
+      {
+        "definition": "a complete or wide range of related qualities, ideas, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a broad spectrum of interests"
+          },
+          {
+            "cf": "",
+            "x": "We shall hear views from across the political spectrum."
+          }
+        ]
+      },
+      {
+        "definition": "having an autism spectrum disorder",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The chance of having a second autistic child is much higher for parents with one child on the spectrum."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "para-",
+    "pos": "prefix",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/para_/para__1_gb_1.mp3",
+    "phonetic_text": "/pærə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/para_/para__1_us_1.mp3",
+    "phonetic_am_text": "/pærə/",
+    "senses": [
+      {
+        "definition": "outside; beyond",
+        "examples": [
+          {
+            "cf": "",
+            "x": "paranormal"
+          }
+        ]
+      },
+      {
+        "definition": "similar to but not official or not fully qualified",
+        "examples": [
+          {
+            "cf": "",
+            "x": "paramilitary"
+          },
+          {
+            "cf": "",
+            "x": "a paramedic"
+          }
+        ]
+      },
+      {
+        "definition": "related to the Paralympic form of a sport",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has been attending a para-sports club for the last year."
+          },
+          {
+            "cf": "",
+            "x": "the World Para-Athletics Championships"
+          },
+          {
+            "cf": "",
+            "x": "She has recently set three new paraswimming world records."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Makaton™",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mak/makat/makaton_1_gb_1.mp3",
+    "phonetic_text": "/ˈmækətɒn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mak/makat/makaton_1_us_1.mp3",
+    "phonetic_am_text": "/ˈmækətɑːn/",
+    "senses": [
+      {
+        "definition": "a language system created for people who have difficulty communicating, especially people with learning disabilities, that uses a combination of speech, hand movements and pictures",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I learned Makaton to help my son."
+          },
+          {
+            "cf": "",
+            "x": "More than a million children and adults in the UK use Makaton signs and symbols."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "impairment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impai/impairment__gb_2.mp3",
+    "phonetic_text": "/ɪmˈpeəmənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impai/impairment__us_1.mp3",
+    "phonetic_am_text": "/ɪmˈpermənt/",
+    "senses": [
+      {
+        "definition": "an injury, illness or condition that means that part of your body or brain does not work as it normally would or as it does in most people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "impairment of kidney function"
+          },
+          {
+            "cf": "",
+            "x": "visual impairments"
+          },
+          {
+            "cf": "",
+            "x": "He drove in a state of serious impairment due to alcohol."
+          },
+          {
+            "cf": "",
+            "x": "The drug is approved for mild cognitive impairment."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mobility scooter",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mob/mobil/mobility_scooter_1_gb_2.mp3",
+    "phonetic_text": "/məʊˈbɪləti skuːtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mob/mobil/mobility_scooter_1_us_2.mp3",
+    "phonetic_am_text": "/məʊˈbɪləti skuːtər/",
+    "senses": [
+      {
+        "definition": "a type of light electric vehicle with a seat, a bar for controlling the direction in which it moves and three or more wheels, designed for people who are unable to move easily from one place to another because they are elderly, disabled, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Paralympics",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/the_p/the_paralympics_1_gb_1.mp3",
+    "phonetic_text": "/ðə ˌpærəˈlɪmpɪks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paral/paralympics_the_1_us_1.mp3",
+    "phonetic_am_text": "/ðə ˌpærəˈlɪmpɪks/",
+    "senses": [
+      {
+        "definition": "an international competition for athletes who have a disability (= a physical or mental condition that makes it difficult for somebody to do some things that most other people can do)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "paraplegic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/parap/paraplegic__gb_1.mp3",
+    "phonetic_text": "/ˌpærəˈpliːdʒɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/parap/paraplegic__us_1.mp3",
+    "phonetic_am_text": "/ˌpærəˈpliːdʒɪk/",
+    "senses": [
+      {
+        "definition": "having paraplegia; connected with paraplegia",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was injured so badly that he will be paraplegic for the rest of his life."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Paralympic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paral/paralympic_1_gb_3.mp3",
+    "phonetic_text": "/ˌpærəˈlɪmpɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paral/paralympic_1_us_1.mp3",
+    "phonetic_am_text": "/ˌpærəˈlɪmpɪk/",
+    "senses": [
+      {
+        "definition": "connected with the Paralympics (= an international competition for athletes who have a disability)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Next week over six hundred Paralympic athletes will be arriving to take part in the competition."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Paralympian",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paral/paralympian_1_gb_3.mp3",
+    "phonetic_text": "/ˌpærəˈlɪmpiən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paral/paralympian_1_us_3.mp3",
+    "phonetic_am_text": "/ˌpærəˈlɪmpiən/",
+    "senses": [
+      {
+        "definition": "connected with the Paralympics or with somebody who competes in it",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "para-athlete",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/para_/para_athlete_1_gb_1.mp3",
+    "phonetic_text": "/ˌpærə ˈæθliːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/para_/para_athlete_1_us_1.mp3",
+    "phonetic_am_text": "/ˌpærə ˈæθliːt/",
+    "senses": [
+      {
+        "definition": "a person who competes in Paralympic sports",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The coach at the club was the first to see my potential as a para-athlete."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "paralysis",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paral/paralysis__gb_1.mp3",
+    "phonetic_text": "/pəˈræləsɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paral/paralysis__us_1.mp3",
+    "phonetic_am_text": "/pəˈræləsɪs/",
+    "senses": [
+      {
+        "definition": "a loss of control of, and sometimes feeling in, part or most of the body, caused by disease or an injury to the nerves",
+        "examples": [
+          {
+            "cf": "",
+            "x": "paralysis of both legs"
+          }
+        ]
+      },
+      {
+        "definition": "the condition of being unable to move, act, function, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The strike caused total paralysis in the city."
+          },
+          {
+            "cf": "",
+            "x": "The crisis over the constitution may lead to political paralysis."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "paraplegia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/parap/paraplegia__gb_1.mp3",
+    "phonetic_text": "/ˌpærəˈpliːdʒə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/parap/paraplegia__us_1.mp3",
+    "phonetic_am_text": "/ˌpærəˈpliːdʒə/",
+    "senses": [
+      {
+        "definition": "paralysis (= loss of control or feeling) in the legs and lower body",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Paralympian",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paral/paralympian_1_gb_3.mp3",
+    "phonetic_text": "/ˌpærəˈlɪmpiən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paral/paralympian_1_us_3.mp3",
+    "phonetic_am_text": "/ˌpærəˈlɪmpiən/",
+    "senses": [
+      {
+        "definition": "a person who competes in the Paralympics",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "quadriplegia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quadr/quadriplegia__gb_1.mp3",
+    "phonetic_text": "/ˌkwɒdrɪˈpliːdʒə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quadr/quadriplegia__us_1.mp3",
+    "phonetic_am_text": "/ˌkwɑːdrɪˈpliːdʒə/",
+    "senses": [
+      {
+        "definition": "a condition in which somebody is permanently unable to use their arms and legs",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "partially sighted",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/parti/partially_sighted_1_gb_1.mp3",
+    "phonetic_text": "/ˌpɑːʃəli ˈsaɪtɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/parti/partially_sighted_1_us_1.mp3",
+    "phonetic_am_text": "/ˌpɑːrʃəli ˈsaɪtɪd/",
+    "senses": [
+      {
+        "definition": "not able to see well because of a visual impairment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a society for blind and partially sighted people"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "paralyse",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paral/paralyse__gb_1.mp3",
+    "phonetic_text": "/ˈpærəlaɪz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paral/paralyse__us_1.mp3",
+    "phonetic_am_text": "/ˈpærəlaɪz/",
+    "senses": [
+      {
+        "definition": "to make somebody unable to feel or move all or part of their body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The accident left him paralysed from the waist down."
+          },
+          {
+            "cf": "",
+            "x": "He was partially paralysed by the fall."
+          },
+          {
+            "cf": "",
+            "x": "paralysing heat"
+          },
+          {
+            "cf": "",
+            "x": "She stood there, paralysed with fear."
+          }
+        ]
+      },
+      {
+        "definition": "to prevent something from functioning normally",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The airport is still paralysed by the strike."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "screen reader",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/scr/scree/screen_reader_1_gb_1.mp3",
+    "phonetic_text": "/ˈskriːn riːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/scr/scree/screen_reader_1_us_1.mp3",
+    "phonetic_am_text": "/ˈskriːn riːdər/",
+    "senses": [
+      {
+        "definition": "a computer program that turns the text displayed on a screen into speech or Braille",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Creating a website compatible with screen readers is essential."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quadriplegic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quadr/quadriplegic__gb_1.mp3",
+    "phonetic_text": "/ˌkwɒdrɪˈpliːdʒɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quadr/quadriplegic__us_1.mp3",
+    "phonetic_am_text": "/ˌkwɑːdrɪˈpliːdʒɪk/",
+    "senses": [
+      {
+        "definition": "permanently unable to use your arms and legs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A skiing accident rendered him quadriplegic."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sheltered housing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/she/shelt/sheltered_housing_1_gb_1.mp3",
+    "phonetic_text": "/ˌʃeltəd ˈhaʊzɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/she/shelt/sheltered_housing_1_us_1.mp3",
+    "phonetic_am_text": "/ˌʃeltərd ˈhaʊzɪŋ/",
+    "senses": [
+      {
+        "definition": "houses or flats that are designed and built for elderly people or for people with disabilities so that they can live in the local community instead of in hospitals or care homes. Sheltered housing is usually arranged in small blocks, with a person in each block whose job is to help the people living there. The term is less often used in the US for this type of housing.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "sheltered housing for older people"
+          },
+          {
+            "cf": "",
+            "x": "The new sheltered housing project will be built close to the shops and main bus routes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "savant syndrome",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sav/savan/savant_syndrome_1_gb_1.mp3",
+    "phonetic_text": "/ˈsævənt sɪndrəʊm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sav/savan/savant_syndrome_1_us_1.mp3",
+    "phonetic_am_text": "/səˈvɑːnt sɪndrəʊm/",
+    "senses": [
+      {
+        "definition": "a condition in which somebody has an unusually high level of ability in a particular skill, for example in art or music, or in remembering things, but who has serious learning or social difficulties in other areas",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "ramp",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ram/ramp_/ramp__gb_1.mp3",
+    "phonetic_text": "/ræmp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ram/ramp_/ramp__us_1.mp3",
+    "phonetic_am_text": "/ræmp/",
+    "senses": [
+      {
+        "definition": "a slope that joins two parts of a road, path, building, etc. when one is higher than the other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Ramps should be provided for wheelchair users."
+          }
+        ]
+      },
+      {
+        "definition": "a road used for driving onto or off a major road such as a motorway or interstate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a freeway exit ramp"
+          }
+        ]
+      },
+      {
+        "definition": "a slope or set of steps that can be moved, used for loading a vehicle or getting on or off a plane",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a loading ramp"
+          }
+        ]
+      },
+      {
+        "definition": "the long stage that models walk on during a fashion show",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sighted",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sig/sight/sighted__gb_1.mp3",
+    "phonetic_text": "/ˈsaɪtɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sig/sight/sighted__us_1.mp3",
+    "phonetic_am_text": "/ˈsaɪtɪd/",
+    "senses": [
+      {
+        "definition": "able to see; not blind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the blind parents of sighted children"
+          }
+        ]
+      },
+      {
+        "definition": "able to see in the way mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "partially sighted"
+          },
+          {
+            "cf": "",
+            "x": "short-sighted"
+          },
+          {
+            "cf": "",
+            "x": "long-sighted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wheelchair",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/wheel/wheelchair__gb_1.mp3",
+    "phonetic_text": "/ˈwiːltʃeə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/wheel/wheelchair__us_1.mp3",
+    "phonetic_am_text": "/ˈwiːltʃer/",
+    "senses": [
+      {
+        "definition": "a special chair with wheels, used by people who cannot walk because of illness, an accident, etc.",
+        "examples": [
+          {
+            "cf": "by wheelchair",
+            "x": "In town, she gets about by wheelchair."
+          },
+          {
+            "cf": "in a wheelchair",
+            "x": "It can be hard to get around if you're in a wheelchair."
+          },
+          {
+            "cf": "",
+            "x": "Tony manoeuvred his wheelchair out from behind his desk."
+          },
+          {
+            "cf": "",
+            "x": "Does the hotel have wheelchair access?"
+          },
+          {
+            "cf": "",
+            "x": "better access for wheelchair users"
+          },
+          {
+            "cf": "",
+            "x": "He's been confined to a wheelchair since the accident."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "walking frame",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wal/walki/walking_frame_1_gb_1.mp3",
+    "phonetic_text": "/ˈwɔːkɪŋ freɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wal/walki/walking_frame_1_us_1.mp3",
+    "phonetic_am_text": "/ˈwɔːkɪŋ freɪm/",
+    "senses": [
+      {
+        "definition": "a metal frame that people use to support them when they are walking, for example people who are old or who have a problem with their legs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He now needs a walking frame to get around."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "walking stick",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wal/walki/walking_stick_1_gb_1.mp3",
+    "phonetic_text": "/ˈwɔːkɪŋ stɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wal/walki/walking_stick_1_us_1.mp3",
+    "phonetic_am_text": "/ˈwɔːkɪŋ stɪk/",
+    "senses": [
+      {
+        "definition": "a stick that you carry and use as a support when you are walking",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Zimmer frame™",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zim/zimme/zimmer_frame_1_gb_1.mp3",
+    "phonetic_text": "/ˈzɪmə freɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zim/zimme/zimmer_frame_1_us_1.mp3",
+    "phonetic_am_text": "/ˈzɪmər freɪm/",
+    "senses": [
+      {
+        "definition": "a metal frame that people use to support them when they are walking, for example people who are old or who have a problem with their legs",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "SEN",
+    "pos": "abbreviation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sen/sen_1/sen_1_gb_1_abbr.mp3",
+    "phonetic_text": "/ˌes iː ˈen/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sen/sen_1/sen_1_us_1_abbr.mp3",
+    "phonetic_am_text": "/ˌes iː ˈen/",
+    "senses": [
+      {
+        "definition": "special educational needs (the educational needs of children who have physical problems or difficulty learning). The official term SEND stands for ‘special educational needs and disability’.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Children with SEN must be treated fairly so they receive the support to which they are entitled."
+          },
+          {
+            "cf": "",
+            "x": "We are seeking a dedicated and enthusiastic SEND Teacher."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Seeing Eye dog™",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/see/seein/seeing_eye_dog_1_gb_1.mp3",
+    "phonetic_text": "/ˌsiːɪŋ ˈaɪ dɒɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/see/seein/seeing_eye_dog_1_us_1.mp3",
+    "phonetic_am_text": "/ˌsiːɪŋ ˈaɪ dɔːɡ/",
+    "senses": [
+      {
+        "definition": "a dog trained to guide a blind person",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sign language",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sig/sign_/sign_language_1_gb_1.mp3",
+    "phonetic_text": "/ˈsaɪn læŋɡwɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sig/sign_/sign_language_1_us_1.mp3",
+    "phonetic_am_text": "/ˈsaɪn læŋɡwɪdʒ/",
+    "senses": [
+      {
+        "definition": "a language that uses hand movements to communicate rather than spoken words, as used by people who cannot hear",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They communicate in sign language."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spina bifida",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spi/spina/spina_bifida_1_gb_1.mp3",
+    "phonetic_text": "/ˌspaɪnə ˈbɪfɪdə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spi/spina/spina_bifida_1_us_1.mp3",
+    "phonetic_am_text": "/ˌspaɪnə ˈbɪfɪdə/",
+    "senses": [
+      {
+        "definition": "a serious medical condition that some people are born with, affecting the spine and often causing paralysis (= loss of control or feeling) in the legs",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "special needs",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spe/speci/special_needs_1_gb_1.mp3",
+    "phonetic_text": "/ˌspeʃl ˈniːdz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spe/speci/special_needs_1_us_1.mp3",
+    "phonetic_am_text": "/ˌspeʃl ˈniːdz/",
+    "senses": [
+      {
+        "definition": "particular educational needs that a child has because of a learning problem or disability",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She teaches children with special needs."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "walker",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wal/walke/walker__gb_1.mp3",
+    "phonetic_text": "/ˈwɔːkə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wal/walke/walker__us_1.mp3",
+    "phonetic_am_text": "/ˈwɔːkər/",
+    "senses": [
+      {
+        "definition": "a person who walks, usually for pleasure or exercise",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The coastal path is a popular route for walkers."
+          }
+        ]
+      },
+      {
+        "definition": "a person who walks fast, slow, etc.",
+        "examples": []
+      },
+      {
+        "definition": "a metal frame that people use to support them when they are walking, for example people who are old or who have a problem with their legs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He now needs a walker to get around."
+          }
+        ]
+      },
+      {
+        "definition": "a frame with wheels and a harness that enables a baby to walk around a room, supported by the frame",
+        "examples": []
+      }
+    ]
+  }
+]
