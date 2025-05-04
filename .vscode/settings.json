@@ -1,2 +1,6 @@
 {
+"gitHub.copilot.enable": true,
+"gitHub.copilotChat.enable": true,
+"gitHub.copilotChat.experimentalFeatures": true
+
 }
