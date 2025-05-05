@@ -26,13 +26,7 @@ const features: Feature[] = [
     icon: 'document-text-outline',
     color: '#2196F3',
   },
-  {
-    id: 'listening',
-    title: 'Listening',
-    description: 'Improve your listening skills',
-    icon: 'headset-outline',
-    color: '#FF9800',
-  },
+  
   {
     id: 'speaking',
     title: 'Speaking',
@@ -41,19 +35,13 @@ const features: Feature[] = [
     color: '#E91E63',
   },
   {
-    id: 'reading',
-    title: 'Reading',
-    description: 'Enhance reading comprehension',
-    icon: 'newspaper-outline',
-    color: '#9C27B0',
-  },
-  {
-    id: 'writing',
-    title: 'Writing',
-    description: 'Practice writing skills',
-    icon: 'pencil-outline',
-    color: '#607D8B',
-  },
+    id: 'quizzes',
+    title: 'Quizzes',
+    description: 'Test your knowledge with quizzes',
+    icon: 'checkmark-circle-outline',
+    color: '#FF9800',
+  }
+
 ];
 
 export default function HomeScreen() {
@@ -100,7 +88,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     borderBottomWidth: 1,
     borderBottomColor: '#eee',
-    marginTop: 20,
+    // marginTop: 20,
   },
   title: {
     fontSize: 28,
@@ -130,6 +118,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.1,
     shadowRadius: 3,
     elevation: 3,
+    height: 100,
   },
   iconContainer: {
     width: 60,
