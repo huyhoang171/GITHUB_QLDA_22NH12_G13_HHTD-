@@ -316,34 +316,21 @@ export default function SpeakingDetail() {
   // Simple accuracy calculation (word-by-word match)
   const calculateAccuracy = (original: string, transcript: string): number | null => {
     if (!original || !transcript) return 0;
-  
-    // Hàm làm sạch dấu câu và chuẩn hóa từ
-    const cleanText = (text: string): string[] => {
-      return text
-        .toLowerCase()
-        .replace(/[\.,!?;:"'()\-\[\]{}]/g, '') // loại bỏ dấu câu phổ biến và cả dấu ngoặc
-        .trim()
-        .split(/\s+/); // tách từ
-    };
-  
-    const originalWords = cleanText(original);
-    const transcriptWords = cleanText(transcript);
-  
+    const originalWords = original.toLowerCase().trim().split(/\s+/);
+    const transcriptWords = transcript.toLowerCase().trim().split(/\s+/);
     if (originalWords.length === 0) return 0;
-  
     let matchCount = 0;
     const minLength = Math.min(originalWords.length, transcriptWords.length);
-  
     for (let i = 0; i < minLength; i++) {
-      if (originalWords[i] === transcriptWords[i]) {
-        matchCount++;
-      }
+        // Cân nhắc làm sạch dấu câu nếu cần độ chính xác cao hơn
+        if (originalWords[i] === transcriptWords[i]) {
+            matchCount++;
+        }
     }
-  
-    const accuracy = (matchCount / originalWords.length) * 100;
+    // Tránh chia cho 0 nếu original rỗng
+    const accuracy = originalWords.length > 0 ? (matchCount / originalWords.length) * 100 : 0;
     return parseFloat(accuracy.toFixed(2));
   };
-  
 
   // Handler to trigger transcription using the backend
   const handleTranscription = async () => {
@@ -403,7 +390,7 @@ export default function SpeakingDetail() {
   }
 
   return (
-    <ScrollView contentContainerStyle={styles.container}>
+    <ScrollView contentContainerStyle={[styles.container, { flexGrow: 1 }]}>
       {currentDialogue ? (
         <View style={styles.dialogueCard}>
           <Text style={styles.label}>English:</Text>
