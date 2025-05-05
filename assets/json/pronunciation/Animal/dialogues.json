@@ -1,0 +1,14 @@
+[
+  {
+    "english": "The lion is the king of the jungle.",
+    "phonetic": "/ðə ˈlaɪən ɪz ðə kɪŋ əv ðə ˈʤʌŋɡəl/",
+    "vietnamese": "Sư tử là vua của rừng xanh.",
+    "audio": "path/to/lion.mp3"
+  },
+  {
+    "english": "Birds can fly high in the sky.",
+    "phonetic": "/bɜːrdz kæn flaɪ haɪ ɪn ðə skaɪ/",
+    "vietnamese": "Chim có thể bay cao trên bầu trời.",
+    "audio": "path/to/birds.mp3"
+  }
+]
