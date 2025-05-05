@@ -2,7 +2,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import ProgressBar from './ProgressBar';
-import { CategoryData } from '../app/types/navigation';
+import { CategoryData } from '../app/(practice)/grammar';
 
 interface HomeItemProps {
   category: CategoryData;

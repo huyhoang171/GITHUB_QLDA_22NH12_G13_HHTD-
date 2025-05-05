@@ -28,6 +28,13 @@ const features: Feature[] = [
     color: '#2196F3',
   },
   {
+    id: 'listening',
+    title: 'Listening',
+    description: 'Improve your listening skills',
+    icon: 'headset-outline',
+    color: '#FF9800',
+  },
+  {
     id: 'speaking',
     title: 'Speaking',
     description: 'Practice speaking English',
@@ -35,12 +42,19 @@ const features: Feature[] = [
     color: '#E91E63',
   },
   {
-    id: 'quizzes',
-    title: 'Quizzes',
-    description: 'Test your knowledge with quizzes',
-    icon: 'checkmark-circle-outline',
-    color: '#FF9800',
-  }
+    id: 'reading',
+    title: 'Reading',
+    description: 'Enhance reading comprehension',
+    icon: 'newspaper-outline',
+    color: '#9C27B0',
+  },
+  {
+    id: 'writing',
+    title: 'Writing',
+    description: 'Practice writing skills',
+    icon: 'pencil-outline',
+    color: '#607D8B',
+  },
 ];
 
 export default function HomeScreen() {
@@ -88,6 +102,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     borderBottomWidth: 1,
     borderBottomColor: '#eee',
+    marginTop: 15,
   },
   title: {
     fontSize: 28,
@@ -108,7 +123,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     borderRadius: 12,
     padding: 15,
-    marginBottom: 10,
+    marginBottom: 15,
     shadowColor: '#000',
     shadowOffset: {
       width: 0,
@@ -117,7 +132,6 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.1,
     shadowRadius: 3,
     elevation: 3,
-    height: 120,
   },
   iconContainer: {
     width: 60,
