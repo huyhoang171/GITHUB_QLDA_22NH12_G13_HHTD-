@@ -20,6 +20,7 @@ export default function PracticeLayout() {
     if (pathSegments.length > 1) {
       return '/' + pathSegments.slice(0, -1).join('/');
     }
+    
     return '/';
   };
 
