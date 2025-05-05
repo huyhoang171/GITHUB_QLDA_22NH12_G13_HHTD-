@@ -1,0 +1,62 @@
+[
+  {
+    "english": "Hello, how are you?",
+    "phonetic": "/həˈloʊ, haʊ ɑːr juː/",
+    "vietnamese": "Xin chào, bạn khỏe không?",
+    "audio": "hello_how_are_you.mp3"
+  },
+  {
+    "english": "Good morning! Have a nice day.",
+    "phonetic": "/ɡʊd ˈmɔːrnɪŋ! hæv ə naɪs deɪ/",
+    "vietnamese": "Chào buổi sáng! Chúc một ngày tốt lành.",
+    "audio": "good_morning.mp3"
+  },
+  {
+    "english": "Good afternoon!",
+    "phonetic": "/ɡʊd ˌæftərˈnuːn/",
+    "vietnamese": "Chào buổi chiều!",
+    "audio": "good_afternoon.mp3"
+  },
+  {
+    "english": "Good evening!",
+    "phonetic": "/ɡʊd ˈiːvnɪŋ/",
+    "vietnamese": "Chào buổi tối!",
+    "audio": "good_evening.mp3"
+  },
+  {
+    "english": "Nice to meet you.",
+    "phonetic": "/naɪs tə miːt juː/",
+    "vietnamese": "Rất vui được gặp bạn.",
+    "audio": "nice_to_meet_you.mp3"
+  },
+  {
+    "english": "Long time no see!",
+    "phonetic": "/lɔːŋ taɪm noʊ siː/",
+    "vietnamese": "Lâu rồi không gặp!",
+    "audio": "long_time_no_see.mp3"
+  },
+  {
+    "english": "How’s it going?",
+    "phonetic": "/haʊz ɪt ˈɡoʊɪŋ/",
+    "vietnamese": "Dạo này thế nào?",
+    "audio": "how_is_it_going.mp3"
+  },
+  {
+    "english": "What’s up?",
+    "phonetic": "/wʌts ʌp/",
+    "vietnamese": "Có gì mới không?",
+    "audio": "whats_up.mp3"
+  },
+  {
+    "english": "How have you been?",
+    "phonetic": "/haʊ həv juː bɪn/",
+    "vietnamese": "Dạo này bạn thế nào?",
+    "audio": "how_have_you_been.mp3"
+  },
+  {
+    "english": "Hey! Good to see you.",
+    "phonetic": "/heɪ! ɡʊd tə siː juː/",
+    "vietnamese": "Chào! Rất vui được gặp bạn.",
+    "audio": "hey_good_to_see_you.mp3"
+  }
+]

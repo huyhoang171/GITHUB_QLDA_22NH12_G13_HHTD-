@@ -131,6 +131,26 @@ export default function PracticeLayout() {
           href: null,
         }}
       />
+      <Tabs.Screen
+        name="speakingDetail"
+        options={{
+          headerTitle: '',
+          tabBarStyle: { display: 'none' }, 
+          tabBarShowLabel: false,
+          tabBarIcon: () => null,
+          href: null,
+        }}
+      />
+      <Tabs.Screen
+        name="speaking"
+        options={{
+          headerTitle: '',
+          tabBarStyle: { display: 'none' }, 
+          tabBarShowLabel: false,
+          tabBarIcon: () => null,
+          href: null,
+        }}
+      />
     </Tabs>
   );
 }

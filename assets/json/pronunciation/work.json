@@ -1,0 +1,62 @@
+[
+  {
+    "english": "I have a meeting at 10 AM.",
+    "phonetic": "/aɪ hæv ə ˈmiːtɪŋ æt ten eɪ ɛm/",
+    "vietnamese": "Tôi có cuộc họp lúc 10 giờ sáng.",
+    "audio": "i_have_a_meeting_at_10_am.mp3"
+  },
+  {
+    "english": "Please send me the report.",
+    "phonetic": "/pliːz sɛnd miː ðə rɪˈpɔːrt/",
+    "vietnamese": "Vui lòng gửi tôi bản báo cáo.",
+    "audio": "please_send_me_the_report.mp3"
+  },
+  {
+    "english": "I’m working on a project.",
+    "phonetic": "/aɪm ˈwɜːrkɪŋ ɒn ə ˈprɒdʒɛkt/",
+    "vietnamese": "Tôi đang làm một dự án.",
+    "audio": "i_am_working_on_a_project.mp3"
+  },
+  {
+    "english": "I need more time.",
+    "phonetic": "/aɪ niːd mɔːr taɪm/",
+    "vietnamese": "Tôi cần thêm thời gian.",
+    "audio": "i_need_more_time.mp3"
+  },
+  {
+    "english": "Let’s take a break.",
+    "phonetic": "/lɛts teɪk ə breɪk/",
+    "vietnamese": "Hãy nghỉ một chút.",
+    "audio": "lets_take_a_break.mp3"
+  },
+  {
+    "english": "Can we talk later?",
+    "phonetic": "/kæn wiː tɔːk ˈleɪtər/",
+    "vietnamese": "Chúng ta có thể nói chuyện sau không?",
+    "audio": "can_we_talk_later.mp3"
+  },
+  {
+    "english": "What’s the deadline?",
+    "phonetic": "/wʌts ðə ˈdɛdlaɪn/",
+    "vietnamese": "Hạn chót là khi nào?",
+    "audio": "whats_the_deadline.mp3"
+  },
+  {
+    "english": "The client is waiting.",
+    "phonetic": "/ðə ˈklaɪənt ɪz ˈweɪtɪŋ/",
+    "vietnamese": "Khách hàng đang đợi.",
+    "audio": "the_client_is_waiting.mp3"
+  },
+  {
+    "english": "I’ll finish it by tomorrow.",
+    "phonetic": "/aɪl ˈfɪnɪʃ ɪt baɪ təˈmɒrəʊ/",
+    "vietnamese": "Tôi sẽ hoàn thành nó vào ngày mai.",
+    "audio": "ill_finish_it_by_tomorrow.mp3"
+  },
+  {
+    "english": "Let’s schedule a call.",
+    "phonetic": "/lɛts ˈʃɛdjuːl ə kɔːl/",
+    "vietnamese": "Hãy lên lịch một cuộc gọi.",
+    "audio": "lets_schedule_a_call.mp3"
+  }
+]
