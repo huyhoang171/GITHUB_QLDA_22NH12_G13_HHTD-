@@ -1,0 +1,62 @@
+[
+  {
+    "english": "Where is the bus stop?",
+    "phonetic": "/wɛr ɪz ðə bʌs stɑːp/",
+    "vietnamese": "Trạm xe buýt ở đâu?",
+    "audio": "where_is_the_bus_stop.mp3"
+  },
+  {
+    "english": "I’d like to book a room.",
+    "phonetic": "/aɪd laɪk tə bʊk ə ruːm/",
+    "vietnamese": "Tôi muốn đặt một phòng.",
+    "audio": "id_like_to_book_a_room.mp3"
+  },
+  {
+    "english": "How much is the ticket?",
+    "phonetic": "/haʊ mʌtʃ ɪz ðə ˈtɪkɪt/",
+    "vietnamese": "Vé giá bao nhiêu?",
+    "audio": "how_much_is_the_ticket.mp3"
+  },
+  {
+    "english": "I’m lost. Can you help me?",
+    "phonetic": "/aɪm lɒst. kæn juː hɛlp miː/",
+    "vietnamese": "Tôi bị lạc. Bạn có thể giúp tôi không?",
+    "audio": "i_am_lost_can_you_help_me.mp3"
+  },
+  {
+    "english": "Where can I eat?",
+    "phonetic": "/wɛr kæn aɪ iːt/",
+    "vietnamese": "Tôi có thể ăn ở đâu?",
+    "audio": "where_can_i_eat.mp3"
+  },
+  {
+    "english": "Is there Wi-Fi here?",
+    "phonetic": "/ɪz ðɛr ˈwaɪfaɪ hɪr/",
+    "vietnamese": "Ở đây có Wi-Fi không?",
+    "audio": "is_there_wifi_here.mp3"
+  },
+  {
+    "english": "Can I have the menu?",
+    "phonetic": "/kæn aɪ hæv ðə ˈmɛnjuː/",
+    "vietnamese": "Tôi có thể xem thực đơn không?",
+    "audio": "can_i_have_the_menu.mp3"
+  },
+  {
+    "english": "What time does it open?",
+    "phonetic": "/wʌt taɪm dʌz ɪt ˈəʊpən/",
+    "vietnamese": "Mấy giờ mở cửa?",
+    "audio": "what_time_does_it_open.mp3"
+  },
+  {
+    "english": "I need a taxi.",
+    "phonetic": "/aɪ niːd ə ˈtæksi/",
+    "vietnamese": "Tôi cần một chiếc taxi.",
+    "audio": "i_need_a_taxi.mp3"
+  },
+  {
+    "english": "How far is the airport?",
+    "phonetic": "/haʊ fɑːr ɪz ði ˈɛəpɔːrt/",
+    "vietnamese": "Sân bay cách đây bao xa?",
+    "audio": "how_far_is_the_airport.mp3"
+  }
+]

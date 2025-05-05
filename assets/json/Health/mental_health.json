@@ -1,0 +1,2576 @@
+[
+  {
+    "word": "antidepressant",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ant/antid/antidepressant__gb_1.mp3",
+    "phonetic_text": "/ˌæntidɪˈpresnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ant/antid/antidepressant__us_1_rr.mp3",
+    "phonetic_am_text": "/ˌæntidɪˈpresnt/",
+    "senses": [
+      {
+        "definition": "a drug used to treat the illness depression",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "antidepressant",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ant/antid/antidepressant__gb_1.mp3",
+    "phonetic_text": "/ˌæntidɪˈpresnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ant/antid/antidepressant__us_1_rr.mp3",
+    "phonetic_am_text": "/ˌæntidɪˈpresnt/",
+    "senses": [
+      {
+        "definition": "used to treat depression",
+        "examples": [
+          {
+            "cf": "",
+            "x": "antidepressant drugs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "anxiety",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3",
+    "phonetic_text": "/æŋˈzaɪəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anx/anxie/anxiety__us_1.mp3",
+    "phonetic_am_text": "/æŋˈzaɪəti/",
+    "senses": [
+      {
+        "definition": "the state of feeling nervous or worried that something bad is going to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "acute/intense/deep anxiety"
+          },
+          {
+            "cf": "",
+            "x": "Some hospital patients experience high levels of anxiety."
+          },
+          {
+            "cf": "",
+            "x": "Waiting for exam results is a time of great anxiety."
+          }
+        ]
+      },
+      {
+        "definition": "a mental illness that causes somebody to worry so much that it has a very negative effect on their daily life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Some people are feeling the pressure and suffering from anxiety and depression."
+          },
+          {
+            "cf": "",
+            "x": "patients with an anxiety disorder"
+          }
+        ]
+      },
+      {
+        "definition": "a worry or fear about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If you're worried about your health, share your anxieties with your doctor."
+          }
+        ]
+      },
+      {
+        "definition": "a strong feeling of wanting to do something or of wanting something to happen",
+        "examples": [
+          {
+            "cf": "anxiety to do something",
+            "x": "the candidate’s anxiety to win the vote"
+          },
+          {
+            "cf": "",
+            "x": "A couple of photographers fell over themselves in their anxiety to get a shot of her."
+          },
+          {
+            "cf": "anxiety for something",
+            "x": "the people’s anxiety for the war to end"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bipolar",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bip/bipol/bipolar__gb_1.mp3",
+    "phonetic_text": "/ˌbaɪˈpəʊlə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bip/bipol/bipolar__us_1.mp3",
+    "phonetic_am_text": "/ˌbaɪˈpəʊlər/",
+    "senses": [
+      {
+        "definition": "affected by or connected with bipolar disorder",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "battle fatigue",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bat/battl/battle_fatigue_1_gb_1.mp3",
+    "phonetic_text": "/ˈbætl fətiːɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bat/battl/battle_fatigue_1_us_1.mp3",
+    "phonetic_am_text": "/ˈbætl fətiːɡ/",
+    "senses": [
+      {
+        "definition": "a mental illness caused by fighting in a war",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "art therapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/art/art_t/art_therapy_1_gb_1.mp3",
+    "phonetic_text": "/ˌɑːt ˈθerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/art_t/art_therapy_1_us_1.mp3",
+    "phonetic_am_text": "/ˌɑːrt ˈθerəpi/",
+    "senses": [
+      {
+        "definition": "a type of psychotherapy in which you are encouraged to express yourself using art materials",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "autogenic training",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autog/autogenic_training_1_gb_2.mp3",
+    "phonetic_text": "/ˌɔːtəʊˌdʒenɪk ˈtreɪnɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autog/autogenic_training_1_us_4.mp3",
+    "phonetic_am_text": "/ˌɔːtəʊˌdʒenɪk ˈtreɪnɪŋ/",
+    "senses": [
+      {
+        "definition": "a way of relaxing and dealing with stress using positive thoughts and mental exercises",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "amnesia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amn/amnes/amnesia__gb_1.mp3",
+    "phonetic_text": "/æmˈniːziə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amn/amnes/amnesia__us_1.mp3",
+    "phonetic_am_text": "/æmˈniːʒə/",
+    "senses": [
+      {
+        "definition": "a medical condition in which somebody partly or completely loses their memory",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "anorexic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ano/anore/anorexic__gb_1.mp3",
+    "phonetic_text": "/ˌænəˈreksɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ano/anore/anorexic__us_1.mp3",
+    "phonetic_am_text": "/ˌænəˈreksɪk/",
+    "senses": [
+      {
+        "definition": "affected by anorexia; connected with anorexia",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "anorexic",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ano/anore/anorexic__gb_1.mp3",
+    "phonetic_text": "/ˌænəˈreksɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ano/anore/anorexic__us_1.mp3",
+    "phonetic_am_text": "/ˌænəˈreksɪk/",
+    "senses": [
+      {
+        "definition": "a person who has anorexia",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "attention deficit disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/atten/attention_deficit_disorder_1_gb_1.mp3",
+    "phonetic_text": "/əˌtenʃn ˈdefɪsɪt dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/atten/attention_deficit_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/əˌtenʃn ˈdefɪsɪt dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a condition, usually beginning in childhood, that makes it difficult for somebody to pay attention and concentrate, and may make it difficult for them to control their behaviour",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "ADD",
+    "pos": "abbreviation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/a_d/a_d_d/a_d_d__1_gb_1_abbr.mp3",
+    "phonetic_text": "/ˌeɪ diː ˈdiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/a_d/a_d_d/a_d_d__1_us_1_abbr.mp3",
+    "phonetic_am_text": "/ˌeɪ diː ˈdiː/",
+    "senses": [
+      {
+        "definition": "attention deficit disorder",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "baby blues",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bab/baby_/baby_blues_1_gb_1.mp3",
+    "phonetic_text": "/ˈbeɪbi bluːz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bab/baby_/baby_blues_1_us_1.mp3",
+    "phonetic_am_text": "/ˈbeɪbi bluːz/",
+    "senses": [
+      {
+        "definition": "a depressed feeling that some women get after the birth of a baby",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "ADHD",
+    "pos": "abbreviation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/a_d/a_d_h/a_d_h_d__1_gb_1_abbr.mp3",
+    "phonetic_text": "/ˌeɪ diː eɪtʃ ˈdiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/a_d/a_d_h/a_d_h_d__1_us_1_abbr.mp3",
+    "phonetic_am_text": "/ˌeɪ diː eɪtʃ ˈdiː/",
+    "senses": [
+      {
+        "definition": "attention deficit hyperactivity disorder",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "anorexia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ano/anore/anorexia__gb_1.mp3",
+    "phonetic_text": "/ˌænəˈreksiə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ano/anore/anorexia__us_1.mp3",
+    "phonetic_am_text": "/ˌænəˈreksiə/",
+    "senses": [
+      {
+        "definition": "a mental illness causing somebody to control the amount of food they eat in an extreme way that leads to dangerous weight loss, usually because they have an intense fear of gaining weight and believe they are overweight when they are not",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "aversion therapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ave/avers/aversion_therapy_1_gb_1.mp3",
+    "phonetic_text": "/əˈvɜːʃn θerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ave/avers/aversion_therapy_1_us_2.mp3",
+    "phonetic_am_text": "/əˈvɜːrʒn θerəpi/",
+    "senses": [
+      {
+        "definition": "a way of helping somebody to lose a bad habit, by making the habit seem to be associated with an effect that is not pleasant",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "BDD",
+    "pos": "abbreviation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bdd/bdd_1/bdd_1_gb_1_abbr.mp3",
+    "phonetic_text": "/ˌbiː diː ˈdiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bdd/bdd_1/bdd_1_us_1_abbr.mp3",
+    "phonetic_am_text": "/ˌbiː diː ˈdiː/",
+    "senses": [
+      {
+        "definition": "body dysmorphic disorder (a mental illness that causes somebody to worry a lot about problems with their appearance which may not exist or which others may not notice)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The exact cause of BDD is not known."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "BPD",
+    "pos": "abbreviation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bpd/bpd_1/bpd_1_gb_1_abbr.mp3",
+    "phonetic_text": "/ˌbiː piː ˈdiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bpd/bpd_1/bpd_1_us_1_abbr.mp3",
+    "phonetic_am_text": "/ˌbiː piː ˈdiː/",
+    "senses": [
+      {
+        "definition": "borderline personality disorder (= a personality disorder in which somebody finds it difficult to control their emotions or form stable relationships with other people and often acts impulsively without thinking about the consequences)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "come off",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "to be able to be removed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Does this hood come off?"
+          },
+          {
+            "cf": "",
+            "x": "That mark won't come off."
+          }
+        ]
+      },
+      {
+        "definition": "to take place; to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Did the trip to Rome ever come off?"
+          }
+        ]
+      },
+      {
+        "definition": "to be successful; to have the intended effect or result",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They had wanted it to be a surprise but the plan didn't come off."
+          }
+        ]
+      },
+      {
+        "definition": "to be successful/not successful in a fight, contest, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I thought they came off very well in the debate."
+          }
+        ]
+      },
+      {
+        "definition": "to fall from something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to come off your bicycle/horse"
+          }
+        ]
+      },
+      {
+        "definition": "to become separated from something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When I tried to lift the jug, the handle came off in my hand."
+          },
+          {
+            "cf": "",
+            "x": "A button had come off my coat."
+          }
+        ]
+      },
+      {
+        "definition": "to stop taking medicine, a drug, alcohol, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've tried to get him to come off the tranquillizers."
+          }
+        ]
+      },
+      {
+        "definition": "to give a particular impression",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She always comes off as a snob because she doesn't like to hang out with any of the others."
+          },
+          {
+            "cf": "",
+            "x": "It came off like he was trying to control us."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "catatonia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cat/catat/catatonia__gb_2.mp3",
+    "phonetic_text": "/ˌkætəˈtəʊniə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/catat/catatonia__us_1.mp3",
+    "phonetic_am_text": "/ˌkætəˈtəʊniə/",
+    "senses": [
+      {
+        "definition": "a condition resulting from a mental illness, especially schizophrenia, in which a person does not move for long periods",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "combat fatigue",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/comba/combat_fatigue_1_gb_1.mp3",
+    "phonetic_text": "/ˈkɒmbæt fətiːɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/comba/combat_fatigue_1_us_1.mp3",
+    "phonetic_am_text": "/ˈkɑːmbæt fətiːɡ/",
+    "senses": [
+      {
+        "definition": "a mental illness caused by fighting in a war",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "body dysmorphic disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bod/body_/body_dysmorphic_disorder_1_gb_1.mp3",
+    "phonetic_text": "/ˌbɒdi dɪsˈmɔːfɪk dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bod/body_/body_dysmorphic_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/ˌbɑːdi dɪsˈmɔːrfɪk dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a mental illness that causes somebody to spend a lot of time worrying about problems with their appearance which may not exist or which others may not notice",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was diagnosed with body dysmorphic disorder after struggling with his body image for many years."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "breakdown",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/break/breakdown__gb_1.mp3",
+    "phonetic_text": "/ˈbreɪkdaʊn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/break/breakdown__us_1.mp3",
+    "phonetic_am_text": "/ˈbreɪkdaʊn/",
+    "senses": [
+      {
+        "definition": "an occasion when a vehicle or machine stops working",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a breakdown on the motorway"
+          },
+          {
+            "cf": "",
+            "x": "a breakdown recovery service"
+          },
+          {
+            "cf": "",
+            "x": "Most breakdown services give priority to women travelling alone."
+          },
+          {
+            "cf": "",
+            "x": "The national breakdown organizations are on hand to help motorists 24 hours a day."
+          }
+        ]
+      },
+      {
+        "definition": "a failure of a relationship, discussion or system",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The only ground for divorce is the irretrievable breakdown of the marriage."
+          },
+          {
+            "cf": "",
+            "x": "marriage breakdown"
+          },
+          {
+            "cf": "",
+            "x": "There has obviously been a breakdown in communications between the two sides."
+          },
+          {
+            "cf": "",
+            "x": "The breakdown of the negotiations was not unexpected."
+          },
+          {
+            "cf": "",
+            "x": "the complete breakdown of law and order"
+          }
+        ]
+      },
+      {
+        "definition": "detailed information that you get by studying a set of figures",
+        "examples": [
+          {
+            "cf": "",
+            "x": "First, let's look at a breakdown of the costs."
+          },
+          {
+            "cf": "",
+            "x": "Please provide us with a breakdown of expenditure by department."
+          }
+        ]
+      },
+      {
+        "definition": "the process of a substance breaking into the parts of which it is made",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the breakdown of proteins in the digestive system"
+          }
+        ]
+      },
+      {
+        "definition": "a period of serious mental illness in which somebody is unable to deal with normal life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It all became too much and he had some sort of breakdown."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "detoxification",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/det/detox/detoxification__gb_1.mp3",
+    "phonetic_text": "/diːˌtɒksɪfɪˈkeɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/det/detox/detoxification__us_1.mp3",
+    "phonetic_am_text": "/diːˌtɑːksɪfɪˈkeɪʃn/",
+    "senses": [
+      {
+        "definition": "treatment given to people to help them stop drinking alcohol or taking drugs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a detoxification unit"
+          }
+        ]
+      },
+      {
+        "definition": "the process of improving the reputation of somebody/something that has been seen as morally bad",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The policy has been key to the successful detoxification of the party's brand."
+          }
+        ]
+      },
+      {
+        "definition": "the process of removing harmful substances or poisons from something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the detoxification of formaldehyde"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "detoxify",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/det/detox/detoxify__gb_1.mp3",
+    "phonetic_text": "/diːˈtɒksɪfaɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/det/detox/detoxify__us_1.mp3",
+    "phonetic_am_text": "/diːˈtɑːksɪfaɪ/",
+    "senses": [
+      {
+        "definition": "to remove harmful substances or poisons from something; to become free from harmful substances",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She recommends bitter greens to cleanse and detoxify the body."
+          },
+          {
+            "cf": "",
+            "x": "You can help your body detoxify by cutting down on coffee."
+          }
+        ]
+      },
+      {
+        "definition": "to stop drinking too much alcohol or taking drugs; to treat somebody in order to help them do this",
+        "examples": [
+          {
+            "cf": "detoxify (from something)",
+            "x": "to detoxify from heroin addiction"
+          },
+          {
+            "cf": "detoxify somebody (from something)",
+            "x": "He was twice detoxified from heroin."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bulimia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bul/bulim/bulimia__gb_6.mp3",
+    "phonetic_text": "/buˈlɪmiə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bul/bulim/bulimia__us_1.mp3",
+    "phonetic_am_text": "/buˈlɪmiə/",
+    "senses": [
+      {
+        "definition": "a mental illness in which somebody repeatedly eats too much and then forces themselves to vomit",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "complex",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compl/complex__gb_3.mp3",
+    "phonetic_text": "/ˈkɒmpleks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compl/complex__us_4.mp3",
+    "phonetic_am_text": "/ˈkɑːmpleks/",
+    "senses": [
+      {
+        "definition": "a group of buildings of a similar type together in one place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a sports/leisure/shopping complex"
+          },
+          {
+            "cf": "",
+            "x": "an industrial complex (= a site with many factories)"
+          },
+          {
+            "cf": "",
+            "x": "an apartment complex"
+          },
+          {
+            "cf": "",
+            "x": "a housing complex"
+          },
+          {
+            "cf": "complex of something",
+            "x": "a complex of buildings covering about 300 square metres"
+          }
+        ]
+      },
+      {
+        "definition": "a group of things that are connected",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This is just one of a whole complex of issues."
+          }
+        ]
+      },
+      {
+        "definition": "a set of beliefs or fears, which may not be conscious, that can make somebody very unhappy or cause a mental illness",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He suffers from a guilt complex."
+          }
+        ]
+      },
+      {
+        "definition": "a feeling of worry or embarrassment about something that is not necessary or reasonable",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She has a complex about her big ears."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "borderline personality disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bor/borde/borderline_personality_disorder_1_gb_1.mp3",
+    "phonetic_text": "/ˌbɔːdəlaɪn pɜːsəˈnæləti dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bor/borde/borderline_personality_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/ˌbɔːrdərlaɪn pɜːrsəˈnæləti dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a personality disorder in which somebody finds it difficult to control their emotions or form stable relationships with other people and often acts impulsively without thinking about the consequences",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Borderline personality disorder is considered one of the most severe and troubling personality disorders."
+          },
+          {
+            "cf": "",
+            "x": "She was suffering from a borderline personality disorder which drove her to alcohol abuse and self-destructive habits."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bipolar disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bip/bipol/bipolar_disorder_1_gb_3.mp3",
+    "phonetic_text": "/ˌbaɪˈpəʊlə dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bip/bipol/bipolar_disorder_1_us_3.mp3",
+    "phonetic_am_text": "/ˌbaɪˈpəʊlər dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a mental illness in which somebody has periods of time when they feel extremely depressed and tired and other periods when they feel extremely active and excited with a lot of energy",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "dissociative identity disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dis/disso/dissociative_identity_disorder_1_gb_1.mp3",
+    "phonetic_text": "/dɪˌsəʊsiətɪv aɪˈdentəti dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dis/disso/dissociative_identity_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/dɪˌsəʊsieɪtɪv aɪˈdentəti dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a mental illness in which somebody feels uncertain about who they are and feels that they have more than one separate identity, each one having its own name, voice, memories, personality, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "deranged",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/der/deran/deranged__gb_2.mp3",
+    "phonetic_text": "/dɪˈreɪndʒd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/der/deran/deranged__us_1.mp3",
+    "phonetic_am_text": "/dɪˈreɪndʒd/",
+    "senses": [
+      {
+        "definition": "unable to behave and think normally, especially because of a mental illness",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mentally deranged"
+          },
+          {
+            "cf": "",
+            "x": "a deranged attacker"
+          },
+          {
+            "cf": "",
+            "x": "At first I thought he was deranged."
+          },
+          {
+            "cf": "",
+            "x": "The plan seemed to be the product of a deranged mind."
+          },
+          {
+            "cf": "",
+            "x": "Deranged with panic, I ran back and forth."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "DID",
+    "pos": "abbreviation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/did/did_1/did_1_gb_1_abbr.mp3",
+    "phonetic_text": "/ˌdiː aɪ ˈdiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/did/did_1/did_1_us_1_abbr.mp3",
+    "phonetic_am_text": "/ˌdiː aɪ ˈdiː/",
+    "senses": [
+      {
+        "definition": "dissociative identity disorder (= a mental illness in which somebody feels uncertain about who they are and feels that they have more than one separate identity, each one having its own name, voice, memories, personality, etc.)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "disordered",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dis/disor/disordered__gb_1.mp3",
+    "phonetic_text": "/dɪsˈɔːdəd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dis/disor/disordered__us_1.mp3",
+    "phonetic_am_text": "/dɪsˈɔːrdərd/",
+    "senses": [
+      {
+        "definition": "showing a lack of order or control",
+        "examples": [
+          {
+            "cf": "",
+            "x": "disordered hair"
+          },
+          {
+            "cf": "",
+            "x": "a disordered state"
+          },
+          {
+            "cf": "",
+            "x": "He looked round the disordered kitchen."
+          },
+          {
+            "cf": "",
+            "x": "It is likely that the universe started out in a chaotic and disordered state."
+          }
+        ]
+      },
+      {
+        "definition": "affected by a medical disorder",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Anorexia or other disordered eating over a long period can cause lasting damage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "exhibitionism",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exh/exhib/exhibitionism__gb_1.mp3",
+    "phonetic_text": "/ˌeksɪˈbɪʃənɪzəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/exh/exhib/exhibitionism__us_1.mp3",
+    "phonetic_am_text": "/ˌeksɪˈbɪʃənɪzəm/",
+    "senses": [
+      {
+        "definition": "behaviour that is intended to make people notice or admire you",
+        "examples": []
+      },
+      {
+        "definition": "the mental condition that makes somebody want to show their sexual organs in public",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "family therapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fam/famil/family_therapy_1_gb_1.mp3",
+    "phonetic_text": "/ˌfæməli ˈθerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fam/famil/family_therapy_1_us_1.mp3",
+    "phonetic_am_text": "/ˌfæməli ˈθerəpi/",
+    "senses": [
+      {
+        "definition": "a treatment for mental health problems in which members of a family meet with a therapist in order to address problems within the family",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The centre offers individual, group and family therapy sessions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "eating disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eat/eatin/eating_disorder_1_gb_1.mp3",
+    "phonetic_text": "/ˈiːtɪŋ dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/eat/eatin/eating_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/ˈiːtɪŋ dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a condition in which somebody develops eating habits that are not healthy as a way of dealing with difficult feelings or situations",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "egomania",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ego/egoma/egomania__gb_2.mp3",
+    "phonetic_text": "/ˌiːɡəʊˈmeɪniə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ego/egoma/egomania__us_1.mp3",
+    "phonetic_am_text": "/ˌiːɡəʊˈmeɪniə/",
+    "senses": [
+      {
+        "definition": "a condition in which somebody is extremely interested in or concerned about themselves, in a way that is not reasonable",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "electroshock therapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ele/elect/electroshock_therapy_1_gb_1.mp3",
+    "phonetic_text": "/ɪˈlektrəʊʃɒk θerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ele/elect/electroshock_therapy_1_us_2.mp3",
+    "phonetic_am_text": "/ɪˈlektrəʊʃɑːk θerəpi/",
+    "senses": [
+      {
+        "definition": "a medical treatment for some serious mental illnesses in which electricity is passed through the patient's brain",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "gender dysphoria",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gende/gender_dysphoria_1_gb_1.mp3",
+    "phonetic_text": "/ˈdʒendə dɪsfɔːriə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gende/gender_dysphoria_1_us_1.mp3",
+    "phonetic_am_text": "/ˈdʒendər dɪsfɔːriə/",
+    "senses": [
+      {
+        "definition": "sad or anxious feelings that somebody has because their gender identity does not match the sex they were said to have at birth",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "depressed",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dep/depre/depressed__gb_4.mp3",
+    "phonetic_text": "/dɪˈprest/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dep/depre/depressed__us_1.mp3",
+    "phonetic_am_text": "/dɪˈprest/",
+    "senses": [
+      {
+        "definition": "very sad and without hope",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You mustn't let yourself get depressed."
+          },
+          {
+            "cf": "depressed about something",
+            "x": "She felt very depressed about the future."
+          },
+          {
+            "cf": "depressed at something",
+            "x": "He was really depressed at the thought of going into the office."
+          },
+          {
+            "cf": "depressed over something",
+            "x": "She was depressed over the recent death of her mother."
+          },
+          {
+            "cf": "depressed by something",
+            "x": "I was depressed by our lack of progress."
+          }
+        ]
+      },
+      {
+        "definition": "affected by the medical condition of depression",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She became severely depressed."
+          },
+          {
+            "cf": "",
+            "x": "There is medical evidence to show that he is clinically depressed."
+          },
+          {
+            "cf": "",
+            "x": "She suffers from sleep disturbance and depressed mood."
+          }
+        ]
+      },
+      {
+        "definition": "without enough economic activity or jobs for people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They have made little attempt to bring jobs to economically depressed areas."
+          },
+          {
+            "cf": "",
+            "x": "The shipping trade was badly depressed."
+          }
+        ]
+      },
+      {
+        "definition": "having a lower amount or level than usual",
+        "examples": [
+          {
+            "cf": "",
+            "x": "depressed prices"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "depression",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dep/depre/depression__gb_2.mp3",
+    "phonetic_text": "/dɪˈpreʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dep/depre/depression__us_1.mp3",
+    "phonetic_am_text": "/dɪˈpreʃn/",
+    "senses": [
+      {
+        "definition": "a medical condition in which a person feels very sad, anxious and without hope and often has physical symptoms such as being unable to sleep, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was diagnosed as having clinical depression."
+          },
+          {
+            "cf": "",
+            "x": "She suffered from severe depression after losing her job."
+          }
+        ]
+      },
+      {
+        "definition": "the state of feeling very sad and without hope",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was a feeling of gloom and depression in the office when the news of the job cuts was announced."
+          }
+        ]
+      },
+      {
+        "definition": "a period when there is little economic activity and many people are poor or without jobs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The country was in the grip of (an) economic depression."
+          },
+          {
+            "cf": "",
+            "x": "the Great Depression of the 1930s"
+          },
+          {
+            "cf": "",
+            "x": "He grew up during the Great Depression of the 1930s."
+          }
+        ]
+      },
+      {
+        "definition": "a part of a surface that is lower than the parts around it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Rainwater collects in shallow depressions on the ground."
+          },
+          {
+            "cf": "",
+            "x": "From the air, the photos show a shallow depression on the planet's surface."
+          }
+        ]
+      },
+      {
+        "definition": "a weather condition in which the pressure of the air becomes lower, often causing rain",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an atmospheric depression moving east from the Atlantic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "group therapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/group/group_therapy_1_gb_1.mp3",
+    "phonetic_text": "/ˌɡruːp ˈθerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/group/group_therapy_1_us_1.mp3",
+    "phonetic_am_text": "/ˌɡruːp ˈθerəpi/",
+    "senses": [
+      {
+        "definition": "a type of psychiatric treatment in which people with similar personal problems meet together to discuss them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Group therapy is not as popular as it used to be."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hypochondriac",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hyp/hypoc/hypochondriac__gb_1.mp3",
+    "phonetic_text": "/ˌhaɪpəˈkɒndriæk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hyp/hypoc/hypochondriac__us_1.mp3",
+    "phonetic_am_text": "/ˌhaɪpəˈkɑːndriæk/",
+    "senses": [
+      {
+        "definition": "worrying so much that you may be or become ill that it badly affects your life; affected by hypochondria",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "inferiority complex",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inf/infer/inferiority_complex_1_gb_1.mp3",
+    "phonetic_text": "/ɪnˌfɪəriˈɒrəti kɒmpleks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inf/infer/inferiority_complex_1_us_2.mp3",
+    "phonetic_am_text": "/ɪnˌfɪriˈɔːrəti kɑːmpleks/",
+    "senses": [
+      {
+        "definition": "a feeling that you are not as good, as important or as intelligent as other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She has always had an inferiority complex about her looks."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hyperactivity",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hyp/hyper/hyperactivity__gb_1.mp3",
+    "phonetic_text": "/ˌhaɪpərækˈtɪvəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hyp/hyper/hyperactivity__us_1.mp3",
+    "phonetic_am_text": "/ˌhaɪpərækˈtɪvəti/",
+    "senses": [
+      {
+        "definition": "a state in which a person, especially a child, is too active and only able to keep quiet and still for short periods",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "diazepam",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dia/diaze/diazepam__gb_1.mp3",
+    "phonetic_text": "/daɪˈæzəpæm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dia/diaze/diazepam__us_1.mp3",
+    "phonetic_am_text": "/daɪˈæzəpæm/",
+    "senses": [
+      {
+        "definition": "a drug that is used to make people feel less anxious and more relaxed",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hypochondriac",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hyp/hypoc/hypochondriac__gb_1.mp3",
+    "phonetic_text": "/ˌhaɪpəˈkɒndriæk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hyp/hypoc/hypochondriac__us_1.mp3",
+    "phonetic_am_text": "/ˌhaɪpəˈkɑːndriæk/",
+    "senses": [
+      {
+        "definition": "a person who worries so much that they may be or become ill that it badly affects their life; a person who has hypochondria",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "health anxiety",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hea/healt/health_anxiety_1_gb_1.mp3",
+    "phonetic_text": "/ˈhelθ æŋzaɪəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hea/healt/health_anxiety_1_us_1.mp3",
+    "phonetic_am_text": "/ˈhelθ æŋzaɪəti/",
+    "senses": [
+      {
+        "definition": "a condition in which somebody worries so much about the possibility that they are ill or may become ill that it badly affects their life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A person with health anxiety can misinterpret sensations as a sign of serious disease."
+          },
+          {
+            "cf": "",
+            "x": "The pandemic has led to rising levels of health anxiety."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "electroconvulsive therapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ele/elect/electroconvulsive_therapy_1_gb_1.mp3",
+    "phonetic_text": "/ɪˌlektrəʊkənˌvʌlsɪv ˈθerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ele/elect/electroconvulsive_therapy_1_us_2.mp3",
+    "phonetic_am_text": "/ɪˌlektrəʊkənˌvʌlsɪv ˈθerəpi/",
+    "senses": [
+      {
+        "definition": "a medical treatment for some serious mental illnesses in which electricity is passed through the patient's brain",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mental",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/menta/mental__gb_2.mp3",
+    "phonetic_text": "/ˈmentl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/men/menta/mental__us_1.mp3",
+    "phonetic_am_text": "/ˈmentl/",
+    "senses": [
+      {
+        "definition": "connected with or happening in the mind; involving the process of thinking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the mental process of remembering"
+          },
+          {
+            "cf": "",
+            "x": "Do you have a mental picture of what it will look like?"
+          },
+          {
+            "cf": "",
+            "x": "The actor doesn't match the mental image I had of the character."
+          },
+          {
+            "cf": "",
+            "x": "I made a mental note to talk to her about it."
+          },
+          {
+            "cf": "",
+            "x": "He has a complete mental block (= difficulty in understanding or remembering) when it comes to physics."
+          },
+          {
+            "cf": "",
+            "x": "These musicians have prodigious mental capacities."
+          },
+          {
+            "cf": "",
+            "x": "The experience caused her huge amounts of mental suffering."
+          }
+        ]
+      },
+      {
+        "definition": "connected with the state of health of the mind or with the treatment of illnesses of the mind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mental illness/disorder"
+          },
+          {
+            "cf": "",
+            "x": "She was suffering from physical and mental exhaustion."
+          },
+          {
+            "cf": "",
+            "x": "The analysis of dreams can reveal details of a person's mental state."
+          },
+          {
+            "cf": "",
+            "x": "a mental hospital/patient"
+          }
+        ]
+      },
+      {
+        "definition": "crazy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My dad will go mental (= be very angry) when he finds out."
+          },
+          {
+            "cf": "",
+            "x": "We were just losing so much money—it was mental."
+          },
+          {
+            "cf": "",
+            "x": "It was mental, but a brilliant ending to the film."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "megalomania",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/meg/megal/megalomania__gb_1.mp3",
+    "phonetic_text": "/ˌmeɡələˈmeɪniə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/meg/megal/megalomania__us_1.mp3",
+    "phonetic_am_text": "/ˌmeɡələˈmeɪniə/",
+    "senses": [
+      {
+        "definition": "a strong feeling that you want to have more and more power",
+        "examples": []
+      },
+      {
+        "definition": "a mental illness in which somebody has a much greater belief in their own importance or power than is reasonable",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mentally",
+    "pos": "adverb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/menta/mentally__gb_1.mp3",
+    "phonetic_text": "/ˈmentəli/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/men/menta/mentally__us_1.mp3",
+    "phonetic_am_text": "/ˈmentəli/",
+    "senses": [
+      {
+        "definition": "connected with or happening in the mind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mentally ill"
+          },
+          {
+            "cf": "",
+            "x": "The baby is very mentally alert."
+          },
+          {
+            "cf": "",
+            "x": "Mentally, I began making a list of things I had to do."
+          },
+          {
+            "cf": "",
+            "x": "I felt extremely fit, both physically and mentally."
+          },
+          {
+            "cf": "",
+            "x": "You need to be mentally prepared for the race."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mindful",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/mindf/mindful__gb_1.mp3",
+    "phonetic_text": "/ˈmaɪndfl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/mindf/mindful__us_1.mp3",
+    "phonetic_am_text": "/ˈmaɪndfl/",
+    "senses": [
+      {
+        "definition": "remembering somebody/something and considering them or it when you do something",
+        "examples": [
+          {
+            "cf": "mindful of somebody/something",
+            "x": "mindful of our responsibilities"
+          },
+          {
+            "cf": "",
+            "x": "Mindful of the danger of tropical storms, I decided not to go out."
+          },
+          {
+            "cf": "mindful that…",
+            "x": "She is mindful that the election result was very close last time."
+          }
+        ]
+      },
+      {
+        "definition": "concentrating on the present moment, especially as a technique to help you relax",
+        "examples": [
+          {
+            "cf": "",
+            "x": "practising mindful meditation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mindfulness",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/mindf/mindfulness__gb_1.mp3",
+    "phonetic_text": "/ˈmaɪndflnəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/mindf/mindfulness__us_1.mp3",
+    "phonetic_am_text": "/ˈmaɪndflnəs/",
+    "senses": [
+      {
+        "definition": "the fact of remembering somebody/something and considering them/it when you do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "their mindfulness of the wider cinematic tradition"
+          }
+        ]
+      },
+      {
+        "definition": "a mental state achieved by concentrating on the present moment, while calmly accepting the feelings and thoughts that come to you, used as a technique to help you relax",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A therapist may teach mindfulness, a concept borrowed from Zen Buddhism."
+          },
+          {
+            "cf": "",
+            "x": "Mindfulness is a way for body and mind to reconnect."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "maladjusted",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mal/malad/maladjusted__gb_1.mp3",
+    "phonetic_text": "/ˌmæləˈdʒʌstɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mal/malad/maladjusted__us_1.mp3",
+    "phonetic_am_text": "/ˌmæləˈdʒʌstɪd/",
+    "senses": [
+      {
+        "definition": "having mental and emotional problems that lead to unacceptable behaviour",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "manic-depressive",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manic/manic_depressive_1_gb_1.mp3",
+    "phonetic_text": "/ˌmænɪk dɪˈpresɪv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manic/manic_depressive_1_us_1.mp3",
+    "phonetic_am_text": "/ˌmænɪk dɪˈpresɪv/",
+    "senses": [
+      {
+        "definition": "bipolar (= affected by or connected with bipolar disorder)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mental health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/menta/mental_health_1_gb_1.mp3",
+    "phonetic_text": "/ˌmentl ˈhelθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/men/menta/mental_health_1_us_1.mp3",
+    "phonetic_am_text": "/ˌmentl ˈhelθ/",
+    "senses": [
+      {
+        "definition": "the state of health of somebody's mind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Volunteering can also improve your mental health and help you live longer."
+          },
+          {
+            "cf": "",
+            "x": "She called for more honest conversations about mental health."
+          },
+          {
+            "cf": "",
+            "x": "Many of us struggle with our mental health."
+          },
+          {
+            "cf": "",
+            "x": "It's important to tackle the causes of stress and poor mental health early on."
+          },
+          {
+            "cf": "",
+            "x": "to have mental health issues/problems"
+          },
+          {
+            "cf": "",
+            "x": "There is often a stigma attached to mental health issues."
+          }
+        ]
+      },
+      {
+        "definition": "the system for treating people with mental health problems",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The government has announced £600 million extra funding for mental health."
+          },
+          {
+            "cf": "",
+            "x": "The demand for mental health services rose after the pandemic."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "music therapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/music/music_therapy_1_gb_1.mp3",
+    "phonetic_text": "/ˌmjuːzɪk ˈθerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/music/music_therapy_1_us_1.mp3",
+    "phonetic_am_text": "/ˌmjuːzɪk ˈθerəpi/",
+    "senses": [
+      {
+        "definition": "a treatment for mental, emotional or physical health problems that involves playing or listening to music",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Music therapy has proved more effective for me than any other kind of treatment."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "instability",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insta/instability__gb_1.mp3",
+    "phonetic_text": "/ˌɪnstəˈbɪləti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/insta/instability__us_1.mp3",
+    "phonetic_am_text": "/ˌɪnstəˈbɪləti/",
+    "senses": [
+      {
+        "definition": "the quality or state of being likely to change or fail suddenly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "political and economic instability"
+          }
+        ]
+      },
+      {
+        "definition": "a mental condition in which somebody’s behaviour is likely to change suddenly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mental/emotional instability"
+          },
+          {
+            "cf": "",
+            "x": "He showed increasing signs of mental instability."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kleptomania",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kle/klept/kleptomania__gb_3.mp3",
+    "phonetic_text": "/ˌkleptəˈmeɪniə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kle/klept/kleptomania__us_1.mp3",
+    "phonetic_am_text": "/ˌkleptəˈmeɪniə/",
+    "senses": [
+      {
+        "definition": "a mental illness in which somebody has a strong desire, which they cannot control, to steal things",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "monomania",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monom/monomania__gb_1.mp3",
+    "phonetic_text": "/ˌmɒnəˈmeɪniə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monom/monomania__us_1.mp3",
+    "phonetic_am_text": "/ˌmɑːnəˈmeɪniə/",
+    "senses": [
+      {
+        "definition": "too much interest in or enthusiasm for just one thing so that it is not healthy",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "non compos mentis",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/non/non_c/non_compos_mentis_1_gb_1.mp3",
+    "phonetic_text": "/ˌnɒn ˌkɒmpəs ˈmentɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/non/non_c/non_compos_mentis_1_us_1.mp3",
+    "phonetic_am_text": "/ˌnɑːn ˌkɑːmpəs ˈmentɪs/",
+    "senses": [
+      {
+        "definition": "not in a normal mental state",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "paranoid",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paran/paranoid__gb_1.mp3",
+    "phonetic_text": "/ˈpærənɔɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paran/paranoid__us_1.mp3",
+    "phonetic_am_text": "/ˈpærənɔɪd/",
+    "senses": [
+      {
+        "definition": "believing that other people dislike you or want to harm you, when there is no reason or evidence for this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's getting really paranoid about what other people say about her."
+          },
+          {
+            "cf": "",
+            "x": "You're just being paranoid."
+          }
+        ]
+      },
+      {
+        "definition": "having false beliefs because of a mental illness, especially the belief that people are trying or planning to harm you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "paranoid delusions"
+          },
+          {
+            "cf": "",
+            "x": "paranoid schizophrenia"
+          },
+          {
+            "cf": "",
+            "x": "a paranoid schizophrenic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "obsessive compulsive disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/obs/obses/obsessive_compulsive_disorder_1_gb_1.mp3",
+    "phonetic_text": "/əbˌsesɪv kəmˈpʌlsɪv dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/obs/obses/obsessive_compulsive_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/əbˌsesɪv kəmˈpʌlsɪv dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a mental illness in which somebody feels they have to repeat certain actions or activities to get rid of fears or unpleasant thoughts",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "narcissistic personality disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nar/narci/narcissistic_personality_disorder_1_gb_1.mp3",
+    "phonetic_text": "/ˌnɑːsɪsɪstɪk pɜːsəˈnæləti dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nar/narci/narcissistic_personality_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/ˌnɑːrsɪsɪstɪk pɜːrsəˈnæləti dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a personality disorder in which somebody has an idea of their own importance that is not reasonable, a strong need to be admired by other people, and a lack of understanding of other people's feelings",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "orthorexia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ort/ortho/orthorexia__gb_1.mp3",
+    "phonetic_text": "/ˌɔːθəˈreksiə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/ort/ortho/orthorexia__us_1.mp3",
+    "phonetic_am_text": "/ˌɔːrθəˈreksiə/",
+    "senses": [
+      {
+        "definition": "a condition in which somebody is very concerned about eating only foods they believe to be healthy, in a way that is not reasonable",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A person with orthorexia will be obsessed with defining and maintaining the perfect diet."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nervous breakdown",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/ner/nervo/nervous_breakdown_1_gb_1.mp3",
+    "phonetic_text": "/ˌnɜːvəs ˈbreɪkdaʊn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/ner/nervo/nervous_breakdown_1_us_1.mp3",
+    "phonetic_am_text": "/ˌnɜːrvəs ˈbreɪkdaʊn/",
+    "senses": [
+      {
+        "definition": "a period of serious mental illness in which somebody is unable to deal with normal life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to have/suffer a nervous breakdown"
+          },
+          {
+            "cf": "",
+            "x": "The stress of her job had brought her to the brink of a nervous breakdown."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neurosis",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/neu/neuro/neurosis__gb_1.mp3",
+    "phonetic_text": "/njʊəˈrəʊsɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/neu/neuro/neurosis__us_1.mp3",
+    "phonetic_am_text": "/nʊˈrəʊsɪs/",
+    "senses": [
+      {
+        "definition": "a mental health condition in which a person has strong feelings of fear or worry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was a psychoanalyst who developed her own theory of neurosis."
+          }
+        ]
+      },
+      {
+        "definition": "any strong fear or worry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the director's neurosis about actors arriving late for filming"
+          },
+          {
+            "cf": "",
+            "x": "This obsession with time is a modern neurosis and one we all have to live with."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "personality disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/per/perso/personality_disorder_1_gb_1.mp3",
+    "phonetic_text": "/ˌpɜːsəˈnæləti dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/per/perso/personality_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/ˌpɜːrsəˈnæləti dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a condition in which somebody thinks, feels and behaves very differently from most other people in a way that causes them to have serious difficulties in their life and in their relationships with other people",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mood swing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/moo/mood_/mood_swing_1_gb_1.mp3",
+    "phonetic_text": "/ˈmuːd swɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/mood_/mood_swing_1_us_1.mp3",
+    "phonetic_am_text": "/ˈmuːd swɪŋ/",
+    "senses": [
+      {
+        "definition": "a sudden change of mood that is difficult to explain",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Severe disruption of the sleep cycle can lead to depression and mood swings."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "paranoia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paran/paranoia__gb_1.mp3",
+    "phonetic_text": "/ˌpærəˈnɔɪə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paran/paranoia__us_1.mp3",
+    "phonetic_am_text": "/ˌpærəˈnɔɪə/",
+    "senses": [
+      {
+        "definition": "the belief that other people dislike or want to harm you, when there is no evidence or reason for this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "External threats will just fuel paranoia among those in power."
+          },
+          {
+            "cf": "",
+            "x": "I was full of paranoia that people were talking about me."
+          }
+        ]
+      },
+      {
+        "definition": "false beliefs that are part of a mental illness, especially the belief that people are trying or planning to harm you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The drugs can induce paranoia."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "psychiatric",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychiatric__gb_1.mp3",
+    "phonetic_text": "/ˌsaɪkiˈætrɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychiatric__us_1.mp3",
+    "phonetic_am_text": "/ˌsaɪkiˈætrɪk/",
+    "senses": [
+      {
+        "definition": "relating to psychiatry or to mental illnesses",
+        "examples": [
+          {
+            "cf": "",
+            "x": "psychiatric disorders"
+          },
+          {
+            "cf": "",
+            "x": "a psychiatric hospital/nurse/patient"
+          },
+          {
+            "cf": "",
+            "x": "psychiatric treatment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "postnatal depression",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pos/post_/post_natal_depression_1_gb_1.mp3",
+    "phonetic_text": "/ˌpəʊstneɪtl dɪˈpreʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pos/post_/post_natal_depression_1_us_1.mp3",
+    "phonetic_am_text": "/ˌpəʊstneɪtl dɪˈpreʃn/",
+    "senses": [
+      {
+        "definition": "a medical condition in which a woman feels very sad and anxious in the period after her baby is born, and may have negative thoughts or problems dealing with normal life",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "paranoid",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paran/paranoid__gb_1.mp3",
+    "phonetic_text": "/ˈpærənɔɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paran/paranoid__us_1.mp3",
+    "phonetic_am_text": "/ˈpærənɔɪd/",
+    "senses": [
+      {
+        "definition": "a person who is paranoid",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "persecution complex",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/per/perse/persecution_complex_1_gb_1.mp3",
+    "phonetic_text": "/ˌpɜːsɪˈkjuːʃn kɒmpleks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/per/perse/persecution_complex_1_us_1.mp3",
+    "phonetic_am_text": "/ˌpɜːrsɪˈkjuːʃn kɑːmpleks/",
+    "senses": [
+      {
+        "definition": "a strong false belief or fear that other people hate you or are trying to harm you",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "psychiatry",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychiatry__gb_1.mp3",
+    "phonetic_text": "/saɪˈkaɪətri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychiatry__us_1_rr.mp3",
+    "phonetic_am_text": "/saɪˈkaɪətri/",
+    "senses": [
+      {
+        "definition": "the study and treatment of mental illnesses",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "OCD",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ocd/ocd__/ocd__gb_1.mp3",
+    "phonetic_text": "/ˌəʊ siː ˈdiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/ocd/ocd__/ocd__us_1.mp3",
+    "phonetic_am_text": "/ˌəʊ siː ˈdiː/",
+    "senses": [
+      {
+        "definition": "a mental illness in which somebody feels they have to repeat certain actions or activities to get rid of fears or unpleasant thoughts (the abbreviation for ‘obsessive compulsive disorder’)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to have OCD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "psychopathy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychopathy__gb_1.mp3",
+    "phonetic_text": "/saɪˈkɒpəθi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychopathy__us_2.mp3",
+    "phonetic_am_text": "/saɪˈkɑːpəθi/",
+    "senses": [
+      {
+        "definition": "a serious personality disorder that means somebody does not care about other people's feelings, does not feel sorry when they have done something bad, and may want to be violent or cruel towards others",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "post-traumatic stress disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pos/post_/post_traumatic_stress_disorder_1_gb_1.mp3",
+    "phonetic_text": "/ˌpəʊst trɔːˌmætɪk ˈstres dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pos/post_/post_traumatic_stress_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/ˌpəʊst trəˌmætɪk ˈstres dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a mental illness following a very frightening or shocking experience, which usually involves feeling anxious and depressed and having frightening thoughts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "treatment for post-traumatic stress disorder"
+          },
+          {
+            "cf": "",
+            "x": "army veterans with post-traumatic stress disorder"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "psychopath",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychopath__gb_1.mp3",
+    "phonetic_text": "/ˈsaɪkəpæθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychopath__us_1.mp3",
+    "phonetic_am_text": "/ˈsaɪkəpæθ/",
+    "senses": [
+      {
+        "definition": "a person who has a serious personality disorder that means they do not care about other people's feelings, do not feel sorry when they have done something bad, and may want to be violent or cruel towards others",
+        "examples": []
+      },
+      {
+        "definition": "an offensive word for a person who you think is strange and violent or aggressive",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "psychoanalytic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychoanalytic__gb_1.mp3",
+    "phonetic_text": "/ˌsaɪkəʊˌænəˈlɪtɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychoanalytic__us_1.mp3",
+    "phonetic_am_text": "/ˌsaɪkəʊˌænəˈlɪtɪk/",
+    "senses": [
+      {
+        "definition": "using or connected with a method of treating somebody who has problems with their mental health by encouraging them to talk about past experiences and feelings, and trying to help them understand fears and feelings that they were not conscious of",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a psychoanalytic approach"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "psychoanalysis",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychoanalysis__gb_1.mp3",
+    "phonetic_text": "/ˌsaɪkəʊəˈnæləsɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychoanalysis__us_1.mp3",
+    "phonetic_am_text": "/ˌsaɪkəʊəˈnæləsɪs/",
+    "senses": [
+      {
+        "definition": "a method of treating somebody who has problems with their mental health by encouraging them to talk about past experiences and feelings, and trying to help them understand fears and feelings that they were not conscious of",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "post-partum depression",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pos/post_/post_partum_depression_1_gb_1.mp3",
+    "phonetic_text": "/ˌpəʊst ˌpɑːtəm dɪˈpreʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pos/post_/post_partum_depression_1_us_1.mp3",
+    "phonetic_am_text": "/ˌpəʊst ˌpɑːrtəm dɪˈpreʃn/",
+    "senses": [
+      {
+        "definition": "a medical condition in which a woman feels very sad and anxious in the period after her baby is born, and may have negative thoughts or problems dealing with normal life",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "psychiatrist",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychiatrist__gb_1.mp3",
+    "phonetic_text": "/saɪˈkaɪətrɪst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychiatrist__us_1_rr.mp3",
+    "phonetic_am_text": "/saɪˈkaɪətrɪst/",
+    "senses": [
+      {
+        "definition": "a doctor who studies and treats mental illnesses",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a leading child psychiatrist"
+          },
+          {
+            "cf": "",
+            "x": "the secrets revealed on the psychiatrist’s couch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "PTSD",
+    "pos": "abbreviation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pts/ptsd_/ptsd_1_gb_1_abbr.mp3",
+    "phonetic_text": "/ˌpiː tiː es ˈdiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pts/ptsd_/ptsd_1_us_1_abbr.mp3",
+    "phonetic_am_text": "/ˌpiː tiː es ˈdiː/",
+    "senses": [
+      {
+        "definition": "post-traumatic stress disorder (= a mental illness following a very frightening or shocking experience, which usually involves feeling anxious and depressed and having frightening thoughts)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "psychosis",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychosis__gb_1.mp3",
+    "phonetic_text": "/saɪˈkəʊsɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychosis__us_1.mp3",
+    "phonetic_am_text": "/saɪˈkəʊsɪs/",
+    "senses": [
+      {
+        "definition": "a serious mental health condition in which somebody sees or hears things that are not there, or believes things that are not true",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "psychosomatic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychosomatic__gb_1.mp3",
+    "phonetic_text": "/ˌsaɪkəʊsəˈmætɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychosomatic__us_1.mp3",
+    "phonetic_am_text": "/ˌsaɪkəʊsəˈmætɪk/",
+    "senses": [
+      {
+        "definition": "caused by stress and worry, rather than by a physical problem such as an infection",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I began to experience psychosomatic symptoms such as stomach aches and headaches."
+          }
+        ]
+      },
+      {
+        "definition": "connected with the relationship between the mind and the body",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pyromania",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pyr/pyrom/pyromania__gb_1.mp3",
+    "phonetic_text": "/ˌpaɪrəʊˈmeɪniə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pyr/pyrom/pyromania__us_1.mp3",
+    "phonetic_am_text": "/ˌpaɪrəʊˈmeɪniə/",
+    "senses": [
+      {
+        "definition": "a mental illness that causes a strong desire to set fire to things",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "psychotic",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychotic__gb_1.mp3",
+    "phonetic_text": "/saɪˈkɒtɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychotic__us_1.mp3",
+    "phonetic_am_text": "/saɪˈkɑːtɪk/",
+    "senses": [
+      {
+        "definition": "affected or caused by a serious mental illness, in which somebody sees or hears things that are not there, or believes things that are not true",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a psychotic disorder/illness"
+          },
+          {
+            "cf": "",
+            "x": "He suffered a psychotic episode two years ago."
+          },
+          {
+            "cf": "",
+            "x": "a psychotic patient"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rebirthing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reb/rebir/rebirthing__gb_1.mp3",
+    "phonetic_text": "/ˌriːˈbɜːθɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reb/rebir/rebirthing__us_1.mp3",
+    "phonetic_am_text": "/ˌriːˈbɜːrθɪŋ/",
+    "senses": [
+      {
+        "definition": "a type of psychotherapy that involves making the experience of being born seem to happen again using controlled breathing",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "psychotic",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychotic__gb_1.mp3",
+    "phonetic_text": "/saɪˈkɒtɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychotic__us_1.mp3",
+    "phonetic_am_text": "/saɪˈkɑːtɪk/",
+    "senses": [
+      {
+        "definition": "a person who has psychosis (= a serious mental illness in which somebody sees or hears things that are not there, or believes things that are not true)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "quit",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quit_/quit__gb_1.mp3",
+    "phonetic_text": "/kwɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quit_/quit__us_1.mp3",
+    "phonetic_am_text": "/kwɪt/",
+    "senses": [
+      {
+        "definition": "to leave your job, school, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If I don't get more money I'll quit."
+          },
+          {
+            "cf": "",
+            "x": "He quit in protest over the decision."
+          },
+          {
+            "cf": "quit as something",
+            "x": "He has decided to quit as manager of the team."
+          },
+          {
+            "cf": "quit something",
+            "x": "to quit your job"
+          },
+          {
+            "cf": "",
+            "x": "He quit the show last year because of bad health."
+          },
+          {
+            "cf": "",
+            "x": "She quit school at 16."
+          },
+          {
+            "cf": "",
+            "x": "I am considering quitting my job to start a business."
+          }
+        ]
+      },
+      {
+        "definition": "to stop doing something",
+        "examples": [
+          {
+            "cf": "quit doing something",
+            "x": "I've quit teaching."
+          },
+          {
+            "cf": "",
+            "x": "You don't know me, so quit trying to act like you do."
+          },
+          {
+            "cf": "",
+            "x": "She finally quit working at age 76."
+          },
+          {
+            "cf": "quit something",
+            "x": "Just quit it!"
+          },
+          {
+            "cf": "",
+            "x": "We only just started. We're not going to quit now."
+          }
+        ]
+      },
+      {
+        "definition": "to leave the place where you live",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We decided it was time to quit the city."
+          },
+          {
+            "cf": "",
+            "x": "The landlord gave them all notice to quit."
+          },
+          {
+            "cf": "",
+            "x": "I decide to quit town and lie low for a while."
+          }
+        ]
+      },
+      {
+        "definition": "to close a computer program or application",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I quit the app and restarted it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rehab",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reh/rehab/rehab__gb_1.mp3",
+    "phonetic_text": "/ˈriːhæb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/reh/rehab/rehab__us_1.mp3",
+    "phonetic_am_text": "/ˈriːhæb/",
+    "senses": [
+      {
+        "definition": "the process of treating somebody who has a problem with drugs or alcohol",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go into rehab"
+          },
+          {
+            "cf": "",
+            "x": "a rehab clinic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "SAD",
+    "pos": "abbreviation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sad/sad__/sad__gb_1.mp3",
+    "phonetic_text": "/sæd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sad/sad__/sad__us_1.mp3",
+    "phonetic_am_text": "/sæd/",
+    "senses": [
+      {
+        "definition": "seasonal affective disorder (= a condition in which a person feels sad and tired during late autumn and winter when there is not much light from the sun)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "section",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sec/secti/section__gb_2.mp3",
+    "phonetic_text": "/ˈsekʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sec/secti/section__us_2.mp3",
+    "phonetic_am_text": "/ˈsekʃn/",
+    "senses": [
+      {
+        "definition": "to divide body tissue by cutting",
+        "examples": []
+      },
+      {
+        "definition": "to cut animal or plant tissue into thin slices in order to look at it under a microscope",
+        "examples": []
+      },
+      {
+        "definition": "to officially send somebody to a psychiatric hospital, using a law that can force them to stay there to have treatment",
+        "examples": [
+          {
+            "cf": "be sectioned",
+            "x": "He was sectioned under the Mental Health Act because he was harming himself."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "seasonal affective disorder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sea/seaso/seasonal_affective_disorder_1_gb_1.mp3",
+    "phonetic_text": "/ˌsiːzənl əˈfektɪv dɪsɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/seaso/seasonal_affective_disorder_1_us_1.mp3",
+    "phonetic_am_text": "/ˌsiːzənl əˈfektɪv dɪsɔːrdər/",
+    "senses": [
+      {
+        "definition": "a condition in which a person feels sad and tired during late autumn and winter when there is not much light from the sun",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "self-harm",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sel/self_/self_harm_1_gb_1.mp3",
+    "phonetic_text": "/ˌself ˈhɑːm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sel/self_/self_harm_1_us_1.mp3",
+    "phonetic_am_text": "/ˌself ˈhɑːrm/",
+    "senses": [
+      {
+        "definition": "the practice of deliberately injuring yourself, for example by cutting yourself, as a way to express or try to deal with feeling very unhappy or worried",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "psychotherapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychotherapy__gb_1.mp3",
+    "phonetic_text": "/ˌsaɪkəʊˈθerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychotherapy__us_1.mp3",
+    "phonetic_am_text": "/ˌsaɪkəʊˈθerəpi/",
+    "senses": [
+      {
+        "definition": "the treatment of mental health problems by talking with a therapist (= a person trained to do this)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "temazepam",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tem/temaz/temazepam__gb_1.mp3",
+    "phonetic_text": "/təˈmæzɪpæm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tem/temaz/temazepam__us_1.mp3",
+    "phonetic_am_text": "/təˈmæzɪpæm/",
+    "senses": [
+      {
+        "definition": "a drug that is used to make people feel less anxious and more relaxed",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "shell shock",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/she/shell/shell_shock_1_gb_1.mp3",
+    "phonetic_text": "/ˈʃel ʃɒk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/she/shell/shell_shock_1_us_1.mp3",
+    "phonetic_am_text": "/ˈʃel ʃɑːk/",
+    "senses": [
+      {
+        "definition": "a mental illness caused by fighting in a war",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sociopath",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/soc/socio/sociopath__gb_1.mp3",
+    "phonetic_text": "/ˈsəʊsiəʊpæθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/soc/socio/sociopath__us_1.mp3",
+    "phonetic_am_text": "/ˈsəʊsiəʊpæθ/",
+    "senses": [
+      {
+        "definition": "a person who has a personality disorder that means they behave in an aggressive, violent or unpleasant way towards other people",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "shock therapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sho/shock/shock_therapy_1_gb_1.mp3",
+    "phonetic_text": "/ˈʃɒk θerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sho/shock/shock_therapy_1_us_1.mp3",
+    "phonetic_am_text": "/ˈʃɑːk θerəpi/",
+    "senses": [
+      {
+        "definition": "a way of treating a mental illness by giving electric shocks or a drug that has a similar effect",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "therapist",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/thera/therapist__gb_1.mp3",
+    "phonetic_text": "/ˈθerəpɪst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/thera/therapist__us_1.mp3",
+    "phonetic_am_text": "/ˈθerəpɪst/",
+    "senses": [
+      {
+        "definition": "a specialist who treats a particular type of illness or problem, or who uses a particular type of treatment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a speech therapist"
+          },
+          {
+            "cf": "",
+            "x": "a beauty therapist"
+          }
+        ]
+      },
+      {
+        "definition": "a person who is trained to treat somebody who has problems with their mental health by talking with them",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "self-mutilation",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sel/self_/self_mutilation_1_gb_1.mp3",
+    "phonetic_text": "/ˌself mjuːtɪˈleɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sel/self_/self_mutilation_1_us_1.mp3",
+    "phonetic_am_text": "/ˌself mjuːtɪˈleɪʃn/",
+    "senses": [
+      {
+        "definition": "the act of deliberately injuring yourself, for example by cutting yourself, as a way to express or try to deal with feeling very unhappy or worried",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "schizophrenia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sch/schiz/schizophrenia__gb_1.mp3",
+    "phonetic_text": "/ˌskɪtsəˈfriːniə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sch/schiz/schizophrenia__us_1_rr.mp3",
+    "phonetic_am_text": "/ˌskɪtsəˈfriːniə/",
+    "senses": [
+      {
+        "definition": "a mental illness in which a person becomes unable to link thought, emotion and behaviour, leading to withdrawal from reality and personal relationships",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "tranquillizer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/tranq/tranquillizer__gb_1.mp3",
+    "phonetic_text": "/ˈtræŋkwəlaɪzə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/tranq/tranquillizer__us_1.mp3",
+    "phonetic_am_text": "/ˈtræŋkwəlaɪzər/",
+    "senses": [
+      {
+        "definition": "a drug used to reduce anxiety (= worry and stress)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's on (= regularly takes) tranquillizers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Valium™",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/val/valiu/valium__gb_1.mp3",
+    "phonetic_text": "/ˈvæliəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valiu/valium__us_1.mp3",
+    "phonetic_am_text": "/ˈvæliəm/",
+    "senses": [
+      {
+        "definition": "a drug used to reduce anxiety (= feelings of fear and worry)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "trauma",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/traum/trauma__gb_1.mp3",
+    "phonetic_text": "/ˈtrɔːmə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/traum/trauma__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈtrɔːmə/",
+    "senses": [
+      {
+        "definition": "a mental condition caused by severe shock, stress or fear, especially when the harmful effects last for a long time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the effects of trauma and stress on the body"
+          },
+          {
+            "cf": "",
+            "x": "The children showed no signs of trauma after their ordeal."
+          },
+          {
+            "cf": "",
+            "x": "patients who have histories of childhood trauma"
+          }
+        ]
+      },
+      {
+        "definition": "a very frightening or upsetting experience",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She felt exhausted after the traumas of recent weeks."
+          }
+        ]
+      },
+      {
+        "definition": "an injury",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The patient suffered severe brain trauma."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "therapy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/thera/therapy__gb_1.mp3",
+    "phonetic_text": "/ˈθerəpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/thera/therapy__us_2.mp3",
+    "phonetic_am_text": "/ˈθerəpi/",
+    "senses": [
+      {
+        "definition": "the treatment of a physical problem or an illness",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He is receiving therapy for cancer."
+          },
+          {
+            "cf": "",
+            "x": "Most leukaemia patients undergo some sort of drug therapy (= treatment using drugs)."
+          },
+          {
+            "cf": "",
+            "x": "alternative/complementary therapies (= treatments that do not use traditional drugs)"
+          },
+          {
+            "cf": "",
+            "x": "new cancer therapies"
+          },
+          {
+            "cf": "",
+            "x": "They recommend exercise therapy for patients with chronic back pain."
+          }
+        ]
+      },
+      {
+        "definition": "the treatment of problems with somebody's mental health by talking with them",
+        "examples": [
+          {
+            "cf": "in therapy",
+            "x": "She's in therapy."
+          },
+          {
+            "cf": "",
+            "x": "I went into therapy because my doctor suggested it."
+          },
+          {
+            "cf": "",
+            "x": "the use of hypnosis as a form of therapy"
+          },
+          {
+            "cf": "",
+            "x": "a therapy group/session"
+          }
+        ]
+      }
+    ]
+  }
+]

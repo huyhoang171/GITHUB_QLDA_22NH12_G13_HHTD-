@@ -1,74 +1,155 @@
-import { Image, StyleSheet, Platform } from 'react-native';
+import React from 'react';
+import { View, Text, TouchableOpacity, StyleSheet, ScrollView } from 'react-native';
+import { Link, router } from 'expo-router';
+import { Ionicons } from '@expo/vector-icons';
 
-import { HelloWave } from '@/components/HelloWave';
-import ParallaxScrollView from '@/components/ParallaxScrollView';
-import { ThemedText } from '@/components/ThemedText';
-import { ThemedView } from '@/components/ThemedView';
+interface Feature {
+  id: string;
+  title: string;
+  description: string;
+  icon: string;
+  color: string;
+}
+
+const features: Feature[] = [
+  {
+    id: 'vocabulary',
+    title: 'Vocabulary',
+    description: 'Learn and practice English vocabulary',
+    icon: 'book-outline',
+    color: '#4CAF50',
+  },
+  {
+    id: 'grammar',
+    title: 'Grammar',
+    description: 'Study English grammar rules',
+    icon: 'document-text-outline',
+    color: '#2196F3',
+  },
+  {
+    id: 'listening',
+    title: 'Listening',
+    description: 'Improve your listening skills',
+    icon: 'headset-outline',
+    color: '#FF9800',
+  },
+  {
+    id: 'speaking',
+    title: 'Speaking',
+    description: 'Practice speaking English',
+    icon: 'mic-outline',
+    color: '#E91E63',
+  },
+  {
+    id: 'reading',
+    title: 'Reading',
+    description: 'Enhance reading comprehension',
+    icon: 'newspaper-outline',
+    color: '#9C27B0',
+  },
+  {
+    id: 'writing',
+    title: 'Writing',
+    description: 'Practice writing skills',
+    icon: 'pencil-outline',
+    color: '#607D8B',
+  },
+];
 
 export default function HomeScreen() {
+  const handleFeaturePress = (featureId: string) => {
+    router.push(`/(practice)/${featureId}` as any);
+  };
+
   return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
-        />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome! abc</ThemedText>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12'
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-        <ThemedText>
-          Tap the Explore tab to learn more about what's included in this starter app.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          When you're ready, run{' '}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
-      </ThemedView>
-    </ParallaxScrollView>
+    <ScrollView style={styles.container}>
+      <View style={styles.header}>
+        <Text style={styles.title}>English Learning</Text>
+        <Text style={styles.subtitle}>Choose a feature to start learning</Text>
+      </View>
+
+      <View style={styles.featuresContainer}>
+        {features.map((feature) => (
+          <TouchableOpacity
+            key={feature.id}
+            style={styles.featureCard}
+            onPress={() => handleFeaturePress(feature.id)}
+          >
+            <View style={[styles.iconContainer, { backgroundColor: feature.color }]}>
+              <Ionicons name={feature.icon as any} size={32} color="white" />
+            </View>
+            <View style={styles.featureContent}>
+              <Text style={styles.featureTitle}>{feature.title}</Text>
+              <Text style={styles.featureDescription}>{feature.description}</Text>
+            </View>
+            <Ionicons name="chevron-forward" size={24} color="#666" />
+          </TouchableOpacity>
+        ))}
+      </View>
+    </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
-  titleContainer: {
+  container: {
+    flex: 1,
+    backgroundColor: '#f5f5f5',
+  },
+  header: {
+    padding: 20,
+    backgroundColor: '#fff',
+    borderBottomWidth: 1,
+    borderBottomColor: '#eee',
+    marginTop: 20,
+  },
+  title: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    color: '#333',
+    marginBottom: 5,
+  },
+  subtitle: {
+    fontSize: 16,
+    color: '#666',
+  },
+  featuresContainer: {
+    padding: 20,
+  },
+  featureCard: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 8,
+    backgroundColor: '#fff',
+    borderRadius: 12,
+    padding: 15,
+    marginBottom: 15,
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.1,
+    shadowRadius: 3,
+    elevation: 3,
   },
-  stepContainer: {
-    gap: 8,
-    marginBottom: 8,
+  iconContainer: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginRight: 15,
   },
-  reactLogo: {
-    height: 178,
-    width: 290,
-    bottom: 0,
-    left: 0,
-    position: 'absolute',
+  featureContent: {
+    flex: 1,
+  },
+  featureTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    color: '#333',
+    marginBottom: 5,
+  },
+  featureDescription: {
+    fontSize: 14,
+    color: '#666',
   },
 });

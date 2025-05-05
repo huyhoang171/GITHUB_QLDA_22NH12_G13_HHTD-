@@ -1,0 +1,4087 @@
+[
+  {
+    "word": "bass",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/bass_/bass__gb_7.mp3",
+    "phonetic_text": "/bæs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/bass_/bass__us_2.mp3",
+    "phonetic_am_text": "/bæs/",
+    "senses": [
+      {
+        "definition": "a sea or freshwater fish that is used for food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Fresh sea bass is a great delicacy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "barramundi",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barra/barramundi__gb_1.mp3",
+    "phonetic_text": "/ˌbærəˈmʌndi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barra/barramundi__us_1.mp3",
+    "phonetic_am_text": "/ˌbærəˈmʌndi/",
+    "senses": [
+      {
+        "definition": "a large fish found in rivers in Australia and South-East Asia",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "barracuda",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barra/barracuda__gb_1.mp3",
+    "phonetic_text": "/ˌbærəˈkjuːdə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barra/barracuda__us_1.mp3",
+    "phonetic_am_text": "/ˌbærəˈkuːdə/",
+    "senses": [
+      {
+        "definition": "a large aggressive fish with sharp teeth that lives in warm seas",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "aquarium",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aqu/aquar/aquarium__gb_1.mp3",
+    "phonetic_text": "/əˈkweəriəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aqu/aquar/aquarium__us_1.mp3",
+    "phonetic_am_text": "/əˈkweriəm/",
+    "senses": [
+      {
+        "definition": "a large glass container in which fish and other water creatures and plants are kept",
+        "examples": []
+      },
+      {
+        "definition": "a building where people can go to see fish and other water creatures",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "beluga",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bel/belug/beluga__gb_4.mp3",
+    "phonetic_text": "/bəˈluːɡə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bel/belug/beluga__us_1.mp3",
+    "phonetic_am_text": "/bəˈluːɡə/",
+    "senses": [
+      {
+        "definition": "a type of small whale",
+        "examples": []
+      },
+      {
+        "definition": "a type of large fish that lives in rivers and lakes in eastern Europe",
+        "examples": []
+      },
+      {
+        "definition": "a type of caviar (= fish eggs), from a beluga",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "abalone",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aba/abalo/abalone__gb_1.mp3",
+    "phonetic_text": "/ˌæbəˈləʊni/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aba/abalo/abalone__us_2_rr.mp3",
+    "phonetic_am_text": "/ˌæbəˈləʊni/",
+    "senses": [
+      {
+        "definition": "a shellfish that can be eaten and whose shell contains mother-of-pearl",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "angelfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ang/angel/angelfish__gb_1.mp3",
+    "phonetic_text": "/ˈeɪndʒlfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ang/angel/angelfish__us_1.mp3",
+    "phonetic_am_text": "/ˈeɪndʒlfɪʃ/",
+    "senses": [
+      {
+        "definition": "a type of brightly coloured freshwater or saltwater fish with a thin deep body and long fins",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "anchovy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anc/ancho/anchovy__gb_1.mp3",
+    "phonetic_text": "/ˈæntʃəvi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anc/ancho/anchovy__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈæntʃəʊvi/",
+    "senses": [
+      {
+        "definition": "a small fish that is used for food, usually preserved in salt and oil, giving it a strong salty taste",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pizza topped with cheese and anchovies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "barnacle",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barna/barnacle__gb_2.mp3",
+    "phonetic_text": "/ˈbɑːnəkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barna/barnacle__us_1.mp3",
+    "phonetic_am_text": "/ˈbɑːrnəkl/",
+    "senses": [
+      {
+        "definition": "a small shellfish that attaches itself to objects underwater, for example to rocks and the bottoms of ships",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "barracouta",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barra/barracouta__gb_1.mp3",
+    "phonetic_text": "/ˌbærəˈkuːtə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barra/barracouta__us_1.mp3",
+    "phonetic_am_text": "/ˌbærəˈkuːtə/",
+    "senses": [
+      {
+        "definition": "a long thin fish found in the southern oceans, used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "bluefish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/blu/bluef/bluefish__gb_1.mp3",
+    "phonetic_text": "/ˈbluːfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/blu/bluef/bluefish__us_1.mp3",
+    "phonetic_am_text": "/ˈbluːfɪʃ/",
+    "senses": [
+      {
+        "definition": "a blue-coloured sea fish that is caught for sport and food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were fishing for bluefish."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chub",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/chu/chub_/chub__gb_2.mp3",
+    "phonetic_text": "/tʃʌb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/chu/chub_/chub__us_1.mp3",
+    "phonetic_am_text": "/tʃʌb/",
+    "senses": [
+      {
+        "definition": "a freshwater fish with a thick body",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "catfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cat/catfi/catfish__gb_2.mp3",
+    "phonetic_text": "/ˈkætfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/catfi/catfish__us_1.mp3",
+    "phonetic_am_text": "/ˈkætfɪʃ/",
+    "senses": [
+      {
+        "definition": "a large fish with long stiff hairs, like a cat’s whiskers, around its mouth. There are several types of catfish, most of which are freshwater fish.",
+        "examples": []
+      },
+      {
+        "definition": "a person who pretends to be somebody else, usually somebody who does not really exist, on social media in order to trick somebody into having a relationship online",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "clam",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cla/clam_/clam__gb_1.mp3",
+    "phonetic_text": "/klæm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cla/clam_/clam__us_1.mp3",
+    "phonetic_am_text": "/klæm/",
+    "senses": [
+      {
+        "definition": "a shellfish that can be eaten. It has a shell in two parts that can open and close.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "clam chowder/soup"
+          },
+          {
+            "cf": "",
+            "x": "The moment I mentioned the children he closed up like a clam (= became silent and refused to discuss the topic)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "brachiopod",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bra/brach/brachiopod__gb_1.mp3",
+    "phonetic_text": "/ˈbrækiəpɒd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bra/brach/brachiopod__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈbrækiəpɑːd/",
+    "senses": [
+      {
+        "definition": "a shellfish that has two joined shells and uses small tentacles (= long thin parts) to find food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "bowfin",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bow/bowfi/bowfin__gb_2.mp3",
+    "phonetic_text": "/ˈbəʊfɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bow/bowfi/bowfin__us_1.mp3",
+    "phonetic_am_text": "/ˈbəʊfɪn/",
+    "senses": [
+      {
+        "definition": "an American fish that can survive for a long time out of water",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "bream",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bre/bream/bream__gb_1.mp3",
+    "phonetic_text": "/briːm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/bream/bream__us_1_rr.mp3",
+    "phonetic_am_text": "/briːm/",
+    "senses": [
+      {
+        "definition": "a freshwater or sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "bivalve",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/biv/bival/bivalve__gb_2.mp3",
+    "phonetic_text": "/ˈbaɪvælv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/biv/bival/bivalve__us_1.mp3",
+    "phonetic_am_text": "/ˈbaɪvælv/",
+    "senses": [
+      {
+        "definition": "any shellfish with a shell in two parts, for example a mussel",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "cockle",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/coc/cockl/cockle__gb_1.mp3",
+    "phonetic_text": "/ˈkɒkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coc/cockl/cockle__us_1.mp3",
+    "phonetic_am_text": "/ˈkɑːkl/",
+    "senses": [
+      {
+        "definition": "a small shellfish that can be eaten",
+        "examples": []
+      },
+      {
+        "definition": "to make somebody feel happy or sympathetic",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Doesn’t that story just warm the cockles of your heart?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bottom feeder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bot/botto/bottom_feeder_1_gb_1.mp3",
+    "phonetic_text": "/ˈbɒtəm fiːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bot/botto/bottom_feeder_1_us_1.mp3",
+    "phonetic_am_text": "/ˈbɑːtəm fiːdər/",
+    "senses": [
+      {
+        "definition": "a person who earns money by taking advantage of bad things that happen to other people or by using things that other people throw away",
+        "examples": []
+      },
+      {
+        "definition": "a fish that feeds at the bottom of a river, lake or the sea",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "conger",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcong/xconger__gb_1.mp3",
+    "phonetic_text": "/ˈkɒŋɡə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcong/xconger__us_1.mp3",
+    "phonetic_am_text": "/ˈkɑːŋɡər/",
+    "senses": [
+      {
+        "definition": "a large eel (= a long thin fish) that lives in the sea",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "claw",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cla/claw_/claw__gb_1.mp3",
+    "phonetic_text": "/klɔː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cla/claw_/claw__us_1.mp3",
+    "phonetic_am_text": "/klɔː/",
+    "senses": [
+      {
+        "definition": "one of the sharp curved nails on the end of an animal’s or a bird’s foot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The cat lashed out with its claws."
+          }
+        ]
+      },
+      {
+        "definition": "a long, sharp curved part of the body of some types of shellfish, used for catching and holding things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the claws of a crab"
+          }
+        ]
+      },
+      {
+        "definition": "part of a tool or machine, like a claw, used for holding, pulling or lifting things",
+        "examples": []
+      },
+      {
+        "definition": "to manage to get into a relationship with somebody in a way that gives you control over them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She’s really got her claws into you!"
+          }
+        ]
+      },
+      {
+        "definition": "to criticize somebody severely",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Wait until the media gets its claws into her."
+          }
+        ]
+      },
+      {
+        "definition": "involving opposition or competition that is violent and without sympathy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "nature, red in tooth and claw"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "codfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cod/codfi/codfish__gb_1.mp3",
+    "phonetic_text": "/ˈkɒdfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cod/codfi/codfish__us_2.mp3",
+    "phonetic_am_text": "/ˈkɑːdfɪʃ/",
+    "senses": [
+      {
+        "definition": "a large sea fish that is white inside and used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "cod",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cod/cod__/cod__gb_2.mp3",
+    "phonetic_text": "/kɒd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cod/cod__/cod__us_2.mp3",
+    "phonetic_am_text": "/kɑːd/",
+    "senses": [
+      {
+        "definition": "a large sea fish that is white inside and used for food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "fishing for cod"
+          },
+          {
+            "cf": "",
+            "x": "cod fillets"
+          },
+          {
+            "cf": "",
+            "x": "cod and parsley sauce"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "coley",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/col/coley/coley__gb_1.mp3",
+    "phonetic_text": "/ˈkəʊli/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/col/coley/coley__us_1.mp3",
+    "phonetic_am_text": "/ˈkəʊli/",
+    "senses": [
+      {
+        "definition": "a N Atlantic fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "chinook",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/chi/chino/chinook__gb_3.mp3",
+    "phonetic_text": "/tʃɪˈnuːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/chi/chino/chinook__us_1.mp3",
+    "phonetic_am_text": "/tʃɪˈnuːk/",
+    "senses": [
+      {
+        "definition": "a warm, dry wind that blows down the east side of the Rocky Mountains at the end of winter",
+        "examples": []
+      },
+      {
+        "definition": "a large N Pacific salmon that is eaten as food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "coelacanth",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/coe/coela/coelacanth__gb_1.mp3",
+    "phonetic_text": "/ˈsiːləkænθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coe/coela/coelacanth__us_1.mp3",
+    "phonetic_am_text": "/ˈsiːləkænθ/",
+    "senses": [
+      {
+        "definition": "a large fish found mainly in the seas near Madagascar. It was thought to be extinct until one was discovered in 1938.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "cuttlefish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cut/cuttl/cuttlefish__gb_1.mp3",
+    "phonetic_text": "/ˈkʌtlfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cut/cuttl/cuttlefish__us_1.mp3",
+    "phonetic_am_text": "/ˈkʌtlfɪʃ/",
+    "senses": [
+      {
+        "definition": "a sea creature with eight arms, two tentacles (= long thin parts like arms) and a wide flat shell inside its body. It produces a black substance like ink when it is attacked.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "coral",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cor/coral/coral__gb_1.mp3",
+    "phonetic_text": "/ˈkɒrəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cor/coral/coral__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈkɔːrəl/",
+    "senses": [
+      {
+        "definition": "a hard substance that is red, pink or white in colour, and that forms on the bottom of the sea from the bones of very small creatures. Coral is often used in jewellery.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "coral reefs/islands"
+          },
+          {
+            "cf": "",
+            "x": "a coral necklace"
+          }
+        ]
+      },
+      {
+        "definition": "a creature that produces coral",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "crawfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cra/crawf/crawfish__gb_1.mp3",
+    "phonetic_text": "/ˈkrɔːfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cra/crawf/crawfish__us_1.mp3",
+    "phonetic_am_text": "/ˈkrɔːfɪʃ/",
+    "senses": [
+      {
+        "definition": "an animal like a small lobster that lives in rivers and lakes and can be eaten, or one like a large lobster that lives in the sea and can be eaten",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "crustacean",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cru/crust/crustacean__gb_1.mp3",
+    "phonetic_text": "/krʌˈsteɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cru/crust/crustacean__us_1.mp3",
+    "phonetic_am_text": "/krʌˈsteɪʃn/",
+    "senses": [
+      {
+        "definition": "any creature with a soft body that is divided into sections, and a hard outer shell. Most crustaceans live in water. Crabs, lobsters and shrimps are all crustaceans.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "dogfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dog/dogfi/dogfish__gb_1.mp3",
+    "phonetic_text": "/ˈdɒɡfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dog/dogfi/dogfish__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈdɔːɡfɪʃ/",
+    "senses": [
+      {
+        "definition": "a small shark (= an aggressive sea fish with very sharp teeth)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "crayfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cra/crayf/crayfish__gb_1.mp3",
+    "phonetic_text": "/ˈkreɪfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cra/crayf/crayfish__us_1.mp3",
+    "phonetic_am_text": "/ˈkreɪfɪʃ/",
+    "senses": [
+      {
+        "definition": "an animal like a small lobster that lives in rivers and lakes and can be eaten, or one like a large lobster that lives in the sea and can be eaten",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "dab",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dab/dab__/dab__gb_1.mp3",
+    "phonetic_text": "/dæb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dab/dab__/dab__us_1.mp3",
+    "phonetic_am_text": "/dæb/",
+    "senses": [
+      {
+        "definition": "a small amount of a liquid, cream or powder that is put on a surface in a quick gentle movement",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She put a dab of perfume behind her ears."
+          }
+        ]
+      },
+      {
+        "definition": "an act of gently touching or pressing something without rubbing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He gave the cut a quick dab with a towel."
+          }
+        ]
+      },
+      {
+        "definition": "a small flat fish",
+        "examples": []
+      },
+      {
+        "definition": "a person or thing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's in hospital again. Poor dab."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "electric eel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ele/elect/electric_eel_1_gb_1.mp3",
+    "phonetic_text": "/ɪˌlektrɪk ˈiːl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ele/elect/electric_eel_1_us_1.mp3",
+    "phonetic_am_text": "/ɪˌlektrɪk ˈiːl/",
+    "senses": [
+      {
+        "definition": "a large fish that lives in rivers in South America and that produces electricity to kill its food and to help it find its way",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "dory",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dor/dory_/dory__gb_2.mp3",
+    "phonetic_text": "/ˈdɔːri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dor/dory_/dory__us_1.mp3",
+    "phonetic_am_text": "/ˈdɔːri/",
+    "senses": [
+      {
+        "definition": "a narrow fish that has a deep body and that can open its mouth very wide",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "crab",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cra/crab_/crab__gb_2.mp3",
+    "phonetic_text": "/kræb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cra/crab_/crab__us_1.mp3",
+    "phonetic_am_text": "/kræb/",
+    "senses": [
+      {
+        "definition": "a sea creature with a hard shell, eight legs and two pincers (= curved and pointed arms for catching and holding things). Crabs move sideways (= towards the side) on land.",
+        "examples": []
+      },
+      {
+        "definition": "meat from a crab, used for food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "dressed crab"
+          }
+        ]
+      },
+      {
+        "definition": "the condition caused by having lice (called crab lice) in the hair around the genitals",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "cray",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cra/cray_/cray__gb_1.mp3",
+    "phonetic_text": "/kreɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cra/cray_/cray__us_1.mp3",
+    "phonetic_am_text": "/kreɪ/",
+    "senses": [
+      {
+        "definition": "a crayfish (= an animal like a small lobster, that lives in rivers and lakes and can be eaten, or one like a large lobster, that lives in the sea and can be eaten)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My brother works as a cray fisherman in Tasmania."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fin",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fin/fin__/fin__gb_2.mp3",
+    "phonetic_text": "/fɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fin/fin__/fin__us_1.mp3",
+    "phonetic_am_text": "/fɪn/",
+    "senses": [
+      {
+        "definition": "a thin flat part that sticks out from the body of a fish, used for swimming and keeping balance",
+        "examples": []
+      },
+      {
+        "definition": "a thin flat part that sticks out from the body of a vehicle, an aircraft, etc., used for improving its balance and movement",
+        "examples": [
+          {
+            "cf": "",
+            "x": "tail fins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flatfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fla/flatf/flatfish__gb_1.mp3",
+    "phonetic_text": "/ˈflætfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fla/flatf/flatfish__us_1.mp3",
+    "phonetic_am_text": "/ˈflætfɪʃ/",
+    "senses": [
+      {
+        "definition": "any sea fish with a flat body, for example a plaice",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "flounder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/flo/floun/flounder__gb_1.mp3",
+    "phonetic_text": "/ˈflaʊndə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/floun/flounder__us_1.mp3",
+    "phonetic_am_text": "/ˈflaʊndər/",
+    "senses": [
+      {
+        "definition": "a small flat sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "egg",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/egg/egg__/egg__gb_3.mp3",
+    "phonetic_text": "/eɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/egg/egg__/egg__us_1.mp3",
+    "phonetic_am_text": "/eɡ/",
+    "senses": [
+      {
+        "definition": "a small oval object with a thin hard shell produced by a female bird and containing a young bird; a similar object (without a hard shell) produced by a female fish, insect, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The female sits on the eggs until they hatch."
+          },
+          {
+            "cf": "",
+            "x": "The fish lay thousands of eggs at one time."
+          },
+          {
+            "cf": "",
+            "x": "crocodile eggs"
+          }
+        ]
+      },
+      {
+        "definition": "a bird’s egg, especially one from a chicken, that is eaten as food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a boiled egg"
+          },
+          {
+            "cf": "",
+            "x": "bacon and eggs"
+          },
+          {
+            "cf": "",
+            "x": "fried/poached/scrambled eggs"
+          },
+          {
+            "cf": "",
+            "x": "Bind the mixture together with a little beaten egg."
+          },
+          {
+            "cf": "",
+            "x": "You've got some egg on your shirt."
+          },
+          {
+            "cf": "",
+            "x": "egg yolks/whites"
+          },
+          {
+            "cf": "",
+            "x": "egg noodles"
+          },
+          {
+            "cf": "",
+            "x": "hen's/duck/quail eggs"
+          },
+          {
+            "cf": "",
+            "x": "a chocolate egg (= made from chocolate in the shape of an egg)"
+          }
+        ]
+      },
+      {
+        "definition": "a cell that combines with a sperm to create a baby or young animal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The male sperm fertilizes the female egg."
+          },
+          {
+            "cf": "",
+            "x": "an egg donor"
+          },
+          {
+            "cf": "",
+            "x": "Many women conceive through the use of a donor egg."
+          }
+        ]
+      },
+      {
+        "definition": "a situation in which it is difficult to tell which one of two things was the cause of the other",
+        "examples": []
+      },
+      {
+        "definition": "something that has some good parts and some bad ones",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their investment plan shows the familiar curate's egg pattern of some bits doing well and others doing badly."
+          }
+        ]
+      },
+      {
+        "definition": "a person who you know will behave well/badly",
+        "examples": []
+      },
+      {
+        "definition": "to be made to look stupid",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were left with egg on their faces when only ten people showed up."
+          }
+        ]
+      },
+      {
+        "definition": "to destroy something that would make you rich, successful, etc.",
+        "examples": []
+      },
+      {
+        "definition": "to rely on one particular course of action for success rather than giving yourself several different possibilities",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’ve applied for several jobs. I don’t want to put all my eggs in one basket."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that something is definitely true",
+        "examples": []
+      },
+      {
+        "definition": "to tell or show somebody how to do something that they can already do well, and probably better than you can",
+        "examples": []
+      },
+      {
+        "definition": "you cannot achieve something important without causing a few small problems",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "elver",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/elv/elver/elver__gb_1.mp3",
+    "phonetic_text": "/ˈelvə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/elv/elver/elver__us_1.mp3",
+    "phonetic_am_text": "/ˈelvər/",
+    "senses": [
+      {
+        "definition": "a young eel",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "eel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eel/eel__/eel__gb_1.mp3",
+    "phonetic_text": "/iːl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/eel/eel__/eel__us_1.mp3",
+    "phonetic_am_text": "/iːl/",
+    "senses": [
+      {
+        "definition": "a long thin sea or freshwater fish that looks like a snake. There are several types of eel, some of which are used for food.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "jellied eels"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fishbowl",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fis/fishb/fishbowl__gb_1.mp3",
+    "phonetic_text": "/ˈfɪʃbəʊl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fishb/fishbowl__us_1.mp3",
+    "phonetic_am_text": "/ˈfɪʃbəʊl/",
+    "senses": [
+      {
+        "definition": "a glass bowl for keeping fish in as pets",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "game fish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gam/game_/game_fish_1_gb_1.mp3",
+    "phonetic_text": "/ˈɡeɪm fɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gam/game_/game_fish_1_us_1.mp3",
+    "phonetic_am_text": "/ˈɡeɪm fɪʃ/",
+    "senses": [
+      {
+        "definition": "a fish that is caught for sport and is also eaten",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "gill",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gil/gill_/gill__gb_4.mp3",
+    "phonetic_text": "/ɡɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gil/gill_/gill__us_1.mp3",
+    "phonetic_am_text": "/ɡɪl/",
+    "senses": [
+      {
+        "definition": "one of the openings on the side of a fish’s head that it breathes through",
+        "examples": []
+      },
+      {
+        "definition": "until completely full",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I was stuffed to the gills with chocolate cake."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "freshwater",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fre/fresh/freshwater__gb_1.mp3",
+    "phonetic_text": "/ˈfreʃwɔːtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fre/fresh/freshwater__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈfreʃwɔːtər/",
+    "senses": [
+      {
+        "definition": "living in water that is not the sea and does not contain salt",
+        "examples": [
+          {
+            "cf": "",
+            "x": "freshwater fish"
+          }
+        ]
+      },
+      {
+        "definition": "having water that does not contain salt",
+        "examples": [
+          {
+            "cf": "",
+            "x": "freshwater lakes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "haddock",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/had/haddo/haddock__gb_2.mp3",
+    "phonetic_text": "/ˈhædək/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/had/haddo/haddock__us_1.mp3",
+    "phonetic_am_text": "/ˈhædək/",
+    "senses": [
+      {
+        "definition": "a sea fish like a cod but smaller that is white inside and used for food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "smoked haddock"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hake",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hak/hake_/hake__gb_8.mp3",
+    "phonetic_text": "/heɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hak/hake_/hake__us_1.mp3",
+    "phonetic_am_text": "/heɪk/",
+    "senses": [
+      {
+        "definition": "a large sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "halibut",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hal/halib/halibut__gb_2.mp3",
+    "phonetic_text": "/ˈhælɪbət/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hal/halib/halibut__us_1.mp3",
+    "phonetic_am_text": "/ˈhælɪbət/",
+    "senses": [
+      {
+        "definition": "a large flat sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fis/fish_/fish__gb_3.mp3",
+    "phonetic_text": "/fɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fish_/fish__us_1.mp3",
+    "phonetic_am_text": "/fɪʃ/",
+    "senses": [
+      {
+        "definition": "a creature that lives in water, breathes through gills, and uses fins and a tail for swimming",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They caught several fish."
+          },
+          {
+            "cf": "",
+            "x": "In the pool she could see little silvery fish darting around."
+          },
+          {
+            "cf": "",
+            "x": "tropical/marine/freshwater fish"
+          },
+          {
+            "cf": "",
+            "x": "Herring are relatively oily fish."
+          },
+          {
+            "cf": "",
+            "x": "shoals (= groups) of fish"
+          },
+          {
+            "cf": "",
+            "x": "There are about 30 000 species of fish in the world."
+          },
+          {
+            "cf": "",
+            "x": "The list of endangered species includes nearly 600 fishes."
+          },
+          {
+            "cf": "",
+            "x": "a fish tank/pond"
+          },
+          {
+            "cf": "",
+            "x": "Fish stocks in the Baltic are in decline."
+          },
+          {
+            "cf": "",
+            "x": "Fish farming has boomed in the past three decades."
+          }
+        ]
+      },
+      {
+        "definition": "the soft part of fish that is eaten as food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a regular diet of fresh fish"
+          },
+          {
+            "cf": "",
+            "x": "fried/grilled/smoked/dried fish"
+          },
+          {
+            "cf": "",
+            "x": "fish pie/soup"
+          },
+          {
+            "cf": "",
+            "x": "The chef's fish dishes are his speciality."
+          },
+          {
+            "cf": "",
+            "x": "Fish forms the main part of their diet."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize how easy it is to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "What do you mean you can't do it? It'll be like shooting fish in a barrel!"
+          }
+        ]
+      },
+      {
+        "definition": "an important person (in a small community)",
+        "examples": []
+      },
+      {
+        "definition": "a person who seems unfriendly and without strong emotions",
+        "examples": []
+      },
+      {
+        "definition": "a completely different situation or person from the one previously mentioned",
+        "examples": []
+      },
+      {
+        "definition": "to drink a lot of alcohol regularly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Simon used to drink like a fish."
+          }
+        ]
+      },
+      {
+        "definition": "a person who feels uncomfortable because they are in an environment that is not familiar",
+        "examples": []
+      },
+      {
+        "definition": "to have more important or more interesting things to do",
+        "examples": []
+      },
+      {
+        "definition": "neither one thing nor another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The hovercraft has always suffered from the fact that it is neither fish nor fowl."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is slightly strange or crazy",
+        "examples": []
+      },
+      {
+        "definition": "used to comfort somebody whose romantic relationship has ended by saying that there are many other people they may have a successful relationship with in the future",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "goldfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gol/goldf/goldfish__gb_2.mp3",
+    "phonetic_text": "/ˈɡəʊldfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gol/goldf/goldfish__us_1.mp3",
+    "phonetic_am_text": "/ˈɡəʊldfɪʃ/",
+    "senses": [
+      {
+        "definition": "a small orange or red fish. Goldfish are kept as pets in bowls or ponds.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hatch",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hat/hatch/hatch__gb_1.mp3",
+    "phonetic_text": "/hætʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hat/hatch/hatch__us_1.mp3",
+    "phonetic_am_text": "/hætʃ/",
+    "senses": [
+      {
+        "definition": "to come out of an egg",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Ten chicks hatched (out) this morning."
+          },
+          {
+            "cf": "",
+            "x": "the newly hatched chicks"
+          }
+        ]
+      },
+      {
+        "definition": "to break open so that a young bird, fish, insect, etc. can come out",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The eggs are about to hatch."
+          },
+          {
+            "cf": "",
+            "x": "How long do the eggs take to hatch?"
+          },
+          {
+            "cf": "",
+            "x": "The butterfly's eggs soon hatch into larvae."
+          }
+        ]
+      },
+      {
+        "definition": "to make a young bird, fish, insect, etc. come out of an egg",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The female must find a warm place to hatch her eggs."
+          }
+        ]
+      },
+      {
+        "definition": "to create a plan or an idea, especially in secret",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Have you been hatching up a deal with her?"
+          },
+          {
+            "cf": "",
+            "x": "Rebel MPs are hatching a secret plot to oust the prime minister."
+          }
+        ]
+      },
+      {
+        "definition": "you should not be too confident that something will be successful, because something may still go wrong",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "horse mackerel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horse/horse_mackerel_1_gb_1.mp3",
+    "phonetic_text": "/ˈhɔːs mækrəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horse/horse_mackerel_1_us_1.mp3",
+    "phonetic_am_text": "/ˈhɔːrs mækrəl/",
+    "senses": [
+      {
+        "definition": "an E Atlantic fish that swims in large groups and is used for food, especially in southern Africa",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "guppy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gup/guppy/guppy__gb_2.mp3",
+    "phonetic_text": "/ˈɡʌpi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gup/guppy/guppy__us_1.mp3",
+    "phonetic_am_text": "/ˈɡʌpi/",
+    "senses": [
+      {
+        "definition": "a small freshwater fish, commonly kept in aquariums",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hermit crab",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/hermi/hermit_crab_1_gb_1.mp3",
+    "phonetic_text": "/ˈhɜːmɪt kræb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/hermi/hermit_crab_1_us_1.mp3",
+    "phonetic_am_text": "/ˈhɜːrmɪt kræb/",
+    "senses": [
+      {
+        "definition": "a crab (= a sea creature with eight legs and, usually, a hard shell) that has no shell of its own and has to use the empty shells of other sea creatures",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "herring",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/her/herri/herring__gb_1.mp3",
+    "phonetic_text": "/ˈherɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/her/herri/herring__us_1.mp3",
+    "phonetic_am_text": "/ˈherɪŋ/",
+    "senses": [
+      {
+        "definition": "a N Atlantic fish that swims in very large groups and is used for food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "shoals of herring"
+          },
+          {
+            "cf": "",
+            "x": "fresh herring fillets"
+          },
+          {
+            "cf": "",
+            "x": "pickled herrings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "goldfish bowl",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gol/goldf/goldfish_bowl_1_gb_1.mp3",
+    "phonetic_text": "/ˈɡəʊldfɪʃ bəʊl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gol/goldf/goldfish_bowl_1_us_1.mp3",
+    "phonetic_am_text": "/ˈɡəʊldfɪʃ bəʊl/",
+    "senses": [
+      {
+        "definition": "a glass bowl for keeping fish in as pets",
+        "examples": []
+      },
+      {
+        "definition": "a situation in which people can see everything that happens and nothing is private",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Living in this goldfish bowl of publicity would crack the strongest marriage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "John Dory",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/joh/john_/john_dory_1_gb_1.mp3",
+    "phonetic_text": "/ˌdʒɒn ˈdɔːri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/joh/john_/john_dory_1_us_1.mp3",
+    "phonetic_am_text": "/ˌdʒɑːn ˈdɔːri/",
+    "senses": [
+      {
+        "definition": "a fish that has a black mark on each side, often eaten as food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "grilse",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gri/grils/grilse__gb_1.mp3",
+    "phonetic_text": "/ɡrɪls/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gri/grils/grilse__us_2.mp3",
+    "phonetic_am_text": "/ɡrɪls/",
+    "senses": [
+      {
+        "definition": "a salmon (= a type of fish) that has returned to a river or lake after spending one winter in the sea",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "koi",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/koi/koi__/koi__gb_2.mp3",
+    "phonetic_text": "/kɔɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/koi/koi__/koi__us_1.mp3",
+    "phonetic_am_text": "/kɔɪ/",
+    "senses": [
+      {
+        "definition": "a large fish originally from Japan, often kept in fish ponds",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hoki",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hok/hoki_/hoki__gb_1.mp3",
+    "phonetic_text": "/ˈhəʊki/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hok/hoki_/hoki__us_1.mp3",
+    "phonetic_am_text": "/ˈhəʊki/",
+    "senses": [
+      {
+        "definition": "a fish found in the seas off New Zealand",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "harlequin fish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/har/harle/harlequin_fish_1_gb_1.mp3",
+    "phonetic_text": "/ˈhɑːləkwɪn fɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/har/harle/harlequin_fish_1_us_1.mp3",
+    "phonetic_am_text": "/ˈhɑːrləkwɪn fɪʃ/",
+    "senses": [
+      {
+        "definition": "a small brightly coloured fish found in South-East Asia",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lamprey",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lam/lampr/lamprey__gb_1.mp3",
+    "phonetic_text": "/ˈlæmpri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lam/lampr/lamprey__us_1.mp3",
+    "phonetic_am_text": "/ˈlæmpri/",
+    "senses": [
+      {
+        "definition": "a freshwater fish with a round mouth that attaches itself to other fish and drinks their blood",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "langouste",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lan/lango/langouste__gb_6.mp3",
+    "phonetic_text": "/lɒŋˈɡuːst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/lango/langouste__us_5.mp3",
+    "phonetic_am_text": "/læŋˈɡuːst/",
+    "senses": [
+      {
+        "definition": "a type of large shellfish with a long body and legs",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "langoustine",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lan/lango/langoustine__gb_3.mp3",
+    "phonetic_text": "/ˌlɒŋɡuˈstiːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/lango/langoustine__us_2.mp3",
+    "phonetic_am_text": "/ˌlæŋɡuˈstiːn/",
+    "senses": [
+      {
+        "definition": "a shellfish that is a type of small lobster that may be prepared and eaten as scampi",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "krill",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kri/krill/krill__gb_1.mp3",
+    "phonetic_text": "/krɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kri/krill/krill__us_1.mp3",
+    "phonetic_am_text": "/krɪl/",
+    "senses": [
+      {
+        "definition": "very small shellfish that live in the sea around the Antarctic and are eaten by whales",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lanternfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lan/lante/lanternfish__gb_1.mp3",
+    "phonetic_text": "/ˈlæntənfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/lante/lanternfish__us_1.mp3",
+    "phonetic_am_text": "/ˈlæntərnfɪʃ/",
+    "senses": [
+      {
+        "definition": "a small sea fish with spots on its skin that shine in the dark",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lugworm",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lug/lugwo/lugworm__gb_1.mp3",
+    "phonetic_text": "/ˈlʌɡwɜːm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lug/lugwo/lugworm__us_1.mp3",
+    "phonetic_am_text": "/ˈlʌɡwɜːrm/",
+    "senses": [
+      {
+        "definition": "a large worm that lives in the sand by the sea. Lugworms are often used as bait to catch fish.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "limpet",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lim/limpe/limpet__gb_1.mp3",
+    "phonetic_text": "/ˈlɪmpɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lim/limpe/limpet__us_1.mp3",
+    "phonetic_am_text": "/ˈlɪmpɪt/",
+    "senses": [
+      {
+        "definition": "a small shellfish that sticks very tightly to rocks",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Prime Minister clung to his job like a limpet, despite calls for him to resign."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jellyfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jel/jelly/jellyfish__gb_1.mp3",
+    "phonetic_text": "/ˈdʒelifɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jel/jelly/jellyfish__us_1.mp3",
+    "phonetic_am_text": "/ˈdʒelifɪʃ/",
+    "senses": [
+      {
+        "definition": "a sea creature with a body like jelly and long thin parts called tentacles that can give a sharp sting (= a painful wound on the skin)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lobster",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lob/lobst/lobster__gb_1.mp3",
+    "phonetic_text": "/ˈlɒbstə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lob/lobst/lobster__us_1.mp3",
+    "phonetic_am_text": "/ˈlɑːbstər/",
+    "senses": [
+      {
+        "definition": "a sea creature with a hard shell, a long body divided into sections, eight legs and two large claws (= curved and pointed arms for catching and holding things). Its shell is black but turns bright red when it is boiled.",
+        "examples": []
+      },
+      {
+        "definition": "meat from a lobster, used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lay",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lay/lay__/lay__gb_1.mp3",
+    "phonetic_text": "/leɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lay/lay__/lay__us_1.mp3",
+    "phonetic_am_text": "/leɪ/",
+    "senses": [
+      {
+        "definition": "to put somebody/something in a particular position, especially when it is done gently or carefully",
+        "examples": [
+          {
+            "cf": "lay somebody/something + adv./prep.",
+            "x": "He laid a hand on my arm."
+          },
+          {
+            "cf": "",
+            "x": "Relatives laid wreaths on the grave."
+          },
+          {
+            "cf": "",
+            "x": "She laid the baby down gently on the bed."
+          },
+          {
+            "cf": "",
+            "x": "Red roses were laid at the memorial."
+          },
+          {
+            "cf": "",
+            "x": "She noticed some paintings laid against the far wall."
+          },
+          {
+            "cf": "",
+            "x": "The horse laid back its ears."
+          },
+          {
+            "cf": "lay something",
+            "x": "His mother visited the murder scene yesterday to lay flowers."
+          },
+          {
+            "cf": "lay somebody/something + adj.",
+            "x": "The cloth should be laid flat."
+          }
+        ]
+      },
+      {
+        "definition": "to spread something on something; to cover something with a layer of something",
+        "examples": [
+          {
+            "cf": "lay A on/over B",
+            "x": "Before they started they laid newspaper on the floor."
+          },
+          {
+            "cf": "",
+            "x": "The grapes were laid to dry on racks."
+          },
+          {
+            "cf": "",
+            "x": "They carefully laid a blanket over the body."
+          },
+          {
+            "cf": "B is laid with A",
+            "x": "The floor was laid with newspaper."
+          }
+        ]
+      },
+      {
+        "definition": "to put something down, especially on the floor, ready to be used",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to lay a carpet/cable/pipe"
+          },
+          {
+            "cf": "",
+            "x": "to lay tiles/bricks"
+          },
+          {
+            "cf": "",
+            "x": "The first high-speed track was laid between Paris and Lyons."
+          },
+          {
+            "cf": "",
+            "x": "Thirteen U-boats left their base to lay mines in British waters."
+          },
+          {
+            "cf": "",
+            "x": "The foundations of the house are being laid today."
+          },
+          {
+            "cf": "",
+            "x": "A series of short-term goals lays the foundation for long-term success."
+          },
+          {
+            "cf": "",
+            "x": "They had laid the groundwork for future development."
+          }
+        ]
+      },
+      {
+        "definition": "if a bird, an insect, a fish, etc. lays eggs, it produces them from its body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The cuckoo lays its eggs in other birds' nests."
+          },
+          {
+            "cf": "",
+            "x": "new-laid eggs"
+          },
+          {
+            "cf": "",
+            "x": "The hens are not laying well (= not producing many eggs)."
+          }
+        ]
+      },
+      {
+        "definition": "to arrange knives, forks, plates, etc. on a table ready for a meal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to lay the table"
+          }
+        ]
+      },
+      {
+        "definition": "to present a proposal, some information, etc. to somebody for them to think about and decide on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The bill was laid before Parliament."
+          }
+        ]
+      },
+      {
+        "definition": "to put somebody/something in a particular position or state, especially a difficult or unpleasant one",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to lay a responsibility/burden on somebody"
+          },
+          {
+            "cf": "",
+            "x": "to lay somebody under an obligation to do something"
+          },
+          {
+            "cf": "",
+            "x": "Failing to act now will merely lay the burden on future generations."
+          }
+        ]
+      },
+      {
+        "definition": "used with a noun to form a phrase that has the same meaning as the verb related to the noun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to lay the blame on somebody (= to blame somebody)"
+          },
+          {
+            "cf": "",
+            "x": "Our teacher lays great stress on good spelling (= stresses it strongly)."
+          }
+        ]
+      },
+      {
+        "definition": "to prepare something in detail",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Little did he know they had laid a trap for him."
+          },
+          {
+            "cf": "",
+            "x": "She began to lay her plans for her escape."
+          },
+          {
+            "cf": "",
+            "x": "Bad weather can upset even the best-laid plans."
+          }
+        ]
+      },
+      {
+        "definition": "to have sex with somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He went out hoping to get laid that night."
+          }
+        ]
+      },
+      {
+        "definition": "to prepare a fire by arranging wood, sticks or coal",
+        "examples": []
+      },
+      {
+        "definition": "to bet money on something; to place a bet",
+        "examples": [
+          {
+            "cf": "lay something",
+            "x": "to lay a bet"
+          },
+          {
+            "cf": "lay something on something",
+            "x": "She had laid $100 on the favourite."
+          },
+          {
+            "cf": "",
+            "x": "I think he’ll come, but I wouldn’t lay money on it."
+          },
+          {
+            "cf": "lay (somebody) something (that)…",
+            "x": "I’ll lay you any money you like (that) he won’t come."
+          }
+        ]
+      },
+      {
+        "definition": "",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "marlin",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marli/marlin__gb_1.mp3",
+    "phonetic_text": "/ˈmɑːlɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marli/marlin__us_1.mp3",
+    "phonetic_am_text": "/ˈmɑːrlɪn/",
+    "senses": [
+      {
+        "definition": "a large sea fish with a long, sharp nose, that people catch for sport",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "moray",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mor/moray/moray__gb_2.mp3",
+    "phonetic_text": "/ˈmɒreɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/moray/moray__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈmɔːreɪ/",
+    "senses": [
+      {
+        "definition": "a type of eel that hides among rocks in warm seas",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "manta",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manta/manta__gb_1.mp3",
+    "phonetic_text": "/ˈmæntə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manta/manta__us_1.mp3",
+    "phonetic_am_text": "/ˈmæntə/",
+    "senses": [
+      {
+        "definition": "a large fish that lives in tropical seas and swims by moving two parts like large flat wings",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lungfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lun/lungf/lungfish__gb_1.mp3",
+    "phonetic_text": "/ˈlʌŋfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lun/lungf/lungfish__us_1.mp3",
+    "phonetic_am_text": "/ˈlʌŋfɪʃ/",
+    "senses": [
+      {
+        "definition": "a long fish that can breathe air and survive for a period of time out of water",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "molly",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mol/molly/molly__gb_1.mp3",
+    "phonetic_text": "/ˈmɒli/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mol/molly/molly__us_1.mp3",
+    "phonetic_am_text": "/ˈmɑːli/",
+    "senses": [
+      {
+        "definition": "a small fish that is often put into aquariums",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "minnow",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/minno/minnow__gb_1.mp3",
+    "phonetic_text": "/ˈmɪnəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/minno/minnow__us_1.mp3",
+    "phonetic_am_text": "/ˈmɪnəʊ/",
+    "senses": [
+      {
+        "definition": "a very small freshwater fish",
+        "examples": []
+      },
+      {
+        "definition": "a company or sports team that is small or unimportant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These two companies are both minnows in the international market."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mullet",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mul/mulle/mullet__gb_1.mp3",
+    "phonetic_text": "/ˈmʌlɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mul/mulle/mullet__us_1.mp3",
+    "phonetic_am_text": "/ˈmʌlɪt/",
+    "senses": [
+      {
+        "definition": "a sea fish that is used for food. The two main types are red mullet and grey mullet.",
+        "examples": []
+      },
+      {
+        "definition": "a hairstyle in which the hair is short at the front and sides and long at the back",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mudskipper",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mud/mudsk/mudskipper__gb_1.mp3",
+    "phonetic_text": "/ˈmʌdskɪpə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mud/mudsk/mudskipper__us_1.mp3",
+    "phonetic_am_text": "/ˈmʌdskɪpər/",
+    "senses": [
+      {
+        "definition": "a fish that can come out of water and move about on mud",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "oyster",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/oys/oyste/oyster__gb_1.mp3",
+    "phonetic_text": "/ˈɔɪstə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oys/oyste/oyster__us_1.mp3",
+    "phonetic_am_text": "/ˈɔɪstər/",
+    "senses": [
+      {
+        "definition": "a large flat shellfish. Some types of oyster can be eaten and others produce shiny white jewels called pearls.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Oyster beds, on the mudflats, are a form of fish farming."
+          }
+        ]
+      },
+      {
+        "definition": "there is no limit to the opportunities open to you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "With talent like that, the world is her oyster."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mackerel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mac/macke/mackerel__gb_1.mp3",
+    "phonetic_text": "/ˈmækrəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mac/macke/mackerel__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈmækrəl/",
+    "senses": [
+      {
+        "definition": "a sea fish with blue-green bands on its body, that is used for food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "smoked mackerel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mussel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/musse/mussel__gb_1.mp3",
+    "phonetic_text": "/ˈmʌsl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/musse/mussel__us_1.mp3",
+    "phonetic_am_text": "/ˈmʌsl/",
+    "senses": [
+      {
+        "definition": "a small shellfish that can be eaten, with a black shell in two parts",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "nautilus",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nau/nauti/nautilus__gb_1.mp3",
+    "phonetic_text": "/ˈnɔːtɪləs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nau/nauti/nautilus__us_1.mp3",
+    "phonetic_am_text": "/ˈnɔːtɪləs/",
+    "senses": [
+      {
+        "definition": "a creature with a shell that lives in the sea. It has tentacles around its mouth and its shell fills with gas to help it float.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "oceanarium",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/oce/ocean/oceanarium__gb_1.mp3",
+    "phonetic_text": "/ˌəʊʃəˈneəriəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oce/ocean/oceanarium__us_1.mp3",
+    "phonetic_am_text": "/ˌəʊʃəˈneriəm/",
+    "senses": [
+      {
+        "definition": "an extremely large container in which fish and other sea creatures are kept to be seen by the public or to be studied by scientists",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "piranha",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pir/piran/piranha__gb_1.mp3",
+    "phonetic_text": "/pɪˈrɑːnə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pir/piran/piranha__us_1_rr.mp3",
+    "phonetic_am_text": "/pɪˈrɑːnə/",
+    "senses": [
+      {
+        "definition": "a small South American freshwater fish that attacks and eats live animals",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "perch",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/per/perch/perch__gb_1.mp3",
+    "phonetic_text": "/pɜːtʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/per/perch/perch__us_1.mp3",
+    "phonetic_am_text": "/pɜːrtʃ/",
+    "senses": [
+      {
+        "definition": "a place where a bird rests, especially a branch or bar for this purpose, for example in a bird’s cage",
+        "examples": []
+      },
+      {
+        "definition": "a high seat or position",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He watched the game from his precarious perch on top of the wall."
+          }
+        ]
+      },
+      {
+        "definition": "a freshwater fish that is sometimes used for food",
+        "examples": []
+      },
+      {
+        "definition": "to make somebody lose their position as somebody/something successful or admired",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A lot of teams are looking to knock us off our perch."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "octopus",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/oct/octop/octopus__gb_2.mp3",
+    "phonetic_text": "/ˈɒktəpəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oct/octop/octopus__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈɑːktəpʊs/",
+    "senses": [
+      {
+        "definition": "a sea creature with a soft round body and eight long arms, which is sometimes used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pilchard",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pil/pilch/pilchard__gb_1.mp3",
+    "phonetic_text": "/ˈpɪltʃəd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pil/pilch/pilchard__us_1.mp3",
+    "phonetic_am_text": "/ˈpɪltʃərd/",
+    "senses": [
+      {
+        "definition": "a small sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pincer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pin/pince/pincer__gb_1.mp3",
+    "phonetic_text": "/ˈpɪnsə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pin/pince/pincer__us_1.mp3",
+    "phonetic_am_text": "/ˈpɪnsər/",
+    "senses": [
+      {
+        "definition": "a tool made of two crossed pieces of metal, used for holding things and pulling things, for example nails out of wood",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of pincers"
+          }
+        ]
+      },
+      {
+        "definition": "one of a pair of curved claws of some types of animal, for example crabs and lobsters",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Crabs normally catch food with their pincers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "polyp",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pol/polyp/polyp__gb_1.mp3",
+    "phonetic_text": "/ˈpɒlɪp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pol/polyp/polyp__us_1.mp3",
+    "phonetic_am_text": "/ˈpɑːlɪp/",
+    "senses": [
+      {
+        "definition": "a small mass of cells that develops inside the body, especially in the nose, that is caused by disease but is not usually harmful",
+        "examples": []
+      },
+      {
+        "definition": "a small and very simple sea creature with a body like a tube in shape",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "plankton",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plank/plankton__gb_1.mp3",
+    "phonetic_text": "/ˈplæŋktən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plank/plankton__us_1.mp3",
+    "phonetic_am_text": "/ˈplæŋktən/",
+    "senses": [
+      {
+        "definition": "the very small forms of plant and animal life that live in water",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Plankton is/are one of the most important life forms in our oceans."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rainbow trout",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rai/rainb/rainbow_trout_1_gb_1.mp3",
+    "phonetic_text": "/ˌreɪnbəʊ ˈtraʊt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rainb/rainbow_trout_1_us_1.mp3",
+    "phonetic_am_text": "/ˌreɪnbəʊ ˈtraʊt/",
+    "senses": [
+      {
+        "definition": "type of trout (= a fish that is often eaten as food, and often caught in the sport of fishing)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "plaice",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plaic/plaice__gb_1.mp3",
+    "phonetic_text": "/pleɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plaic/plaice__us_1.mp3",
+    "phonetic_am_text": "/pleɪs/",
+    "senses": [
+      {
+        "definition": "a flat sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pike",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pik/pike_/pike__gb_1.mp3",
+    "phonetic_text": "/paɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pik/pike_/pike__us_1.mp3",
+    "phonetic_am_text": "/paɪk/",
+    "senses": [
+      {
+        "definition": "a large freshwater fish with very sharp teeth",
+        "examples": []
+      },
+      {
+        "definition": "a weapon with a sharp blade (= metal cutting edge) on a long wooden handle, used in the past by soldiers on foot",
+        "examples": []
+      },
+      {
+        "definition": "a wide road, where traffic can travel fast for long distances and that drivers must pay a toll to use",
+        "examples": []
+      },
+      {
+        "definition": "a pointed top of a hill in the north of England",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the Langdale Pikes"
+          }
+        ]
+      },
+      {
+        "definition": "to happen; to become easy to notice",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We're hearing a lot about new inventions coming down the pike."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "salmon",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sal/salmo/salmon__gb_1.mp3",
+    "phonetic_text": "/ˈsæmən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sal/salmo/salmon__us_1.mp3",
+    "phonetic_am_text": "/ˈsæmən/",
+    "senses": [
+      {
+        "definition": "a large fish that has silver skin and is pink inside and is used for food. Salmon live in the sea but swim up rivers to lay their eggs.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a whole salmon"
+          },
+          {
+            "cf": "",
+            "x": "smoked salmon"
+          },
+          {
+            "cf": "",
+            "x": "good weather conditions for salmon fishing"
+          },
+          {
+            "cf": "",
+            "x": "Scotland’s wild salmon population is in danger of being overwhelmed by the farmed variety."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Portuguese man-of-war",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/por/portu/portuguese_man_of_war_1_gb_1.mp3",
+    "phonetic_text": "/ˌpɔːtʃʊɡiːz ˌmæn əv ˈwɔː(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/por/portu/portuguese_man_of_war_1_us_1.mp3",
+    "phonetic_am_text": "/ˌpɔːrtʃʊɡiːz ˌmæn əv ˈwɔːr/",
+    "senses": [
+      {
+        "definition": "a sea creature similar to a jellyfish, with long tentacles that can give a poisonous sting",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "saltwater",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sal/saltw/saltwater__gb_2.mp3",
+    "phonetic_text": "/ˈsɔːltwɔːtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sal/saltw/saltwater__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈsɔːltwɔːtər/",
+    "senses": [
+      {
+        "definition": "found in or connected with seawater or water containing salt",
+        "examples": [
+          {
+            "cf": "",
+            "x": "saltwater fish"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sea anemone",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sea/sea_a/sea_anemone_1_gb_1.mp3",
+    "phonetic_text": "/ˈsiː əneməni/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/sea_a/sea_anemone_1_us_1.mp3",
+    "phonetic_am_text": "/ˈsiː əneməni/",
+    "senses": [
+      {
+        "definition": "a simple, brightly coloured sea creature that sticks onto rocks and looks like a flower",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "scallop",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sca/scall/scallop__gb_1.mp3",
+    "phonetic_text": "/ˈskɒləp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sca/scall/scallop__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈskæləp/",
+    "senses": [
+      {
+        "definition": "a shellfish that can be eaten, with two flat round shells that fit together",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a scallop shell"
+          }
+        ]
+      },
+      {
+        "definition": "any one of a series of small curves cut on the edge of a piece of cloth, pastry, etc. for decoration",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pufferfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/puf/puffe/pufferfish__gb_1.mp3",
+    "phonetic_text": "/ˈpʌfəfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/puf/puffe/pufferfish__us_1.mp3",
+    "phonetic_am_text": "/ˈpʌfərfɪʃ/",
+    "senses": [
+      {
+        "definition": "a poisonous fish that lives in warm seas and fills with air when it is in danger",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "ray",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ray/ray__/ray__gb_1.mp3",
+    "phonetic_text": "/reɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ray/ray__/ray__us_1.mp3",
+    "phonetic_am_text": "/reɪ/",
+    "senses": [
+      {
+        "definition": "a narrow line of light, heat or other energy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The last of the sun's rays shone on the grass."
+          },
+          {
+            "cf": "",
+            "x": "Ultraviolet rays damage the skin."
+          },
+          {
+            "cf": "",
+            "x": "The windows were shining in the reflected rays of the setting sun."
+          }
+        ]
+      },
+      {
+        "definition": "a small amount of something good or of something that you are hoping for",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was just one small ray of hope."
+          },
+          {
+            "cf": "",
+            "x": "The one ray of light in this whole affair is that justice has been done."
+          }
+        ]
+      },
+      {
+        "definition": "a sea fish with a large broad flat body and a long tail, that is used for food",
+        "examples": []
+      },
+      {
+        "definition": "the second note of a major scale",
+        "examples": []
+      },
+      {
+        "definition": "to sit or lie in the sun, especially in order to get a suntan",
+        "examples": []
+      },
+      {
+        "definition": "a person or thing that makes life brighter or more cheerful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My nephew is a little ray of sunshine."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "school",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sch/schoo/school__gb_1.mp3",
+    "phonetic_text": "/skuːl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sch/schoo/school__us_1.mp3",
+    "phonetic_am_text": "/skuːl/",
+    "senses": [
+      {
+        "definition": "a place where children go to be educated",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My brother and I went to the same school."
+          },
+          {
+            "cf": "",
+            "x": "Which school do they attend?"
+          },
+          {
+            "cf": "",
+            "x": "I'm going to the school today to talk to Kim's teacher."
+          },
+          {
+            "cf": "",
+            "x": "We need more money for roads, hospitals and schools."
+          },
+          {
+            "cf": "",
+            "x": "The charity runs projects at local schools and youth organizations."
+          },
+          {
+            "cf": "",
+            "x": "a girls'/boys' school"
+          },
+          {
+            "cf": "school for somebody",
+            "x": "a school for girls aged 11–16"
+          },
+          {
+            "cf": "",
+            "x": "school buildings"
+          },
+          {
+            "cf": "",
+            "x": "The kids get the school bus every morning."
+          }
+        ]
+      },
+      {
+        "definition": "the process of learning in a school; the time during your life when you go to a school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to start/leave school"
+          },
+          {
+            "cf": "",
+            "x": "to start/quit school"
+          },
+          {
+            "cf": "",
+            "x": "Where did you go to school?"
+          },
+          {
+            "cf": "at school",
+            "x": "All my kids are still at school."
+          },
+          {
+            "cf": "",
+            "x": "Can you remember your first day at school?"
+          },
+          {
+            "cf": "in school",
+            "x": "All my kids are still in school."
+          },
+          {
+            "cf": "",
+            "x": "to teach school (= teach in a school)"
+          },
+          {
+            "cf": "",
+            "x": "The transition from school to work can be difficult."
+          },
+          {
+            "cf": "",
+            "x": "The school year was nearly over."
+          },
+          {
+            "cf": "",
+            "x": "He was expelled from school for verbally abusing his teacher."
+          },
+          {
+            "cf": "",
+            "x": "She didn't do very well at school."
+          },
+          {
+            "cf": "",
+            "x": "In Britain children start school when they are five."
+          },
+          {
+            "cf": "",
+            "x": "He dropped out of school after the ninth grade."
+          }
+        ]
+      },
+      {
+        "definition": "the time during the day when children are working in a school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "School begins at 9."
+          },
+          {
+            "cf": "after school",
+            "x": "Shall I meet you after school today?"
+          },
+          {
+            "cf": "at/in school",
+            "x": "The kids are at/in school until 3.30."
+          },
+          {
+            "cf": "off school",
+            "x": "I'm off school this week."
+          },
+          {
+            "cf": "",
+            "x": "His mum kept him off school for two weeks when he was ill."
+          },
+          {
+            "cf": "out of school",
+            "x": "His mom kept him out of school for two weeks when he was sick."
+          },
+          {
+            "cf": "",
+            "x": "My parents let me stay home from school yesterday."
+          },
+          {
+            "cf": "",
+            "x": "after-school activities"
+          },
+          {
+            "cf": "",
+            "x": "The next day was Monday, a school day."
+          }
+        ]
+      },
+      {
+        "definition": "all the children or students and the teachers in a school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I had to stand up in front of the whole school."
+          }
+        ]
+      },
+      {
+        "definition": "a place where people go to learn a particular subject or skill",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a drama/language/riding school"
+          },
+          {
+            "cf": "",
+            "x": "He runs a karate school in San Jose, California."
+          }
+        ]
+      },
+      {
+        "definition": "a college or university; the time that you spend there",
+        "examples": [
+          {
+            "cf": "",
+            "x": "famous schools like Yale and Harvard"
+          },
+          {
+            "cf": "",
+            "x": "Where did you go to school?"
+          }
+        ]
+      },
+      {
+        "definition": "a department of a college or university that teaches a particular subject",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the business/law/medical school"
+          },
+          {
+            "cf": "school of something",
+            "x": "the School of Dentistry"
+          },
+          {
+            "cf": "",
+            "x": "He was determined to get into medical school."
+          }
+        ]
+      },
+      {
+        "definition": "a group of writers, artists, etc. whose style of work or opinions have been influenced by the same person or ideas",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the Dutch school of painting"
+          }
+        ]
+      },
+      {
+        "definition": "a large number of fish or other sea animals, swimming together",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a school of dolphins"
+          }
+        ]
+      },
+      {
+        "definition": "an old-fashioned person who likes to do things as they were done in the past",
+        "examples": []
+      },
+      {
+        "definition": "a way of thinking that a number of people share",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There are two schools of thought about how this illness should be treated."
+          },
+          {
+            "cf": "",
+            "x": "He belongs to the school of thought that says that competition can be very stimulating for children."
+          }
+        ]
+      },
+      {
+        "definition": "very fashionable",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The assistants look like they're too cool for school."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sardine",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sar/sardi/sardine__gb_1.mp3",
+    "phonetic_text": "/ˌsɑːˈdiːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sar/sardi/sardine__us_1.mp3",
+    "phonetic_am_text": "/ˌsɑːrˈdiːn/",
+    "senses": [
+      {
+        "definition": "a small young sea fish (for example, a young pilchard) that is either eaten fresh or preserved in tins",
+        "examples": []
+      },
+      {
+        "definition": "pressed tightly together in a way that is uncomfortable or unpleasant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We were packed in like sardines."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "razor shell",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/raz/razor/razor_shell_1_gb_1.mp3",
+    "phonetic_text": "/ˈreɪzə ʃel/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/raz/razor/razor_shell_1_us_1.mp3",
+    "phonetic_am_text": "/ˈreɪzər ʃel/",
+    "senses": [
+      {
+        "definition": "a shellfish that can be eaten. It has a long thin shell in two parts that can open and close.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "prawn",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pra/prawn/prawn__gb_1.mp3",
+    "phonetic_text": "/prɔːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pra/prawn/prawn__us_1.mp3",
+    "phonetic_am_text": "/prɔːn/",
+    "senses": [
+      {
+        "definition": "a shellfish that can be eaten, with ten legs and a long tail. Prawns turn pink when cooked.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "For this recipe you need 250g of peeled prawns."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sea cucumber",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sea/sea_c/sea_cucumber_1_gb_1.mp3",
+    "phonetic_text": "/ˌsiː ˈkjuːkʌmbə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/sea_c/sea_cucumber_1_us_1.mp3",
+    "phonetic_am_text": "/ˌsiː ˈkjuːkʌmbər/",
+    "senses": [
+      {
+        "definition": "an invertebrate animal that lives on the sea floor, with a long thick body like a worm",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sea bass",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sea/sea_b/sea_bass_1_gb_1.mp3",
+    "phonetic_text": "/ˈsiː bæs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/sea_b/sea_bass_1_us_1.mp3",
+    "phonetic_am_text": "/ˈsiː bæs/",
+    "senses": [
+      {
+        "definition": "a sea fish that is used for food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I think I'm going to order the sea bass."
+          },
+          {
+            "cf": "",
+            "x": "Wild sea bass have become increasingly rare in many areas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sea fish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sea/sea_f/sea_fish_1_gb_1.mp3",
+    "phonetic_text": "/ˈsiː fɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/sea_f/sea_fish_1_us_1.mp3",
+    "phonetic_am_text": "/ˈsiː fɪʃ/",
+    "senses": [
+      {
+        "definition": "a fish that lives in the sea, rather than in rivers or lakes",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "scale",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sca/scale/scale__gb_1.mp3",
+    "phonetic_text": "/skeɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sca/scale/scale__us_1.mp3",
+    "phonetic_am_text": "/skeɪl/",
+    "senses": [
+      {
+        "definition": "the size or extent of something, especially when compared with something else",
+        "examples": [
+          {
+            "cf": "on a … scale",
+            "x": "They entertain on a large scale (= they hold expensive parties with a lot of guests)."
+          },
+          {
+            "cf": "",
+            "x": "Here was corruption on a grand scale."
+          },
+          {
+            "cf": "",
+            "x": "On a global scale, 77 per cent of energy is created from fossil fuels."
+          },
+          {
+            "cf": "",
+            "x": "Corporations are borrowing on a massive scale."
+          },
+          {
+            "cf": "",
+            "x": "Western-style consumerism is unsustainable on a global scale."
+          },
+          {
+            "cf": "",
+            "x": "Manufacturing is done on a small scale."
+          },
+          {
+            "cf": "",
+            "x": "His work as a portrait painter is small in scale."
+          },
+          {
+            "cf": "",
+            "x": "to achieve economies of scale in production (= to produce many items so the cost of producing each one is reduced)"
+          },
+          {
+            "cf": "scale of something",
+            "x": "It was impossible to comprehend the full scale of the disaster."
+          },
+          {
+            "cf": "",
+            "x": "It was not until morning that the sheer scale of the damage could be seen (= how great it was)."
+          },
+          {
+            "cf": "",
+            "x": "The scale of the problem is difficult to measure."
+          }
+        ]
+      },
+      {
+        "definition": "a range of levels or numbers used for measuring something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a five-point pay scale"
+          },
+          {
+            "cf": "",
+            "x": "to evaluate performance on a scale from 1 to 10"
+          },
+          {
+            "cf": "",
+            "x": "The salary scale goes from £12 000 to £20 000."
+          },
+          {
+            "cf": "",
+            "x": "a scale of charges"
+          },
+          {
+            "cf": "",
+            "x": "Use the following scale to rate each item."
+          }
+        ]
+      },
+      {
+        "definition": "the set of all the different levels of something, from the lowest to the highest",
+        "examples": [
+          {
+            "cf": "",
+            "x": "At the other end of the scale, life is a constant struggle to get enough to eat."
+          },
+          {
+            "cf": "",
+            "x": "You're higher on the social scale than I am."
+          }
+        ]
+      },
+      {
+        "definition": "a series of marks at regular points on an instrument that is used for measuring",
+        "examples": [
+          {
+            "cf": "",
+            "x": "How much does it read on the scale?"
+          },
+          {
+            "cf": "",
+            "x": "He read the altitude in degrees off the scale."
+          }
+        ]
+      },
+      {
+        "definition": "an instrument for weighing people or things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "bathroom/kitchen/weighing scales"
+          },
+          {
+            "cf": "",
+            "x": "the scales of justice (= represented as the two pans on a balance)"
+          }
+        ]
+      },
+      {
+        "definition": "the relation between the actual size of something and its size on a map, diagram or model that represents it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a scale of 1:25 000"
+          },
+          {
+            "cf": "",
+            "x": "a scale model/drawing"
+          },
+          {
+            "cf": "",
+            "x": "Both plans are drawn to the same scale."
+          },
+          {
+            "cf": "to scale",
+            "x": "Is this diagram to scale? (= are all its parts the same size and shape in relation to each other as they are in the thing represented)"
+          }
+        ]
+      },
+      {
+        "definition": "a series of musical notes moving upwards or downwards, with fixed intervals between each note, especially a series of eight starting on a particular note",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the scale of C major"
+          },
+          {
+            "cf": "",
+            "x": "to practise scales on the piano"
+          }
+        ]
+      },
+      {
+        "definition": "any of the thin plates of hard material that cover the skin of many fish and reptiles",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The beast was a dragon, with great purple and green scales."
+          }
+        ]
+      },
+      {
+        "definition": "a hard white substance that is sometimes left inside water pipes and containers for heating water",
+        "examples": []
+      },
+      {
+        "definition": "a hard substance that forms on teeth, especially when they are not cleaned regularly",
+        "examples": []
+      },
+      {
+        "definition": "to affect the result of something in one way rather than another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In an interview, smart presentation can tip the scales in your favour."
+          },
+          {
+            "cf": "",
+            "x": "New evidence tipped the balance against the prosecution."
+          }
+        ]
+      },
+      {
+        "definition": "to weigh a particular amount",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He tipped the scales at just over 80 kilos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sea urchin",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sea/sea_u/sea_urchin_1_gb_1.mp3",
+    "phonetic_text": "/ˈsiː ɜːtʃɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/sea_u/sea_urchin_1_us_1.mp3",
+    "phonetic_am_text": "/ˈsiː ɜːrtʃɪn/",
+    "senses": [
+      {
+        "definition": "a small sea creature with a round shell that is covered with spikes",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "shellfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/she/shell/shellfish__gb_1.mp3",
+    "phonetic_text": "/ˈʃelfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/she/shell/shellfish__us_1.mp3",
+    "phonetic_am_text": "/ˈʃelfɪʃ/",
+    "senses": [
+      {
+        "definition": "a creature with a shell, that lives in water, especially one of the types that can be eaten. Oysters and crabs are both shellfish.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "seahorse",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sea/sea_h/sea_horse_1_gb_1.mp3",
+    "phonetic_text": "/ˈsiːhɔːs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/sea_h/sea_horse_1_us_1.mp3",
+    "phonetic_am_text": "/ˈsiːhɔːrs/",
+    "senses": [
+      {
+        "definition": "a small sea fish that swims in a vertical position and has a head that looks like the head of a horse",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "shark",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sha/shark/shark__gb_2.mp3",
+    "phonetic_text": "/ʃɑːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sha/shark/shark__us_1.mp3",
+    "phonetic_am_text": "/ʃɑːrk/",
+    "senses": [
+      {
+        "definition": "a large sea fish with very sharp teeth and a pointed fin on its back. There are several types of shark, some of which can attack people swimming.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a fatal shark attack"
+          },
+          {
+            "cf": "",
+            "x": "The boat went down in shark-infested waters off the coast of South Africa."
+          },
+          {
+            "cf": "",
+            "x": "The dark shapes of half a dozen sharks circled beneath the boat."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is dishonest in business, especially somebody who gives bad advice and gets people to pay too much for something",
+        "examples": []
+      },
+      {
+        "definition": "(used especially about a television series, etc.) to include something that is very hard to believe as an attempt to keep people watching, usually a sign that the show is not as good as it used to be",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Has the show finally jumped the shark?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shrimp",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/shr/shrim/shrimp__gb_1.mp3",
+    "phonetic_text": "/ʃrɪmp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/shr/shrim/shrimp__us_1.mp3",
+    "phonetic_am_text": "/ʃrɪmp/",
+    "senses": [
+      {
+        "definition": "a small shellfish that can be eaten, like a prawn but smaller. Shrimps turn pink when cooked.",
+        "examples": []
+      },
+      {
+        "definition": "a shellfish that can be eaten, with ten legs and a long tail. Shrimps turn pink when cooked.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "grilled shrimp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shoal",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sho/shoal/shoal__gb_1.mp3",
+    "phonetic_text": "/ʃəʊl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sho/shoal/shoal__us_1.mp3",
+    "phonetic_am_text": "/ʃəʊl/",
+    "senses": [
+      {
+        "definition": "a large number of fish swimming together as a group",
+        "examples": [
+          {
+            "cf": "",
+            "x": "shoals of herring"
+          },
+          {
+            "cf": "",
+            "x": "Squid travel in shoals."
+          }
+        ]
+      },
+      {
+        "definition": "a small hill of sand just below the surface of the sea",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The boat ran aground on a shoal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "snapper",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sna/snapp/snapper__gb_1.mp3",
+    "phonetic_text": "/ˈsnæpə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sna/snapp/snapper__us_1.mp3",
+    "phonetic_am_text": "/ˈsnæpər/",
+    "senses": [
+      {
+        "definition": "a fish that lives in warm seas and is used for food",
+        "examples": []
+      },
+      {
+        "definition": "a photographer, especially one who takes pictures of famous people for newspapers and magazines",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "skate",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ska/skate/skate__gb_1.mp3",
+    "phonetic_text": "/skeɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ska/skate/skate__us_1.mp3",
+    "phonetic_am_text": "/skeɪt/",
+    "senses": [
+      {
+        "definition": "a boot with a thin metal blade (= sharp edge) on the bottom, that is used for skating on ice",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of skates"
+          }
+        ]
+      },
+      {
+        "definition": "a type of boot with two pairs of small wheels attached to the bottom",
+        "examples": []
+      },
+      {
+        "definition": "a large flat sea fish that can be eaten",
+        "examples": []
+      },
+      {
+        "definition": "used to tell somebody to hurry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Get your skates on or you'll miss the bus."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shell",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/she/shell/shell__gb_1.mp3",
+    "phonetic_text": "/ʃel/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/she/shell/shell__us_1.mp3",
+    "phonetic_am_text": "/ʃel/",
+    "senses": [
+      {
+        "definition": "the hard outer part of eggs, nuts, some seeds, and some animals",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We collected shells on the beach."
+          },
+          {
+            "cf": "",
+            "x": "snail/oyster/clam shells"
+          },
+          {
+            "cf": "",
+            "x": "walnut shells"
+          },
+          {
+            "cf": "",
+            "x": "earrings made out of coconut shell"
+          },
+          {
+            "cf": "",
+            "x": "the shell of a turtle"
+          }
+        ]
+      },
+      {
+        "definition": "any object that looks like the shell of a snail or sea creature",
+        "examples": [
+          {
+            "cf": "",
+            "x": "pasta shells"
+          }
+        ]
+      },
+      {
+        "definition": "a metal case filled with explosive, to be fired from a large gun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mortar/artillery shells"
+          },
+          {
+            "cf": "",
+            "x": "A shell burst only yards away from us."
+          },
+          {
+            "cf": "",
+            "x": "Several empty shell casings were found in the area."
+          }
+        ]
+      },
+      {
+        "definition": "a tube or case containing explosive and a bullet or shot, for shooting from a gun",
+        "examples": []
+      },
+      {
+        "definition": "the walls or outer structure of something, for example, an empty building or ship after a fire or a bomb attack",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The house was now a shell gutted by flames."
+          },
+          {
+            "cf": "",
+            "x": "My life has been an empty shell since he died."
+          },
+          {
+            "cf": "",
+            "x": "The fire reduced the school to a hollow shell."
+          }
+        ]
+      },
+      {
+        "definition": "any structure that forms a hard outer frame",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the body shell of a car"
+          }
+        ]
+      },
+      {
+        "definition": "the outer layer of somebody’s personality; how they seem to be or feel",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She had developed a shell of indifference."
+          },
+          {
+            "cf": "",
+            "x": "She had built up a protective shell around herself."
+          }
+        ]
+      },
+      {
+        "definition": "to become less shy and more confident when talking to other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He’s really come out of his shell since he met Marie."
+          }
+        ]
+      },
+      {
+        "definition": "to become shyer and avoid talking to other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Whenever my friends are here, she just withdraws into her shell."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sole",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sol/sole_/sole__gb_2.mp3",
+    "phonetic_text": "/səʊl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sol/sole_/sole__us_1.mp3",
+    "phonetic_am_text": "/səʊl/",
+    "senses": [
+      {
+        "definition": "the bottom surface of the foot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The hot sand burned the soles of their feet."
+          }
+        ]
+      },
+      {
+        "definition": "the bottom part of a shoe or sock, not including the heel",
+        "examples": [
+          {
+            "cf": "",
+            "x": "leather soles"
+          },
+          {
+            "cf": "",
+            "x": "I’ve got a hole in the sole of my shoe."
+          }
+        ]
+      },
+      {
+        "definition": "having the type of soles mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "rubber-soled shoes"
+          }
+        ]
+      },
+      {
+        "definition": "a flat sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "skipjack",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ski/skipj/skipjack__gb_1.mp3",
+    "phonetic_text": "/ˈskɪpdʒæk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ski/skipj/skipjack__us_1.mp3",
+    "phonetic_am_text": "/ˈskɪpdʒæk/",
+    "senses": [
+      {
+        "definition": "a fish with dark horizontal stripes (= narrow lines), often eaten as food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "snoek",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sno/snoek/snoek__gb_1.mp3",
+    "phonetic_text": "/snʊk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sno/snoek/snoek__us_1.mp3",
+    "phonetic_am_text": "/snʊk/",
+    "senses": [
+      {
+        "definition": "a long thin fish found in the southern oceans, used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "spawn",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/spawn/spawn__gb_1.mp3",
+    "phonetic_text": "/spɔːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/spawn/spawn__us_1.mp3",
+    "phonetic_am_text": "/spɔːn/",
+    "senses": [
+      {
+        "definition": "a soft substance containing the eggs of fish, frogs etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "starfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/starf/starfish__gb_1.mp3",
+    "phonetic_text": "/ˈstɑːfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/starf/starfish__us_1.mp3",
+    "phonetic_am_text": "/ˈstɑːrfɪʃ/",
+    "senses": [
+      {
+        "definition": "a flat sea creature in the shape of a star with five arms",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "stickleback",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/stick/stickleback__gb_1.mp3",
+    "phonetic_text": "/ˈstɪklbæk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sti/stick/stickleback__us_1.mp3",
+    "phonetic_am_text": "/ˈstɪklbæk/",
+    "senses": [
+      {
+        "definition": "a small freshwater fish with sharp points on its back",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sturgeon",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/stu/sturg/sturgeon__gb_1.mp3",
+    "phonetic_text": "/ˈstɜːdʒən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/stu/sturg/sturgeon__us_1.mp3",
+    "phonetic_am_text": "/ˈstɜːrdʒən/",
+    "senses": [
+      {
+        "definition": "a large sea and freshwater fish that lives in northern regions. Sturgeon are used for food and the eggs (called caviar) are also eaten.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "swordfish",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/swo/sword/swordfish__gb_1.mp3",
+    "phonetic_text": "/ˈsɔːdfɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/swo/sword/swordfish__us_1.mp3",
+    "phonetic_am_text": "/ˈsɔːrdfɪʃ/",
+    "senses": [
+      {
+        "definition": "a large sea fish with a very long, thin, pointed upper jaw",
+        "examples": [
+          {
+            "cf": "",
+            "x": "swordfish steaks"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "squid",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/squ/squid/squid__gb_1.mp3",
+    "phonetic_text": "/skwɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/squ/squid/squid__us_1.mp3",
+    "phonetic_am_text": "/skwɪd/",
+    "senses": [
+      {
+        "definition": "a sea creature that has a long soft body, eight arms and two tentacles (= long thin parts like arms) around its mouth, and that is sometimes used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "swim",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/swi/swim_/swim__gb_2.mp3",
+    "phonetic_text": "/swɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/swi/swim_/swim__us_1.mp3",
+    "phonetic_am_text": "/swɪm/",
+    "senses": [
+      {
+        "definition": "to move through water by moving your arms and legs, without touching the bottom",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I can't swim."
+          },
+          {
+            "cf": "",
+            "x": "The boys swam across the lake."
+          },
+          {
+            "cf": "",
+            "x": "We swam out (= away from land) to the yacht."
+          },
+          {
+            "cf": "",
+            "x": "They spent the day swimming and sunbathing."
+          },
+          {
+            "cf": "",
+            "x": "I've only just learned to swim."
+          },
+          {
+            "cf": "",
+            "x": "I have always found it easy to swim underwater."
+          },
+          {
+            "cf": "",
+            "x": "They are too far out to swim to shore."
+          },
+          {
+            "cf": "swim something",
+            "x": "Can you swim backstroke yet?"
+          },
+          {
+            "cf": "",
+            "x": "How long will it take her to swim the Channel?"
+          }
+        ]
+      },
+      {
+        "definition": "to spend time swimming for pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I go swimming twice a week."
+          },
+          {
+            "cf": "",
+            "x": "We always went swimming together in our indoor pool."
+          }
+        ]
+      },
+      {
+        "definition": "to move through or across water",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Sharks must swim or die."
+          },
+          {
+            "cf": "swim + adv./prep.",
+            "x": "A shoal of fish swam past."
+          },
+          {
+            "cf": "",
+            "x": "Ducks were swimming around on the river."
+          },
+          {
+            "cf": "",
+            "x": "A beaver swam vigorously upstream."
+          }
+        ]
+      },
+      {
+        "definition": "to be covered with a lot of liquid",
+        "examples": [
+          {
+            "cf": "swim (in something)",
+            "x": "The main course was swimming in oil."
+          },
+          {
+            "cf": "swim (with something)",
+            "x": "Her eyes were swimming with tears."
+          }
+        ]
+      },
+      {
+        "definition": "to seem to be moving around, especially when you are ill or drunk",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The pages swam before her eyes."
+          }
+        ]
+      },
+      {
+        "definition": "to feel confused and/or as if everything is turning round and round",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His head swam and he swayed dizzily."
+          }
+        ]
+      },
+      {
+        "definition": "to be in a situation where you will either succeed by your own efforts or fail completely",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The new students were just left to sink or swim."
+          },
+          {
+            "cf": "",
+            "x": "In a situation like this, you either sink or swim."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sucker",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/suc/sucke/sucker__gb_1.mp3",
+    "phonetic_text": "/ˈsʌkə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/suc/sucke/sucker__us_1.mp3",
+    "phonetic_am_text": "/ˈsʌkər/",
+    "senses": [
+      {
+        "definition": "a person who is easily tricked or persuaded to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She always said the lottery was for suckers."
+          }
+        ]
+      },
+      {
+        "definition": "a person who cannot resist somebody/something or likes somebody/something very much",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've always been a sucker for men with green eyes."
+          }
+        ]
+      },
+      {
+        "definition": "a special organ on the body of some animals that enables them to stick to a surface",
+        "examples": []
+      },
+      {
+        "definition": "a disc like a cup in shape, usually made of rubber or plastic, that sticks to a surface when you press it against it",
+        "examples": []
+      },
+      {
+        "definition": "a part of a tree or bush that grows from the roots rather than from the main stem or the branches and can form a new tree or bush",
+        "examples": []
+      },
+      {
+        "definition": "used to refer in a general way to a person or thing, especially for emphasis",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The pilot said, ‘I don't know how I got the sucker down safely.’"
+          }
+        ]
+      },
+      {
+        "definition": "a hard round or flat sweet made of boiled sugar on a small stick",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sprat",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spr/sprat/sprat__gb_1.mp3",
+    "phonetic_text": "/spræt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spr/sprat/sprat__us_1.mp3",
+    "phonetic_am_text": "/spræt/",
+    "senses": [
+      {
+        "definition": "a very small European sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sponge",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spo/spong/sponge__gb_2.mp3",
+    "phonetic_text": "/spʌndʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spo/spong/sponge__us_1.mp3",
+    "phonetic_am_text": "/spʌndʒ/",
+    "senses": [
+      {
+        "definition": "a piece of artificial or natural material that is soft and light and full of holes and can hold water easily, used for washing or cleaning",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a bath sponge (= to wash your body with in the bath)"
+          },
+          {
+            "cf": "",
+            "x": "His mind was like a sponge, ready to absorb anything."
+          },
+          {
+            "cf": "",
+            "x": "Wipe the surface with a damp sponge."
+          }
+        ]
+      },
+      {
+        "definition": "artificial sponge used for filling furniture, cushions, etc.",
+        "examples": []
+      },
+      {
+        "definition": "a simple sea creature with a light body full of holes, from which natural sponge is obtained",
+        "examples": []
+      },
+      {
+        "definition": "a light cake or hot dessert made from eggs, sugar and flour, with or without fat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a chocolate sponge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stingray",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/sting/stingray__gb_1.mp3",
+    "phonetic_text": "/ˈstɪŋreɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sti/sting/stingray__us_1.mp3",
+    "phonetic_am_text": "/ˈstɪŋreɪ/",
+    "senses": [
+      {
+        "definition": "a large, wide, flat sea fish that has a long tail with a sharp sting in it that can cause serious wounds",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "tiddler",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tid/tiddl/tiddler__gb_1.mp3",
+    "phonetic_text": "/ˈtɪdlə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tid/tiddl/tiddler__us_1.mp3",
+    "phonetic_am_text": "/ˈtɪdlər/",
+    "senses": [
+      {
+        "definition": "a very small fish",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "tunny",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tun/tunny/tunny__gb_1.mp3",
+    "phonetic_text": "/ˈtʌni/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tun/tunny/tunny__us_1.mp3",
+    "phonetic_am_text": "/ˈtʌni/",
+    "senses": [
+      {
+        "definition": "a large sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "tentacle",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tenta/tentacle__gb_1.mp3",
+    "phonetic_text": "/ˈtentəkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tenta/tentacle__us_1.mp3",
+    "phonetic_am_text": "/ˈtentəkl/",
+    "senses": [
+      {
+        "definition": "a long, thin part of the body of some creatures, such as squid, used for feeling or holding things, for moving or for getting food",
+        "examples": []
+      },
+      {
+        "definition": "the influence that a large place, organization or system has and that is hard to avoid",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The tentacles of satellite television are spreading even wider."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "turbot",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tur/turbo/turbot__gb_1.mp3",
+    "phonetic_text": "/ˈtɜːbət/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tur/turbo/turbot__us_1.mp3",
+    "phonetic_am_text": "/ˈtɜːrbət/",
+    "senses": [
+      {
+        "definition": "a large, flat European sea fish that is used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "tilapia",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/til/tilap/tilapia__gb_1.mp3",
+    "phonetic_text": "/tɪˈlæpiə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/til/tilap/tilapia__us_2.mp3",
+    "phonetic_am_text": "/tɪˈlɑːpiə/",
+    "senses": [
+      {
+        "definition": "a freshwater fish found in hot countries that is used for food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Tilapia had been introduced into the lake."
+          },
+          {
+            "cf": "",
+            "x": "baked tilapia with white wine and herbs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vent",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ven/vent_/vent__gb_1.mp3",
+    "phonetic_text": "/vent/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/ven/vent_/vent__us_1.mp3",
+    "phonetic_am_text": "/vent/",
+    "senses": [
+      {
+        "definition": "an opening that allows air, gas or liquid to pass out of or into a room, building, container, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "air/heating vents"
+          }
+        ]
+      },
+      {
+        "definition": "the opening in the body of a bird, fish, reptile or other small animal, through which waste matter is passed out",
+        "examples": []
+      },
+      {
+        "definition": "a long, thin opening at the bottom of the back or side of a coat or jacket",
+        "examples": []
+      },
+      {
+        "definition": "to express a feeling, especially anger, strongly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Children give vent to their anger in various ways."
+          },
+          {
+            "cf": "",
+            "x": "She gave full vent to her feelings in a violent outburst."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tuna",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tun/tuna_/tuna__gb_1.mp3",
+    "phonetic_text": "/ˈtjuːnə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tun/tuna_/tuna__us_1.mp3",
+    "phonetic_am_text": "/ˈtuːnə/",
+    "senses": [
+      {
+        "definition": "a large sea fish that is used for food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "fishing for tuna"
+          },
+          {
+            "cf": "",
+            "x": "tuna steaks"
+          },
+          {
+            "cf": "",
+            "x": "a tin/can of tuna in vegetable oil"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "trout",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tro/trout/trout__gb_1.mp3",
+    "phonetic_text": "/traʊt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tro/trout/trout__us_1.mp3",
+    "phonetic_am_text": "/traʊt/",
+    "senses": [
+      {
+        "definition": "a common freshwater fish that is used for food. There are several types of trout.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "rainbow trout"
+          },
+          {
+            "cf": "",
+            "x": "trout fishing"
+          },
+          {
+            "cf": "",
+            "x": "Shall we have trout for dinner?"
+          },
+          {
+            "cf": "",
+            "x": "The trout spawn in late summer or autumn."
+          }
+        ]
+      },
+      {
+        "definition": "an offensive word for an annoying or angry old woman",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "tench",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ten/tench/tench__gb_1.mp3",
+    "phonetic_text": "/tentʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ten/tench/tench__us_1.mp3",
+    "phonetic_am_text": "/tentʃ/",
+    "senses": [
+      {
+        "definition": "a European freshwater fish",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "tail",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tai/tail_/tail__gb_2.mp3",
+    "phonetic_text": "/teɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tai/tail_/tail__us_1.mp3",
+    "phonetic_am_text": "/teɪl/",
+    "senses": [
+      {
+        "definition": "the part that sticks out at the back of the body of a bird, an animal or a fish, which the animal can move from side to side or up and down",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The dog ran up, wagging its tail."
+          },
+          {
+            "cf": "",
+            "x": "My dog loves to chase his tail."
+          },
+          {
+            "cf": "",
+            "x": "The male has beautiful tail feathers."
+          },
+          {
+            "cf": "",
+            "x": "It was black from its nose to the tip of its tail."
+          }
+        ]
+      },
+      {
+        "definition": "having the type of tail mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a white-tailed eagle"
+          }
+        ]
+      },
+      {
+        "definition": "the back part of a plane, spacecraft, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The plane's tail section had broken off."
+          }
+        ]
+      },
+      {
+        "definition": "a part of something that sticks out at the back like a tail",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the tail of a kite"
+          }
+        ]
+      },
+      {
+        "definition": "the last part of something that is moving away from you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the tail of the procession"
+          },
+          {
+            "cf": "",
+            "x": "the truck at the tail of our convoy"
+          }
+        ]
+      },
+      {
+        "definition": "a long jacket divided at the back below the waist into two pieces that become narrower at the bottom, worn by men at very formal events",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The men all wore top hat and tails."
+          }
+        ]
+      },
+      {
+        "definition": "the side of a coin that does not have a picture of the head of a person on it, used as one choice when a coin is tossed to decide something",
+        "examples": []
+      },
+      {
+        "definition": "a person who is sent to follow somebody secretly and find out information about where that person goes, what they do, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The police have put a tail on him."
+          }
+        ]
+      },
+      {
+        "definition": "to be unable to understand something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I couldn't make head nor tail of what he was saying."
+          }
+        ]
+      },
+      {
+        "definition": "to be very busy but in fact achieve very little",
+        "examples": []
+      },
+      {
+        "definition": "used to ask somebody which side of a coin they think will be facing upwards when it is tossed in order to decide something by chance",
+        "examples": []
+      },
+      {
+        "definition": "if cars, etc. are nose to tail, they are moving slowly in a long line with little space between them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The traffic was nose to tail for miles."
+          }
+        ]
+      },
+      {
+        "definition": "following behind somebody very closely, especially in a car",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There’s been a white van sitting on my tail for the past ten miles."
+          }
+        ]
+      },
+      {
+        "definition": "an unpleasant feature that comes at the end of a story, an event, etc. and makes it less good, successful, etc.",
+        "examples": []
+      },
+      {
+        "definition": "used to describe a situation in which the most important aspect is being influenced and controlled by somebody/something that is not as important",
+        "examples": []
+      },
+      {
+        "definition": "to run away from a fight or dangerous situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When they heard the sirens, they turned tail and ran."
+          }
+        ]
+      },
+      {
+        "definition": "feeling ashamed or unhappy because you have been defeated or punished",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "whiting",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/whiti/whiting__gb_1.mp3",
+    "phonetic_text": "/ˈwaɪtɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/whiti/whiting__us_1.mp3",
+    "phonetic_am_text": "/ˈwaɪtɪŋ/",
+    "senses": [
+      {
+        "definition": "a small sea fish that is white inside and used for food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "whitebait",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whi/white/whitebait__gb_1.mp3",
+    "phonetic_text": "/ˈwaɪtbeɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whi/white/whitebait__us_1.mp3",
+    "phonetic_am_text": "/ˈwaɪtbeɪt/",
+    "senses": [
+      {
+        "definition": "very small young fish of several types that are fried and eaten whole",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "whelk",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/whelk/whelk__gb_1.mp3",
+    "phonetic_text": "/welk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/whelk/whelk__us_1.mp3",
+    "phonetic_am_text": "/welk/",
+    "senses": [
+      {
+        "definition": "a small shellfish that can be eaten",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "wrasse",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wra/wrass/wrasse__gb_1.mp3",
+    "phonetic_text": "/ræs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wra/wrass/wrasse__us_1.mp3",
+    "phonetic_am_text": "/ræs/",
+    "senses": [
+      {
+        "definition": "a sea fish with thick lips and strong teeth",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "winkle",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/winkl/winkle__gb_1.mp3",
+    "phonetic_text": "/ˈwɪŋkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/winkl/winkle__us_1.mp3",
+    "phonetic_am_text": "/ˈwɪŋkl/",
+    "senses": [
+      {
+        "definition": "a small shellfish, like a snail, that can be eaten",
+        "examples": []
+      }
+    ]
+  }
+]

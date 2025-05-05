@@ -1,0 +1,5091 @@
+[
+  {
+    "word": "allotment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/all/allot/allotment__gb_1.mp3",
+    "phonetic_text": "/əˈlɒtmənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/all/allot/allotment__us_1.mp3",
+    "phonetic_am_text": "/əˈlɑːtmənt/",
+    "senses": [
+      {
+        "definition": "a small area of land in a town that a person can rent in order to grow fruit and vegetables on it",
+        "examples": []
+      },
+      {
+        "definition": "an amount of something that somebody is given or allowed to have; the process of giving something to somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Water allotments to farmers were cut back in the drought."
+          },
+          {
+            "cf": "",
+            "x": "the allotment of shares to company employees"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arbour",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arb/arbou/arbour__gb_1.mp3",
+    "phonetic_text": "/ˈɑːbə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arb/arbou/arbour__us_1.mp3",
+    "phonetic_am_text": "/ˈɑːrbər/",
+    "senses": [
+      {
+        "definition": "a shelter in a garden for people to sit under, made by growing climbing plants over a frame",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "backyard",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bac/backy/backyard__gb_1.mp3",
+    "phonetic_text": "/ˌbækˈjɑːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/backy/backyard__us_1.mp3",
+    "phonetic_am_text": "/ˌbækˈjɑːrd/",
+    "senses": [
+      {
+        "definition": "the whole area behind and belonging to a house, including an area of grass and the garden",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He grew vegetables in his backyard."
+          },
+          {
+            "cf": "",
+            "x": "a backyard barbecue"
+          }
+        ]
+      },
+      {
+        "definition": "an area with a hard surface behind a house, often surrounded by a wall",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They lived in a little terraced house with a backyard behind it and a tiny garden in front."
+          }
+        ]
+      },
+      {
+        "definition": "in or near the place where you live or work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The residents didn't want a new factory in their backyard."
+          },
+          {
+            "cf": "",
+            "x": "The party leader is facing opposition in his own backyard (= from his own members)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "barbecue",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barbe/barbecue__gb_2.mp3",
+    "phonetic_text": "/ˈbɑːbɪkjuː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barbe/barbecue__us_1.mp3",
+    "phonetic_am_text": "/ˈbɑːrbɪkjuː/",
+    "senses": [
+      {
+        "definition": "a metal frame for cooking food on over an open fire outdoors",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I put another steak on the barbecue."
+          },
+          {
+            "cf": "",
+            "x": "a barbecue sausage (= cooked in this way)"
+          }
+        ]
+      },
+      {
+        "definition": "an outdoor meal or party when food is cooked in this way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Let's have a barbecue!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bird table",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bir/bird_/bird_table_1_gb_1.mp3",
+    "phonetic_text": "/ˈbɜːd teɪbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/bird_/bird_table_1_us_1.mp3",
+    "phonetic_am_text": "/ˈbɜːrd teɪbl/",
+    "senses": [
+      {
+        "definition": "a wooden platform in a garden on which people put food for birds",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "bench",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/ben/bench/bench__gb_5.mp3",
+    "phonetic_text": "/bentʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/bench/bench__us_1.mp3",
+    "phonetic_am_text": "/bentʃ/",
+    "senses": [
+      {
+        "definition": "a long seat for two or more people, usually made of wood",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a park bench"
+          }
+        ]
+      },
+      {
+        "definition": "a judge in court or the seat where he/she sits; the position of being a judge or magistrate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His lawyer turned to address the bench."
+          },
+          {
+            "cf": "",
+            "x": "She has recently been appointed to the bench."
+          }
+        ]
+      },
+      {
+        "definition": "(in the British parliament) a seat where a particular group of politicians sit",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was cheering from the Opposition benches."
+          }
+        ]
+      },
+      {
+        "definition": "the seats where players sit when they are not playing in the game",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the substitutes’ bench"
+          },
+          {
+            "cf": "",
+            "x": "He started the game on the bench but finished as the team’s top scorer."
+          },
+          {
+            "cf": "",
+            "x": "He's sick of spending every game on the bench."
+          }
+        ]
+      },
+      {
+        "definition": "a long heavy table used for doing practical jobs, working with tools, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a carpenter’s bench"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "axe",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/axe/axe__/axe__gb_1.mp3",
+    "phonetic_text": "/æks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/axe/axe__/axe__us_1.mp3",
+    "phonetic_am_text": "/æks/",
+    "senses": [
+      {
+        "definition": "a tool with a wooden handle and a heavy metal blade, used for cutting up wood, cutting down trees, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to chop a tree down with an axe"
+          }
+        ]
+      },
+      {
+        "definition": "if somebody gets the axe, they lose their job; if an institution or a project gets the axe, it is closed or stopped, usually because of a lack of money",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Up to 300 workers are facing the axe at a struggling Merseyside firm."
+          },
+          {
+            "cf": "",
+            "x": "Patients are delighted their local hospital has been saved from the axe."
+          },
+          {
+            "cf": "",
+            "x": "Protesters, anxious over the spending cuts, urged councillors to think again before wielding the axe."
+          }
+        ]
+      },
+      {
+        "definition": "to have private reasons for being involved in something or for arguing for a particular cause",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She had no axe to grind and was only acting out of concern for their safety."
+          },
+          {
+            "cf": "",
+            "x": "These criticisms are commonly voiced by those who have some political axe to grind."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "barbie",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bar/barbi/barbie__gb_2.mp3",
+    "phonetic_text": "/ˈbɑːbi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bar/barbi/barbie__us_1.mp3",
+    "phonetic_am_text": "/ˈbɑːrbi/",
+    "senses": [
+      {
+        "definition": "a metal frame for cooking food on over an open fire outdoors",
+        "examples": []
+      },
+      {
+        "definition": "an outdoor meal or party when food is cooked in this way",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "boundary",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bou/bound/boundary__gb_1.mp3",
+    "phonetic_text": "/ˈbaʊndri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bou/bound/boundary__us_1.mp3",
+    "phonetic_am_text": "/ˈbaʊndri/",
+    "senses": [
+      {
+        "definition": "a real or imagined line that marks the limits or edges of something and separates it from other things or places; a dividing line",
+        "examples": [
+          {
+            "cf": "",
+            "x": "After the war the national boundaries were redrawn."
+          },
+          {
+            "cf": "",
+            "x": "county boundaries"
+          },
+          {
+            "cf": "",
+            "x": "boundary changes/disputes"
+          },
+          {
+            "cf": "",
+            "x": "The fence marks the boundary between my property and hers."
+          },
+          {
+            "cf": "",
+            "x": "Scientists continue to push back the boundaries of human knowledge."
+          },
+          {
+            "cf": "",
+            "x": "It is up to the teacher to set the boundary between acceptable and unacceptable behaviour."
+          },
+          {
+            "cf": "",
+            "x": "He could just see her beyond the boundary wall of the cemetery."
+          },
+          {
+            "cf": "",
+            "x": "to extend the boundaries of high art to include some popular music"
+          }
+        ]
+      },
+      {
+        "definition": "a hit of the ball that crosses the boundary of the playing area and scores extra points",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He hit 13 boundaries from 183 balls."
+          }
+        ]
+      },
+      {
+        "definition": "to attempt to go beyond what is allowed or thought to be possible",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We aim to push the boundaries of what we can achieve."
+          },
+          {
+            "cf": "",
+            "x": "She pushes her physical limits through various endurance challenges."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cane",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/can/cane_/cane__gb_1.mp3",
+    "phonetic_text": "/keɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/can/cane_/cane__us_1.mp3",
+    "phonetic_am_text": "/keɪn/",
+    "senses": [
+      {
+        "definition": "the hard hollow stem of some plants, for example bamboo or sugar",
+        "examples": []
+      },
+      {
+        "definition": "these stems used as a material for making furniture, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a cane chair"
+          }
+        ]
+      },
+      {
+        "definition": "a piece of cane or a thin stick, used as a support for plants",
+        "examples": [
+          {
+            "cf": "",
+            "x": "bean plants supported by long canes"
+          }
+        ]
+      },
+      {
+        "definition": "a piece of cane or a thin stick, used to help somebody to walk",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He clutched a top hat and a silver-topped cane."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of cane or a thin stick, used in the past in some schools for beating children as a punishment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to get the cane (= be punished with a cane)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "border",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bor/borde/border__gb_1.mp3",
+    "phonetic_text": "/ˈbɔːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bor/borde/border__us_1.mp3",
+    "phonetic_am_text": "/ˈbɔːrdər/",
+    "senses": [
+      {
+        "definition": "the line that divides two countries or areas; the land near this line",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I live in a small town in the US, near the Canadian border."
+          },
+          {
+            "cf": "",
+            "x": "Thousands of people cross the border every day."
+          },
+          {
+            "cf": "",
+            "x": "They took steps to secure the border."
+          },
+          {
+            "cf": "",
+            "x": "to seal/close the border"
+          },
+          {
+            "cf": "border between A and B",
+            "x": "They spent a week in a national park on the border between Kenya and Tanzania."
+          },
+          {
+            "cf": "",
+            "x": "It is difficult to define the border between love and friendship."
+          },
+          {
+            "cf": "border with something",
+            "x": "The treaty fixed Denmark's new border with Germany."
+          },
+          {
+            "cf": "across the border",
+            "x": "They fled across the border."
+          },
+          {
+            "cf": "over the border",
+            "x": "They live just over the border."
+          },
+          {
+            "cf": "on the border",
+            "x": "The incident happened on Nevada's northern border."
+          },
+          {
+            "cf": "at the border",
+            "x": "They were stopped at the border."
+          },
+          {
+            "cf": "along the border",
+            "x": "There are tensions all along the border."
+          },
+          {
+            "cf": "",
+            "x": "border crossings"
+          },
+          {
+            "cf": "",
+            "x": "border patrols/security/guards"
+          },
+          {
+            "cf": "",
+            "x": "border controls"
+          },
+          {
+            "cf": "",
+            "x": "a border dispute"
+          },
+          {
+            "cf": "",
+            "x": "a border town/village/county"
+          },
+          {
+            "cf": "",
+            "x": "a border region/area"
+          }
+        ]
+      },
+      {
+        "definition": "a long narrow piece around the edge of something such as a picture or a piece of cloth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pillowcase with a lace border"
+          }
+        ]
+      },
+      {
+        "definition": "a long narrow area of soil which is planted with flowers, along the edge of the grass",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The back garden is mostly lawn with herbaceous borders."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "clothes line",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/clo/cloth/clothesline__gb_2.mp3",
+    "phonetic_text": "/ˈkləʊðz laɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clo/cloth/clothes_line_1_us_2_rr.mp3",
+    "phonetic_am_text": "/ˈkləʊðz laɪn/",
+    "senses": [
+      {
+        "definition": "a piece of thin rope or wire, attached to posts, that you hang clothes on to dry outside after you have washed them",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "climbing frame",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cli/climb/climbing_frame_1_gb_1.mp3",
+    "phonetic_text": "/ˈklaɪmɪŋ freɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cli/climb/climbing_frame_1_us_1.mp3",
+    "phonetic_am_text": "/ˈklaɪmɪŋ freɪm/",
+    "senses": [
+      {
+        "definition": "a structure made of metal bars joined together for children to climb and play on",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "compostable",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compo/compostable__gb_3.mp3",
+    "phonetic_text": "/kəmˈpɒstəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compo/compostable__us_3.mp3",
+    "phonetic_am_text": "/kəmˈpəʊstəbl/",
+    "senses": [
+      {
+        "definition": "that can be made into compost",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The green bin scheme collects compostable waste, including cardboard."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "compost",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compo/compost__gb_1.mp3",
+    "phonetic_text": "/ˈkɒmpɒst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compo/compost__us_1.mp3",
+    "phonetic_am_text": "/ˈkɑːmpəʊst/",
+    "senses": [
+      {
+        "definition": "a mixture of decayed (= destroyed by natural processes) plants, food, etc. that can be added to soil to help plants grow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "potting compost (= a mixture of soil and compost that you can buy to grow new plants in)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "compost bin",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compo/compost_bin_1_gb_1.mp3",
+    "phonetic_text": "/ˈkɒmpɒst bɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compo/compost_bin_1_us_1.mp3",
+    "phonetic_am_text": "/ˈkɑːmpəʊst bɪn/",
+    "senses": [
+      {
+        "definition": "a container in the garden where leaves, plants, etc. are put to make compost",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "courtyard",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/court/courtyard__gb_1.mp3",
+    "phonetic_text": "/ˈkɔːtjɑːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/court/courtyard__us_1.mp3",
+    "phonetic_am_text": "/ˈkɔːrtjɑːrd/",
+    "senses": [
+      {
+        "definition": "an open space that is partly or completely surrounded by buildings and is usually part of a castle, a large house, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the central/inner courtyard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cut back",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "to reduce something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If we don't sell more we'll have to cut back production."
+          },
+          {
+            "cf": "",
+            "x": "to cut back on spending"
+          }
+        ]
+      },
+      {
+        "definition": "to make a bush, etc. smaller by cutting branches off",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to cut back a rose bush"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "compost",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compo/compost__gb_1.mp3",
+    "phonetic_text": "/ˈkɒmpɒst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compo/compost__us_1.mp3",
+    "phonetic_am_text": "/ˈkɑːmpəʊst/",
+    "senses": [
+      {
+        "definition": "to make something into compost",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Cover the area with composted bark or peat."
+          }
+        ]
+      },
+      {
+        "definition": "to put compost on or in something",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "container",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontainer__gb_1.mp3",
+    "phonetic_text": "/kənˈteɪnə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontainer__us_2.mp3",
+    "phonetic_am_text": "/kənˈteɪnər/",
+    "senses": [
+      {
+        "definition": "a box, bottle, etc. in which something can be stored or transported",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a plastic container"
+          },
+          {
+            "cf": "in a container",
+            "x": "Food will last longer if kept in an airtight container."
+          },
+          {
+            "cf": "container of something",
+            "x": "These women carry heavy containers of water over long distances."
+          },
+          {
+            "cf": "container for something",
+            "x": "containers for nuclear materials"
+          }
+        ]
+      },
+      {
+        "definition": "a large metal or wooden box of a standard size in which goods are packed so that they can easily be lifted onto a ship, train, etc. to be transported",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a shipping container"
+          },
+          {
+            "cf": "",
+            "x": "a container ship (= one designed to transport such containers)"
+          }
+        ]
+      },
+      {
+        "definition": "a box or pot made of wood, clay, plastic, etc. for growing plants in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Planting bulbs in containers is a great alternative if you don't have a garden."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cut down",
+    "pos": "phrasal verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/giv/given/given__gb_5.mp3",
+    "phonetic_text": "",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/giv/given/given__us_2.mp3",
+    "phonetic_am_text": "",
+    "senses": [
+      {
+        "definition": "to kill somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was cut down by an assassin's bullet."
+          }
+        ]
+      },
+      {
+        "definition": "to make something fall down by cutting it at the base",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Some trees had been cut down."
+          }
+        ]
+      },
+      {
+        "definition": "to reduce the size, amount or number of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We need to cut the article down to 1 000 words."
+          },
+          {
+            "cf": "",
+            "x": "The doctor told him to cut down on his drinking."
+          },
+          {
+            "cf": "",
+            "x": "I won't have a coffee, thanks—I'm trying to cut down (= drink less coffee)."
+          },
+          {
+            "cf": "",
+            "x": "I'm trying to cut down on fatty foods."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "compost heap",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compo/compost_heap_1_gb_1.mp3",
+    "phonetic_text": "/ˈkɒmpɒst hiːp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compo/compost_heap_1_us_1.mp3",
+    "phonetic_am_text": "/ˈkɑːmpəʊst hiːp/",
+    "senses": [
+      {
+        "definition": "a place in the garden where leaves, plants, etc. are piled, to make compost",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "deckchair",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dec/deckc/deckchair__gb_2.mp3",
+    "phonetic_text": "/ˈdektʃeə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dec/deckc/deckchair__us_1.mp3",
+    "phonetic_am_text": "/ˈdektʃer/",
+    "senses": [
+      {
+        "definition": "a folding chair with a seat made from a long piece of material on a wooden or metal frame, used for example on a beach",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "decking",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dec/decki/decking__gb_1.mp3",
+    "phonetic_text": "/ˈdekɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dec/decki/decking__us_1.mp3",
+    "phonetic_am_text": "/ˈdekɪŋ/",
+    "senses": [
+      {
+        "definition": "wood used to build a floor (called a deck) in the garden next to or near a house",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "fertilizer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fer/ferti/fertilizer__gb_1.mp3",
+    "phonetic_text": "/ˈfɜːtəlaɪzə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fer/ferti/fertilizer__us_1.mp3",
+    "phonetic_am_text": "/ˈfɜːrtəlaɪzər/",
+    "senses": [
+      {
+        "definition": "a substance added to soil to make plants grow more successfully",
+        "examples": [
+          {
+            "cf": "",
+            "x": "artificial/chemical fertilizers"
+          },
+          {
+            "cf": "",
+            "x": "liquid fertilizer"
+          },
+          {
+            "cf": "",
+            "x": "a bag of fertilizer"
+          },
+          {
+            "cf": "",
+            "x": "He spread fertilizer on the field with a rake."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flagstone",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fla/flags/flagstone__gb_1.mp3",
+    "phonetic_text": "/ˈflæɡstəʊn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fla/flags/flagstone__us_1.mp3",
+    "phonetic_am_text": "/ˈflæɡstəʊn/",
+    "senses": [
+      {
+        "definition": "a large flat square piece of stone that is used for floors, paths, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "flowerpot",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/flo/flowe/flowerpot__gb_1.mp3",
+    "phonetic_text": "/ˈflaʊəpɒt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/flowe/flowerpot__us_1.mp3",
+    "phonetic_am_text": "/ˈflaʊərpɑːt/",
+    "senses": [
+      {
+        "definition": "a small container made of plastic or clay for growing plants in",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "fountain",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fou/fount/fountain__gb_1.mp3",
+    "phonetic_text": "/ˈfaʊntən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fou/fount/fountain__us_1.mp3",
+    "phonetic_am_text": "/ˈfaʊntn/",
+    "senses": [
+      {
+        "definition": "a structure from which water is sent up into the air by a pump, used to decorate parks and gardens",
+        "examples": []
+      },
+      {
+        "definition": "a strong flow of liquid or of another substance that is forced into the air",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The amplifier exploded in a fountain of sparks."
+          },
+          {
+            "cf": "",
+            "x": "The shell exploded, sending a fountain of sand and grit into the air."
+          }
+        ]
+      },
+      {
+        "definition": "a rich source or supply of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Tourism is a fountain of wealth for the city."
+          },
+          {
+            "cf": "",
+            "x": "The new cream is marketed as the fountain of youth."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "garbage can",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gar/garba/garbage_can_1_gb_1.mp3",
+    "phonetic_text": "/ˈɡɑːbɪdʒ kæn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garba/garbage_can_1_us_1.mp3",
+    "phonetic_am_text": "/ˈɡɑːrbɪdʒ kæn/",
+    "senses": [
+      {
+        "definition": "a large container with a lid (= cover), used for putting rubbish in, usually kept outside the house",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "fence",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fen/fence/fence__gb_1.mp3",
+    "phonetic_text": "/fens/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fen/fence/fence__us_1.mp3",
+    "phonetic_am_text": "/fens/",
+    "senses": [
+      {
+        "definition": "a structure made of wood or wire supported with posts that is put between two areas of land as a boundary, or around a garden, field, etc. to keep animals in, or to keep people and animals out",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The two women chatted over the garden fence."
+          },
+          {
+            "cf": "",
+            "x": "Security guards with dogs patrolled the perimeter fence."
+          },
+          {
+            "cf": "",
+            "x": "The footpath was blocked by a barbed wire fence."
+          },
+          {
+            "cf": "",
+            "x": "The house was surrounded by a white picket fence."
+          }
+        ]
+      },
+      {
+        "definition": "a structure that horses must jump over in a race or a competition",
+        "examples": []
+      },
+      {
+        "definition": "a criminal who buys and sells stolen goods",
+        "examples": []
+      },
+      {
+        "definition": "said about people who never seem happy with what they have and always think they could be happier in a different place or situation",
+        "examples": []
+      },
+      {
+        "definition": "to find a solution when you disagree with somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The White House already is struggling to mend fences with Europe."
+          },
+          {
+            "cf": "",
+            "x": "Is it too late to mend fences with your ex-wife?"
+          }
+        ]
+      },
+      {
+        "definition": "used to refer to either of two opposite opinions on an issue",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The two countries are often on opposite sides of the fence when it comes to climate change."
+          },
+          {
+            "cf": "",
+            "x": "There are arguments on both sides of the aisle."
+          }
+        ]
+      },
+      {
+        "definition": "to avoid becoming involved in deciding or influencing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He tends to sit on the fence at meetings."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fork",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/for/fork_/fork__gb_2.mp3",
+    "phonetic_text": "/fɔːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/for/fork_/fork__us_1.mp3",
+    "phonetic_am_text": "/fɔːrk/",
+    "senses": [
+      {
+        "definition": "a tool with a handle and three or four sharp points (called prongs), used for picking up and eating food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to eat with a knife and fork"
+          },
+          {
+            "cf": "with a fork",
+            "x": "Mash the mixture with a fork."
+          }
+        ]
+      },
+      {
+        "definition": "a garden tool with a long or short handle and three or four sharp metal points, used for digging",
+        "examples": []
+      },
+      {
+        "definition": "a place where a road, river, etc. divides into two parts; either of these two parts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Take the right fork."
+          },
+          {
+            "cf": "",
+            "x": "Shortly before dusk they reached a fork and took the left-hand track."
+          },
+          {
+            "cf": "fork in something",
+            "x": "Bear left at the fork in the road."
+          }
+        ]
+      },
+      {
+        "definition": "a thing that is like a fork in shape, with two or more long parts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a jagged fork of lightning"
+          },
+          {
+            "cf": "",
+            "x": "a monkey sitting in the fork of the tree"
+          }
+        ]
+      },
+      {
+        "definition": "either of two metal supporting pieces into which a wheel on a bicycle or motorcycle is fitted",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "deck",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dec/deck_/deck__gb_1.mp3",
+    "phonetic_text": "/dek/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dec/deck_/deck__us_1.mp3",
+    "phonetic_am_text": "/dek/",
+    "senses": [
+      {
+        "definition": "the top outside floor of a ship or boat",
+        "examples": [
+          {
+            "cf": "on deck",
+            "x": "I was the only person on deck at that time of night."
+          },
+          {
+            "cf": "",
+            "x": "When we heard the alarm, we went up on deck."
+          },
+          {
+            "cf": "below deck(s)",
+            "x": "As the storm began, everyone disappeared below deck(s)."
+          }
+        ]
+      },
+      {
+        "definition": "one of the floors of a ship or a bus",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the upper/lower/main deck of a ship"
+          },
+          {
+            "cf": "",
+            "x": "We sat on the top deck of the bus."
+          },
+          {
+            "cf": "",
+            "x": "My cabin is on deck C."
+          }
+        ]
+      },
+      {
+        "definition": "a floor or platform similar to the deck of a ship",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There is an open-air observation deck on the building's top floor."
+          },
+          {
+            "cf": "",
+            "x": "He fell from the upper deck of the car park."
+          },
+          {
+            "cf": "",
+            "x": "a roof/rooftop deck"
+          }
+        ]
+      },
+      {
+        "definition": "a complete set of 52 playing cards",
+        "examples": []
+      },
+      {
+        "definition": "a wooden floor that is built outside the back of a house where you can sit and relax",
+        "examples": [
+          {
+            "cf": "",
+            "x": "After dinner we sat out on the deck."
+          }
+        ]
+      },
+      {
+        "definition": "a set of slides (= pages created on a computer that contain text and images) that are used to accompany a person’s presentation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Nothing kills a presentation faster than reading off a deck of slides."
+          }
+        ]
+      },
+      {
+        "definition": "a part of a sound system that records and/or plays sounds on a disc or tape",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a cassette/tape deck"
+          }
+        ]
+      },
+      {
+        "definition": "everyone helps or must help, especially in a difficult situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There are 30 people coming to dinner tonight, so it's all hands on deck."
+          }
+        ]
+      },
+      {
+        "definition": "to prepare for an activity, event, etc. by removing anything that is not essential to it",
+        "examples": []
+      },
+      {
+        "definition": "to fall to the ground",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "flower bed",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/flo/flowe/flower_bed_1_gb_1.mp3",
+    "phonetic_text": "/ˈflaʊə bed/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/flowe/flower_bed_1_us_1.mp3",
+    "phonetic_am_text": "/ˈflaʊər bed/",
+    "senses": [
+      {
+        "definition": "a piece of ground in a garden or park where flowers are grown",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a garden with beautifully kept flower beds"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dig",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dig/dig__/dig__gb_1.mp3",
+    "phonetic_text": "/dɪɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dig/dig__/dig__us_1.mp3",
+    "phonetic_am_text": "/dɪɡ/",
+    "senses": [
+      {
+        "definition": "to make a hole in the ground or to move soil from one place to another using your hands, a tool or a machine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I think I'll do some digging in the garden."
+          },
+          {
+            "cf": "dig + adv./prep.",
+            "x": "They dug deeper and deeper but still found nothing."
+          },
+          {
+            "cf": "",
+            "x": "We could only dig down a few feet."
+          },
+          {
+            "cf": "dig for something",
+            "x": "to dig for gold/treasure"
+          },
+          {
+            "cf": "dig something",
+            "x": "to dig a hole/trench/grave"
+          },
+          {
+            "cf": "",
+            "x": "I've been digging the garden."
+          },
+          {
+            "cf": "dig something + adv./prep.",
+            "x": "They had obviously dug special tunnels beneath the city."
+          },
+          {
+            "cf": "",
+            "x": "The present entrance was dug through the soft limestone."
+          }
+        ]
+      },
+      {
+        "definition": "to remove something from the ground with a tool",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'll dig some potatoes for lunch."
+          }
+        ]
+      },
+      {
+        "definition": "to search in something in order to find an object in something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I dug around in my bag for a pen."
+          }
+        ]
+      },
+      {
+        "definition": "to approve of or like something very much",
+        "examples": []
+      },
+      {
+        "definition": "to search for information in a careful and detailed way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You'll need to dig deep into the records to find the figures you want."
+          }
+        ]
+      },
+      {
+        "definition": "to try hard to provide the money, equipment, etc. that is needed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We're asking you to dig deep for the earthquake victims."
+          }
+        ]
+      },
+      {
+        "definition": "to discover and reveal information about somebody that could damage them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They hired private investigators to dig up dirt on their political opponents."
+          },
+          {
+            "cf": "",
+            "x": "She has come to dig the dirt on her old rival."
+          }
+        ]
+      },
+      {
+        "definition": "to refuse to do something or to change your mind about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They dug in their heels and would not lower the price."
+          }
+        ]
+      },
+      {
+        "definition": "to spend a lot of your own money on something",
+        "examples": []
+      },
+      {
+        "definition": "to push your finger or your elbow into somebody’s side, especially to attract their attention",
+        "examples": []
+      },
+      {
+        "definition": "to do something that will have very harmful results for you",
+        "examples": []
+      },
+      {
+        "definition": "to get yourself into a bad situation that will be very difficult to get out of",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "garden",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gar/garde/garden__gb_2.mp3",
+    "phonetic_text": "/ˈɡɑːdn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garde/garden__us_1.mp3",
+    "phonetic_am_text": "/ˈɡɑːrdn/",
+    "senses": [
+      {
+        "definition": "to work in a garden",
+        "examples": [
+          {
+            "cf": "",
+            "x": "More people are choosing to garden organically."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gardener",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gar/garde/gardener__gb_1.mp3",
+    "phonetic_text": "/ˈɡɑːdnə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garde/gardener__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈɡɑːrdnər/",
+    "senses": [
+      {
+        "definition": "a person whose job is to work in a garden",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We employ a gardener two days a week."
+          }
+        ]
+      },
+      {
+        "definition": "a person who enjoys working in a garden",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My wife's a keen gardener."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gnome",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gno/gnome/gnome__gb_3.mp3",
+    "phonetic_text": "/nəʊm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gno/gnome/gnome__us_1.mp3",
+    "phonetic_am_text": "/nəʊm/",
+    "senses": [
+      {
+        "definition": "(in stories) a creature like a small man with a pointed hat, who lives under the ground and guards gold and treasure",
+        "examples": []
+      },
+      {
+        "definition": "a plastic or stone figure of a gnome, used to decorate a garden",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "graft",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/graft/graft__gb_1.mp3",
+    "phonetic_text": "/ɡrɑːft/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/graft/graft__us_1.mp3",
+    "phonetic_am_text": "/ɡræft/",
+    "senses": [
+      {
+        "definition": "to take a piece of skin, bone, etc. from a living body and attach it to a damaged part",
+        "examples": [
+          {
+            "cf": "",
+            "x": "newly grafted tissue"
+          },
+          {
+            "cf": "",
+            "x": "New skin had to be grafted on from his back."
+          }
+        ]
+      },
+      {
+        "definition": "to cut a piece from a living plant and attach it to another plant",
+        "examples": []
+      },
+      {
+        "definition": "to make one idea, system, etc. become part of another one",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Old values are being grafted onto a new social class."
+          }
+        ]
+      },
+      {
+        "definition": "to work hard",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She’s been grafting all day."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gravel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grave/gravel__gb_1.mp3",
+    "phonetic_text": "/ˈɡrævl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grave/gravel__us_1.mp3",
+    "phonetic_am_text": "/ˈɡrævl/",
+    "senses": [
+      {
+        "definition": "small stones, often used to make the surface of paths and roads",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a gravel path"
+          },
+          {
+            "cf": "",
+            "x": "A gravel drive led up to the house."
+          },
+          {
+            "cf": "",
+            "x": "a gravel pit (= a place where gravel is taken from the ground)"
+          },
+          {
+            "cf": "",
+            "x": "Put a layer of fine gravel into the bottom of the plant pot for drainage."
+          },
+          {
+            "cf": "",
+            "x": "We parked on the gravel at the side of the road."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hanging basket",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/han/hangi/hanging_basket_1_gb_1.mp3",
+    "phonetic_text": "/ˌhæŋɪŋ ˈbɑːskɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/han/hangi/hanging_basket_1_us_2.mp3",
+    "phonetic_am_text": "/ˌhæŋɪŋ ˈbæskɪt/",
+    "senses": [
+      {
+        "definition": "a basket or similar container with flowers growing in it, that is hung from a building by a short chain or rope",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "gate",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gat/gate_/gate__gb_2.mp3",
+    "phonetic_text": "/ɡeɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gat/gate_/gate__us_1.mp3",
+    "phonetic_am_text": "/ɡeɪt/",
+    "senses": [
+      {
+        "definition": "a barrier like a door that is used to close an opening in a fence or a wall outside a building",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the front/main gate"
+          },
+          {
+            "cf": "",
+            "x": "the back/side gate"
+          },
+          {
+            "cf": "",
+            "x": "an iron gate"
+          },
+          {
+            "cf": "",
+            "x": "to open/close/shut a gate"
+          },
+          {
+            "cf": "",
+            "x": "He pushed open the garden gate."
+          },
+          {
+            "cf": "outside a gate",
+            "x": "Students were still standing outside the school gates."
+          },
+          {
+            "cf": "at a gate",
+            "x": "A crowd gathered at the factory gates."
+          },
+          {
+            "cf": "gate to something",
+            "x": "Someone was waiting by the gate to his house."
+          }
+        ]
+      },
+      {
+        "definition": "an opening that can be closed by a gate or gates",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I was slightly nervous as I entered the gates."
+          },
+          {
+            "cf": "through a gate",
+            "x": "We drove through the palace gates."
+          }
+        ]
+      },
+      {
+        "definition": "a way out of an airport through which passengers go to get on their plane",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Passengers for Paris should proceed to gate 8."
+          },
+          {
+            "cf": "at a gate",
+            "x": "BA flight 726 to Paris is now boarding at gate 16."
+          }
+        ]
+      },
+      {
+        "definition": "a barrier that is used to control the flow of water on a river or canal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a lock/sluice gate"
+          }
+        ]
+      },
+      {
+        "definition": "the number of people who attend a sports event",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Tonight's game has attracted the largest gate of the season."
+          }
+        ]
+      },
+      {
+        "definition": "the amount of money made by selling tickets for a sports event",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Today's gate will be given to charity."
+          }
+        ]
+      },
+      {
+        "definition": "a political scandal connected with the person, place or event mentioned, usually involving a cover-up (= an attempt to hide an illegal activity)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The newspapers have been running stories on the Partygate scandal for months."
+          }
+        ]
+      },
+      {
+        "definition": "an electronic switch that reacts in one of two ways to data that is put into it. A computer performs operations by passing data through a very large number of gates.",
+        "examples": []
+      },
+      {
+        "definition": "to be successful from the beginning, especially in sport",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Grizzlies came out of the gate motivated, bursting to a 27–10 lead."
+          },
+          {
+            "cf": "",
+            "x": "The team has struggled to get out of the gate this year."
+          }
+        ]
+      },
+      {
+        "definition": "right from the beginning of a situation or an activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The trouble began right out of the gate."
+          },
+          {
+            "cf": "",
+            "x": "The Democrats had a clear advantage out of the gate."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "grow",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/grow_/grow__gb_2.mp3",
+    "phonetic_text": "/ɡrəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/grow_/grow__us_1.mp3",
+    "phonetic_am_text": "/ɡrəʊ/",
+    "senses": [
+      {
+        "definition": "to increase in size, number, strength or quality",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The sector is growing at a phenomenal rate."
+          },
+          {
+            "cf": "",
+            "x": "The performance improved as their confidence grew."
+          },
+          {
+            "cf": "",
+            "x": "Opposition to the latest proposals is growing steadily."
+          },
+          {
+            "cf": "",
+            "x": "The market is growing rapidly."
+          },
+          {
+            "cf": "",
+            "x": "Sales are growing fast."
+          },
+          {
+            "cf": "",
+            "x": "The business has grown exponentially over the past ten years."
+          },
+          {
+            "cf": "",
+            "x": "Fears are growing for the safety of a teenager who disappeared a week ago."
+          },
+          {
+            "cf": "grow by something",
+            "x": "The economy is growing by roughly 2 per cent a year."
+          },
+          {
+            "cf": "",
+            "x": "The company profits grew by 5 per cent last year."
+          },
+          {
+            "cf": "grow in something",
+            "x": "The family has grown in size recently."
+          },
+          {
+            "cf": "",
+            "x": "This approach is growing in popularity."
+          },
+          {
+            "cf": "",
+            "x": "She is growing in confidence all the time."
+          },
+          {
+            "cf": "grow from something",
+            "x": "Her media empire grew from quite small beginnings."
+          },
+          {
+            "cf": "grow to something",
+            "x": "That number will grow to two billion users in 2025."
+          },
+          {
+            "cf": "grow from something to something",
+            "x": "The city's population has grown from about 50 000 to over a million in 20 years."
+          },
+          {
+            "cf": "+ adj.",
+            "x": "to grow larger/stronger"
+          },
+          {
+            "cf": "",
+            "x": "The company is growing bigger all the time."
+          }
+        ]
+      },
+      {
+        "definition": "to become bigger or taller and develop into an adult",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You've grown since the last time I saw you!"
+          },
+          {
+            "cf": "",
+            "x": "The puppies grow quickly during the first six months."
+          },
+          {
+            "cf": "+ noun",
+            "x": "Nick's grown almost an inch in the last month."
+          },
+          {
+            "cf": "+ adj.",
+            "x": "to grow bigger/taller/older"
+          }
+        ]
+      },
+      {
+        "definition": "to exist and develop in a particular place; to make plants grow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The region is too dry for plants to grow."
+          },
+          {
+            "cf": "",
+            "x": "Tomatoes grow best in direct sunlight."
+          },
+          {
+            "cf": "grow to something",
+            "x": "These roses grow to a height of 6 feet."
+          },
+          {
+            "cf": "grow from something",
+            "x": "This is a tree that grows well from cuttings."
+          },
+          {
+            "cf": "grow something",
+            "x": "The land is used to grow crops."
+          },
+          {
+            "cf": "",
+            "x": "We need to grow our food more efficiently."
+          },
+          {
+            "cf": "",
+            "x": "I didn't know they grew rice in France."
+          },
+          {
+            "cf": "",
+            "x": "The plants were grown in controlled conditions."
+          },
+          {
+            "cf": "grow something from something",
+            "x": "I grew all these flowers from one packet of seeds."
+          }
+        ]
+      },
+      {
+        "definition": "to become longer; to allow something to become longer by not cutting it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've decided to let my hair grow."
+          },
+          {
+            "cf": "grow something",
+            "x": "I've decided to grow my hair."
+          },
+          {
+            "cf": "",
+            "x": "I didn't recognize him—he's grown a beard."
+          }
+        ]
+      },
+      {
+        "definition": "to begin to have a particular quality or feeling over a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their dog had grown old and fat."
+          },
+          {
+            "cf": "",
+            "x": "They were growing tired of her unreasonable behaviour."
+          },
+          {
+            "cf": "",
+            "x": "My eyes soon grew accustomed to the darkness."
+          },
+          {
+            "cf": "",
+            "x": "Mark and Jenny were growing closer every day."
+          },
+          {
+            "cf": "",
+            "x": "As time went on he grew more and more impatient."
+          },
+          {
+            "cf": "",
+            "x": "The skies grew dark and it began to rain."
+          },
+          {
+            "cf": "",
+            "x": "Don't worry, you'll grow braver with time."
+          }
+        ]
+      },
+      {
+        "definition": "to gradually begin to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm sure you'll grow to like her in time."
+          },
+          {
+            "cf": "",
+            "x": "He grew to understand her reasons for leaving."
+          }
+        ]
+      },
+      {
+        "definition": "to develop and improve particular qualities or skills",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She continues to grow as an artist."
+          },
+          {
+            "cf": "",
+            "x": "A secure background will help a child to grow emotionally."
+          }
+        ]
+      },
+      {
+        "definition": "to increase the size, quality or number of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We are trying to grow the business."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that when you are away from somebody that you love, you love them even more",
+        "examples": []
+      },
+      {
+        "definition": "something large and successful often begins in a very small way",
+        "examples": []
+      },
+      {
+        "definition": "used to tell somebody not to use something or spend money carelessly because you do not have a lot of it",
+        "examples": []
+      },
+      {
+        "definition": "to not delay in getting things done",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hedge",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hed/hedge/hedge__gb_1.mp3",
+    "phonetic_text": "/hedʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hed/hedge/hedge__us_1.mp3",
+    "phonetic_am_text": "/hedʒ/",
+    "senses": [
+      {
+        "definition": "a row of bushes or small trees planted close together, usually along the edge of a field, garden or road",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a privet hedge"
+          }
+        ]
+      },
+      {
+        "definition": "a way of protecting yourself against the loss of something, especially money",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I bought gold as a hedge against inflation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "garden",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gar/garde/garden__gb_2.mp3",
+    "phonetic_text": "/ˈɡɑːdn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garde/garden__us_1.mp3",
+    "phonetic_am_text": "/ˈɡɑːrdn/",
+    "senses": [
+      {
+        "definition": "a piece of land next to or around your house where you can grow flowers, fruit, vegetables, etc., usually with a lawn (= an area of grass)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a front/back/rear garden"
+          },
+          {
+            "cf": "",
+            "x": "a vegetable garden"
+          },
+          {
+            "cf": "",
+            "x": "a rose garden (= where only roses are grown)"
+          },
+          {
+            "cf": "",
+            "x": "The main bedroom overlooks the garden."
+          },
+          {
+            "cf": "in the garden",
+            "x": "children playing in the garden"
+          },
+          {
+            "cf": "",
+            "x": "a garden shed"
+          },
+          {
+            "cf": "",
+            "x": "garden flowers/plants"
+          }
+        ]
+      },
+      {
+        "definition": "an area in a yard where you grow flowers or plants",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These flowers brighten up backyard gardens all over the country."
+          }
+        ]
+      },
+      {
+        "definition": "a public park",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Thousands of people now visit the gardens every year."
+          },
+          {
+            "cf": "in the gardens",
+            "x": "The concert will take place in the gardens."
+          }
+        ]
+      },
+      {
+        "definition": "used in the name of streets",
+        "examples": [
+          {
+            "cf": "",
+            "x": "39 Belvoir Gardens"
+          }
+        ]
+      },
+      {
+        "definition": "ordinary; with no special features",
+        "examples": []
+      },
+      {
+        "definition": "everything is fine",
+        "examples": []
+      },
+      {
+        "definition": "to make somebody believe something that is not true",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "growbag",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/growb/growbag__gb_1.mp3",
+    "phonetic_text": "/ˈɡrəʊbæɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/growb/growbag__us_1.mp3",
+    "phonetic_am_text": "/ˈɡrəʊbæɡ/",
+    "senses": [
+      {
+        "definition": "a large plastic bag full of soil, used for growing plants in",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "greenhouse",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gre/green/greenhouse__gb_1.mp3",
+    "phonetic_text": "/ˈɡriːnhaʊs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gre/green/greenhouse__us_1.mp3",
+    "phonetic_am_text": "/ˈɡriːnhaʊs/",
+    "senses": [
+      {
+        "definition": "a building with glass sides and a glass roof for growing plants in",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "grass",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grass/grass_1_gb_1.mp3",
+    "phonetic_text": "/ɡrɑːs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grass/grass__us_1.mp3",
+    "phonetic_am_text": "/ɡræs/",
+    "senses": [
+      {
+        "definition": "a common wild plant with narrow green leaves and stems that are eaten by cows, horses, sheep, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a blade of grass"
+          },
+          {
+            "cf": "",
+            "x": "The dry grass caught fire."
+          }
+        ]
+      },
+      {
+        "definition": "any type of grass",
+        "examples": [
+          {
+            "cf": "",
+            "x": "ornamental grasses"
+          }
+        ]
+      },
+      {
+        "definition": "an area of ground covered with grass",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to cut/mow the grass"
+          },
+          {
+            "cf": "on the grass",
+            "x": "Don't walk on the grass."
+          },
+          {
+            "cf": "",
+            "x": "Keep off the grass. (= on a sign)"
+          },
+          {
+            "cf": "on grass",
+            "x": "He plays better on grass (= on a grass court, when playing tennis)."
+          }
+        ]
+      },
+      {
+        "definition": "marijuana",
+        "examples": []
+      },
+      {
+        "definition": "a person, usually a criminal, who tells the police about somebody’s criminal activities and plans",
+        "examples": []
+      },
+      {
+        "definition": "said about people who never seem happy with what they have and always think they could be happier in a different place or situation",
+        "examples": []
+      },
+      {
+        "definition": "to reject something or treat it as not important; to stop dealing with a problem",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He tends to deal with disputes by kicking them into the long grass."
+          }
+        ]
+      },
+      {
+        "definition": "to not delay in getting things done",
+        "examples": []
+      },
+      {
+        "definition": "to force somebody to stop doing their job, especially because they are old",
+        "examples": []
+      },
+      {
+        "definition": "a person who pretends to be your friend but who cannot be trusted",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I came to realize that he's just a snake in the grass."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hoe",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hoe/hoe__/hoe__gb_1.mp3",
+    "phonetic_text": "/həʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hoe/hoe__/hoe__us_1.mp3",
+    "phonetic_am_text": "/həʊ/",
+    "senses": [
+      {
+        "definition": "to break up soil, remove plants, etc. with a hoe",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to hoe the flower beds"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hose",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hos/hose_/hose__gb_2.mp3",
+    "phonetic_text": "/həʊz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hos/hose_/hose__us_1.mp3",
+    "phonetic_am_text": "/həʊz/",
+    "senses": [
+      {
+        "definition": "a long tube made of rubber, plastic, etc., used for putting water onto fires, gardens, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You need a fire hose; a garden hose isn't powerful enough to tackle a fire."
+          },
+          {
+            "cf": "",
+            "x": "a length of hose"
+          },
+          {
+            "cf": "",
+            "x": "The firefighters trained their hoses on the burning building."
+          }
+        ]
+      },
+      {
+        "definition": "used especially in shops as a word for tights, stockings and socks",
+        "examples": []
+      },
+      {
+        "definition": "trousers that fit tightly over the legs, worn by men in the past",
+        "examples": [
+          {
+            "cf": "",
+            "x": "doublet and hose"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "horticulture",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horti/horticulture__gb_1.mp3",
+    "phonetic_text": "/ˈhɔːtɪkʌltʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horti/horticulture__us_1.mp3",
+    "phonetic_am_text": "/ˈhɔːrtɪkʌltʃər/",
+    "senses": [
+      {
+        "definition": "the study or practice of growing flowers, fruit and vegetables",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a college of agriculture and horticulture"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hoe",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hoe/hoe__/hoe__gb_1.mp3",
+    "phonetic_text": "/həʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hoe/hoe__/hoe__us_1.mp3",
+    "phonetic_am_text": "/həʊ/",
+    "senses": [
+      {
+        "definition": "a garden tool with a long handle and a thin metal blade, used for breaking up soil and removing weeds (= plants growing where they are not wanted)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "manure",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manur/manure__gb_1.mp3",
+    "phonetic_text": "/məˈnjʊə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manur/manure__us_1.mp3",
+    "phonetic_am_text": "/məˈnʊr/",
+    "senses": [
+      {
+        "definition": "the waste matter from animals that is spread over or mixed with the soil to help plants and crops grow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Dig plenty of well-rotted manure into the soil."
+          },
+          {
+            "cf": "",
+            "x": "the best time to spread manure on the fields"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "manure",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manur/manure__gb_1.mp3",
+    "phonetic_text": "/məˈnjʊə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/manur/manure__us_1.mp3",
+    "phonetic_am_text": "/məˈnʊr/",
+    "senses": [
+      {
+        "definition": "to put manure on or in soil to help plants grow",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hedge trimmer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hed/hedge/hedge_trimmer_1_gb_1.mp3",
+    "phonetic_text": "/ˈhedʒ trɪmə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hed/hedge/hedge_trimmer_1_us_1.mp3",
+    "phonetic_am_text": "/ˈhedʒ trɪmər/",
+    "senses": [
+      {
+        "definition": "a piece of equipment used for cutting hedges",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lawnmower",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/law/lawnm/lawnmower__gb_1.mp3",
+    "phonetic_text": "/ˈlɔːnməʊə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/law/lawnm/lawnmower__us_1.mp3",
+    "phonetic_am_text": "/ˈlɔːnməʊər/",
+    "senses": [
+      {
+        "definition": "a machine for cutting the grass on lawns",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lawn",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/law/lawn_/lawn__gb_1.mp3",
+    "phonetic_text": "/lɔːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/law/lawn_/lawn__us_1.mp3",
+    "phonetic_am_text": "/lɔːn/",
+    "senses": [
+      {
+        "definition": "an area of ground covered in short grass in a garden or park, or used for playing a game on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In summer we have to mow the lawn twice a week."
+          },
+          {
+            "cf": "",
+            "x": "The hotel boasts two tennis courts and a croquet lawn."
+          },
+          {
+            "cf": "",
+            "x": "They served afternoon tea on the lawn (= a large area of grass, near a big house, for example)."
+          }
+        ]
+      },
+      {
+        "definition": "a type of fine cotton or linen cloth used for making clothes",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mow",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mow/mow__/mow__gb_1.mp3",
+    "phonetic_text": "/məʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mow/mow__/mow__us_1.mp3",
+    "phonetic_am_text": "/məʊ/",
+    "senses": [
+      {
+        "definition": "to cut grass, etc. using a machine or tool with a special blade (= sharp cutting edge) or blades",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I mow the lawn every week in summer."
+          },
+          {
+            "cf": "",
+            "x": "the smell of new-mown hay"
+          },
+          {
+            "cf": "",
+            "x": "the smell of freshly mown grass"
+          },
+          {
+            "cf": "",
+            "x": "The lawn needs mowing every week in summer."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mower",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mow/mower/mower__gb_1.mp3",
+    "phonetic_text": "/ˈməʊə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mow/mower/mower__us_1.mp3",
+    "phonetic_am_text": "/ˈməʊər/",
+    "senses": [
+      {
+        "definition": "a machine that cuts grass",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You should clean your mower each time you use it."
+          },
+          {
+            "cf": "",
+            "x": "a lawnmower"
+          },
+          {
+            "cf": "",
+            "x": "a motor/rotary mower"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lounger",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lou/loung/lounger__gb_1.mp3",
+    "phonetic_text": "/ˈlaʊndʒə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lou/loung/lounger__us_1.mp3",
+    "phonetic_am_text": "/ˈlaʊndʒər/",
+    "senses": [
+      {
+        "definition": "a long comfortable chair that supports your legs, used for sitting or lying on, especially outdoors",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "moated",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/moa/moate/moated__gb_1.mp3",
+    "phonetic_text": "/ˈməʊtɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moa/moate/moated__us_1.mp3",
+    "phonetic_am_text": "/ˈməʊtɪd/",
+    "senses": [
+      {
+        "definition": "that has a moat all around",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a moated manor house"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hot tub",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hot/hot_t/hot_tub_1_gb_2.mp3",
+    "phonetic_text": "/ˈhɒt tʌb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hot/hot_t/hot_tub_1_us_2.mp3",
+    "phonetic_am_text": "/ˈhɑːt tʌb/",
+    "senses": [
+      {
+        "definition": "a heated bath, often outside, that several people can sit in together to relax",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "moat",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/moa/moat_/moat__gb_1.mp3",
+    "phonetic_text": "/məʊt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moa/moat_/moat__us_1.mp3",
+    "phonetic_am_text": "/məʊt/",
+    "senses": [
+      {
+        "definition": "a deep wide channel that was dug around a castle, etc. and filled with water to make it more difficult for enemies to attack",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The castle was ringed by a moat spanned by a wooden drawbridge."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mulch",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mul/mulch/mulch__gb_1.mp3",
+    "phonetic_text": "/mʌltʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mul/mulch/mulch__us_1.mp3",
+    "phonetic_am_text": "/mʌltʃ/",
+    "senses": [
+      {
+        "definition": "material, for example, decaying leaves, that you put around a plant to protect its base and its roots, to improve the quality of the soil or to stop weeds growing",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "ornamental",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/orn/ornam/ornamental__gb_1.mp3",
+    "phonetic_text": "/ˌɔːnəˈmentl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/orn/ornam/ornamental__us_1.mp3",
+    "phonetic_am_text": "/ˌɔːrnəˈmentl/",
+    "senses": [
+      {
+        "definition": "used as decoration rather than for a practical purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an ornamental fountain"
+          },
+          {
+            "cf": "",
+            "x": "The chimney pots are purely ornamental."
+          },
+          {
+            "cf": "",
+            "x": "a plant which is highly ornamental in flower"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "patio",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pat/patio/patio__gb_1.mp3",
+    "phonetic_text": "/ˈpætiəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pat/patio/patio__us_1.mp3",
+    "phonetic_am_text": "/ˈpætiəʊ/",
+    "senses": [
+      {
+        "definition": "a flat hard area outside, and usually behind, a house where people can sit",
+        "examples": [
+          {
+            "cf": "on the patio",
+            "x": "Let's have lunch out on the patio."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "path",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pat/path_/path__gb_2.mp3",
+    "phonetic_text": "/pɑːθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pat/path_/path__us_1.mp3",
+    "phonetic_am_text": "/pæθ/",
+    "senses": [
+      {
+        "definition": "a way or track that is built or is made by the action of people walking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a dirt/gravel/concrete path"
+          },
+          {
+            "cf": "",
+            "x": "Follow the path through the woods."
+          },
+          {
+            "cf": "along/down a path",
+            "x": "They walked along the cliff path to the next town."
+          },
+          {
+            "cf": "",
+            "x": "The path led up a steep hill."
+          },
+          {
+            "cf": "",
+            "x": "a coastal path"
+          }
+        ]
+      },
+      {
+        "definition": "a plan of action or a way of achieving something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her sister followed a different career path."
+          },
+          {
+            "cf": "path to something",
+            "x": "There is no easy path to success."
+          },
+          {
+            "cf": "on a path",
+            "x": "Here are some pointers to set you on the right path."
+          },
+          {
+            "cf": "",
+            "x": "The company cannot continue on its current path."
+          }
+        ]
+      },
+      {
+        "definition": "a line along which somebody/something moves; the space in front of somebody/something as they move",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Three men blocked her path."
+          },
+          {
+            "cf": "into the path of something",
+            "x": "He threw himself into the path of an oncoming vehicle."
+          },
+          {
+            "cf": "out of the path of something",
+            "x": "We're trying to get people out of the path of the storm."
+          },
+          {
+            "cf": "in something's/somebody's path",
+            "x": "The avalanche forced its way down the mountain, crushing everything in its path."
+          }
+        ]
+      },
+      {
+        "definition": "if a lot of people beat a path to somebody’s door, they are all interested in something that person has to sell, or can do or tell them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Top theatrical agents are beating a path to the teenager's door."
+          }
+        ]
+      },
+      {
+        "definition": "if somebody crosses somebody’s path or their paths cross, they meet by chance",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I hope I never cross her path again."
+          },
+          {
+            "cf": "",
+            "x": "Our paths were to cross again many years later."
+          }
+        ]
+      },
+      {
+        "definition": "to make somebody believe something that is not true",
+        "examples": []
+      },
+      {
+        "definition": "(to choose, etc.) the easiest way of doing something",
+        "examples": []
+      },
+      {
+        "definition": "an easy life that is full of pleasure but that causes you harm in the end",
+        "examples": []
+      },
+      {
+        "definition": "to make it easier for somebody/something to develop or make progress",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These negotiations are intended to smooth the path to a peace treaty."
+          },
+          {
+            "cf": "",
+            "x": "We’re trying to smooth the way for women who want to resume their careers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mulch",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mul/mulch/mulch__gb_1.mp3",
+    "phonetic_text": "/mʌltʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mul/mulch/mulch__us_1.mp3",
+    "phonetic_am_text": "/mʌltʃ/",
+    "senses": [
+      {
+        "definition": "to cover the soil or the roots of a plant with a mulch",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "peat",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pea/peat_/peat__gb_1.mp3",
+    "phonetic_text": "/piːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pea/peat_/peat__us_1.mp3",
+    "phonetic_am_text": "/piːt/",
+    "senses": [
+      {
+        "definition": "a soft black or brown substance formed from old or dying plants just under the surface of the ground, especially in cool wet areas. It is burned as a fuel or used to improve garden soil.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "peat bogs"
+          },
+          {
+            "cf": "",
+            "x": "peat extraction"
+          },
+          {
+            "cf": "",
+            "x": "a peat fire (= one in which cut pieces of peat are burned)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "paving stone",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pav/pavin/paving_stone_1_gb_1.mp3",
+    "phonetic_text": "/ˈpeɪvɪŋ stəʊn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pav/pavin/paving_stone_1_us_1.mp3",
+    "phonetic_am_text": "/ˈpeɪvɪŋ stəʊn/",
+    "senses": [
+      {
+        "definition": "a flat, usually square, piece of stone that is used to make a hard surface for walking on",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "patch",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pat/patch/patch__gb_1.mp3",
+    "phonetic_text": "/pætʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pat/patch/patch__us_1.mp3",
+    "phonetic_am_text": "/pætʃ/",
+    "senses": [
+      {
+        "definition": "a small area of something, especially one which is different from the area around it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a black dog with a white patch on its back"
+          },
+          {
+            "cf": "",
+            "x": "a bald patch on the top of his head"
+          },
+          {
+            "cf": "",
+            "x": "damp patches on the wall"
+          },
+          {
+            "cf": "",
+            "x": "patches of dense fog"
+          },
+          {
+            "cf": "",
+            "x": "We sat in a patch of shade under a tree."
+          }
+        ]
+      },
+      {
+        "definition": "a small piece of material that is used to cover a hole in something or to make a weak area stronger, or as decoration",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I sewed patches on the knees of my jeans."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of material that you wear over an eye, usually because the eye is damaged",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had a black patch over one eye."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of material that you sew onto clothes as part of a uniform",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He wears a patch from his employer, Verizon."
+          },
+          {
+            "cf": "",
+            "x": "It has a UPS patch sewn on the right shoulder."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of material that people can wear on their skin to help them to stop smoking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "nicotine patches"
+          }
+        ]
+      },
+      {
+        "definition": "a small piece of land, especially one used for growing vegetables or fruit",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vegetable patch"
+          },
+          {
+            "cf": "",
+            "x": "We had a strawberry patch beside the greenhouse."
+          }
+        ]
+      },
+      {
+        "definition": "an area that somebody works in, knows well or comes from",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He knows every house in his patch."
+          },
+          {
+            "cf": "",
+            "x": "She has had a lot of success in her home patch."
+          }
+        ]
+      },
+      {
+        "definition": "a period of time of the type mentioned, usually a difficult or unhappy one",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go through a bad/difficult/sticky patch"
+          }
+        ]
+      },
+      {
+        "definition": "a small piece of code (= instructions that a computer can understand) which can be added to a computer program to improve it or to correct a fault",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Follow the instructions below to download and install the patch."
+          },
+          {
+            "cf": "",
+            "x": "Update and apply all security patches to your browser, as soon as possible."
+          }
+        ]
+      },
+      {
+        "definition": "to be much less good, attractive, etc. than somebody/something else",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This book isn’t a patch on her others."
+          },
+          {
+            "cf": "",
+            "x": "Shop-bought jam is not a patch on home-made."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "overgrown",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ove/overg/overgrown__gb_1.mp3",
+    "phonetic_text": "/ˌəʊvəˈɡrəʊn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/ove/overg/overgrown__us_1.mp3",
+    "phonetic_am_text": "/ˌəʊvərˈɡrəʊn/",
+    "senses": [
+      {
+        "definition": "covered with plants that have been allowed to grow wild and have not been controlled",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an overgrown path"
+          },
+          {
+            "cf": "",
+            "x": "The path was completely overgrown."
+          },
+          {
+            "cf": "overgrown with something",
+            "x": "The garden's completely overgrown with weeds."
+          },
+          {
+            "cf": "",
+            "x": "The canal bank was thickly overgrown with last year’s brambles."
+          }
+        ]
+      },
+      {
+        "definition": "that has grown too large",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an overgrown village"
+          },
+          {
+            "cf": "",
+            "x": "They act like a pair of overgrown children (= they are adults but they behave like children)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "picket",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pic/picke/picket__gb_1.mp3",
+    "phonetic_text": "/ˈpɪkɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pic/picke/picket__us_1.mp3",
+    "phonetic_am_text": "/ˈpɪkɪt/",
+    "senses": [
+      {
+        "definition": "a person or group of people who stand outside the entrance to a building in order to protest about something, especially in order to stop people from entering a factory, etc. during a strike; an occasion at which this happens",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Five pickets were arrested by police."
+          },
+          {
+            "cf": "",
+            "x": "I was on picket duty at the time."
+          },
+          {
+            "cf": "",
+            "x": "a mass picket of the factory"
+          }
+        ]
+      },
+      {
+        "definition": "a soldier or group of soldiers guarding a military base",
+        "examples": []
+      },
+      {
+        "definition": "a pointed piece of wood that is fixed in the ground, especially as part of a fence",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a picket fence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "peaty",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pea/peaty/peaty__gb_1.mp3",
+    "phonetic_text": "/ˈpiːti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pea/peaty/peaty__us_1.mp3",
+    "phonetic_am_text": "/ˈpiːti/",
+    "senses": [
+      {
+        "definition": "containing or similar to peat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "peaty soils"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pond",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pon/pond_/pond__gb_1.mp3",
+    "phonetic_text": "/pɒnd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pon/pond_/pond__us_1.mp3",
+    "phonetic_am_text": "/pɑːnd/",
+    "senses": [
+      {
+        "definition": "a small area of still water, especially one that is artificial",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a fish pond"
+          }
+        ]
+      },
+      {
+        "definition": "the Atlantic Ocean",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's relatively unknown on this side of the pond."
+          },
+          {
+            "cf": "across the pond",
+            "x": "Critics across the pond have been queuing up to heap praise on the movie."
+          }
+        ]
+      },
+      {
+        "definition": "an important person (in a small community)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plant/plant__gb_3.mp3",
+    "phonetic_text": "/plɑːnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plant/plant__us_1.mp3",
+    "phonetic_am_text": "/plænt/",
+    "senses": [
+      {
+        "definition": "to put plants, seeds, etc. in the ground to grow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to plant a tree/seed/crop"
+          },
+          {
+            "cf": "",
+            "x": "to plant and harvest rice"
+          },
+          {
+            "cf": "",
+            "x": "Plant the bulbs in pots for a spring display."
+          }
+        ]
+      },
+      {
+        "definition": "to cover or supply a garden, area of land, etc. with plants",
+        "examples": [
+          {
+            "cf": "plant something",
+            "x": "The children are planting a garden next to the school."
+          },
+          {
+            "cf": "",
+            "x": "They have planted five acres of vines."
+          },
+          {
+            "cf": "",
+            "x": "a densely planted orange grove"
+          },
+          {
+            "cf": "be planted with something",
+            "x": "The field had been ploughed and planted with corn."
+          }
+        ]
+      },
+      {
+        "definition": "to place something or yourself in a particular place or position",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They planted a flag on the summit."
+          },
+          {
+            "cf": "",
+            "x": "He planted himself squarely in front of us."
+          },
+          {
+            "cf": "",
+            "x": "She was determined to keep both feet firmly planted on dry land."
+          }
+        ]
+      },
+      {
+        "definition": "to hide something such as a bomb in a place where it will not be found",
+        "examples": []
+      },
+      {
+        "definition": "to hide something, especially something illegal, in somebody’s clothing, possessions, etc. so that when it is found it will look as though they committed a crime",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He claims that the drugs were planted on him."
+          }
+        ]
+      },
+      {
+        "definition": "to send somebody to join a group, etc., especially in order to make secret reports on its members",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The police had planted an informer in the gang."
+          }
+        ]
+      },
+      {
+        "definition": "to make somebody think or believe something, especially without them realizing that you gave them the idea",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He planted the first seeds of doubt in my mind."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "planter",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plant/planter__gb_1.mp3",
+    "phonetic_text": "/ˈplɑːntə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plant/planter__us_1.mp3",
+    "phonetic_am_text": "/ˈplæntər/",
+    "senses": [
+      {
+        "definition": "an attractive container to grow a plant in",
+        "examples": []
+      },
+      {
+        "definition": "a person who owns or manages a plantation in a tropical country",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a tea planter"
+          }
+        ]
+      },
+      {
+        "definition": "a machine that plants seeds, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "plant pot",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plant/plant_pot_1_gb_1.mp3",
+    "phonetic_text": "/ˈplɑːnt pɒt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plant/plant_pot_1_us_1.mp3",
+    "phonetic_am_text": "/ˈplænt pɑːt/",
+    "senses": [
+      {
+        "definition": "a container for growing plants in",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pot",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pot/pot__/pot__gb_1.mp3",
+    "phonetic_text": "/pɒt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pot/pot__/pot__us_1.mp3",
+    "phonetic_am_text": "/pɑːt/",
+    "senses": [
+      {
+        "definition": "a deep round container used for cooking things in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "pots and pans"
+          },
+          {
+            "cf": "",
+            "x": "You'll need a large cooking pot with a tight-fitting lid."
+          }
+        ]
+      },
+      {
+        "definition": "a container made of glass, clay or plastic, used for storing food in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pot of jam"
+          },
+          {
+            "cf": "",
+            "x": "a yoghurt pot"
+          }
+        ]
+      },
+      {
+        "definition": "a container of various kinds, made for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a coffee pot"
+          },
+          {
+            "cf": "",
+            "x": "a pencil pot"
+          },
+          {
+            "cf": "",
+            "x": "Is there any more tea in the pot?"
+          }
+        ]
+      },
+      {
+        "definition": "the amount contained in a pot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They drank a pot of coffee."
+          },
+          {
+            "cf": "",
+            "x": "I had such a craving for marmalade when I was pregnant that I ate a whole pot in one day."
+          }
+        ]
+      },
+      {
+        "definition": "a bowl, etc. that is made by a potter",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The newly made pots are glazed when they are completely dry."
+          }
+        ]
+      },
+      {
+        "definition": "the total amount of money that is bet in a card game",
+        "examples": []
+      },
+      {
+        "definition": "all the money given by a group of people in order to do something together, for example to buy food, or available for a particular purpose",
+        "examples": []
+      },
+      {
+        "definition": "cannabis (= a drug (illegal in many countries) made from the dried leaves and flowers of the hemp plant, which gives the person smoking it a feeling of being relaxed)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "pot smoking"
+          }
+        ]
+      },
+      {
+        "definition": "a shot that somebody fires without aiming carefully",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He took a pot at the neighbour's cat with his air rifle."
+          }
+        ]
+      },
+      {
+        "definition": "the act of hitting a ball into one of the pockets around the edge of the table",
+        "examples": []
+      },
+      {
+        "definition": "a pot belly (= a large stomach that sticks out)",
+        "examples": []
+      },
+      {
+        "definition": "a large prize or reward that somebody hopes for but is unlikely to get",
+        "examples": []
+      },
+      {
+        "definition": "to become much less good because people are not working hard or taking care of things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've lived here for years but the place has gone to pot recently"
+          }
+        ]
+      },
+      {
+        "definition": "likely to change; in the process of changing",
+        "examples": []
+      },
+      {
+        "definition": "used to say that you should not criticize somebody for a fault that you have yourself",
+        "examples": []
+      },
+      {
+        "definition": "when you take pot luck, you choose something or go somewhere without knowing very much about it, but hope that it will be good, pleasant, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's pot luck whether you get good advice or not."
+          },
+          {
+            "cf": "",
+            "x": "You're welcome to stay to supper, but you'll have to take pot luck (= eat whatever is available)."
+          }
+        ]
+      },
+      {
+        "definition": "a very large amount of money",
+        "examples": []
+      },
+      {
+        "definition": "to put something into a space that is too small for it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Writing a history of the world in a single volume is like putting a quart into a pint pot."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that when you are impatient for something to happen, time seems to pass very slowly",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "raised bed",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rai/raise/raised_bed_1_gb_1.mp3",
+    "phonetic_text": "/ˌreɪzd ˈbed/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/raise/raised_bed_1_us_1.mp3",
+    "phonetic_am_text": "/ˌreɪzd ˈbed/",
+    "senses": [
+      {
+        "definition": "an area in a garden that is higher than the ground around it and is usually surrounded by a frame made of wood or stone",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Vegetables and herbs were grown in a raised bed."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rain barrel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rai/rain_/rain_barrel_1_gb_1.mp3",
+    "phonetic_text": "/ˈreɪn bærəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rain_/rain_barrel_1_us_1.mp3",
+    "phonetic_am_text": "/ˈreɪn bærəl/",
+    "senses": [
+      {
+        "definition": "a large barrel for collecting rain as it flows off a roof",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "potting shed",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pot/potti/potting_shed_1_gb_1.mp3",
+    "phonetic_text": "/ˈpɒtɪŋ ʃed/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pot/potti/potting_shed_1_us_1.mp3",
+    "phonetic_am_text": "/ˈpɑːtɪŋ ʃed/",
+    "senses": [
+      {
+        "definition": "a small building where seeds and young plants are grown in pots before they are planted outside",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "rake",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rak/rake_/rake__gb_1.mp3",
+    "phonetic_text": "/reɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rak/rake_/rake__us_1.mp3",
+    "phonetic_am_text": "/reɪk/",
+    "senses": [
+      {
+        "definition": "a garden tool with a long handle and a row of metal points at the end, used for gathering fallen leaves and making soil smooth",
+        "examples": []
+      },
+      {
+        "definition": "a man, especially a rich and fashionable one, who was thought to have low moral standards, for example because he drank or gambled a lot or had sex with a lot of women",
+        "examples": []
+      },
+      {
+        "definition": "the amount by which something, especially the stage in a theatre, slopes",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "scythe",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/scy/scyth/scythe__gb_1.mp3",
+    "phonetic_text": "/saɪð/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/scy/scyth/scythe__us_1.mp3",
+    "phonetic_am_text": "/saɪð/",
+    "senses": [
+      {
+        "definition": "a tool with a long handle and a slightly curved blade (= sharp metal cutting edge), held in two hands and used for cutting long grass, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "prune",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pru/prune/prune__gb_1.mp3",
+    "phonetic_text": "/pruːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pru/prune/prune__us_1.mp3",
+    "phonetic_am_text": "/pruːn/",
+    "senses": [
+      {
+        "definition": "to cut off some of the branches from a tree, bush, etc. so that it will grow better and stronger",
+        "examples": [
+          {
+            "cf": "prune something",
+            "x": "When should you prune apple trees?"
+          },
+          {
+            "cf": "",
+            "x": "He pruned the longer branches off the tree."
+          },
+          {
+            "cf": "prune something back",
+            "x": "The hedge needs pruning back."
+          }
+        ]
+      },
+      {
+        "definition": "to make something smaller by removing parts; to cut out parts of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Staff numbers have been pruned back to 175."
+          },
+          {
+            "cf": "",
+            "x": "The railway companies have pruned their timetables (= there are fewer trains)."
+          },
+          {
+            "cf": "",
+            "x": "Prune out any unnecessary details."
+          },
+          {
+            "cf": "",
+            "x": "Their budgets have been drastically pruned."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pot",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pot/pot__/pot__gb_1.mp3",
+    "phonetic_text": "/pɒt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pot/pot__/pot__us_1.mp3",
+    "phonetic_am_text": "/pɑːt/",
+    "senses": [
+      {
+        "definition": "to put a plant into a flowerpot filled with soil",
+        "examples": []
+      },
+      {
+        "definition": "to hit a ball into one of the pockets (= holes at the corners and edges of the table)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He potted the black to take a 7–3 lead."
+          }
+        ]
+      },
+      {
+        "definition": "to kill an animal or a bird by shooting it",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "secateurs",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sec/secat/secateurs__gb_1.mp3",
+    "phonetic_text": "/ˌsekəˈtɜːz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sec/secat/secateurs__us_1.mp3",
+    "phonetic_am_text": "/ˌsekəˈtɜːrz/",
+    "senses": [
+      {
+        "definition": "a garden tool like a pair of strong scissors, used for cutting plant stems and small branches",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of secateurs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "seed",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/see/seed_/seed__gb_1.mp3",
+    "phonetic_text": "/siːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/see/seed_/seed__us_1.mp3",
+    "phonetic_am_text": "/siːd/",
+    "senses": [
+      {
+        "definition": "the small hard part produced by a plant, from which a new plant can grow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a packet of wild flower seeds"
+          },
+          {
+            "cf": "",
+            "x": "sesame seeds"
+          },
+          {
+            "cf": "",
+            "x": "Sow the seeds outdoors in spring."
+          },
+          {
+            "cf": "",
+            "x": "Plant the seeds 10cm apart."
+          },
+          {
+            "cf": "",
+            "x": "These vegetables can be grown from seed."
+          },
+          {
+            "cf": "",
+            "x": "seed potatoes (= used for planting)"
+          }
+        ]
+      },
+      {
+        "definition": "the small hard seed that is found in some types of fruit",
+        "examples": []
+      },
+      {
+        "definition": "the beginning of a feeling or development that continues to grow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the seeds of rebellion"
+          },
+          {
+            "cf": "",
+            "x": "This planted the seeds of doubt in my mind."
+          },
+          {
+            "cf": "",
+            "x": "He argued that capitalism contained the seeds of its own destruction."
+          }
+        ]
+      },
+      {
+        "definition": "one of the best players in a competition. The seeds are given a position in a list to try and make sure that they do not play each other in the early parts of the competition.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The top seed won comfortably."
+          },
+          {
+            "cf": "",
+            "x": "the number one seed"
+          },
+          {
+            "cf": "",
+            "x": "She was the top seed at the US Open this year."
+          }
+        ]
+      },
+      {
+        "definition": "semen",
+        "examples": []
+      },
+      {
+        "definition": "all the people who are the children, grandchildren, etc. of one man",
+        "examples": []
+      },
+      {
+        "definition": "to produce flowers and seeds as well as leaves",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The lettuces had all run to seed."
+          },
+          {
+            "cf": "",
+            "x": "Cutting weeds before they go to seed will greatly reduce future weed problems."
+          }
+        ]
+      },
+      {
+        "definition": "to become much less attractive or good because of lack of attention",
+        "examples": [
+          {
+            "cf": "",
+            "x": "After his divorce, he let himself go to seed."
+          }
+        ]
+      },
+      {
+        "definition": "to start the process that leads to a particular situation or result",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In this way he sowed the seeds of his own success."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "roof garden",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roo/roof_/roof_garden_1_gb_1.mp3",
+    "phonetic_text": "/ˈruːf ɡɑːdn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roo/roof_/roof_garden_1_us_1.mp3",
+    "phonetic_am_text": "/ˈruːf ɡɑːrdn/",
+    "senses": [
+      {
+        "definition": "a garden on the flat roof of a building",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The hotel has a charming roof garden."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rake",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rak/rake_/rake__gb_1.mp3",
+    "phonetic_text": "/reɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rak/rake_/rake__us_1.mp3",
+    "phonetic_am_text": "/reɪk/",
+    "senses": [
+      {
+        "definition": "to pull a rake over a surface in order to make it level or to remove something",
+        "examples": [
+          {
+            "cf": "rake (something) (+ adv./prep.)",
+            "x": "The leaves had been raked into a pile."
+          },
+          {
+            "cf": "",
+            "x": "She raked a comb through her hair."
+          },
+          {
+            "cf": "rake something + adj.",
+            "x": "First rake the soil smooth."
+          }
+        ]
+      },
+      {
+        "definition": "to point a camera, light, gun, etc. at somebody/something and move it slowly from one side to the other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They raked the streets with machine-gun fire."
+          },
+          {
+            "cf": "",
+            "x": "Searchlights raked the grounds."
+          }
+        ]
+      },
+      {
+        "definition": "to search a place carefully for something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She raked around in her bag for her keys."
+          }
+        ]
+      },
+      {
+        "definition": "to scratch the surface of something with a sharp object, especially your nails",
+        "examples": []
+      },
+      {
+        "definition": "to criticize somebody severely because they have done something wrong",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I was raked over the coals by my boss for being late."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shed",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/she/shed_/shed__gb_1.mp3",
+    "phonetic_text": "/ʃed/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/she/shed_/shed__us_1.mp3",
+    "phonetic_am_text": "/ʃed/",
+    "senses": [
+      {
+        "definition": "a small simple building, usually built of wood or metal, used for keeping things in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a bicycle shed"
+          },
+          {
+            "cf": "",
+            "x": "a garden shed"
+          },
+          {
+            "cf": "",
+            "x": "a tool shed"
+          }
+        ]
+      },
+      {
+        "definition": "a large industrial building, used for working in or keeping equipment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an engine shed"
+          }
+        ]
+      },
+      {
+        "definition": "a building with open sides where the wool is cut off sheep (= they are sheared) or where cows are milked",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "shrub",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/shr/shrub/shrub__gb_1.mp3",
+    "phonetic_text": "/ʃrʌb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/shr/shrub/shrub__us_1.mp3",
+    "phonetic_am_text": "/ʃrʌb/",
+    "senses": [
+      {
+        "definition": "a large plant that is smaller than a tree and that has several stems of wood coming from the ground",
+        "examples": [
+          {
+            "cf": "",
+            "x": "evergreen shrubs"
+          },
+          {
+            "cf": "",
+            "x": "shrub roses"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "post",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pos/post_/post__gb_1.mp3",
+    "phonetic_text": "/pəʊst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pos/post_/post__us_1.mp3",
+    "phonetic_am_text": "/pəʊst/",
+    "senses": [
+      {
+        "definition": "the official system used for sending and delivering letters, packages, etc.",
+        "examples": [
+          {
+            "cf": "by post",
+            "x": "I'll send the original to you by post."
+          },
+          {
+            "cf": "",
+            "x": "I sent it by first-class post."
+          },
+          {
+            "cf": "in the post",
+            "x": "I'll put the documents in the post to you tomorrow."
+          },
+          {
+            "cf": "",
+            "x": "My application got lost in the post."
+          }
+        ]
+      },
+      {
+        "definition": "letters, packages, etc. that are sent and delivered",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was a lot of post this morning."
+          },
+          {
+            "cf": "",
+            "x": "Have you opened your post yet?"
+          }
+        ]
+      },
+      {
+        "definition": "an occasion during the day when letters, etc. are collected or delivered",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to catch/miss the post"
+          },
+          {
+            "cf": "in the post",
+            "x": "The parcel came in this morning's post."
+          },
+          {
+            "cf": "",
+            "x": "The form should arrive in the post tomorrow."
+          },
+          {
+            "cf": "",
+            "x": "Payment should be sent by return of post (= immediately)."
+          },
+          {
+            "cf": "",
+            "x": "Do you get a second post here?"
+          }
+        ]
+      },
+      {
+        "definition": "a message sent to a discussion group on the internet; a piece of writing that forms part of a blog",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I love reading her posts because I learn so much."
+          },
+          {
+            "cf": "",
+            "x": "They have deleted all my posts."
+          },
+          {
+            "cf": "post about somebody/something",
+            "x": "She wrote a post about the experience on her blog."
+          },
+          {
+            "cf": "post by somebody",
+            "x": "This post by Mark Brady is very interesting."
+          },
+          {
+            "cf": "post from somebody",
+            "x": "The forum does not allow posts from non-members."
+          }
+        ]
+      },
+      {
+        "definition": "a job, especially an important one in a large organization",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an academic/a government post"
+          },
+          {
+            "cf": "",
+            "x": "She took up a teaching post at Basle University."
+          },
+          {
+            "cf": "",
+            "x": "to resign (from)/quit/leave a post"
+          },
+          {
+            "cf": "",
+            "x": "We will be creating 15 new posts next year."
+          },
+          {
+            "cf": "",
+            "x": "The company has been unable to fill the post."
+          },
+          {
+            "cf": "",
+            "x": "He has held the post for three years."
+          },
+          {
+            "cf": "",
+            "x": "She was offered a key post in the new government."
+          },
+          {
+            "cf": "post of something",
+            "x": "He accepted the post of deputy prime minister."
+          }
+        ]
+      },
+      {
+        "definition": "an act of sending somebody to a particular place to do their job, especially for a limited period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an overseas post"
+          },
+          {
+            "cf": "",
+            "x": "The island is rated by diplomats as a hardship post (= one that people do not like to be sent to because it is not a very comfortable place to live)."
+          }
+        ]
+      },
+      {
+        "definition": "the place where somebody, especially a soldier, does their job",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a police/military/customs post"
+          },
+          {
+            "cf": "",
+            "x": "an observation post"
+          },
+          {
+            "cf": "",
+            "x": "Three soldiers were shot dead at a border post."
+          },
+          {
+            "cf": "",
+            "x": "The guards were ordered not to leave their posts."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of wood or metal that is set in the ground in a position pointing upwards, especially to support something or to mark a point",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She tied the dog to a post."
+          },
+          {
+            "cf": "",
+            "x": "corner posts (= that mark the corners of a sports field)"
+          },
+          {
+            "cf": "",
+            "x": "The team’s ‘net’ was a piece of string tied to two posts."
+          }
+        ]
+      },
+      {
+        "definition": "the place where a race finishes, especially in horse racing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The first horse past the post wins the race."
+          },
+          {
+            "cf": "",
+            "x": "She led for most of the way before being pipped at the post (= beaten at the last moment)."
+          }
+        ]
+      },
+      {
+        "definition": "one of the two posts that form part of a goal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The ball hit the post and bounced in."
+          },
+          {
+            "cf": "",
+            "x": "He steered a shot between the goalkeeper and the near post."
+          }
+        ]
+      },
+      {
+        "definition": "to be forced to go from one person or situation to another without achieving anything",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Morale is very low. People have just had enough of being thrown from pillar to post."
+          }
+        ]
+      },
+      {
+        "definition": "very deaf (= unable to hear anything)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "shovel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sho/shove/shovel__gb_1.mp3",
+    "phonetic_text": "/ˈʃʌvl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sho/shove/shovel__us_1.mp3",
+    "phonetic_am_text": "/ˈʃʌvl/",
+    "senses": [
+      {
+        "definition": "a tool like a spade with a long handle and a broad metal part with curved edges, used for moving earth, snow, sand, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "workmen with picks and shovels"
+          },
+          {
+            "cf": "",
+            "x": "The children took their pails and shovels to the beach."
+          }
+        ]
+      },
+      {
+        "definition": "the part of a large machine or vehicle that digs or moves earth",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "shovel",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sho/shove/shovel__gb_1.mp3",
+    "phonetic_text": "/ˈʃʌvl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sho/shove/shovel__us_1.mp3",
+    "phonetic_am_text": "/ˈʃʌvl/",
+    "senses": [
+      {
+        "definition": "to lift and move earth, stones, coal, etc. with a shovel",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A gang of workmen were shovelling rubble onto a truck."
+          },
+          {
+            "cf": "",
+            "x": "They went out in freezing conditions to shovel snow."
+          },
+          {
+            "cf": "",
+            "x": "to shovel the sidewalk/driveway (= to remove snow)"
+          },
+          {
+            "cf": "",
+            "x": "He sat at the table, shovelling food into his mouth."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "seedbed",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/see/seedb/seedbed__gb_1.mp3",
+    "phonetic_text": "/ˈsiːdbed/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/see/seedb/seedbed__us_1.mp3",
+    "phonetic_am_text": "/ˈsiːdbed/",
+    "senses": [
+      {
+        "definition": "an area of soil which has been specially prepared for planting seeds in",
+        "examples": []
+      },
+      {
+        "definition": "a place or situation in which something can develop",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a seedbed for ideas"
+          },
+          {
+            "cf": "",
+            "x": "A secure environment is the seedbed of emotional growth."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spade",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/spade/spade__gb_1.mp3",
+    "phonetic_text": "/speɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/spade/spade__us_1.mp3",
+    "phonetic_am_text": "/speɪd/",
+    "senses": [
+      {
+        "definition": "a garden tool with a broad metal part and a long handle, used for digging",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Turn the soil over with a spade."
+          },
+          {
+            "cf": "",
+            "x": "The children took their buckets and spades to the beach."
+          }
+        ]
+      },
+      {
+        "definition": "one of the four suits (= sets) in a pack of cards. The cards have a black design with shapes like pointed leaves with short stems.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the five/queen/ace of spades"
+          }
+        ]
+      },
+      {
+        "definition": "one card from the suit called spades",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You must play a spade if you have one."
+          }
+        ]
+      },
+      {
+        "definition": "to say exactly what you think without trying to hide your opinion",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I believe in calling a spade a spade."
+          }
+        ]
+      },
+      {
+        "definition": "in large amounts or to a great degree",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He'd got his revenge now, and in spades."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shears",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/she/shear/shears__gb_1.mp3",
+    "phonetic_text": "/ʃɪəz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/she/shear/shears__us_1.mp3",
+    "phonetic_am_text": "/ʃɪrz/",
+    "senses": [
+      {
+        "definition": "a garden tool like a very large pair of scissors, used for cutting bushes and hedges",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of garden shears"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "snail",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sna/snail/snail__gb_1.mp3",
+    "phonetic_text": "/sneɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sna/snail/snail__us_1.mp3",
+    "phonetic_am_text": "/sneɪl/",
+    "senses": [
+      {
+        "definition": "a small, soft creature with a hard, round shell on its back, that moves very slowly and often eats garden plants. Some types of snail can be eaten.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the war with the slugs and snails in my garden"
+          }
+        ]
+      },
+      {
+        "definition": "very slowly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Traffic had slowed to a snail’s pace."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shrubbery",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/shr/shrub/shrubbery__gb_1.mp3",
+    "phonetic_text": "/ˈʃrʌbəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/shr/shrub/shrubbery__us_1.mp3",
+    "phonetic_am_text": "/ˈʃrʌbəri/",
+    "senses": [
+      {
+        "definition": "an area planted with shrubs",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "slug",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/slu/slug_/slug__gb_1.mp3",
+    "phonetic_text": "/slʌɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/slu/slug_/slug__us_1.mp3",
+    "phonetic_am_text": "/slʌɡ/",
+    "senses": [
+      {
+        "definition": "a small, soft creature, like a snail without a shell, that moves very slowly and often eats garden plants",
+        "examples": []
+      },
+      {
+        "definition": "a small amount of a strong alcoholic drink",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He took another slug of whisky."
+          }
+        ]
+      },
+      {
+        "definition": "a bullet",
+        "examples": []
+      },
+      {
+        "definition": "a piece of metal like a coin in shape used to get things from machines, etc., sometimes illegally",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sow",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sow/sow__/sow__gb_1.mp3",
+    "phonetic_text": "/səʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sow/sow__/sow__us_1.mp3",
+    "phonetic_am_text": "/səʊ/",
+    "senses": [
+      {
+        "definition": "to plant or spread seeds in or on the ground",
+        "examples": [
+          {
+            "cf": "sow (something)",
+            "x": "Sow the seeds in rows."
+          },
+          {
+            "cf": "",
+            "x": "Sow the seeds quite thinly."
+          },
+          {
+            "cf": "",
+            "x": "Water well after sowing."
+          },
+          {
+            "cf": "",
+            "x": "Sow rows of lettuces between other vegetables."
+          },
+          {
+            "cf": "sow something with something",
+            "x": "The fields around had been sown with wheat."
+          },
+          {
+            "cf": "",
+            "x": "We’ve sown that field with wheat."
+          }
+        ]
+      },
+      {
+        "definition": "to introduce or spread feelings or ideas, especially ones that cause trouble",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to sow doubt in somebody’s mind"
+          },
+          {
+            "cf": "",
+            "x": "to sow confusion"
+          }
+        ]
+      },
+      {
+        "definition": "to start the process that leads to a particular situation or result",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In this way he sowed the seeds of his own success."
+          }
+        ]
+      },
+      {
+        "definition": "to go through a period of wild behaviour while young, especially having a lot of romantic or sexual relationships",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He wants to leave home, sow his wild oats and learn about life."
+          }
+        ]
+      },
+      {
+        "definition": "you have to deal with the bad effects or results of something that you originally started",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Strimmer™",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/str/strim/strimmer__gb_1.mp3",
+    "phonetic_text": "/ˈstrɪmə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/strim/strimmer__us_1.mp3",
+    "phonetic_am_text": "/ˈstrɪmər/",
+    "senses": [
+      {
+        "definition": "an electric garden tool held in the hands and used for cutting grass that is difficult to cut with a larger machine",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sprinkler",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spr/sprin/sprinkler__gb_1.mp3",
+    "phonetic_text": "/ˈsprɪŋklə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spr/sprin/sprinkler__us_1.mp3",
+    "phonetic_am_text": "/ˈsprɪŋklər/",
+    "senses": [
+      {
+        "definition": "a device with holes in that is used to spray water in drops onto plants, soil or grass",
+        "examples": []
+      },
+      {
+        "definition": "a device inside a building that sprays out water if it detects a rise in temperature because of a fire",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "summer house",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sum/summe/summer_house_1_gb_1.mp3",
+    "phonetic_text": "/ˈsʌmə haʊs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sum/summe/summer_house_1_us_1.mp3",
+    "phonetic_am_text": "/ˈsʌmər haʊs/",
+    "senses": [
+      {
+        "definition": "a small building in a garden for sitting in in good weather",
+        "examples": []
+      },
+      {
+        "definition": "a house that somebody lives in only during the summer",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "soil",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/soi/soil_/soil__gb_1.mp3",
+    "phonetic_text": "/sɔɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/soi/soil_/soil__us_1.mp3",
+    "phonetic_am_text": "/sɔɪl/",
+    "senses": [
+      {
+        "definition": "the top layer of the earth in which plants, trees, etc. grow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "instruments for measuring soil moisture"
+          },
+          {
+            "cf": "",
+            "x": "soil erosion"
+          },
+          {
+            "cf": "",
+            "x": "the study of rocks and soils"
+          },
+          {
+            "cf": "",
+            "x": "sandy/fertile soil"
+          },
+          {
+            "cf": "",
+            "x": "rich/poor/dry/wet soil"
+          },
+          {
+            "cf": "",
+            "x": "acid/alkaline soil"
+          },
+          {
+            "cf": "",
+            "x": "clay soil"
+          },
+          {
+            "cf": "",
+            "x": "moisture in the soil"
+          },
+          {
+            "cf": "",
+            "x": "She dug the compost into the soil."
+          }
+        ]
+      },
+      {
+        "definition": "a country; an area of land",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It was the first time I had set foot on African soil."
+          },
+          {
+            "cf": "",
+            "x": "protests over the siting of nuclear weapons on British soil"
+          },
+          {
+            "cf": "",
+            "x": "He was the first Canadian to win on home/native soil (= in Canada)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sundial",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sundi/sundial__gb_1.mp3",
+    "phonetic_text": "/ˈsʌndaɪəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sundi/sundial__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈsʌndaɪəl/",
+    "senses": [
+      {
+        "definition": "a device used outdoors, especially in the past, for telling the time when the sun is shining. A pointed piece of metal throws a shadow on a flat surface that is marked with the hours like a clock, and the shadow moves around as the sun moves across the sky.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sunshade",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sunsh/sunshade__gb_1.mp3",
+    "phonetic_text": "/ˈsʌnʃeɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sunsh/sunshade__us_1.mp3",
+    "phonetic_am_text": "/ˈsʌnʃeɪd/",
+    "senses": [
+      {
+        "definition": "a light umbrella or other object such as an awning, that is used to protect people from hot sun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a child’s buggy fitted with a sunshade"
+          }
+        ]
+      },
+      {
+        "definition": "a pair of dark glasses that you wear to protect your eyes from bright light from the sun, especially ones that fix on to your ordinary glasses",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sunlounger",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sun/sunlo/sunlounger__gb_1.mp3",
+    "phonetic_text": "/ˈsʌnlaʊndʒə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sunlo/sunlounger__us_1.mp3",
+    "phonetic_am_text": "/ˈsʌnlaʊndʒər/",
+    "senses": [
+      {
+        "definition": "a chair with a long seat that supports your legs, used for sitting or lying on in the sun",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "swimming pool",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/swi/swimm/swimming_pool_1_gb_2.mp3",
+    "phonetic_text": "/ˈswɪmɪŋ puːl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/swi/swimm/swimming_pool_1_us_1.mp3",
+    "phonetic_am_text": "/ˈswɪmɪŋ puːl/",
+    "senses": [
+      {
+        "definition": "an area of water that has been created for people to swim in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an indoor/outdoor swimming pool"
+          },
+          {
+            "cf": "",
+            "x": "a heated swimming pool"
+          },
+          {
+            "cf": "",
+            "x": "an open-air swimming pool"
+          }
+        ]
+      },
+      {
+        "definition": "the building that contains a public swimming pool",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She trained five times a week at her local swimming pool."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "trim",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tri/trim_/trim__gb_1.mp3",
+    "phonetic_text": "/trɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trim_/trim__us_1.mp3",
+    "phonetic_am_text": "/trɪm/",
+    "senses": [
+      {
+        "definition": "to make something neater, smaller, better, etc., by cutting parts from it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to trim your hair"
+          },
+          {
+            "cf": "",
+            "x": "to trim a hedge (back)"
+          },
+          {
+            "cf": "",
+            "x": "The training budget had been trimmed by £10 000."
+          },
+          {
+            "cf": "",
+            "x": "a neatly-trimmed beard"
+          }
+        ]
+      },
+      {
+        "definition": "to cut away unnecessary parts from something",
+        "examples": [
+          {
+            "cf": "trim something (off something)",
+            "x": "Trim any excess fat off the meat."
+          },
+          {
+            "cf": "",
+            "x": "I trimmed two centimetres off the hem of the skirt."
+          },
+          {
+            "cf": "trim something away/off",
+            "x": "Trim away the lower leaves."
+          }
+        ]
+      },
+      {
+        "definition": "to decorate something, especially around its edges",
+        "examples": [
+          {
+            "cf": "",
+            "x": "gloves trimmed with fur"
+          }
+        ]
+      },
+      {
+        "definition": "to arrange the sails of a boat to suit the wind so that the boat moves faster",
+        "examples": []
+      },
+      {
+        "definition": "to reduce your costs",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "tub",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tub/tub__/tub__gb_1.mp3",
+    "phonetic_text": "/tʌb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tub/tub__/tub__us_1.mp3",
+    "phonetic_am_text": "/tʌb/",
+    "senses": [
+      {
+        "definition": "a large round container without a lid (= cover), used for washing clothes in, growing plants in, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There were tubs of flowers on the balcony."
+          }
+        ]
+      },
+      {
+        "definition": "a small, wide plastic or paper container with a lid (= cover), used for food, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a tub of margarine"
+          },
+          {
+            "cf": "",
+            "x": "an empty margarine tub"
+          }
+        ]
+      },
+      {
+        "definition": "a bathtub (= a large, long container that you put water in and then get into to wash your whole body)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They found her lying in the tub."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "trellis",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tre/trell/trellis__gb_1.mp3",
+    "phonetic_text": "/ˈtrelɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/trell/trellis__us_1.mp3",
+    "phonetic_am_text": "/ˈtrelɪs/",
+    "senses": [
+      {
+        "definition": "a light frame made of long, narrow pieces of wood that cross each other, used to support climbing plants",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "trowel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tro/trowe/trowel__gb_1.mp3",
+    "phonetic_text": "/ˈtraʊəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tro/trowe/trowel__us_1.mp3",
+    "phonetic_am_text": "/ˈtraʊəl/",
+    "senses": [
+      {
+        "definition": "a small garden tool with a curved metal part for lifting plants and digging holes",
+        "examples": []
+      },
+      {
+        "definition": "a small tool with a flat metal part, used in building for spreading cement or plaster",
+        "examples": []
+      },
+      {
+        "definition": "to talk about somebody/something in a way that makes them or it seem much better or much worse than they really are; to exaggerate something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was laying the flattery on with a trowel."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "transplant",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trans/transplant__gb_1.mp3",
+    "phonetic_text": "/trænsˈplɑːnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transplant__us_1.mp3",
+    "phonetic_am_text": "/trænsˈplænt/",
+    "senses": [
+      {
+        "definition": "to take an organ, skin, etc. from one person, animal, part of the body, etc. and put it into or onto another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Surgeons have successfully transplanted a liver into a four-year-old boy."
+          },
+          {
+            "cf": "",
+            "x": "Patients often reject transplanted organs."
+          },
+          {
+            "cf": "",
+            "x": "Organs are transplanted from donors into patients who need them."
+          }
+        ]
+      },
+      {
+        "definition": "to move a growing plant and plant it somewhere else",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Dutch successfully transplanted trees to the East Indies."
+          }
+        ]
+      },
+      {
+        "definition": "to move somebody/something to a different place or environment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Japanese production methods have been transplanted into some British factories."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tree house",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tre/tree_/tree_house_1_gb_1.mp3",
+    "phonetic_text": "/ˈtriː haʊs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/tree_/tree_house_1_us_1.mp3",
+    "phonetic_am_text": "/ˈtriː haʊs/",
+    "senses": [
+      {
+        "definition": "a structure built in the branches of a tree, usually for children to play on",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "swing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/swi/swing/swing__gb_3.mp3",
+    "phonetic_text": "/swɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/swi/swing/swing__us_1.mp3",
+    "phonetic_am_text": "/swɪŋ/",
+    "senses": [
+      {
+        "definition": "a swinging movement or rhythm",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He took a wild swing at the ball."
+          },
+          {
+            "cf": "",
+            "x": "the swing of her hips"
+          }
+        ]
+      },
+      {
+        "definition": "a change from one opinion or situation to another; the amount by which something changes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Voting showed a 10 per cent swing to Labour."
+          },
+          {
+            "cf": "",
+            "x": "There are indications of a swing towards nuclear power."
+          }
+        ]
+      },
+      {
+        "definition": "a seat for swinging on, hung from above on ropes or chains",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The kids were playing on the swings."
+          },
+          {
+            "cf": "",
+            "x": "Her dad pushed her on the swing."
+          }
+        ]
+      },
+      {
+        "definition": "the swinging movement you make with your arms and body when you hit the ball in the game of golf",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I need to work on my swing."
+          }
+        ]
+      },
+      {
+        "definition": "a type of jazz with a smooth rhythm, played especially by big dance bands in the 1930s",
+        "examples": []
+      },
+      {
+        "definition": "a quick journey, especially one made by a politician, in which somebody visits several different places in a short time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a three-day campaign swing through California"
+          }
+        ]
+      },
+      {
+        "definition": "to get used to an activity or a situation and become fully involved in it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’ve only been here a week so I haven’t got into the swing of things yet."
+          }
+        ]
+      },
+      {
+        "definition": "to be lively and fun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She made the whole party go with a swing."
+          }
+        ]
+      },
+      {
+        "definition": "to have a strong rhythm",
+        "examples": []
+      },
+      {
+        "definition": "having reached a very lively level",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When we arrived the party was already in full swing."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that there are advantages and disadvantages whatever decision you make",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If you earn more, you pay more in tax, so it's all swings and roundabouts."
+          },
+          {
+            "cf": "",
+            "x": "What you gain on the swings you may lose on the roundabouts."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "terrace",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/ter/terra/terrace__gb_1.mp3",
+    "phonetic_text": "/ˈterəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/terra/terrace__us_1.mp3",
+    "phonetic_am_text": "/ˈterəs/",
+    "senses": [
+      {
+        "definition": "a continuous row of similar houses that are joined together in one block",
+        "examples": [
+          {
+            "cf": "",
+            "x": "12 Albert Terrace"
+          }
+        ]
+      },
+      {
+        "definition": "a flat, hard area, especially outside a house or restaurant, where you can sit, eat and enjoy the sun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Close to the villa is a big pool with a sun terrace around it."
+          },
+          {
+            "cf": "",
+            "x": "The view from the roof terrace is spectacular."
+          },
+          {
+            "cf": "",
+            "x": "All rooms have a balcony or terrace."
+          }
+        ]
+      },
+      {
+        "definition": "the wide steps where people can stand to watch the game",
+        "examples": []
+      },
+      {
+        "definition": "one of a series of flat areas of ground that are cut into the side of a hill like steps so that crops can be grown there",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The villagers had dug terraces in the hillside."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "watering can",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wat/water/watering_can_1_gb_1.mp3",
+    "phonetic_text": "/ˈwɔːtərɪŋ kæn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/watering_can_1_us_2.mp3",
+    "phonetic_am_text": "/ˈwɔːtərɪŋ kæn/",
+    "senses": [
+      {
+        "definition": "a metal or plastic container with a handle and a long spout, used for pouring water on plants",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "washing line",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/was/washi/washing_line_1_gb_1.mp3",
+    "phonetic_text": "/ˈwɒʃɪŋ laɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/was/washi/washing_line_1_us_1.mp3",
+    "phonetic_am_text": "/ˈwɑːʃɪŋ laɪn/",
+    "senses": [
+      {
+        "definition": "a piece of thin rope or wire, attached to posts, that you hang clothes on to dry outside after you have washed them",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "weed",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wee/weed_/weed__gb_1.mp3",
+    "phonetic_text": "/wiːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wee/weed_/weed__us_1.mp3",
+    "phonetic_am_text": "/wiːd/",
+    "senses": [
+      {
+        "definition": "a wild plant growing where it is not wanted, especially among crops or garden plants",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The yard was overgrown with weeds."
+          },
+          {
+            "cf": "",
+            "x": "Routine maintenance of the garden consists of keeping weeds under control."
+          },
+          {
+            "cf": "",
+            "x": "There were weeds pushing up through the gravel."
+          }
+        ]
+      },
+      {
+        "definition": "any wild plant without flowers that grows in water and forms a green floating mass",
+        "examples": []
+      },
+      {
+        "definition": "tobacco or cigarettes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I wish I could give up the weed (= stop smoking)."
+          }
+        ]
+      },
+      {
+        "definition": "the drug cannabis",
+        "examples": []
+      },
+      {
+        "definition": "a person with a weak character or body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Don’t be such a weed!"
+          }
+        ]
+      },
+      {
+        "definition": "with more problems, work or commitments than you can manage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The bartender was alone and in the weeds, so we had to wait twenty minutes to order."
+          }
+        ]
+      },
+      {
+        "definition": "too concerned with the details of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don't want to get too deep in the weeds here, but here's the short version:…"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "water feature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wat/water/water_feature_1_gb_1.mp3",
+    "phonetic_text": "/ˈwɔːtə fiːtʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/water_feature_1_us_2.mp3",
+    "phonetic_am_text": "/ˈwɔːtər fiːtʃər/",
+    "senses": [
+      {
+        "definition": "an artificial area of water, or structure with water flowing through it, which is intended to make a garden more attractive and interesting",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "water",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wat/water/water__gb_1.mp3",
+    "phonetic_text": "/ˈwɔːtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/water__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈwɔːtər/",
+    "senses": [
+      {
+        "definition": "to pour water on plants, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to water the plants/garden"
+          }
+        ]
+      },
+      {
+        "definition": "to become full of tears",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The smoke made my eyes water."
+          }
+        ]
+      },
+      {
+        "definition": "to produce saliva",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The smells from the kitchen made our mouths water."
+          },
+          {
+            "cf": "",
+            "x": "The smell of the meat made her mouth water."
+          }
+        ]
+      },
+      {
+        "definition": "to give water to an animal to drink",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to water the horses"
+          },
+          {
+            "cf": "",
+            "x": "After a tour of the grounds, the guests were fed and watered."
+          }
+        ]
+      },
+      {
+        "definition": "to provide an area of land with water",
+        "examples": [
+          {
+            "cf": "be watered by something",
+            "x": "The valley is watered by a stream."
+          }
+        ]
+      },
+      {
+        "definition": "to add water to an alcoholic drink",
+        "examples": [
+          {
+            "cf": "",
+            "x": "watered wine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "windbreak",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/windb/windbreak__gb_1.mp3",
+    "phonetic_text": "/ˈwɪndbreɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/windb/windbreak__us_1.mp3",
+    "phonetic_am_text": "/ˈwɪndbreɪk/",
+    "senses": [
+      {
+        "definition": "a row of trees, a fence, etc. that provides protection from the wind",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "window box",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/win/windo/window_box_1_gb_1.mp3",
+    "phonetic_text": "/ˈwɪndəʊ bɒks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/windo/window_box_1_us_1.mp3",
+    "phonetic_am_text": "/ˈwɪndəʊ bɑːks/",
+    "senses": [
+      {
+        "definition": "a long, narrow box outside a window, in which plants are grown",
+        "examples": [
+          {
+            "cf": "",
+            "x": "floral displays such as window boxes and hanging baskets"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "weed",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wee/weed_/weed__gb_1.mp3",
+    "phonetic_text": "/wiːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wee/weed_/weed__us_1.mp3",
+    "phonetic_am_text": "/wiːd/",
+    "senses": [
+      {
+        "definition": "to take out weeds from the ground",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've been weeding the flower beds."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wheelbarrow",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/wheel/wheelbarrow__gb_1.mp3",
+    "phonetic_text": "/ˈwiːlbærəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/whe/wheel/wheelbarrow__us_1.mp3",
+    "phonetic_am_text": "/ˈwiːlbærəʊ/",
+    "senses": [
+      {
+        "definition": "a large open container with a wheel and two handles that you use outside to carry things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She took the chest home in a wheelbarrow."
+          },
+          {
+            "cf": "",
+            "x": "We loaded the wheelbarrows with sand."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "water butt",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wat/water/water_butt_1_gb_1.mp3",
+    "phonetic_text": "/ˈwɔːtə bʌt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/water_butt_1_us_2.mp3",
+    "phonetic_am_text": "/ˈwɔːtər bʌt/",
+    "senses": [
+      {
+        "definition": "a large barrel for collecting rain as it flows off a roof",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "yard",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yar/yard_/yard__gb_1.mp3",
+    "phonetic_text": "/jɑːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yar/yard_/yard__us_1.mp3",
+    "phonetic_am_text": "/jɑːrd/",
+    "senses": [
+      {
+        "definition": "a piece of land next to or around your house where you can grow flowers, fruit, vegetables, etc., usually with a lawn (= an area of grass)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They have a gorgeous old oak tree in their front yard."
+          },
+          {
+            "cf": "",
+            "x": "My next-door neighbor was watering her yard."
+          }
+        ]
+      },
+      {
+        "definition": "an area outside a building, usually with a hard surface and a surrounding wall",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The prisoners were made to line up in the prison yard."
+          },
+          {
+            "cf": "",
+            "x": "The children were playing in the yard at the front of the school."
+          }
+        ]
+      },
+      {
+        "definition": "an area of land used for a special purpose or business",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a boat yard"
+          }
+        ]
+      },
+      {
+        "definition": "a unit for measuring length, equal to 3 feet (36 inches) or 0.9144 of a metre",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They still live within yards of each other."
+          },
+          {
+            "cf": "",
+            "x": "a beautiful white dress with yards and yards of fabric"
+          },
+          {
+            "cf": "",
+            "x": "The accident happened less than 50 yards from his home."
+          }
+        ]
+      },
+      {
+        "definition": "a long piece of wood fastened to a mast that supports a sail on a boat or ship",
+        "examples": []
+      },
+      {
+        "definition": "used to say that if you allow some people a small amount of freedom or power they will see you as weak and try to take a lot more",
+        "examples": []
+      },
+      {
+        "definition": "everything, or a situation which includes everything",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When Dan cooks dinner he always goes the whole nine yards, with three courses and a choice of dessert."
+          }
+        ]
+      }
+    ]
+  }
+]

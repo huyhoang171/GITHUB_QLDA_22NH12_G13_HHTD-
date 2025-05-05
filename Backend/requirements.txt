@@ -1,0 +1,8 @@
+flask
+torch
+tqdm
+numpy
+numba
+more-itertools
+tiktoken
+git+https://github.com/openai/whisper.git

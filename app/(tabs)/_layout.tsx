@@ -1,43 +1,87 @@
 import { Tabs } from 'expo-router';
-import React from 'react';
-import { Platform } from 'react-native';
-
-import { HapticTab } from '@/components/HapticTab';
-import { IconSymbol } from '@/components/ui/IconSymbol';
-import TabBarBackground from '@/components/ui/TabBarBackground';
-import { Colors } from '@/constants/Colors';
-import { useColorScheme } from '@/hooks/useColorScheme';
+import { Ionicons } from '@expo/vector-icons';
+import { useEffect } from 'react';
+import { useRouter } from 'expo-router';
+import { BackHandler, TouchableOpacity } from 'react-native';
 
 export default function TabLayout() {
-  const colorScheme = useColorScheme();
+  const router = useRouter();
 
+  // Định nghĩa hàm goBack để xử lý cả nút back trên header
+  const goBack = () => {
+    if (router.canGoBack()) {
+      router.back();
+      return true;
+    }
+    return false;
+  };
+
+  // Xử lý nút back vật lý
+  useEffect(() => {
+    const backHandler = BackHandler.addEventListener('hardwareBackPress', goBack);
+    return () => backHandler.remove();
+  }, []);
+  
   return (
     <Tabs
       screenOptions={{
-        tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
-        headerShown: false,
-        tabBarButton: HapticTab,
-        tabBarBackground: TabBarBackground,
-        tabBarStyle: Platform.select({
-          ios: {
-            // Use a transparent background on iOS to show the blur effect
-            position: 'absolute',
-          },
-          default: {},
-        }),
-      }}>
+        headerShown: true, // Thay đổi thành true để hiển thị header và nút back
+        tabBarActiveTintColor: '#000000',
+        tabBarInactiveTintColor: '#777777',
+        tabBarStyle: {
+          backgroundColor: '#FFFFFF',
+        },
+        headerLeft: () => (
+          <TouchableOpacity onPress={goBack} style={{ marginLeft: 15 }}>
+            <Ionicons name="arrow-back" size={24} color="#000000" />
+          </TouchableOpacity>
+        ),
+      }}
+    >
       <Tabs.Screen
         name="index"
         options={{
           title: 'Home',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="house.fill" color={color} />,
+          headerShown: false, // Trang chính không cần nút back
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="home" size={size} color={color} />
+          ),
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="vocabulary"
         options={{
-          title: 'Explore',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="paperplane.fill" color={color} />,
+          title: 'Vocabulary',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="book" size={size} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="grammar"
+        options={{
+          title: 'Grammar',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="document-text" size={size} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="quizzes"
+        options={{
+          title: 'Quizzes',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="help-circle" size={size} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="speaking"
+        options={{
+          title: 'Speaking',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="mic" size={size} color={color} />
+          ),
         }}
       />
     </Tabs>

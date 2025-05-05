@@ -1,0 +1,5575 @@
+[
+  {
+    "word": "angler",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ang/angle/angler__gb_1.mp3",
+    "phonetic_text": "/ˈæŋɡlə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ang/angle/angler__us_1.mp3",
+    "phonetic_am_text": "/ˈæŋɡlər/",
+    "senses": [
+      {
+        "definition": "a person who catches fish (= goes angling) as a hobby",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "amateur dramatics",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ama/amate/amateur_dramatics_1_gb_1.mp3",
+    "phonetic_text": "/ˌæmətə drəˈmætɪks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ama/amate/amateur_dramatics_1_us_1.mp3",
+    "phonetic_am_text": "/ˌæmətər drəˈmætɪks/",
+    "senses": [
+      {
+        "definition": "the activity of producing and acting in plays for the theatre, by people who do it for pleasure, not as a job",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "activity",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activity__gb_5.mp3",
+    "phonetic_text": "/ækˈtɪvəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activity__us_4.mp3",
+    "phonetic_am_text": "/ækˈtɪvəti/",
+    "senses": [
+      {
+        "definition": "a thing that you do for interest or pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "leisure/outdoor/recreational activities"
+          },
+          {
+            "cf": "",
+            "x": "The club provides a wide variety of activities including tennis, swimming and squash."
+          }
+        ]
+      },
+      {
+        "definition": "a thing that somebody does in order to achieve a particular aim",
+        "examples": [
+          {
+            "cf": "",
+            "x": "criminal/terrorist/illegal activities"
+          },
+          {
+            "cf": "",
+            "x": "The book contains plenty of ideas for classroom activities."
+          },
+          {
+            "cf": "",
+            "x": "He has decided to focus his time and resources on his business activities."
+          },
+          {
+            "cf": "",
+            "x": "We met to review progress and to coordinate our activities."
+          }
+        ]
+      },
+      {
+        "definition": "a situation in which something is happening or a lot of things are being done",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Economic activity has taken a downturn this year."
+          },
+          {
+            "cf": "",
+            "x": "The streets were noisy and full of activity."
+          },
+          {
+            "cf": "",
+            "x": "Muscles contract and relax during physical activity."
+          },
+          {
+            "cf": "",
+            "x": "There was no criminal activity involved."
+          },
+          {
+            "cf": "",
+            "x": "The machines can monitor brain activity."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "birder",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bir/birde/birder__gb_1.mp3",
+    "phonetic_text": "/ˈbɜːdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/birde/birder__us_2.mp3",
+    "phonetic_am_text": "/ˈbɜːrdər/",
+    "senses": [
+      {
+        "definition": "a birdwatcher (= a person who watches birds in their natural environment and identifies different species as a hobby)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The data was collected by thousands of birders."
+          },
+          {
+            "cf": "",
+            "x": "The island is a popular spot for birders."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "art",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/art/art__/art__gb_3.mp3",
+    "phonetic_text": "/ɑːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/art__/art__us_1.mp3",
+    "phonetic_am_text": "/ɑːrt/",
+    "senses": [
+      {
+        "definition": "the use of the imagination to express ideas or feelings, particularly in painting, drawing or sculpture",
+        "examples": [
+          {
+            "cf": "",
+            "x": "modern/contemporary art"
+          },
+          {
+            "cf": "",
+            "x": "an art critic/historian/lover"
+          },
+          {
+            "cf": "",
+            "x": "Can we call television art?"
+          },
+          {
+            "cf": "",
+            "x": "stolen works of art"
+          },
+          {
+            "cf": "",
+            "x": "Her performance displayed great art."
+          },
+          {
+            "cf": "",
+            "x": "American art"
+          },
+          {
+            "cf": "",
+            "x": "It's a very beautiful piece of art."
+          }
+        ]
+      },
+      {
+        "definition": "examples of objects such as paintings, drawings or sculptures",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an art gallery/exhibition"
+          },
+          {
+            "cf": "",
+            "x": "a collection of art and antiques"
+          }
+        ]
+      },
+      {
+        "definition": "the skill of creating objects such as paintings and drawings, especially when you study it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's good at art and design."
+          },
+          {
+            "cf": "",
+            "x": "He has a master's degree in fine art."
+          },
+          {
+            "cf": "",
+            "x": "an art teacher/student/college/class"
+          }
+        ]
+      },
+      {
+        "definition": "art, music, theatre, literature, etc. when you think of them as a group",
+        "examples": [
+          {
+            "cf": "",
+            "x": "lottery funding for the arts"
+          },
+          {
+            "cf": "",
+            "x": "What is the relationship between the visual arts and music?"
+          }
+        ]
+      },
+      {
+        "definition": "a type of visual or performing art",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an exhibition of Peruvian arts and crafts"
+          },
+          {
+            "cf": "",
+            "x": "Dance is a very theatrical art."
+          }
+        ]
+      },
+      {
+        "definition": "the subjects you can study at school or university that are not sciences, such as languages, history or literature",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an arts degree"
+          }
+        ]
+      },
+      {
+        "definition": "an ability or a skill that you can develop with training and practice",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a therapist trained in the art of healing"
+          },
+          {
+            "cf": "",
+            "x": "I've never mastered the art of making bread."
+          },
+          {
+            "cf": "",
+            "x": "Letter-writing is a lost art nowadays."
+          },
+          {
+            "cf": "",
+            "x": "Appearing confident at interviews is quite an art (= rather difficult)."
+          }
+        ]
+      },
+      {
+        "definition": "to learn to do something well and efficiently",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I spend so much time travelling that I've got packing down to a fine art."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "basketwork",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/baske/basketwork__gb_2.mp3",
+    "phonetic_text": "/ˈbɑːskɪtwɜːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/baske/basketwork__us_1.mp3",
+    "phonetic_am_text": "/ˈbæskɪtwɜːrk/",
+    "senses": [
+      {
+        "definition": "material twisted together in the style of a basket",
+        "examples": []
+      },
+      {
+        "definition": "the skill of using your hands to make baskets, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "ballroom dancing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bal/ballr/ballroom_dancing_1_gb_1.mp3",
+    "phonetic_text": "/ˌbɔːlruːm ˈdɑːnsɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bal/ballr/ballroom_dancing_1_us_1.mp3",
+    "phonetic_am_text": "/ˌbɔːlruːm ˈdænsɪŋ/",
+    "senses": [
+      {
+        "definition": "a type of dancing done with a partner and using particular fixed steps and movements to particular types of music such as the waltz",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "birding",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bir/birdi/birding__gb_3.mp3",
+    "phonetic_text": "/ˈbɜːdɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/birdi/birding__us_1.mp3",
+    "phonetic_am_text": "/ˈbɜːrdɪŋ/",
+    "senses": [
+      {
+        "definition": "birdwatching (= the hobby or activity of watching birds in their natural environment and identifying different species)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "birding vacations in the National Park"
+          },
+          {
+            "cf": "",
+            "x": "a week’s birding"
+          },
+          {
+            "cf": "",
+            "x": "the top birding spots on the island"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "astrology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ast/astro/astrology__gb_1.mp3",
+    "phonetic_text": "/əˈstrɒlədʒi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ast/astro/astrology__us_1.mp3",
+    "phonetic_am_text": "/əˈstrɑːlədʒi/",
+    "senses": [
+      {
+        "definition": "the study of the positions of the stars and the movements of the planets in the belief that they influence human affairs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I read the horoscopes for fun but I don’t really believe in astrology."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "angling",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ang/angli/angling__gb_1.mp3",
+    "phonetic_text": "/ˈæŋɡlɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ang/angli/angling__us_1.mp3",
+    "phonetic_am_text": "/ˈæŋɡlɪŋ/",
+    "senses": [
+      {
+        "definition": "the art or sport of catching fish with a fishing rod",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "basketry",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bas/baske/basketry__gb_1.mp3",
+    "phonetic_text": "/ˈbɑːskɪtri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bas/baske/basketry__us_2.mp3",
+    "phonetic_am_text": "/ˈbæskɪtri/",
+    "senses": [
+      {
+        "definition": "material twisted together in the style of a basket",
+        "examples": []
+      },
+      {
+        "definition": "the skill of using your hands to make baskets, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "bonsai",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bon/bonsa/bonsai__gb_4.mp3",
+    "phonetic_text": "/ˈbɒnsaɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bon/bonsa/bonsai__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈbɑːnsaɪ/",
+    "senses": [
+      {
+        "definition": "a small tree that is grown in a pot and prevented from reaching its normal size",
+        "examples": []
+      },
+      {
+        "definition": "the Japanese art of growing bonsai",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "bricolage",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bri/brico/bricolage__gb_1.mp3",
+    "phonetic_text": "/ˌbrɪkəˈlɑːʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bri/brico/bricolage__us_3.mp3",
+    "phonetic_am_text": "/ˌbriːkəʊˈlɑːʒ/",
+    "senses": [
+      {
+        "definition": "the process of creating art using a variety of different objects",
+        "examples": []
+      },
+      {
+        "definition": "a piece of art that has been made in this way",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "birdwatching",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bir/birdw/birdwatching__gb_1.mp3",
+    "phonetic_text": "/ˈbɜːdwɒtʃɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/birdw/birdwatching__us_1.mp3",
+    "phonetic_am_text": "/ˈbɜːrdwɑːtʃɪŋ/",
+    "senses": [
+      {
+        "definition": "the hobby or activity of watching birds in their natural environment and identifying different species",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "birdwatcher",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bir/birdw/birdwatcher__gb_1.mp3",
+    "phonetic_text": "/ˈbɜːdwɒtʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/birdw/birdwatcher__us_1.mp3",
+    "phonetic_am_text": "/ˈbɜːrdwɑːtʃər/",
+    "senses": [
+      {
+        "definition": "a person who watches birds in their natural environment and identifies different species as a hobby",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "clubbing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/clu/clubb/clubbing__gb_1.mp3",
+    "phonetic_text": "/ˈklʌbɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clu/clubb/clubbing__us_1.mp3",
+    "phonetic_am_text": "/ˈklʌbɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of going to nightclubs regularly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They go clubbing most weekends."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cartography",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/car/carto/cartography__gb_1.mp3",
+    "phonetic_text": "/kɑːˈtɒɡrəfi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/carto/cartography__us_1.mp3",
+    "phonetic_am_text": "/kɑːrˈtɑːɡrəfi/",
+    "senses": [
+      {
+        "definition": "the art or process of drawing or making maps",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "calligraphy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cal/calli/calligraphy__gb_1.mp3",
+    "phonetic_text": "/kəˈlɪɡrəfi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cal/calli/calligraphy__us_1.mp3",
+    "phonetic_am_text": "/kəˈlɪɡrəfi/",
+    "senses": [
+      {
+        "definition": "beautiful handwriting that you do with a special pen or brush; the art of producing this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a poem written in neat italic calligraphy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "collage",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/col/colla/collage__gb_1.mp3",
+    "phonetic_text": "/ˈkɒlɑːʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/col/colla/collage__us_1.mp3",
+    "phonetic_am_text": "/kəˈlɑːʒ/",
+    "senses": [
+      {
+        "definition": "a picture made by sticking pieces of coloured paper, cloth or photographs onto a surface, or by putting images together on a computer",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She makes collages from everyday objects that she finds."
+          },
+          {
+            "cf": "",
+            "x": "a photo collage"
+          }
+        ]
+      },
+      {
+        "definition": "the art of making collages",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He began to experiment with collage techniques."
+          }
+        ]
+      },
+      {
+        "definition": "a collection of things, which may be similar or different",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an interesting collage of 1960s songs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ceramic",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cer/ceram/ceramic__gb_1.mp3",
+    "phonetic_text": "/səˈræmɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cer/ceram/ceramic__us_1.mp3",
+    "phonetic_am_text": "/səˈræmɪk/",
+    "senses": [
+      {
+        "definition": "a pot or other object made of clay that has been made permanently hard by heat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an exhibition of ceramics by Picasso"
+          }
+        ]
+      },
+      {
+        "definition": "the art of making and decorating ceramics",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "bullfight",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bul/bullf/bullfight__gb_2.mp3",
+    "phonetic_text": "/ˈbʊlfaɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bul/bullf/bullfight__us_1.mp3",
+    "phonetic_am_text": "/ˈbʊlfaɪt/",
+    "senses": [
+      {
+        "definition": "a traditional public entertainment, popular especially in Spain, in which bulls are fought and usually killed",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "brass rubbing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/bra/brass/brass_rubbing_1_gb_1.mp3",
+    "phonetic_text": "/ˈbrɑːs rʌbɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bra/brass/brass_rubbing_1_us_1.mp3",
+    "phonetic_am_text": "/ˈbræs rʌbɪŋ/",
+    "senses": [
+      {
+        "definition": "the art of rubbing a soft pencil or chalk on a piece of paper placed over a brass in a church; the pattern you get by doing this",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "collector",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/col/colle/collector__gb_1.mp3",
+    "phonetic_text": "/kəˈlektə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/col/colle/collector__us_1.mp3",
+    "phonetic_am_text": "/kəˈlektər/",
+    "senses": [
+      {
+        "definition": "a person who collects things, either as a hobby or as a job",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a stamp collector"
+          },
+          {
+            "cf": "",
+            "x": "ticket/tax collectors"
+          },
+          {
+            "cf": "",
+            "x": "a major collector of Japanese art"
+          }
+        ]
+      },
+      {
+        "definition": "(in India) the chief government official of a district, responsible for general administration, development programmes, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "climb",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cli/climb/climb__gb_2.mp3",
+    "phonetic_text": "/klaɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cli/climb/climb__us_1.mp3",
+    "phonetic_am_text": "/klaɪm/",
+    "senses": [
+      {
+        "definition": "to go up something towards the top",
+        "examples": [
+          {
+            "cf": "climb (up) something",
+            "x": "to climb a mountain/tree"
+          },
+          {
+            "cf": "",
+            "x": "She climbed up the stairs."
+          },
+          {
+            "cf": "",
+            "x": "to climb a ladder/wall"
+          },
+          {
+            "cf": "",
+            "x": "They climbed the steps to the front door."
+          },
+          {
+            "cf": "",
+            "x": "The car slowly climbed the hill."
+          },
+          {
+            "cf": "",
+            "x": "The boarding party began to climb up the side of the ship."
+          },
+          {
+            "cf": "climb (up)",
+            "x": "As they climbed higher, the air became cooler."
+          },
+          {
+            "cf": "",
+            "x": "You can climb to the top of the tower and take in the view."
+          },
+          {
+            "cf": "",
+            "x": "He climbed up and inspected the damage to the roof."
+          }
+        ]
+      },
+      {
+        "definition": "to go up mountains or climb rocks as a hobby or sport",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He likes to go climbing most weekends."
+          },
+          {
+            "cf": "",
+            "x": "He goes climbing every summer."
+          }
+        ]
+      },
+      {
+        "definition": "to move somewhere, especially with difficulty or effort, using hands as well as feet",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I climbed through the window."
+          },
+          {
+            "cf": "",
+            "x": "She opened the passenger door and climbed in."
+          },
+          {
+            "cf": "",
+            "x": "The boys climbed over the wall."
+          },
+          {
+            "cf": "",
+            "x": "Sue climbed into bed."
+          },
+          {
+            "cf": "",
+            "x": "Can you climb down?"
+          },
+          {
+            "cf": "",
+            "x": "He finished digging the grave and climbed out."
+          }
+        ]
+      },
+      {
+        "definition": "to increase in value or amount",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The death toll from the devastating floods continues to climb."
+          },
+          {
+            "cf": "climb + adv./prep.",
+            "x": "Interest rates climbed to 8 per cent."
+          },
+          {
+            "cf": "",
+            "x": "The temperature had climbed above 30 degrees."
+          },
+          {
+            "cf": "",
+            "x": "Prices have climbed sharply in recent months."
+          },
+          {
+            "cf": "",
+            "x": "The dollar has been climbing all week."
+          },
+          {
+            "cf": "",
+            "x": "Membership is climbing steadily."
+          }
+        ]
+      },
+      {
+        "definition": "to move to a higher position in a chart, table, society or organization",
+        "examples": [
+          {
+            "cf": "climb to something",
+            "x": "The team has now climbed to fourth in the league."
+          },
+          {
+            "cf": "",
+            "x": "In a few years he had climbed to the top of his profession."
+          },
+          {
+            "cf": "climb something",
+            "x": "The song also climbed the charts in North America."
+          },
+          {
+            "cf": "",
+            "x": "to climb the corporate/career ladder"
+          }
+        ]
+      },
+      {
+        "definition": "to go higher in the sky",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The plane climbed to 33 000 feet."
+          },
+          {
+            "cf": "",
+            "x": "The sun climbed higher in the sky."
+          },
+          {
+            "cf": "",
+            "x": "The plane took off and climbed to 20 000 feet."
+          }
+        ]
+      },
+      {
+        "definition": "to slope upwards",
+        "examples": [
+          {
+            "cf": "",
+            "x": "From here the path climbs steeply to the summit."
+          }
+        ]
+      },
+      {
+        "definition": "to grow up a wall or frame",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a climbing rose"
+          }
+        ]
+      },
+      {
+        "definition": "to join others in doing something that is becoming fashionable because you hope to become popular or successful yourself",
+        "examples": [
+          {
+            "cf": "",
+            "x": "politicians eager to jump on the environmental bandwagon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "climbing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cli/climb/climbing__gb_1.mp3",
+    "phonetic_text": "/ˈklaɪmɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cli/climb/climbing__us_1.mp3",
+    "phonetic_am_text": "/ˈklaɪmɪŋ/",
+    "senses": [
+      {
+        "definition": "the sport or activity of climbing rocks or mountains",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go climbing"
+          },
+          {
+            "cf": "",
+            "x": "a climbing accident"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cookery",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/coo/cooke/cookery__gb_1.mp3",
+    "phonetic_text": "/ˈkʊkəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/cooke/cookery__us_1.mp3",
+    "phonetic_am_text": "/ˈkʊkəri/",
+    "senses": [
+      {
+        "definition": "the art or activity of preparing and cooking food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm going on a cookery course."
+          },
+          {
+            "cf": "",
+            "x": "Italian cookery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "community theater",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/commu/community_theatre_1_gb_1.mp3",
+    "phonetic_text": "/kəˌmjuːnəti ˈθɪətə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/commu/community_theater_1_us_1.mp3",
+    "phonetic_am_text": "/kəˌmjuːnəti ˈθiːətər/",
+    "senses": [
+      {
+        "definition": "the activity of producing and acting in plays by people who do it for pleasure and not as a job",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She joined the local community theater in a production of ‘It's a Wonderful Life’."
+          }
+        ]
+      },
+      {
+        "definition": "a small theatre where these plays are performed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The musical has been performed at numerous community theaters in the south-east United States."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cosplay",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/cospl/cosplay__gb_2.mp3",
+    "phonetic_text": "/ˈkɒspleɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cos/cospl/cosplay__us_2.mp3",
+    "phonetic_am_text": "/ˈkɑːspleɪ/",
+    "senses": [
+      {
+        "definition": "the activity of dressing up as a character from a film, book or video game",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The cult of cosplay sprang to life when Japanese anime fans began dressing up as their favourite cartoon characters."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "craft",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cra/craft/craft__gb_1.mp3",
+    "phonetic_text": "/krɑːft/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cra/craft/craft__us_1.mp3",
+    "phonetic_am_text": "/kræft/",
+    "senses": [
+      {
+        "definition": "an activity involving a special skill at making things with your hands",
+        "examples": [
+          {
+            "cf": "",
+            "x": "traditional crafts like basket-weaving"
+          },
+          {
+            "cf": "",
+            "x": "a craft fair/workshop"
+          }
+        ]
+      },
+      {
+        "definition": "all the skills needed for a particular activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "chefs who learned their craft in top hotels"
+          },
+          {
+            "cf": "",
+            "x": "the writer’s craft"
+          }
+        ]
+      },
+      {
+        "definition": "skill in making people believe what you want them to believe",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He knew how to win by craft and diplomacy what he could not gain by force."
+          }
+        ]
+      },
+      {
+        "definition": "a boat or ship",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Hundreds of small craft bobbed around the liner as it steamed into the harbour."
+          },
+          {
+            "cf": "",
+            "x": "a landing/pleasure craft"
+          }
+        ]
+      },
+      {
+        "definition": "an aircraft or spacecraft",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "cosplayer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/cospl/cosplayer__gb_1.mp3",
+    "phonetic_text": "/ˈkɒspleɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cos/cospl/cosplayer__us_1.mp3",
+    "phonetic_am_text": "/ˈkɑːspleɪər/",
+    "senses": [
+      {
+        "definition": "a person who takes part in cosplay (= dressing up as a character from a film, book or video game)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He is an avid cosplayer who regularly dresses up for cosplay conventions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cryptography",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cry/crypt/cryptography__gb_1.mp3",
+    "phonetic_text": "/krɪpˈtɒɡrəfi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cry/crypt/cryptography__us_1.mp3",
+    "phonetic_am_text": "/krɪpˈtɑːɡrəfi/",
+    "senses": [
+      {
+        "definition": "the art of writing or solving codes",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "craft",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cra/craft/craft__gb_1.mp3",
+    "phonetic_text": "/krɑːft/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cra/craft/craft__us_1.mp3",
+    "phonetic_am_text": "/kræft/",
+    "senses": [
+      {
+        "definition": "to make something using special skills, especially with your hands",
+        "examples": [
+          {
+            "cf": "be crafted (from something)",
+            "x": "All the furniture is crafted from natural materials."
+          },
+          {
+            "cf": "",
+            "x": "a carefully crafted speech"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cosplay",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cos/cospl/cosplay__gb_2.mp3",
+    "phonetic_text": "/ˈkɒspleɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cos/cospl/cosplay__us_2.mp3",
+    "phonetic_am_text": "/ˈkɑːspleɪ/",
+    "senses": [
+      {
+        "definition": "to take part in cosplay (= dressing up as a character from a film, book or video game)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Two guys cosplayed as Chinese fantasy characters."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "compass",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compa/compass__gb_1.mp3",
+    "phonetic_text": "/ˈkʌmpəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compa/compass__us_1.mp3",
+    "phonetic_am_text": "/ˈkʌmpəs/",
+    "senses": [
+      {
+        "definition": "an instrument for finding direction, with a needle that always points to the north",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a map and compass"
+          },
+          {
+            "cf": "",
+            "x": "the points of the compass (= N, S, E, W, etc.)"
+          }
+        ]
+      },
+      {
+        "definition": "an instrument with two long thin parts joined together at the top, used for drawing circles and measuring distances on a map",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of compasses"
+          }
+        ]
+      },
+      {
+        "definition": "a range or an extent, especially of what can be achieved in a particular situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the compass of a singer’s voice (= the range from the lowest to the highest note that they can sing)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cooking",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/coo/cooki/cooking__gb_1.mp3",
+    "phonetic_text": "/ˈkʊkɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/cooki/cooking__us_3.mp3",
+    "phonetic_am_text": "/ˈkʊkɪŋ/",
+    "senses": [
+      {
+        "definition": "the process of preparing food by heating it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My husband does all the cooking."
+          },
+          {
+            "cf": "",
+            "x": "a book on Indian cooking"
+          },
+          {
+            "cf": "",
+            "x": "We always use olive oil for cooking."
+          },
+          {
+            "cf": "",
+            "x": "Cooking is her passion."
+          }
+        ]
+      },
+      {
+        "definition": "food that has been prepared in a particular way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The restaurant offers traditional home cooking (= food similar to that cooked at home)."
+          },
+          {
+            "cf": "",
+            "x": "They serve good French cooking."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dancing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dan/danci/dancing__gb_3.mp3",
+    "phonetic_text": "/ˈdɑːnsɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dan/danci/dancing__us_1.mp3",
+    "phonetic_am_text": "/ˈdænsɪŋ/",
+    "senses": [
+      {
+        "definition": "moving your body to music",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was music and dancing till two in the morning."
+          },
+          {
+            "cf": "",
+            "x": "I love Irish dancing."
+          },
+          {
+            "cf": "",
+            "x": "dancing classes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dancer",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dan/dance/dancer__gb_1.mp3",
+    "phonetic_text": "/ˈdɑːnsə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dan/dance/dancer__us_1.mp3",
+    "phonetic_am_text": "/ˈdænsər/",
+    "senses": [
+      {
+        "definition": "a person who dances or whose job is dancing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's a fantastic dancer."
+          },
+          {
+            "cf": "",
+            "x": "a ballet dancer"
+          },
+          {
+            "cf": "",
+            "x": "He's a principal dancer with the Royal Ballet."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "embroider",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/emb/embro/embroider__gb_1.mp3",
+    "phonetic_text": "/ɪmˈbrɔɪdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/emb/embro/embroider__us_1.mp3",
+    "phonetic_am_text": "/ɪmˈbrɔɪdər/",
+    "senses": [
+      {
+        "definition": "to decorate cloth with a pattern of stitches usually using coloured thread",
+        "examples": [
+          {
+            "cf": "embroider A on B",
+            "x": "She embroidered flowers on the cushion covers."
+          },
+          {
+            "cf": "embroider B with A",
+            "x": "She embroidered the cushion cover with flowers."
+          },
+          {
+            "cf": "",
+            "x": "The sleeves were embroidered in gold."
+          },
+          {
+            "cf": "embroider (something)",
+            "x": "an embroidered blouse"
+          },
+          {
+            "cf": "",
+            "x": "a robe of richly embroidered silk"
+          },
+          {
+            "cf": "",
+            "x": "She sat in the window, embroidering."
+          }
+        ]
+      },
+      {
+        "definition": "to make a story more interesting by adding details that are not always true",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He is inclined to embroider the facts."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dive",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/div/dive_/dive__gb_2.mp3",
+    "phonetic_text": "/daɪv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/div/dive_/dive__us_1.mp3",
+    "phonetic_am_text": "/daɪv/",
+    "senses": [
+      {
+        "definition": "to jump into water with your head and arms going in first",
+        "examples": [
+          {
+            "cf": "dive (from/off something) (into something)",
+            "x": "We dived into the river to cool off."
+          },
+          {
+            "cf": "dive off something",
+            "x": "He dived off the bridge."
+          },
+          {
+            "cf": "dive in",
+            "x": "Sam walked to the deep end of the pool and dived in."
+          }
+        ]
+      },
+      {
+        "definition": "to swim underwater wearing breathing equipment, collecting or looking at things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to dive for pearls"
+          },
+          {
+            "cf": "",
+            "x": "The main purpose of his holiday to Greece was to go diving."
+          }
+        ]
+      },
+      {
+        "definition": "to go to a deeper level underwater",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The submarine dived to avoid being seen."
+          },
+          {
+            "cf": "",
+            "x": "The whale dived as the harpoon struck it."
+          }
+        ]
+      },
+      {
+        "definition": "to go steeply down through the air",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The seagulls soared then dived."
+          },
+          {
+            "cf": "",
+            "x": "The plane dived down to attack."
+          }
+        ]
+      },
+      {
+        "definition": "to move or jump quickly in a particular direction, especially to avoid something, to try to catch a ball, etc.",
+        "examples": [
+          {
+            "cf": "dive for something",
+            "x": "We heard an explosion and dived for cover (= got into a place where we would be protected)."
+          },
+          {
+            "cf": "",
+            "x": "The goalie dived for the ball, but missed it."
+          },
+          {
+            "cf": "+ adv./prep.",
+            "x": "It started to rain so we dived into the nearest cafe."
+          },
+          {
+            "cf": "",
+            "x": "He dived headlong into the ditch."
+          }
+        ]
+      },
+      {
+        "definition": "to fall deliberately when somebody tackles you",
+        "examples": []
+      },
+      {
+        "definition": "to fall suddenly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The share price dived from 75p to an all-time low of 50p."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "embroidery",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/emb/embro/embroidery__gb_1.mp3",
+    "phonetic_text": "/ɪmˈbrɔɪdəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/emb/embro/embroidery__us_1.mp3",
+    "phonetic_am_text": "/ɪmˈbrɔɪdəri/",
+    "senses": [
+      {
+        "definition": "patterns that are sewn onto cloth using threads of various colours; cloth that is decorated in this way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a beautiful piece of embroidery"
+          },
+          {
+            "cf": "",
+            "x": "Indian embroideries"
+          }
+        ]
+      },
+      {
+        "definition": "the skill or activity of decorating cloth in this way",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "crochet",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cro/croch/crochet__gb_1.mp3",
+    "phonetic_text": "/ˈkrəʊʃeɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cro/croch/crochet__us_1.mp3",
+    "phonetic_am_text": "/krəʊˈʃeɪ/",
+    "senses": [
+      {
+        "definition": "a way of making clothes, etc. from wool or cotton using a special thick needle with a hook at the end to make a pattern of connected threads",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "drama",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dra/drama/drama__gb_2.mp3",
+    "phonetic_text": "/ˈdrɑːmə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dra/drama/drama__us_1.mp3",
+    "phonetic_am_text": "/ˈdrɑːmə/",
+    "senses": [
+      {
+        "definition": "a play for the theatre, television or radio",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a costume/period/courtroom/crime drama"
+          },
+          {
+            "cf": "",
+            "x": "a powerful television drama about city life"
+          },
+          {
+            "cf": "",
+            "x": "a drama series set in an American dance academy"
+          }
+        ]
+      },
+      {
+        "definition": "plays considered as a form of literature",
+        "examples": [
+          {
+            "cf": "",
+            "x": "classical/modern drama"
+          },
+          {
+            "cf": "",
+            "x": "a drama critic"
+          },
+          {
+            "cf": "",
+            "x": "a drama school/group"
+          },
+          {
+            "cf": "",
+            "x": "a drama student/teacher"
+          },
+          {
+            "cf": "",
+            "x": "I studied English and Drama at college."
+          },
+          {
+            "cf": "",
+            "x": "It is a first-class piece of costume drama."
+          }
+        ]
+      },
+      {
+        "definition": "an exciting event",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A powerful human drama was unfolding before our eyes."
+          }
+        ]
+      },
+      {
+        "definition": "the fact of being exciting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You couldn't help being thrilled by the drama of the situation."
+          }
+        ]
+      },
+      {
+        "definition": "to make a small problem or event seem more important or serious than it really is",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "drawing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dra/drawi/drawing__gb_3.mp3",
+    "phonetic_text": "/ˈdrɔːɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dra/drawi/drawing__us_1.mp3",
+    "phonetic_am_text": "/ˈdrɔːɪŋ/",
+    "senses": [
+      {
+        "definition": "a picture made using a pencil or pen rather than paint",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pencil/pen-and-ink/charcoal drawing"
+          },
+          {
+            "cf": "drawing of somebody/something",
+            "x": "a drawing of a yacht"
+          },
+          {
+            "cf": "",
+            "x": "detailed drawings of local plants and animals"
+          },
+          {
+            "cf": "",
+            "x": "The original architectural drawings of the building had been lost."
+          },
+          {
+            "cf": "",
+            "x": "He did a drawing of the old farmhouse."
+          },
+          {
+            "cf": "",
+            "x": "The children were asked to make a drawing of a dinosaur."
+          },
+          {
+            "cf": "drawing by somebody",
+            "x": "a drawing by Paul Klee"
+          }
+        ]
+      },
+      {
+        "definition": "the art or skill of making pictures, plans, etc. using a pen or pencil",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm not very good at drawing."
+          },
+          {
+            "cf": "",
+            "x": "She teaches drawing at the women's prison in Philadelphia."
+          }
+        ]
+      },
+      {
+        "definition": "the act of choosing something, for example the winner of a prize or the teams who play each other in a competition, usually by taking pieces of paper, etc. out of a container without being able to see what is written on them",
+        "examples": []
+      },
+      {
+        "definition": "a competition in which the winners are chosen in a drawing",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "flower arranging",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/flo/flowe/flower_arranging_1_gb_1.mp3",
+    "phonetic_text": "/ˈflaʊər əreɪndʒɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/flowe/flower_arranging_1_us_1.mp3",
+    "phonetic_am_text": "/ˈflaʊər əreɪndʒɪŋ/",
+    "senses": [
+      {
+        "definition": "the art of arranging cut flowers in an attractive way",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "fishing rod",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fis/fishi/fishing_rod_1_gb_1.mp3",
+    "phonetic_text": "/ˈfɪʃɪŋ rɒd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fishi/fishing_rod_1_us_1.mp3",
+    "phonetic_am_text": "/ˈfɪʃɪŋ rɑːd/",
+    "senses": [
+      {
+        "definition": "a long wooden or plastic stick with a fishing line and hook attached, used for catching fish",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "fisherman",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fis/fishe/fisherman__gb_2.mp3",
+    "phonetic_text": "/ˈfɪʃəmən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fishe/fisherman__us_1.mp3",
+    "phonetic_am_text": "/ˈfɪʃərmən/",
+    "senses": [
+      {
+        "definition": "a person who catches fish, either as a job or as a sport",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A keen fly-fisherman caught a record-sized salmon."
+          },
+          {
+            "cf": "",
+            "x": "Local fishermen are protesting about the latest government regulations."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "explore",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exp/explo/explore__gb_1.mp3",
+    "phonetic_text": "/ɪkˈsplɔː(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/exp/explo/explore__us_1.mp3",
+    "phonetic_am_text": "/ɪkˈsplɔːr/",
+    "senses": [
+      {
+        "definition": "to travel to or around an area or a country in order to learn about it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "As soon as we arrived on the island we were eager to explore."
+          },
+          {
+            "cf": "explore something",
+            "x": "They explored the land to the south of the Murray River."
+          },
+          {
+            "cf": "",
+            "x": "The city is best explored on foot."
+          },
+          {
+            "cf": "",
+            "x": "Westerners did not set out to explore the world until the fifteenth century."
+          },
+          {
+            "cf": "explore something for something",
+            "x": "Bears will sometimes explore urban areas for food."
+          },
+          {
+            "cf": "explore for something",
+            "x": "companies exploring for (= searching for) oil"
+          }
+        ]
+      },
+      {
+        "definition": "to examine a subject or a possibility completely or carefully in order to find out more about it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to explore a theme/an issue"
+          },
+          {
+            "cf": "",
+            "x": "We will explore these ideas in more detail in chapter 7."
+          },
+          {
+            "cf": "",
+            "x": "to explore the possibilities/options"
+          },
+          {
+            "cf": "",
+            "x": "The firm will explore possible joint development projects."
+          },
+          {
+            "cf": "",
+            "x": "A team was brought in to explore ways to create the most profit for shareholders."
+          },
+          {
+            "cf": "",
+            "x": "He intends to explore the relationship between economic class and career choice."
+          },
+          {
+            "cf": "",
+            "x": "a series of programmes in which she explores the world of ballet"
+          }
+        ]
+      },
+      {
+        "definition": "to feel something with your hands or another part of the body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She explored the sand with her toes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fieldcraft",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fie/field/fieldcraft__gb_1.mp3",
+    "phonetic_text": "/ˈfiːldkrɑːft/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fie/field/fieldcraft__us_1.mp3",
+    "phonetic_am_text": "/ˈfiːldkræft/",
+    "senses": [
+      {
+        "definition": "the techniques involved in living or travelling, or doing scientific or military research, outdoors",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "engraving",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eng/engra/engraving__gb_1.mp3",
+    "phonetic_text": "/ɪnˈɡreɪvɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/eng/engra/engraving__us_1.mp3",
+    "phonetic_am_text": "/ɪnˈɡreɪvɪŋ/",
+    "senses": [
+      {
+        "definition": "a picture made by cutting a design on a piece of metal and then printing the design on paper",
+        "examples": []
+      },
+      {
+        "definition": "the art or process of cutting designs on wood, stone, metal, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "dance",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dan/dance/dance__gb_1.mp3",
+    "phonetic_text": "/dɑːns/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dan/dance/dance__us_1.mp3",
+    "phonetic_am_text": "/dæns/",
+    "senses": [
+      {
+        "definition": "to move your body to the sound and rhythm of music",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do you want to dance?"
+          },
+          {
+            "cf": "",
+            "x": "He asked me to dance."
+          },
+          {
+            "cf": "",
+            "x": "They stayed up all night singing and dancing."
+          },
+          {
+            "cf": "dance to something",
+            "x": "They danced to the music of a string quartet."
+          },
+          {
+            "cf": "dance with somebody",
+            "x": "Ruth danced all evening with Richard."
+          },
+          {
+            "cf": "dance together",
+            "x": "Ruth and Richard danced together all evening."
+          }
+        ]
+      },
+      {
+        "definition": "to do a particular type of dance",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to dance the tango"
+          },
+          {
+            "cf": "",
+            "x": "to dance a waltz"
+          },
+          {
+            "cf": "",
+            "x": "He was so excited about the good news that he danced a little jig."
+          }
+        ]
+      },
+      {
+        "definition": "to move in a lively way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The children danced around her."
+          },
+          {
+            "cf": "",
+            "x": "He was almost dancing for joy."
+          },
+          {
+            "cf": "",
+            "x": "The sun shone on the sea and the waves danced and sparkled."
+          },
+          {
+            "cf": "",
+            "x": "The words danced before her tired eyes."
+          }
+        ]
+      },
+      {
+        "definition": "to be with somebody and do things to help and please them",
+        "examples": []
+      },
+      {
+        "definition": "to dance for the whole evening or night",
+        "examples": []
+      },
+      {
+        "definition": "to do whatever somebody tells you to",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fis/fish_/fish__gb_3.mp3",
+    "phonetic_text": "/fɪʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fish_/fish__us_1.mp3",
+    "phonetic_am_text": "/fɪʃ/",
+    "senses": [
+      {
+        "definition": "to try to catch fish with nets, a fishing line, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The trawler was fishing off the coast of Iceland."
+          },
+          {
+            "cf": "",
+            "x": "Several people were fishing in the river."
+          },
+          {
+            "cf": "fish for something",
+            "x": "You can fish for trout in this stream."
+          }
+        ]
+      },
+      {
+        "definition": "to spend time fishing for pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Let's go fishing this weekend."
+          },
+          {
+            "cf": "",
+            "x": "I used to go salmon fishing in the Waitaki River."
+          }
+        ]
+      },
+      {
+        "definition": "to try to catch fish in the area of water mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They fished the loch for salmon."
+          }
+        ]
+      },
+      {
+        "definition": "to search for something, using your hands",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She fished around in her bag for her keys."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dance",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dan/dance/dance__gb_1.mp3",
+    "phonetic_text": "/dɑːns/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dan/dance/dance__us_1.mp3",
+    "phonetic_am_text": "/dæns/",
+    "senses": [
+      {
+        "definition": "a series of movements and steps that are usually performed to music; a particular example of these movements and steps",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do you know any other Latin American dances?"
+          },
+          {
+            "cf": "",
+            "x": "The next dance will be a waltz."
+          },
+          {
+            "cf": "",
+            "x": "The girls performed a graceful dance."
+          },
+          {
+            "cf": "",
+            "x": "a dance class/routine"
+          },
+          {
+            "cf": "",
+            "x": "Find a partner and practise these new dance steps."
+          }
+        ]
+      },
+      {
+        "definition": "the art of dancing, especially for entertainment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an evening of drama, music and dance"
+          },
+          {
+            "cf": "",
+            "x": "classical/contemporary/traditional dance"
+          },
+          {
+            "cf": "",
+            "x": "a dance company/troupe"
+          }
+        ]
+      },
+      {
+        "definition": "an act of dancing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Let's have a dance."
+          },
+          {
+            "cf": "",
+            "x": "He did a little dance of triumph."
+          }
+        ]
+      },
+      {
+        "definition": "a social event at which people dance",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We hold a dance every year to raise money for charity."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of music for dancing to",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The band finished with a few slow dances."
+          }
+        ]
+      },
+      {
+        "definition": "to cause somebody a lot of trouble or worry",
+        "examples": []
+      },
+      {
+        "definition": "if you make a song and dance about something, you complain or talk about it too much when this is not necessary",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She gives generously to charity without making a song and dance about it."
+          }
+        ]
+      },
+      {
+        "definition": "a long explanation about something, or excuse for something",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "fishing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fis/fishi/fishing__gb_3.mp3",
+    "phonetic_text": "/ˈfɪʃɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fishi/fishing__us_1.mp3",
+    "phonetic_am_text": "/ˈfɪʃɪŋ/",
+    "senses": [
+      {
+        "definition": "the sport or business of catching fish",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They often go fishing."
+          },
+          {
+            "cf": "",
+            "x": "We enjoyed a day's fishing by the river."
+          },
+          {
+            "cf": "",
+            "x": "deep-sea fishing"
+          },
+          {
+            "cf": "",
+            "x": "trout/salmon/tuna fishing"
+          },
+          {
+            "cf": "",
+            "x": "a fishing boat/vessel"
+          },
+          {
+            "cf": "",
+            "x": "the fishing industry"
+          },
+          {
+            "cf": "",
+            "x": "Do you want to go on a fishing trip this summer?"
+          },
+          {
+            "cf": "",
+            "x": "the rich fishing grounds off the coast of Namibia"
+          },
+          {
+            "cf": "",
+            "x": "the picturesque fishing village of Polperro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gardening",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gar/garde/gardening__gb_5.mp3",
+    "phonetic_text": "/ˈɡɑːdnɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garde/gardening__us_1.mp3",
+    "phonetic_am_text": "/ˈɡɑːrdnɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of working in a garden, especially for pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "organic gardening"
+          },
+          {
+            "cf": "",
+            "x": "gardening gloves"
+          },
+          {
+            "cf": "",
+            "x": "a gardening programme on TV"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "handcraft",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/han/handc/handcraft__gb_1.mp3",
+    "phonetic_text": "/ˈhændkrɑːft/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/han/handc/handcraft__us_1.mp3",
+    "phonetic_am_text": "/ˈhændkræft/",
+    "senses": [
+      {
+        "definition": "the activity of making attractive objects by hand",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to teach handcrafts"
+          },
+          {
+            "cf": "",
+            "x": "Her hobbies are music, reading and handcraft."
+          }
+        ]
+      },
+      {
+        "definition": "things made in this way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "traditional handcrafts bought by tourists"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "glass-blowing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gla/glass/glass_blowing_1_gb_1.mp3",
+    "phonetic_text": "/ˈɡlɑːs bləʊɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gla/glass/glass_blowing_1_us_1.mp3",
+    "phonetic_am_text": "/ˈɡlæs bləʊɪŋ/",
+    "senses": [
+      {
+        "definition": "the art or activity of blowing hot glass into shapes using a special tube",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hack",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hac/hack_/hack__gb_9.mp3",
+    "phonetic_text": "/hæk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hac/hack_/hack__us_1.mp3",
+    "phonetic_am_text": "/hæk/",
+    "senses": [
+      {
+        "definition": "to hit and cut somebody/something in a rough, heavy way",
+        "examples": [
+          {
+            "cf": "hack somebody/something + adv./prep.",
+            "x": "I hacked the dead branches off."
+          },
+          {
+            "cf": "",
+            "x": "They were hacked to death as they tried to escape."
+          },
+          {
+            "cf": "",
+            "x": "We had to hack our way through the jungle."
+          },
+          {
+            "cf": "+ adv./prep.",
+            "x": "We hacked away at the bushes."
+          }
+        ]
+      },
+      {
+        "definition": "to kick something roughly or without control",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He hacked the ball away."
+          }
+        ]
+      },
+      {
+        "definition": "to secretly find a way of looking at and/or changing information on somebody else’s computer system without permission",
+        "examples": [
+          {
+            "cf": "hack into something",
+            "x": "He hacked into the bank's computer."
+          },
+          {
+            "cf": "hack something",
+            "x": "They had hacked secret data."
+          }
+        ]
+      },
+      {
+        "definition": "to work together informally and often quickly with other people to create a program using different technologies",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We spent the morning hacking around with HTML and building web pages."
+          }
+        ]
+      },
+      {
+        "definition": "to be able/not able to manage in a particular situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Lots of people leave this job because they can't hack it."
+          }
+        ]
+      },
+      {
+        "definition": "to ride a horse for pleasure",
+        "examples": []
+      },
+      {
+        "definition": "to drive a taxi",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "gastronomy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gas/gastr/gastronomy__gb_1.mp3",
+    "phonetic_text": "/ɡæˈstrɒnəmi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gas/gastr/gastronomy__us_1.mp3",
+    "phonetic_am_text": "/ɡæˈstrɑːnəmi/",
+    "senses": [
+      {
+        "definition": "the art and practice of cooking and eating good food",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hike",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hik/hike_/hike__gb_1.mp3",
+    "phonetic_text": "/haɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hik/hike_/hike__us_1.mp3",
+    "phonetic_am_text": "/haɪk/",
+    "senses": [
+      {
+        "definition": "a long walk in the country",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They went on a ten-mile hike through the forest."
+          },
+          {
+            "cf": "",
+            "x": "We could go into town but it's a real hike (= a long way) from here."
+          }
+        ]
+      },
+      {
+        "definition": "a large or sudden increase in prices, costs, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a tax/price hike"
+          },
+          {
+            "cf": "hike in something",
+            "x": "the latest hike in interest rates"
+          }
+        ]
+      },
+      {
+        "definition": "a rude way of telling somebody to go away",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hide",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hid/hide_/hide__gb_1.mp3",
+    "phonetic_text": "/haɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hid/hide_/hide__us_1.mp3",
+    "phonetic_am_text": "/haɪd/",
+    "senses": [
+      {
+        "definition": "a place from which people can watch wild animals or birds, without being seen by them",
+        "examples": []
+      },
+      {
+        "definition": "an animal’s skin, especially when it is bought or sold or used for leather",
+        "examples": [
+          {
+            "cf": "",
+            "x": "boots made from buffalo hide"
+          },
+          {
+            "cf": "",
+            "x": "a black hide belt"
+          },
+          {
+            "cf": "",
+            "x": "The hide is tanned for leather."
+          }
+        ]
+      },
+      {
+        "definition": "used to refer to somebody’s life or safety when they are in a difficult situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "All he's worried about is his own hide (= himself)."
+          }
+        ]
+      },
+      {
+        "definition": "to punish somebody severely",
+        "examples": []
+      },
+      {
+        "definition": "not to see somebody/something for some time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I haven't seen hide nor hair of her for a month."
+          }
+        ]
+      },
+      {
+        "definition": "to try to avoid death, punishment, etc., especially by leaving others in an extremely difficult situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "To save his own skin, he lied and blamed the accident on his friend."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hiking",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hik/hikin/hiking__gb_1.mp3",
+    "phonetic_text": "/ˈhaɪkɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hik/hikin/hiking__us_1.mp3",
+    "phonetic_am_text": "/ˈhaɪkɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of going for long walks in the country for pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He loves hiking."
+          },
+          {
+            "cf": "",
+            "x": "hiking boots"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hillwalking",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hil/hillw/hillwalking__gb_1.mp3",
+    "phonetic_text": "/ˈhɪlwɔːkɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hil/hillw/hillwalking__us_1.mp3",
+    "phonetic_am_text": "/ˈhɪlwɔːkɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of walking on or up hills in the countryside for pleasure",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "hobby",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hob/hobby/hobby__gb_1.mp3",
+    "phonetic_text": "/ˈhɒbi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hob/hobby/hobby__us_1.mp3",
+    "phonetic_am_text": "/ˈhɑːbi/",
+    "senses": [
+      {
+        "definition": "an activity that you do for pleasure when you are not working",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do you have any hobbies?"
+          },
+          {
+            "cf": "",
+            "x": "Her hobbies include swimming and gardening."
+          },
+          {
+            "cf": "",
+            "x": "Why don't you take up a new hobby?"
+          },
+          {
+            "cf": "",
+            "x": "My favourite hobby is definitely scuba diving."
+          },
+          {
+            "cf": "as a hobby",
+            "x": "I only play jazz as a hobby."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hike",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hik/hike_/hike__gb_1.mp3",
+    "phonetic_text": "/haɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hik/hike_/hike__us_1.mp3",
+    "phonetic_am_text": "/haɪk/",
+    "senses": [
+      {
+        "definition": "to go for a long walk in the country, especially for pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You'll need some strong boots for hiking over rough country."
+          },
+          {
+            "cf": "",
+            "x": "We're planning to hike across the Brecon Beacons."
+          },
+          {
+            "cf": "hike something",
+            "x": "I always wanted to hike the Rockies."
+          }
+        ]
+      },
+      {
+        "definition": "to spend time hiking for pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If the weather's fine, we'll go hiking this weekend."
+          }
+        ]
+      },
+      {
+        "definition": "to increase prices, taxes, etc. suddenly by large amounts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The government hiked up the price of milk by over 40%."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "handicraft",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/han/handi/handicraft__gb_1.mp3",
+    "phonetic_text": "/ˈhændikrɑːft/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/han/handi/handicraft__us_1.mp3",
+    "phonetic_am_text": "/ˈhændikræft/",
+    "senses": [
+      {
+        "definition": "the activity of making attractive objects by hand",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to teach handicrafts"
+          },
+          {
+            "cf": "",
+            "x": "Her hobbies are music, reading and handicraft."
+          }
+        ]
+      },
+      {
+        "definition": "things made in this way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "traditional handicrafts bought by tourists"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "footpath",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/foo/footp/footpath__gb_1.mp3",
+    "phonetic_text": "/ˈfʊtpɑːθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/foo/footp/footpath__us_1.mp3",
+    "phonetic_am_text": "/ˈfʊtpæθ/",
+    "senses": [
+      {
+        "definition": "a path that is made for people to walk along, especially in the country",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a public footpath"
+          }
+        ]
+      },
+      {
+        "definition": "a flat part at the side of a road for people to walk on; a pavement",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "horseback riding",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horse/horseback_riding_1_gb_1.mp3",
+    "phonetic_text": "/ˈhɔːsbæk raɪdɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horse/horseback_riding_1_us_1.mp3",
+    "phonetic_am_text": "/ˈhɔːrsbæk raɪdɪŋ/",
+    "senses": [
+      {
+        "definition": "the sport or activity of riding horses",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "horse riding",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horse/horse_riding_1_gb_1.mp3",
+    "phonetic_text": "/ˈhɔːs raɪdɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horse/horse_riding_1_us_1.mp3",
+    "phonetic_am_text": "/ˈhɔːrs raɪdɪŋ/",
+    "senses": [
+      {
+        "definition": "the sport or activity of riding horses",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "knitting",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kni/knitt/knitting__gb_3.mp3",
+    "phonetic_text": "/ˈnɪtɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kni/knitt/knitting__us_1.mp3",
+    "phonetic_am_text": "/ˈnɪtɪŋ/",
+    "senses": [
+      {
+        "definition": "an item that is being knitted",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Where's my knitting?"
+          }
+        ]
+      },
+      {
+        "definition": "the activity of knitting",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "jog",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jog/jog__/jog__gb_1.mp3",
+    "phonetic_text": "/dʒɒɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jog/jog__/jog__us_1.mp3",
+    "phonetic_am_text": "/dʒɑːɡ/",
+    "senses": [
+      {
+        "definition": "to run slowly and steadily for a long time, especially for exercise",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I go jogging every evening."
+          }
+        ]
+      },
+      {
+        "definition": "to hit something lightly and by accident",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Someone jogged her elbow, making her spill her coffee."
+          }
+        ]
+      },
+      {
+        "definition": "to say or do something that makes somebody remember something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Maybe these letters will help to jog your memory."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jogger",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jog/jogge/jogger__gb_1.mp3",
+    "phonetic_text": "/ˈdʒɒɡə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jog/jogge/jogger__us_1.mp3",
+    "phonetic_am_text": "/ˈdʒɑːɡər/",
+    "senses": [
+      {
+        "definition": "a person who jogs regularly for exercise",
+        "examples": []
+      },
+      {
+        "definition": "soft loose trousers, with elastic at the top, that you wear for doing exercise in",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "horology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hor/horol/horology__gb_1.mp3",
+    "phonetic_text": "/həˈrɒlədʒi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horol/horology__us_1.mp3",
+    "phonetic_am_text": "/həˈrɑːlədʒi/",
+    "senses": [
+      {
+        "definition": "the study and measurement of time",
+        "examples": []
+      },
+      {
+        "definition": "the art of making clocks and watches",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "magnetic compass",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magne/magnetic_compass_1_gb_1.mp3",
+    "phonetic_text": "/mæɡˌnetɪk ˈkʌmpəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magne/magnetic_compass_1_us_1.mp3",
+    "phonetic_am_text": "/mæɡˌnetɪk ˈkʌmpəs/",
+    "senses": [
+      {
+        "definition": "an instrument for finding direction, with a needle that always points to the north",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "leisure",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lei/leisu/leisure__gb_1.mp3",
+    "phonetic_text": "/ˈleʒə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lei/leisu/leisure__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈliːʒər/",
+    "senses": [
+      {
+        "definition": "time when you are not working or studying; free time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These days we have more money and more leisure to enjoy it."
+          },
+          {
+            "cf": "",
+            "x": "Make the most of your leisure time!"
+          }
+        ]
+      },
+      {
+        "definition": "activities that you enjoy in your free time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These days we have increased opportunities for leisure."
+          },
+          {
+            "cf": "",
+            "x": "leisure activities/pursuits"
+          },
+          {
+            "cf": "",
+            "x": "public parks and leisure facilities"
+          },
+          {
+            "cf": "",
+            "x": "the leisure industry (= the business of providing leisure activities)"
+          }
+        ]
+      },
+      {
+        "definition": "with no particular activities; free",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Spend the afternoon at leisure in the town centre."
+          }
+        ]
+      },
+      {
+        "definition": "without hurrying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Let's have lunch so we can talk at leisure."
+          }
+        ]
+      },
+      {
+        "definition": "when you have the time to do something without hurrying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I suggest you take the forms away and read them at your leisure."
+          }
+        ]
+      },
+      {
+        "definition": "a man/woman who does not have to work",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "jogging",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jog/joggi/jogging__gb_1.mp3",
+    "phonetic_text": "/ˈdʒɒɡɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jog/joggi/jogging__us_1.mp3",
+    "phonetic_am_text": "/ˈdʒɑːɡɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of running slowly and steadily as a form of exercise",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go jogging"
+          },
+          {
+            "cf": "",
+            "x": "He decided to take up jogging."
+          },
+          {
+            "cf": "",
+            "x": "I need some new jogging shoes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mountain bike",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mou/mount/mountain_bike_1_gb_1.mp3",
+    "phonetic_text": "/ˈmaʊntən baɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain_bike_1_us_3.mp3",
+    "phonetic_am_text": "/ˈmaʊntn baɪk/",
+    "senses": [
+      {
+        "definition": "a bicycle with a strong frame, wide tyres and many gears, designed for riding on rough ground",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "nature reserve",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natur/nature_reserve_1_gb_1.mp3",
+    "phonetic_text": "/ˈneɪtʃə rɪzɜːv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natur/nature_reserve_1_us_1.mp3",
+    "phonetic_am_text": "/ˈneɪtʃər rɪzɜːrv/",
+    "senses": [
+      {
+        "definition": "an area of land where the animals and plants are protected",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The area has been designated a nature reserve."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mountain biking",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mou/mount/mountain_biking_1_gb_1.mp3",
+    "phonetic_text": "/ˈmaʊntən baɪkɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain_biking_1_us_2.mp3",
+    "phonetic_am_text": "/ˈmaʊntn baɪkɪŋ/",
+    "senses": [
+      {
+        "definition": "the sport or activity of riding a mountain bike",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "national park",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natio/national_park_1_gb_1.mp3",
+    "phonetic_text": "/ˌnæʃnəl ˈpɑːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natio/national_park_1_us_1.mp3",
+    "phonetic_am_text": "/ˌnæʃnəl ˈpɑːrk/",
+    "senses": [
+      {
+        "definition": "an area of land that is protected by the government for people to visit because of its natural beauty and historical or scientific interest",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Yellowstone National Park"
+          },
+          {
+            "cf": "",
+            "x": "The area was designated a national park."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "interest",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interest__gb_1.mp3",
+    "phonetic_text": "/ˈɪntrəst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/interest__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈɪntrəst/",
+    "senses": [
+      {
+        "definition": "the feeling that you have when you want to know or learn more about somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her research has generated interest around the world."
+          },
+          {
+            "cf": "",
+            "x": "The case has attracted the interest of the public and media."
+          },
+          {
+            "cf": "interest in something",
+            "x": "Do your parents take an interest in your friends?"
+          },
+          {
+            "cf": "",
+            "x": "By that time I had lost (all) interest in the idea."
+          },
+          {
+            "cf": "",
+            "x": "Many people have contacted me expressing interest in the idea."
+          },
+          {
+            "cf": "",
+            "x": "A small number of investors have shown an interest."
+          },
+          {
+            "cf": "",
+            "x": "He showed a keen interest in music from his childhood."
+          },
+          {
+            "cf": "",
+            "x": "They shared a common interest in horses."
+          },
+          {
+            "cf": "interest in doing something",
+            "x": "I have no interest in seeing the movie."
+          },
+          {
+            "cf": "with interest",
+            "x": "I watched with interest."
+          },
+          {
+            "cf": "out of interest",
+            "x": "Just out of interest, how much did it cost?"
+          },
+          {
+            "cf": "",
+            "x": "As a matter of interest (= I'd like to know), what time did the party finish?"
+          },
+          {
+            "cf": "",
+            "x": "A sticker on a bag caught my interest."
+          }
+        ]
+      },
+      {
+        "definition": "the quality that something has when it attracts somebody’s attention or makes them want to know more about it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There are many places of interest near the city."
+          },
+          {
+            "cf": "",
+            "x": "These plants will add interest to your garden in winter."
+          },
+          {
+            "cf": "be of interest",
+            "x": "These documents are of great historical interest."
+          },
+          {
+            "cf": "",
+            "x": "The area is a site of special scientific interest."
+          },
+          {
+            "cf": "",
+            "x": "This is a story of national interest."
+          },
+          {
+            "cf": "be of interest to somebody",
+            "x": "The subject is of no interest to me at all."
+          },
+          {
+            "cf": "interest for somebody",
+            "x": "This museum holds particular interest for geologists."
+          }
+        ]
+      },
+      {
+        "definition": "an activity or a subject that you enjoy and that you spend time doing or studying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her main interests are music and tennis."
+          },
+          {
+            "cf": "",
+            "x": "He was a man of wide interests outside his work."
+          },
+          {
+            "cf": "",
+            "x": "My main research interest is herbal medicine."
+          },
+          {
+            "cf": "",
+            "x": "In the end, she left the company to pursue other interests."
+          }
+        ]
+      },
+      {
+        "definition": "the extra money that you pay back when you borrow money or that you receive when you invest money",
+        "examples": [
+          {
+            "cf": "interest on something",
+            "x": "to pay interest on a loan"
+          },
+          {
+            "cf": "with interest",
+            "x": "The money was repaid with interest."
+          },
+          {
+            "cf": "",
+            "x": "interest charges/payments"
+          },
+          {
+            "cf": "",
+            "x": "Interest rates have risen by 1%."
+          },
+          {
+            "cf": "",
+            "x": "high rates of interest"
+          }
+        ]
+      },
+      {
+        "definition": "a good result or an advantage for somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The union is working to protect the interests of its members."
+          },
+          {
+            "cf": "",
+            "x": "to promote/defend somebody's interests"
+          },
+          {
+            "cf": "",
+            "x": "Tough talk doesn't always serve your interests."
+          },
+          {
+            "cf": "",
+            "x": "I was voted in to represent the interests of my constituents."
+          },
+          {
+            "cf": "",
+            "x": "You can't blame them for looking after their own interests."
+          },
+          {
+            "cf": "in somebody's interest(s)",
+            "x": "She was acting entirely in her own interests."
+          },
+          {
+            "cf": "",
+            "x": "These reforms were in the best interests of local government."
+          },
+          {
+            "cf": "",
+            "x": "It is in the public interest that these facts are made known."
+          },
+          {
+            "cf": "against somebody's interests",
+            "x": "The policy is clearly working against the interests of consumers."
+          },
+          {
+            "cf": "",
+            "x": "It is crucial to our national interest to keep stability in the region."
+          }
+        ]
+      },
+      {
+        "definition": "a share in a business or company and its profits",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She has business interests in France."
+          },
+          {
+            "cf": "",
+            "x": "American interests in Europe (= money invested in European countries)"
+          }
+        ]
+      },
+      {
+        "definition": "a connection with something that affects your attitude to it, especially because you may benefit from it in some way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I should, at this point, declare my interest."
+          },
+          {
+            "cf": "interest in (doing) something",
+            "x": "Organizations have an interest in ensuring that employee motivation is high."
+          },
+          {
+            "cf": "",
+            "x": "Lawyers have a direct financial interest in the outcome of the debate."
+          }
+        ]
+      },
+      {
+        "definition": "a group of people who are in the same business or who share the same aims that they want to protect",
+        "examples": [
+          {
+            "cf": "",
+            "x": "powerful farming interests"
+          },
+          {
+            "cf": "",
+            "x": "relationships between local government and business interests"
+          }
+        ]
+      },
+      {
+        "definition": "a situation in which somebody has two jobs, aims, roles, etc. and cannot treat both of them equally and fairly at the same time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was a conflict of interest between his business dealings and his political activities."
+          },
+          {
+            "cf": "",
+            "x": "One member of the planning committee had a conflict of interest as he lived near the proposed road."
+          },
+          {
+            "cf": "",
+            "x": "There is often a conflict of interests between farmers and conservationists."
+          }
+        ]
+      },
+      {
+        "definition": "to do the same thing to somebody as they have done to you, but with more force, enthusiasm, etc.",
+        "examples": []
+      },
+      {
+        "definition": "to want somebody to be happy and successful even though your actions may not show this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Although he was sometimes too strict with his children, he had their best interests at heart."
+          }
+        ]
+      },
+      {
+        "definition": "in order to help or achieve something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "New work practices were introduced in the interests of efficiency."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is believed to be involved in a crime, but who has not been arrested",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Police have said they do have a person of interest in the case."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "orienteering",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ori/orien/orienteering__gb_1.mp3",
+    "phonetic_text": "/ˌɔːriənˈtɪərɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/ori/orien/orienteering__us_1.mp3",
+    "phonetic_am_text": "/ˌɔːriənˈtɪrɪŋ/",
+    "senses": [
+      {
+        "definition": "the sport of following a route across country on foot, as quickly as possible, using a map and compass",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "modelling",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/model/modelling__gb_1.mp3",
+    "phonetic_text": "/ˈmɒdəlɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/model/modelling__us_1.mp3",
+    "phonetic_am_text": "/ˈmɑːdəlɪŋ/",
+    "senses": [
+      {
+        "definition": "the work of a fashion model",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a career in modelling"
+          },
+          {
+            "cf": "",
+            "x": "Have you ever thought of modelling as a career?"
+          },
+          {
+            "cf": "",
+            "x": "a modelling agency"
+          }
+        ]
+      },
+      {
+        "definition": "the activity of making models of objects",
+        "examples": [
+          {
+            "cf": "",
+            "x": "clay modelling"
+          }
+        ]
+      },
+      {
+        "definition": "the work of making a simple description of a system or a process that can be used to explain it, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mathematical/statistical/computer modelling"
+          },
+          {
+            "cf": "",
+            "x": "macroeconomic modelling and policy analysis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "needlecraft",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nee/needl/needlecraft__gb_1.mp3",
+    "phonetic_text": "/ˈniːdlkrɑːft/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nee/needl/needlecraft__us_1.mp3",
+    "phonetic_am_text": "/ˈniːdlkræft/",
+    "senses": [
+      {
+        "definition": "the art and skill of sewing, especially when it is taught as a school subject",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "origami",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ori/origa/origami__gb_1.mp3",
+    "phonetic_text": "/ˌɒrɪˈɡɑːmi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/ori/origa/origami__us_1.mp3",
+    "phonetic_am_text": "/ˌɔːrɪˈɡɑːmi/",
+    "senses": [
+      {
+        "definition": "the Japanese art of folding paper into attractive shapes",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "palmistry",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pal/palmi/palmistry__gb_1.mp3",
+    "phonetic_text": "/ˈpɑːmɪstri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pal/palmi/palmistry__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈpɑːmɪstri/",
+    "senses": [
+      {
+        "definition": "the art of telling what a person is like and what will happen to them by looking at the lines on the palm of their hand",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "paddle",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pad/paddl/paddle__gb_1.mp3",
+    "phonetic_text": "/ˈpædl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pad/paddl/paddle__us_1.mp3",
+    "phonetic_am_text": "/ˈpædl/",
+    "senses": [
+      {
+        "definition": "to move a small boat through water using a paddle",
+        "examples": [
+          {
+            "cf": "(+ adv./prep.)",
+            "x": "We paddled downstream for about a mile."
+          },
+          {
+            "cf": "paddle something (+ adv./prep.)",
+            "x": "We paddled the canoe along the coast."
+          }
+        ]
+      },
+      {
+        "definition": "to walk or stand with no shoes or socks in shallow water in the sea, a lake, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The children have gone paddling."
+          }
+        ]
+      },
+      {
+        "definition": "to swim with short movements of your hands or feet up and down",
+        "examples": []
+      },
+      {
+        "definition": "to hit a child with a flat piece of wood as a punishment",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "music",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/music/music__gb_1.mp3",
+    "phonetic_text": "/ˈmjuːzɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/music/music__us_2.mp3",
+    "phonetic_am_text": "/ˈmjuːzɪk/",
+    "senses": [
+      {
+        "definition": "sounds that are arranged in a way that is pleasant or exciting to listen to. People sing music or play it on instruments.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I like any kind of pop or dance music."
+          },
+          {
+            "cf": "",
+            "x": "He plays traditional Korean music."
+          },
+          {
+            "cf": "",
+            "x": "People often choose to listen to music that suits their moods and activities."
+          },
+          {
+            "cf": "",
+            "x": "She could hear music playing somewhere."
+          },
+          {
+            "cf": "",
+            "x": "to stream/share/download music"
+          },
+          {
+            "cf": "",
+            "x": "to write/compose music"
+          },
+          {
+            "cf": "",
+            "x": "to perform/record music"
+          },
+          {
+            "cf": "",
+            "x": "Every week they get together to make music (= to play music or sing)."
+          },
+          {
+            "cf": "",
+            "x": "the popularity of Mozart’s music"
+          },
+          {
+            "cf": "",
+            "x": "It was a charming piece of music."
+          },
+          {
+            "cf": "",
+            "x": "The poem has been set to music (= music has been written for it)"
+          },
+          {
+            "cf": "",
+            "x": "Birmingham's live music scene"
+          },
+          {
+            "cf": "",
+            "x": "music lovers/fans"
+          },
+          {
+            "cf": "",
+            "x": "Every summer he runs a three-day music festival."
+          },
+          {
+            "cf": "",
+            "x": "The band released a music video on YouTube today."
+          }
+        ]
+      },
+      {
+        "definition": "the art of writing or playing music",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He studied music in Moscow."
+          },
+          {
+            "cf": "",
+            "x": "a career in music"
+          },
+          {
+            "cf": "",
+            "x": "a music teacher"
+          },
+          {
+            "cf": "",
+            "x": "music lessons"
+          },
+          {
+            "cf": "",
+            "x": "the music business/industry"
+          }
+        ]
+      },
+      {
+        "definition": "the written or printed signs that represent the sounds to be played or sung in a piece of music",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Can you read music (= understand the signs in order to play or sing a piece of music)?"
+          },
+          {
+            "cf": "",
+            "x": "I had to play it without the music."
+          },
+          {
+            "cf": "",
+            "x": "The music (= the paper or book with the musical notes on it) was still open on the piano."
+          }
+        ]
+      },
+      {
+        "definition": "to accept and deal with criticism or punishment for something you have done",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The others all ran off, leaving me to face the music."
+          }
+        ]
+      },
+      {
+        "definition": "news or information that you are very pleased to hear",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pastiche",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pas/pasti/pastiche__gb_1.mp3",
+    "phonetic_text": "/pæˈstiːʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/pasti/pastiche__us_1.mp3",
+    "phonetic_am_text": "/pæˈstiːʃ/",
+    "senses": [
+      {
+        "definition": "a work of art, piece of writing, etc. that is created by deliberately copying the style of somebody/something else",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pastiche of the classic detective story"
+          },
+          {
+            "cf": "",
+            "x": "She’s an expert in the art of pastiche and parody."
+          }
+        ]
+      },
+      {
+        "definition": "a work of art, etc. that consists of a variety of different styles",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "knit",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kni/knit_/knit__gb_2.mp3",
+    "phonetic_text": "/nɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kni/knit_/knit__us_1.mp3",
+    "phonetic_am_text": "/nɪt/",
+    "senses": [
+      {
+        "definition": "to make clothes, etc. from wool, cotton or other thread using two long thin knitting needles or a machine",
+        "examples": [
+          {
+            "cf": "knit (something)",
+            "x": "I knitted this cardigan myself."
+          },
+          {
+            "cf": "",
+            "x": "Lucy was sitting on the sofa, knitting."
+          },
+          {
+            "cf": "knit somebody something",
+            "x": "She's knitting the baby a shawl."
+          }
+        ]
+      },
+      {
+        "definition": "to use a basic stitch in knitting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Knit one row, purl one row."
+          }
+        ]
+      },
+      {
+        "definition": "to join people or things closely together or to be joined closely together",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a closely/tightly knit community (= one in which relationships are very close)"
+          },
+          {
+            "cf": "",
+            "x": "Society is knit together by certain commonly held beliefs."
+          }
+        ]
+      },
+      {
+        "definition": "to grow together again to form one piece; to make broken bones grow together again",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The bone failed to knit correctly."
+          }
+        ]
+      },
+      {
+        "definition": "to move your eyebrows together, to show that you are thinking hard, feeling angry, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His brows were knitted in a permanent frown."
+          },
+          {
+            "cf": "",
+            "x": "She knitted her brows in concentration."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "oil painting",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/oil/oil_p/oil_painting_1_gb_1.mp3",
+    "phonetic_text": "/ˈɔɪl peɪntɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oil/oil_p/oil_painting_1_us_1.mp3",
+    "phonetic_am_text": "/ˈɔɪl peɪntɪŋ/",
+    "senses": [
+      {
+        "definition": "a picture painted in oil paint",
+        "examples": []
+      },
+      {
+        "definition": "the art of painting in oil paint",
+        "examples": []
+      },
+      {
+        "definition": "used when you are saying that a person is not attractive to look at",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "portraiture",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/por/portr/portraiture__gb_1.mp3",
+    "phonetic_text": "/ˈpɔːtrətʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/por/portr/portraiture__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈpɔːrtrətʃər/",
+    "senses": [
+      {
+        "definition": "the art of making portraits; the portraits that are made",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "painting",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pai/paint/painting__gb_1.mp3",
+    "phonetic_text": "/ˈpeɪntɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pai/paint/painting__us_3.mp3",
+    "phonetic_am_text": "/ˈpeɪntɪŋ/",
+    "senses": [
+      {
+        "definition": "a picture that has been painted",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a watercolour/an acrylic painting"
+          },
+          {
+            "cf": "painting of somebody/something",
+            "x": "Canaletto's paintings of Venice"
+          },
+          {
+            "cf": "painting by somebody",
+            "x": "an exhibition of paintings by American artists"
+          },
+          {
+            "cf": "",
+            "x": "She has also done abstract paintings and made experimental films."
+          },
+          {
+            "cf": "",
+            "x": "Kahlo's paintings often depict her suffering."
+          }
+        ]
+      },
+      {
+        "definition": "the act or art of using paint to produce pictures",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her hobbies include music and painting."
+          },
+          {
+            "cf": "",
+            "x": "the great British tradition of landscape painting"
+          },
+          {
+            "cf": "",
+            "x": "abstract/figurative painting"
+          }
+        ]
+      },
+      {
+        "definition": "the act of putting paint onto the surface of objects, walls, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "painting and decorating"
+          },
+          {
+            "cf": "",
+            "x": "We can do the painting ourselves."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "poetry",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/poe/poetr/poetry__gb_1.mp3",
+    "phonetic_text": "/ˈpəʊətri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/poe/poetr/poetry__us_1.mp3",
+    "phonetic_am_text": "/ˈpəʊətri/",
+    "senses": [
+      {
+        "definition": "poems in general; poems as a genre of literature",
+        "examples": [
+          {
+            "cf": "",
+            "x": "lyric/epic poetry"
+          },
+          {
+            "cf": "",
+            "x": "to write poetry"
+          },
+          {
+            "cf": "",
+            "x": "a poetry reading"
+          },
+          {
+            "cf": "",
+            "x": "Maya Angelou’s poetry"
+          },
+          {
+            "cf": "",
+            "x": "a book/collection/anthology of poetry"
+          }
+        ]
+      },
+      {
+        "definition": "a quality of beauty, style and feeling",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was poetry in all her gestures."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pastime",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pas/pasti/pastime__gb_1.mp3",
+    "phonetic_text": "/ˈpɑːstaɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/pasti/pastime__us_1.mp3",
+    "phonetic_am_text": "/ˈpæstaɪm/",
+    "senses": [
+      {
+        "definition": "something that you enjoy doing when you are not working",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Watching television is still the most popular national pastime."
+          },
+          {
+            "cf": "",
+            "x": "Fishing is an enjoyable pastime for people of all ages."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pottery",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pot/potte/pottery__gb_1.mp3",
+    "phonetic_text": "/ˈpɒtəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pot/potte/pottery__us_1.mp3",
+    "phonetic_am_text": "/ˈpɑːtəri/",
+    "senses": [
+      {
+        "definition": "pots, dishes, etc. made with clay that are baked in an oven, especially when they are made by hand",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Roman pottery"
+          },
+          {
+            "cf": "",
+            "x": "a piece of pottery"
+          },
+          {
+            "cf": "",
+            "x": "fragments of Iron Age pottery"
+          },
+          {
+            "cf": "",
+            "x": "the kilns in which the pottery is fired"
+          }
+        ]
+      },
+      {
+        "definition": "the clay that some dishes and pots are made of",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a jug made of blue-glazed pottery"
+          },
+          {
+            "cf": "",
+            "x": "a pottery casserole dish"
+          }
+        ]
+      },
+      {
+        "definition": "the skill of making pots and dishes from clay, especially by hand",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pottery class"
+          }
+        ]
+      },
+      {
+        "definition": "a place where clay pots and dishes are made",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pony-trekking",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pon/pony_/pony_trekking_1_gb_1.mp3",
+    "phonetic_text": "/ˈpəʊni trekɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pon/pony_/pony_trekking_1_us_1.mp3",
+    "phonetic_am_text": "/ˈpəʊni trekɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of riding ponies in the countryside for pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go pony-trekking"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ramble",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ram/rambl/ramble__gb_1.mp3",
+    "phonetic_text": "/ˈræmbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ram/rambl/ramble__us_1.mp3",
+    "phonetic_am_text": "/ˈræmbl/",
+    "senses": [
+      {
+        "definition": "a long walk for pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go for a ramble in the country"
+          },
+          {
+            "cf": "",
+            "x": "We went for a ramble over the moors."
+          }
+        ]
+      },
+      {
+        "definition": "a long confused speech or piece of writing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She went into a long ramble about the evils of television."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "photography",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pho/photo/photography__gb_1.mp3",
+    "phonetic_text": "/fəˈtɒɡrəfi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pho/photo/photography__us_1.mp3",
+    "phonetic_am_text": "/fəˈtɑːɡrəfi/",
+    "senses": [
+      {
+        "definition": "the art, process or job of taking photographs or filming something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her hobbies include hiking and photography."
+          },
+          {
+            "cf": "",
+            "x": "digital photography"
+          },
+          {
+            "cf": "",
+            "x": "colour/black-and-white photography"
+          },
+          {
+            "cf": "",
+            "x": "aerial/underwater photography"
+          },
+          {
+            "cf": "",
+            "x": "fashion photography by David Burn"
+          },
+          {
+            "cf": "",
+            "x": "the director of photography (= the person who is in charge of the actual filming of a film, programme, etc.)"
+          },
+          {
+            "cf": "",
+            "x": "Did you see the film about Antarctica? The photography was superb!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "poetics",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/poe/poeti/poetics__gb_1.mp3",
+    "phonetic_text": "/pəʊˈetɪks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/poe/poeti/poetics__us_1.mp3",
+    "phonetic_am_text": "/pəʊˈetɪks/",
+    "senses": [
+      {
+        "definition": "the art of writing poetry",
+        "examples": []
+      },
+      {
+        "definition": "the study of poetry, literature, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "reading",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rea/readi/reading__gb_1.mp3",
+    "phonetic_text": "/ˈriːdɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rea/readi/reading__us_1.mp3",
+    "phonetic_am_text": "/ˈriːdɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of somebody who reads",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My hobbies include reading and painting."
+          },
+          {
+            "cf": "",
+            "x": "He needs more help with his reading."
+          },
+          {
+            "cf": "",
+            "x": "Are you any good at map reading?"
+          },
+          {
+            "cf": "",
+            "x": "He enjoys reading and going to the cinema."
+          },
+          {
+            "cf": "",
+            "x": "reading glasses (= worn when reading)"
+          },
+          {
+            "cf": "",
+            "x": "a reading lamp/light (= one that can be moved to shine light onto something that you are reading)"
+          },
+          {
+            "cf": "",
+            "x": "She has a reading knowledge of German (= she can understand written German)."
+          },
+          {
+            "cf": "reading on something",
+            "x": "After extensive reading on the subject she set to work on an article."
+          },
+          {
+            "cf": "reading about something",
+            "x": "He's done a lot of reading about the history of the town."
+          }
+        ]
+      },
+      {
+        "definition": "an act of reading something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A closer (= more detailed) reading of the text reveals just how desperate he was feeling."
+          },
+          {
+            "cf": "",
+            "x": "We are all expected to attend the reading of her will."
+          }
+        ]
+      },
+      {
+        "definition": "books, articles, etc. that are intended to be read",
+        "examples": [
+          {
+            "cf": "",
+            "x": "reading material"
+          },
+          {
+            "cf": "",
+            "x": "reading matter"
+          },
+          {
+            "cf": "",
+            "x": "a series of reading books for children"
+          },
+          {
+            "cf": "",
+            "x": "further reading (= at the end of a book, a list of other books that give more information about the same subject)"
+          },
+          {
+            "cf": "",
+            "x": "The report makes for interesting reading (= it is interesting to read)"
+          },
+          {
+            "cf": "",
+            "x": "The article is not exactly light reading (= it is serious and requires effort and concentration to understand)."
+          },
+          {
+            "cf": "reading for somebody/something",
+            "x": "His article should be compulsory reading for law students."
+          },
+          {
+            "cf": "",
+            "x": "Her assigned reading for English class was ‘Great Expectations’."
+          },
+          {
+            "cf": "reading on something",
+            "x": "a list of suggested reading on this topic"
+          }
+        ]
+      },
+      {
+        "definition": "the particular way in which you understand a book, situation, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Those conclusions are based on a literal reading of the text."
+          },
+          {
+            "cf": "",
+            "x": "My own reading of events is less optimistic."
+          }
+        ]
+      },
+      {
+        "definition": "the amount or number shown on an instrument used for measuring something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Meter readings are taken every three months."
+          }
+        ]
+      },
+      {
+        "definition": "an event at which something is read to an audience for entertainment; a piece of literature that is read at such an event",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was invited to give a poetry reading as part of the literary festival."
+          },
+          {
+            "cf": "",
+            "x": "The evening ended with a reading from her latest novel."
+          }
+        ]
+      },
+      {
+        "definition": "a short section from a holy text that is read to people as part of a religious service",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The reading today is from the Book of Daniel."
+          },
+          {
+            "cf": "",
+            "x": "readings from the Koran"
+          }
+        ]
+      },
+      {
+        "definition": "one of the stages during which a bill (= a proposal for a new law) must be discussed and accepted by a parliament before it can become law",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The bill looks like it will be given a second reading."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ramble",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ram/rambl/ramble__gb_1.mp3",
+    "phonetic_text": "/ˈræmbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ram/rambl/ramble__us_1.mp3",
+    "phonetic_am_text": "/ˈræmbl/",
+    "senses": [
+      {
+        "definition": "to walk for pleasure, especially in the countryside",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We spent the summer rambling in Ireland."
+          },
+          {
+            "cf": "",
+            "x": "You can ramble through some beautiful countryside in the area."
+          }
+        ]
+      },
+      {
+        "definition": "to talk about somebody/something in a confused way, especially for a long time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had lost track of what he was saying and began to ramble."
+          },
+          {
+            "cf": "ramble (on) (about somebody/something)",
+            "x": "What is she rambling on about now?"
+          }
+        ]
+      },
+      {
+        "definition": "to grow in many different directions, especially over other plants or objects",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Climbing plants rambled over the front of the house."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rambling",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ram/rambl/rambling__gb_1.mp3",
+    "phonetic_text": "/ˈræmblɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ram/rambl/rambling__us_1.mp3",
+    "phonetic_am_text": "/ˈræmblɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of walking for pleasure in the countryside",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She’s a member of a rambling club."
+          }
+        ]
+      },
+      {
+        "definition": "speech or writing that continues for a long time without saying much and seems very confused",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the ramblings of a madman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "right of way",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rig/right/right_of_way_1_gb_1.mp3",
+    "phonetic_text": "/ˌraɪt əv ˈweɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rig/right/right_of_way_1_us_1.mp3",
+    "phonetic_am_text": "/ˌraɪt əv ˈweɪ/",
+    "senses": [
+      {
+        "definition": "legal permission to go onto or through another person’s land",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Private property—no right of way."
+          },
+          {
+            "cf": "",
+            "x": "There is no public right of way across the fields."
+          }
+        ]
+      },
+      {
+        "definition": "a public path that goes through private land",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a public right of way for walkers"
+          }
+        ]
+      },
+      {
+        "definition": "the right to drive across or into a road before another vehicle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I had right of way at the junction."
+          },
+          {
+            "cf": "",
+            "x": "Whose right of way is it?"
+          },
+          {
+            "cf": "",
+            "x": "roads where bikes have the right of way"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "relax",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relax/relax__gb_1.mp3",
+    "phonetic_text": "/rɪˈlæks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relax/relax__us_1.mp3",
+    "phonetic_am_text": "/rɪˈlæks/",
+    "senses": [
+      {
+        "definition": "to rest while you are doing something that you enjoy, especially after work or effort",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Just relax and enjoy the movie."
+          },
+          {
+            "cf": "",
+            "x": "I'm going to spend the weekend just relaxing."
+          },
+          {
+            "cf": "",
+            "x": "He was relaxing at home, watching TV."
+          },
+          {
+            "cf": "",
+            "x": "She finished her lunch and then relaxed in the sun."
+          },
+          {
+            "cf": "",
+            "x": "The boys had been relaxing on the beach at their resort."
+          },
+          {
+            "cf": "",
+            "x": "You need a little time to relax and unwind."
+          },
+          {
+            "cf": "relax with something",
+            "x": "When I get home from work I like to relax with the newspaper."
+          },
+          {
+            "cf": "",
+            "x": "Sit back and relax with a cup of tea."
+          }
+        ]
+      },
+      {
+        "definition": "to become or make somebody become calmer and less worried",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'll only relax when I know you're safe."
+          },
+          {
+            "cf": "",
+            "x": "I can't relax until I've spoken to her myself."
+          },
+          {
+            "cf": "",
+            "x": "'You need to try and relax,' Jane said."
+          },
+          {
+            "cf": "",
+            "x": "Relax! Everything will be OK."
+          },
+          {
+            "cf": "relax somebody",
+            "x": "A herbal tea will relax you."
+          }
+        ]
+      },
+      {
+        "definition": "to become or make something become less tight or stiff",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Allow your muscles to relax completely."
+          },
+          {
+            "cf": "relax something",
+            "x": "The massage relaxed my tense back muscles."
+          },
+          {
+            "cf": "",
+            "x": "He relaxed his grip on her arm."
+          },
+          {
+            "cf": "",
+            "x": "He closed his eyes and forced himself to relax his tensed body."
+          },
+          {
+            "cf": "",
+            "x": "The dictator refuses to relax his grip on power."
+          },
+          {
+            "cf": "",
+            "x": "His severe expression relaxed into a half-smile."
+          }
+        ]
+      },
+      {
+        "definition": "to allow rules, laws, etc. to become less strict",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to relax rules/restrictions/regulations/requirements"
+          },
+          {
+            "cf": "",
+            "x": "government plans to relax the licensing laws to allow round-the-clock drinking"
+          },
+          {
+            "cf": "",
+            "x": "The council has relaxed the ban on dogs in city parks."
+          }
+        ]
+      },
+      {
+        "definition": "to allow your attention or effort to become weaker",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You cannot afford to relax your concentration for a moment."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "roam",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/roa/roam_/roam__gb_1.mp3",
+    "phonetic_text": "/rəʊm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roa/roam_/roam__us_1.mp3",
+    "phonetic_am_text": "/rəʊm/",
+    "senses": [
+      {
+        "definition": "to walk or travel around an area without any definite aim or direction",
+        "examples": [
+          {
+            "cf": "+ adv./prep.",
+            "x": "The sheep are allowed to roam freely on this land."
+          },
+          {
+            "cf": "",
+            "x": "Ramblers are calling for the right to roam (= the freedom to walk in open countryside) to be extended."
+          },
+          {
+            "cf": "roam something",
+            "x": "to roam the countryside/the streets"
+          }
+        ]
+      },
+      {
+        "definition": "to move slowly over every part of somebody/something",
+        "examples": [
+          {
+            "cf": "roam over something/somebody",
+            "x": "His gaze roamed over her."
+          },
+          {
+            "cf": "",
+            "x": "Her eyes roamed over him, assessing him."
+          },
+          {
+            "cf": "roam something/somebody",
+            "x": "Her eyes roamed the room."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "riding",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rid/ridin/riding__gb_4.mp3",
+    "phonetic_text": "/ˈraɪdɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rid/ridin/riding__us_1.mp3",
+    "phonetic_am_text": "/ˈraɪdɪŋ/",
+    "senses": [
+      {
+        "definition": "the sport or activity of riding horses",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm taking riding lessons."
+          },
+          {
+            "cf": "",
+            "x": "riding boots"
+          },
+          {
+            "cf": "",
+            "x": "to go riding"
+          },
+          {
+            "cf": "",
+            "x": "to go horseback riding"
+          },
+          {
+            "cf": "",
+            "x": "We went horse riding."
+          }
+        ]
+      },
+      {
+        "definition": "one of the three former parts of the English county of Yorkshire called the East Riding, the North Riding and the West Riding",
+        "examples": []
+      },
+      {
+        "definition": "a district that elects its own representative to a state or national government",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A by-election was called for the Ontario riding of Whitby-Oshawa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "roller skate",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rol/rolle/roller_skate_1_gb_1.mp3",
+    "phonetic_text": "/ˈrəʊlə skeɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rol/rolle/roller_skate_1_us_2.mp3",
+    "phonetic_am_text": "/ˈrəʊlər skeɪt/",
+    "senses": [
+      {
+        "definition": "a type of boot with two pairs of small wheels attached to the bottom",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of roller skates"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "safari park",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/saf/safar/safari_park_1_gb_1.mp3",
+    "phonetic_text": "/səˈfɑːri pɑːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/saf/safar/safari_park_1_us_1.mp3",
+    "phonetic_am_text": "/səˈfɑːri pɑːrk/",
+    "senses": [
+      {
+        "definition": "a park in which wild animals move around freely and are watched by visitors from their cars",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sew",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sew/sew__/sew__gb_1.mp3",
+    "phonetic_text": "/səʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sew/sew__/sew__us_1.mp3",
+    "phonetic_am_text": "/səʊ/",
+    "senses": [
+      {
+        "definition": "to use a needle and thread to make stitches in cloth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My mother taught me how to sew."
+          },
+          {
+            "cf": "",
+            "x": "to sew by hand/machine"
+          },
+          {
+            "cf": "sew something",
+            "x": "to sew a seam"
+          }
+        ]
+      },
+      {
+        "definition": "to make, repair or attach something using a needle and thread",
+        "examples": [
+          {
+            "cf": "sew something",
+            "x": "She sews all her own clothes."
+          },
+          {
+            "cf": "sew something on",
+            "x": "Can you sew a button on for me?"
+          },
+          {
+            "cf": "",
+            "x": "Surgeons were able to sew the finger back on."
+          },
+          {
+            "cf": "sew something + adv./prep.",
+            "x": "The jewel was sewn into the lining of his coat."
+          },
+          {
+            "cf": "",
+            "x": "The squares of fabric were all sewn neatly together."
+          },
+          {
+            "cf": "",
+            "x": "He sewed the patch onto the back of his jeans."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sewing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sew/sewin/sewing__gb_1.mp3",
+    "phonetic_text": "/ˈsəʊɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sew/sewin/sewing__us_1.mp3",
+    "phonetic_am_text": "/ˈsəʊɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of making, repairing or decorating things made of cloth using a needle and thread",
+        "examples": [
+          {
+            "cf": "",
+            "x": "knitting and sewing"
+          },
+          {
+            "cf": "",
+            "x": "a sewing basket"
+          },
+          {
+            "cf": "",
+            "x": "I haven’t done any sewing for a long time."
+          }
+        ]
+      },
+      {
+        "definition": "something that is being sewn",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pile of sewing"
+          },
+          {
+            "cf": "",
+            "x": "She took in sewing to supplement her income."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Rollerblade™",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rol/rolle/rollerblade__gb_1.mp3",
+    "phonetic_text": "/ˈrəʊləbleɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rol/rolle/rollerblade__us_1.mp3",
+    "phonetic_am_text": "/ˈrəʊlərbleɪd/",
+    "senses": [
+      {
+        "definition": "a type of boot with a line of small wheels attached to the bottom",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "snorkel",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sno/snork/snorkel__gb_1.mp3",
+    "phonetic_text": "/ˈsnɔːkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sno/snork/snorkel__us_1.mp3",
+    "phonetic_am_text": "/ˈsnɔːrkl/",
+    "senses": [
+      {
+        "definition": "a tube that you can breathe air through when you are swimming under the surface of the water",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "skateboarding",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/ska/skate/skateboarding__gb_1.mp3",
+    "phonetic_text": "/ˈskeɪtbɔːdɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ska/skate/skateboarding__us_1.mp3",
+    "phonetic_am_text": "/ˈskeɪtbɔːrdɪŋ/",
+    "senses": [
+      {
+        "definition": "the sport or activity of riding on a skateboard",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a skateboarding magazine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sculpture",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/scu/sculp/sculpture__gb_1.mp3",
+    "phonetic_text": "/ˈskʌlptʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/scu/sculp/sculpture__us_2.mp3",
+    "phonetic_am_text": "/ˈskʌlptʃər/",
+    "senses": [
+      {
+        "definition": "a work of art that is a solid figure or object made by carving or shaping wood, stone, clay, metal, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a marble sculpture of Venus"
+          },
+          {
+            "cf": "",
+            "x": "He collects modern sculpture."
+          },
+          {
+            "cf": "",
+            "x": "a sculpture garden/park"
+          },
+          {
+            "cf": "",
+            "x": "a bronze/stone sculpture"
+          }
+        ]
+      },
+      {
+        "definition": "the art of making sculptures",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the techniques of sculpture in stone"
+          },
+          {
+            "cf": "",
+            "x": "The frieze shows ancient Greek relief sculpture at its most inventive."
+          },
+          {
+            "cf": "",
+            "x": "She trained in painting and sculpture at Columbia University."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reserve",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/reser/reserve__gb_1.mp3",
+    "phonetic_text": "/rɪˈzɜːv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/reser/reserve__us_4.mp3",
+    "phonetic_am_text": "/rɪˈzɜːrv/",
+    "senses": [
+      {
+        "definition": "a supply of something that is available to be used in the future or when it is needed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "cash/foreign currency reserves"
+          },
+          {
+            "cf": "",
+            "x": "large oil and gas reserves"
+          },
+          {
+            "cf": "",
+            "x": "reserve funds"
+          },
+          {
+            "cf": "reserve of something",
+            "x": "He discovered unexpected reserves of strength."
+          },
+          {
+            "cf": "",
+            "x": "The country has the world's largest reserves of coal."
+          },
+          {
+            "cf": "",
+            "x": "The company has substantial reserves of capital."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of land that is a protected area for animals, plants, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a wildlife/forest reserve"
+          }
+        ]
+      },
+      {
+        "definition": "an area of land in the US that is kept separate for native North Americans to live in",
+        "examples": []
+      },
+      {
+        "definition": "the quality that somebody has when they do not talk easily to other people about their ideas, feelings, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She found it difficult to make friends because of her natural reserve."
+          },
+          {
+            "cf": "",
+            "x": "Jaime always talked to people without reserve."
+          }
+        ]
+      },
+      {
+        "definition": "a feeling that you do not want to accept or agree to something, etc. until you are quite sure that it is all right to do so",
+        "examples": [
+          {
+            "cf": "with reserve",
+            "x": "Any contract should be treated with reserve until it has been checked."
+          },
+          {
+            "cf": "without reserve",
+            "x": "She trusted him without reserve (= completely)."
+          }
+        ]
+      },
+      {
+        "definition": "an extra player who plays in a team when one of the other players is injured or not available to play",
+        "examples": []
+      },
+      {
+        "definition": "a team that is below the level of the main team",
+        "examples": []
+      },
+      {
+        "definition": "an extra military force, etc. that is not part of a country’s regular forces, but is available to be used when needed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the Army Reserve"
+          },
+          {
+            "cf": "",
+            "x": "the reserve police"
+          }
+        ]
+      },
+      {
+        "definition": "the lowest price that somebody will accept for something, especially something that is sold at an auction",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The painting failed to reach to its reserve and was withdrawn from the sale."
+          }
+        ]
+      },
+      {
+        "definition": "available to be used in the future or when needed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The money was being kept in reserve for their retirement."
+          },
+          {
+            "cf": "",
+            "x": "200 police officers were held in reserve."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stamp collecting",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/stamp/stamp_collecting_1_gb_1.mp3",
+    "phonetic_text": "/ˈstæmp kəlektɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stamp/stamp_collecting_1_us_1.mp3",
+    "phonetic_am_text": "/ˈstæmp kəlektɪŋ/",
+    "senses": [
+      {
+        "definition": "the hobby of collecting stamps from different countries",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "taxidermy",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tax/taxid/taxidermy__gb_1.mp3",
+    "phonetic_text": "/ˈtæksɪdɜːmi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tax/taxid/taxidermy__us_1.mp3",
+    "phonetic_am_text": "/ˈtæksɪdɜːrmi/",
+    "senses": [
+      {
+        "definition": "the art of stuffing dead animals, birds and fish with a special material so that they look like living ones and can be displayed",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "sudoku",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sud/sudok/sudoku__gb_1.mp3",
+    "phonetic_text": "/suˈdəʊkuː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sud/sudok/sudoku__us_2.mp3",
+    "phonetic_am_text": "/suˈdəʊkuː/",
+    "senses": [
+      {
+        "definition": "a number puzzle with nine squares, each containing nine smaller squares, in which you have to put the numbers one to nine so that a number appears only once in each of the nine squares and in each row of nine across and down the puzzle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He passes the time doing sudokus."
+          },
+          {
+            "cf": "",
+            "x": "There are sudokus at four levels of difficulty."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spare",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spa/spare/spare__gb_1.mp3",
+    "phonetic_text": "/speə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spa/spare/spare__us_1.mp3",
+    "phonetic_am_text": "/sper/",
+    "senses": [
+      {
+        "definition": "available to do what you want with rather than work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's studying music in his spare time."
+          },
+          {
+            "cf": "",
+            "x": "I haven't had a spare moment this morning."
+          }
+        ]
+      },
+      {
+        "definition": "that is not being used or is not needed at the present time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We've got a spare bedroom, if you'd like to stay."
+          },
+          {
+            "cf": "",
+            "x": "I'm afraid I haven't got any spare cash."
+          },
+          {
+            "cf": "",
+            "x": "Are there any tickets going spare (= are there any available, not being used by somebody else)?"
+          }
+        ]
+      },
+      {
+        "definition": "kept in case you need to replace the one you usually use; extra",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a spare key/tyre"
+          },
+          {
+            "cf": "",
+            "x": "Take some spare clothes in case you get wet."
+          }
+        ]
+      },
+      {
+        "definition": "thin, and usually quite tall",
+        "examples": []
+      },
+      {
+        "definition": "to become very angry or upset",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Your mum would go spare if she knew!"
+          },
+          {
+            "cf": "",
+            "x": "I’ll go spare if I don’t get out of the house soon!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shopping",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sho/shopp/shopping__gb_1.mp3",
+    "phonetic_text": "/ˈʃɒpɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sho/shopp/shopping__us_1.mp3",
+    "phonetic_am_text": "/ˈʃɑːpɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of going to shops and buying things or ordering them online",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go shopping"
+          },
+          {
+            "cf": "",
+            "x": "When shall I do the shopping?"
+          },
+          {
+            "cf": "",
+            "x": "We do our shopping on Saturdays."
+          },
+          {
+            "cf": "",
+            "x": "I do all my clothes shopping online."
+          },
+          {
+            "cf": "",
+            "x": "a shopping basket"
+          },
+          {
+            "cf": "",
+            "x": "They go on endless shopping trips."
+          },
+          {
+            "cf": "",
+            "x": "She is in the fashionable shopping area of London."
+          },
+          {
+            "cf": "",
+            "x": "We do most of our grocery shopping at large supermarkets."
+          },
+          {
+            "cf": "",
+            "x": "Customers get both online shopping convenience and highly competitive prices."
+          }
+        ]
+      },
+      {
+        "definition": "the things that you have bought from shops",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to put the shopping in the car"
+          },
+          {
+            "cf": "",
+            "x": "They unpacked the shopping and put it away."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wade",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wad/wade_/wade__gb_1.mp3",
+    "phonetic_text": "/weɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wad/wade_/wade__us_1.mp3",
+    "phonetic_am_text": "/weɪd/",
+    "senses": [
+      {
+        "definition": "to walk with an effort through something, especially water or mud",
+        "examples": [
+          {
+            "cf": "(+ adv./prep.)",
+            "x": "He waded into the water to push the boat out."
+          },
+          {
+            "cf": "",
+            "x": "Sometimes they had to wade waist-deep through mud."
+          },
+          {
+            "cf": "",
+            "x": "The men waded ashore."
+          },
+          {
+            "cf": "",
+            "x": "We waded across the stream."
+          },
+          {
+            "cf": "wade something",
+            "x": "They waded the river at a shallow point."
+          }
+        ]
+      },
+      {
+        "definition": "to walk or stand with no shoes or socks in shallow water in the sea, a lake, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "tapestry",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tap/tapes/tapestry__gb_1.mp3",
+    "phonetic_text": "/ˈtæpəstri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tap/tapes/tapestry__us_1.mp3",
+    "phonetic_am_text": "/ˈtæpəstri/",
+    "senses": [
+      {
+        "definition": "a picture or pattern that is made by weaving coloured wool onto heavy cloth; the art of doing this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "medieval tapestries"
+          },
+          {
+            "cf": "",
+            "x": "tapestry cushions"
+          },
+          {
+            "cf": "",
+            "x": "crafts such as embroidery and tapestry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "woodwork",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/woo/woodw/woodwork__gb_1.mp3",
+    "phonetic_text": "/ˈwʊdwɜːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/woo/woodw/woodwork__us_1.mp3",
+    "phonetic_am_text": "/ˈwʊdwɜːrk/",
+    "senses": [
+      {
+        "definition": "things made of wood in a building or room, such as doors and stairs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The woodwork needs painting."
+          },
+          {
+            "cf": "",
+            "x": "There were cracks in the woodwork."
+          },
+          {
+            "cf": "",
+            "x": "elaborately/intricately carved woodwork"
+          }
+        ]
+      },
+      {
+        "definition": "the activity or skill of making things from wood",
+        "examples": []
+      },
+      {
+        "definition": "to behave in a way that does not attract any attention; to disappear or hide",
+        "examples": []
+      },
+      {
+        "definition": "if you say that somebody comes/crawls out of the woodwork, you mean that they have suddenly appeared in order to express an opinion or to take advantage of a situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When he won the lottery, all sorts of distant relatives came out of the woodwork."
+          }
+        ]
+      },
+      {
+        "definition": "to hit the wooden frame of the goal in the game of football (soccer), instead of scoring a goal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She hit the woodwork twice before scoring."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "snorkel",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sno/snork/snorkel__gb_1.mp3",
+    "phonetic_text": "/ˈsnɔːkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sno/snork/snorkel__us_1.mp3",
+    "phonetic_am_text": "/ˈsnɔːrkl/",
+    "senses": [
+      {
+        "definition": "to swim under the surface of the water while breathing air through a tube (= a snorkel)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "walking",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wal/walki/walking__gb_1.mp3",
+    "phonetic_text": "/ˈwɔːkɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wal/walki/walking__us_1.mp3",
+    "phonetic_am_text": "/ˈwɔːkɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of going for walks in the countryside for exercise or pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go walking"
+          },
+          {
+            "cf": "",
+            "x": "walking boots"
+          },
+          {
+            "cf": "",
+            "x": "a walking holiday in Scotland"
+          },
+          {
+            "cf": "",
+            "x": "Activities on offer include walking and bird watching."
+          },
+          {
+            "cf": "",
+            "x": "This is superb walking country."
+          }
+        ]
+      },
+      {
+        "definition": "the sport of walking a long distance as fast as possible without running",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "writing",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wri/writi/writing__gb_1.mp3",
+    "phonetic_text": "/ˈraɪtɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wri/writi/writing__us_4.mp3",
+    "phonetic_am_text": "/ˈraɪtɪŋ/",
+    "senses": [
+      {
+        "definition": "the activity of writing, in contrast to reading, speaking, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Our son’s having problems with his reading and writing (= at school)."
+          },
+          {
+            "cf": "",
+            "x": "a writing case (= containing paper, pens, etc.)"
+          },
+          {
+            "cf": "",
+            "x": "Every morning the children do writing."
+          }
+        ]
+      },
+      {
+        "definition": "the activity of writing books, articles, etc., especially as a job",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Only later did she discover a talent for writing."
+          },
+          {
+            "cf": "",
+            "x": "I wanted to try out a new style of writing."
+          },
+          {
+            "cf": "",
+            "x": "creative writing"
+          },
+          {
+            "cf": "",
+            "x": "feminist/travel writing"
+          },
+          {
+            "cf": "",
+            "x": "He is leaving the band to concentrate on his writing."
+          }
+        ]
+      },
+      {
+        "definition": "books, articles, etc. in general",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The review is a brilliant piece of writing."
+          }
+        ]
+      },
+      {
+        "definition": "words that have been written or painted on something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was writing all over the desk."
+          }
+        ]
+      },
+      {
+        "definition": "the particular way in which somebody forms letters when they write",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Who's this from? I don't recognize the writing."
+          }
+        ]
+      },
+      {
+        "definition": "a group of pieces of writing, especially by a particular person or on a particular subject",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His experiences in India influenced his later writings."
+          },
+          {
+            "cf": "",
+            "x": "the writings of Hegel"
+          },
+          {
+            "cf": "writings on something",
+            "x": "His writings on complex subjects are clear and definitive."
+          }
+        ]
+      },
+      {
+        "definition": "in the form of a letter, document, etc. (that gives proof of something)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "All telephone reservations must be confirmed in writing."
+          },
+          {
+            "cf": "",
+            "x": "Could you put your complaint in writing?"
+          },
+          {
+            "cf": "",
+            "x": "You must get it in writing."
+          }
+        ]
+      },
+      {
+        "definition": "used when you are describing a situation in which there are signs that something is going to have problems or that it is going to be a failure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It is amazing that not one of them saw the writing on the wall."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wander",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wan/wande/wander__gb_1.mp3",
+    "phonetic_text": "/ˈwɒndə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wan/wande/wander__us_1.mp3",
+    "phonetic_am_text": "/ˈwɑːndər/",
+    "senses": [
+      {
+        "definition": "to walk slowly around or to a place, often without any particular sense of purpose or direction",
+        "examples": [
+          {
+            "cf": "+ adv./prep.",
+            "x": "She wandered aimlessly around the streets."
+          },
+          {
+            "cf": "",
+            "x": "We wandered back towards the car."
+          },
+          {
+            "cf": "wander something",
+            "x": "The child was found wandering the streets alone."
+          }
+        ]
+      },
+      {
+        "definition": "to move away from the place where you ought to be or the people you are with",
+        "examples": [
+          {
+            "cf": "wander away/off",
+            "x": "The child wandered off and got lost."
+          },
+          {
+            "cf": "",
+            "x": "How could you let him wander off like that?"
+          },
+          {
+            "cf": "wander from/off something",
+            "x": "They had wandered from the path into the woods."
+          }
+        ]
+      },
+      {
+        "definition": "to stop being directed on something and to move without much control to other ideas, subjects, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's easy to be distracted and let your attention wander."
+          },
+          {
+            "cf": "",
+            "x": "Try not to let your mind wander."
+          },
+          {
+            "cf": "wander away, back, to, etc. something",
+            "x": "Her thoughts wandered back to her youth."
+          },
+          {
+            "cf": "",
+            "x": "Don’t wander off the subject—keep to the point."
+          }
+        ]
+      },
+      {
+        "definition": "to move slowly from looking at one thing to looking at another thing or in other directions",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She let her gaze wander."
+          },
+          {
+            "cf": "+ adv./prep.",
+            "x": "His eyes wandered towards the photographs on the wall."
+          }
+        ]
+      },
+      {
+        "definition": "to go in a curve instead of following a straight course",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The road wanders along through the hills."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "track",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/track/track__gb_1.mp3",
+    "phonetic_text": "/træk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/track/track__us_1.mp3",
+    "phonetic_am_text": "/træk/",
+    "senses": [
+      {
+        "definition": "rails (= metal bars) that a train moves along",
+        "examples": [
+          {
+            "cf": "",
+            "x": "railway/railroad tracks"
+          },
+          {
+            "cf": "",
+            "x": "We crossed the rail/train track."
+          },
+          {
+            "cf": "",
+            "x": "India has thousands of miles of track."
+          },
+          {
+            "cf": "",
+            "x": "Many branch lines were closed, and the tracks lifted."
+          }
+        ]
+      },
+      {
+        "definition": "a track with a number at a train station that a train arrives at or leaves from",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The train for Chicago is on track 9."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of ground with a special surface for people, cars, etc. to have races or to drive on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a race track"
+          },
+          {
+            "cf": "",
+            "x": "a Formula One Grand Prix track (= for motor racing)"
+          },
+          {
+            "cf": "",
+            "x": "a running track"
+          }
+        ]
+      },
+      {
+        "definition": "the sport of running on a track",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He loves sports and participates in track and basketball."
+          }
+        ]
+      },
+      {
+        "definition": "a rough path or road, usually one that has not been built but that has been made by people walking there",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a muddy track through the forest"
+          },
+          {
+            "cf": "",
+            "x": "a dirt track"
+          }
+        ]
+      },
+      {
+        "definition": "marks left by a person, an animal or a moving vehicle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We followed the bear's tracks in the snow."
+          },
+          {
+            "cf": "",
+            "x": "Leading away into the bushes were fresh rabbit tracks."
+          },
+          {
+            "cf": "",
+            "x": "tyre tracks"
+          },
+          {
+            "cf": "",
+            "x": "The beach is criss-crossed with animal tracks."
+          }
+        ]
+      },
+      {
+        "definition": "the path or direction that somebody/something is moving in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He switched tracks and went back to college."
+          },
+          {
+            "cf": "on the track of somebody/something",
+            "x": "Police are on the track of (= searching for) the thieves."
+          }
+        ]
+      },
+      {
+        "definition": "a recording of one song or piece of music",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a track from their latest album"
+          },
+          {
+            "cf": "",
+            "x": "The album kicks off with the title track (= a song with the same name as the album)."
+          },
+          {
+            "cf": "",
+            "x": "The opening track is sweet and sentimental."
+          }
+        ]
+      },
+      {
+        "definition": "part of a computer disk or tape that music or information can be recorded on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a sixteen track recording studio"
+          },
+          {
+            "cf": "",
+            "x": "She sang on the backing track."
+          }
+        ]
+      },
+      {
+        "definition": "the soundtrack of a film or video",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The film is available with French and Spanish audio tracks."
+          },
+          {
+            "cf": "",
+            "x": "There is a commentary track by the director."
+          }
+        ]
+      },
+      {
+        "definition": "a long, thin, straight piece of metal, wood or plastic that a curtain hangs from and moves along",
+        "examples": []
+      },
+      {
+        "definition": "a continuous belt of metal plates around the wheels of a large vehicle such as a bulldozer that allows it to move over the ground",
+        "examples": []
+      },
+      {
+        "definition": "going in the right direction again after a mistake, failure, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I tried to get my life back on track after my divorce."
+          }
+        ]
+      },
+      {
+        "definition": "to be doing the right thing in order to achieve a particular result",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Curtis is on track for the gold medal."
+          }
+        ]
+      },
+      {
+        "definition": "to try and hide what you have done, because you do not want other people to find out about it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had attempted to cover his tracks by wiping the hard disk on his computer."
+          }
+        ]
+      },
+      {
+        "definition": "from or living in a poor area or part of town",
+        "examples": []
+      },
+      {
+        "definition": "close to catching or finding the person or thing that you have been running after or searching for",
+        "examples": []
+      },
+      {
+        "definition": "to have/not have information about what is happening or where somebody/something is",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Bank statements help you keep track of where your money is going."
+          },
+          {
+            "cf": "",
+            "x": "I lost all track of time (= forgot what time it was)."
+          }
+        ]
+      },
+      {
+        "definition": "to leave a place, especially to go home",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It’s getting late—I’d better make tracks."
+          }
+        ]
+      },
+      {
+        "definition": "far away from other people, houses, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They live miles off the beaten track."
+          }
+        ]
+      },
+      {
+        "definition": "thinking or behaving in the right/wrong way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We haven’t found a cure yet—but we are on the right track."
+          },
+          {
+            "cf": "",
+            "x": "The new manager successfully got the team back onto the right track."
+          },
+          {
+            "cf": "",
+            "x": "The police were on the wrong track when they treated the case as a revenge killing."
+          }
+        ]
+      },
+      {
+        "definition": "to suddenly make somebody stop by frightening or surprising them; to suddenly stop because something has frightened or surprised you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The question stopped Alice in her tracks."
+          },
+          {
+            "cf": "",
+            "x": "Suddenly he stopped dead in his tracks: what was he doing?"
+          },
+          {
+            "cf": "",
+            "x": "The disease was stopped in its tracks by immunization programmes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "trail",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tra/trail/trail__gb_1.mp3",
+    "phonetic_text": "/treɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trail/trail__us_1.mp3",
+    "phonetic_am_text": "/treɪl/",
+    "senses": [
+      {
+        "definition": "a long line or series of marks that is left by somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a trail of blood"
+          },
+          {
+            "cf": "",
+            "x": "tourists who leave a trail of litter everywhere they go"
+          },
+          {
+            "cf": "",
+            "x": "The hurricane left a trail of destruction behind it."
+          }
+        ]
+      },
+      {
+        "definition": "a track, sign or smell that is left behind and that can be followed, especially in hunting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The hounds were following the fox's trail."
+          },
+          {
+            "cf": "on the trail of somebody/something",
+            "x": "The police are still on the trail of the escaped prisoner."
+          },
+          {
+            "cf": "",
+            "x": "Fortunately the trail was still warm (= clear and easy to follow)."
+          },
+          {
+            "cf": "",
+            "x": "The trail had gone cold."
+          }
+        ]
+      },
+      {
+        "definition": "a path through the countryside",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a trail through the forest"
+          }
+        ]
+      },
+      {
+        "definition": "a route that is followed for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a tourist trail (= of famous buildings)"
+          },
+          {
+            "cf": "",
+            "x": "politicians on the campaign trail (= travelling around to attract support)"
+          }
+        ]
+      },
+      {
+        "definition": "to be the first to do or to discover something that others follow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The department is blazing a trail in the field of laser surgery."
+          }
+        ]
+      },
+      {
+        "definition": "to start a journey",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The following spring I hit the road."
+          }
+        ]
+      },
+      {
+        "definition": "close to catching or finding the person or thing that you have been running after or searching for",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "yoga",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yog/yoga_/yoga__gb_1.mp3",
+    "phonetic_text": "/ˈjəʊɡə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yog/yoga_/yoga__us_1.mp3",
+    "phonetic_am_text": "/ˈjəʊɡə/",
+    "senses": [
+      {
+        "definition": "a Hindu philosophy that teaches you how to control your body and mind in the belief that you can become united with the spirit of the universe in this way",
+        "examples": []
+      },
+      {
+        "definition": "a system of exercises for your body and for controlling your breathing, used by people who want to become fitter or to relax",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He attends regular yoga classes."
+          },
+          {
+            "cf": "",
+            "x": "I go to a yoga session on Thursdays."
+          },
+          {
+            "cf": "",
+            "x": "She does yoga for an hour a day."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "topiary",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/top/topia/topiary__gb_1.mp3",
+    "phonetic_text": "/ˈtəʊpiəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/top/topia/topiary__us_1.mp3",
+    "phonetic_am_text": "/ˈtəʊpieri/",
+    "senses": [
+      {
+        "definition": "the art of cutting bushes into shapes such as birds or animals",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Zumba™",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zum/zumba/zumba_1_gb_2.mp3",
+    "phonetic_text": "/ˈzuːmbə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zum/zumba/zumba_1_us_2.mp3",
+    "phonetic_am_text": "/ˈzuːmbə/",
+    "senses": [
+      {
+        "definition": "a fitness programme featuring Latin American dance moves, performed mainly to Latin American dance music",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Zumba is a way to exercise while also having fun."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zoo",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zoo/zoo__/zoo__gb_1.mp3",
+    "phonetic_text": "/zuː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zoo/zoo__/zoo__us_1.mp3",
+    "phonetic_am_text": "/zuː/",
+    "senses": [
+      {
+        "definition": "a place where many kinds of wild animals are kept for the public to see and where they are studied, bred (= kept in order to produce young) and protected",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These lions were born in the zoo."
+          },
+          {
+            "cf": "",
+            "x": "We saw a baby polar bear at the zoo."
+          },
+          {
+            "cf": "",
+            "x": "a badly-run zoo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "word search",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wor/words/wordsearch__gb_1.mp3",
+    "phonetic_text": "/ˈwɜːd sɜːtʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wor/words/wordsearch__us_1.mp3",
+    "phonetic_am_text": "/ˈwɜːrd sɜːrtʃ/",
+    "senses": [
+      {
+        "definition": "a game consisting of letters arranged in a square, containing several hidden words that you must find",
+        "examples": []
+      }
+    ]
+  }
+]
