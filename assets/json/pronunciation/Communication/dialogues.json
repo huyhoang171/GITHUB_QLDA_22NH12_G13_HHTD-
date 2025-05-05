@@ -1,0 +1,14 @@
+[
+  {
+    "english": "Can you send me an email?",
+    "phonetic": "/kæn juː sɛnd miː æn ˈiːmeɪl/",
+    "vietnamese": "Bạn có thể gửi cho tôi một email không?",
+    "audio": "path/to/email.mp3"
+  },
+  {
+    "english": "Learning a new language is fun.",
+    "phonetic": "/ˈlɜːrnɪŋ ə njuː ˈlæŋɡwɪʤ ɪz fʌn/",
+    "vietnamese": "Học một ngôn ngữ mới rất thú vị.",
+    "audio": "path/to/language.mp3"
+  }
+]

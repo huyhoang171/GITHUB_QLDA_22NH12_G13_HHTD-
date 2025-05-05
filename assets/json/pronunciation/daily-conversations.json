@@ -1,0 +1,62 @@
+[
+  {
+    "english": "How was your day?",
+    "phonetic": "/haʊ wəz jɔːr deɪ/",
+    "vietnamese": "Ngày hôm nay của bạn thế nào?",
+    "audio": "how_was_your_day.mp3"
+  },
+  {
+    "english": "I’m going to the market.",
+    "phonetic": "/aɪm ˈɡəʊɪŋ tuː ðə ˈmɑːrkɪt/",
+    "vietnamese": "Tôi đang đi chợ.",
+    "audio": "i_am_going_to_the_market.mp3"
+  },
+  {
+    "english": "Can you help me?",
+    "phonetic": "/kæn juː hɛlp miː/",
+    "vietnamese": "Bạn có thể giúp tôi không?",
+    "audio": "can_you_help_me.mp3"
+  },
+  {
+    "english": "What time is it?",
+    "phonetic": "/wʌt taɪm ɪz ɪt/",
+    "vietnamese": "Mấy giờ rồi?",
+    "audio": "what_time_is_it.mp3"
+  },
+  {
+    "english": "I’m hungry.",
+    "phonetic": "/aɪm ˈhʌŋɡri/",
+    "vietnamese": "Tôi đói.",
+    "audio": "i_am_hungry.mp3"
+  },
+  {
+    "english": "Let’s go for a walk.",
+    "phonetic": "/lɛts ɡəʊ fər ə wɔːk/",
+    "vietnamese": "Hãy đi dạo một chút.",
+    "audio": "lets_go_for_a_walk.mp3"
+  },
+  {
+    "english": "I’m watching TV.",
+    "phonetic": "/aɪm ˈwɒtʃɪŋ ˌtiːˈviː/",
+    "vietnamese": "Tôi đang xem TV.",
+    "audio": "i_am_watching_tv.mp3"
+  },
+  {
+    "english": "Please wait a moment.",
+    "phonetic": "/pliːz weɪt ə ˈməʊmənt/",
+    "vietnamese": "Làm ơn đợi một chút.",
+    "audio": "please_wait_a_moment.mp3"
+  },
+  {
+    "english": "I’m tired today.",
+    "phonetic": "/aɪm ˈtaɪərd təˈdeɪ/",
+    "vietnamese": "Hôm nay tôi mệt.",
+    "audio": "i_am_tired_today.mp3"
+  },
+  {
+    "english": "Let’s have lunch.",
+    "phonetic": "/lɛts hæv lʌntʃ/",
+    "vietnamese": "Hãy ăn trưa đi.",
+    "audio": "lets_have_lunch.mp3"
+  }
+]
