@@ -7,7 +7,7 @@ import axios from 'axios'; // Vẫn dùng axios để gọi backend
 
 // !! QUAN TRỌNG: Thay thế bằng địa chỉ IP và cổng của máy đang chạy backend Flask !!
 // Ví dụ: 'http://192.168.1.100:5000' hoặc 'http://10.0.2.2:5000' (cho Android Emulator)
-const BACKEND_TRANSCRIPTION_URL = 'http://10.10.59.128:5000/transcribe'; // <<< KIỂM TRA LẠI IP NÀY!
+const BACKEND_TRANSCRIPTION_URL = 'http://172.20.10.7:5000/transcribe'; // <<< KIỂM TRA LẠI IP NÀY!
 
 interface Dialogue {
   english: string;
@@ -160,8 +160,8 @@ export default function SpeakingDetail() {
       if (uri) {
         setPlaybackUri(uri);
       } else {
-         console.error("Recording URI is null after stopping.");
-         Alert.alert("Lỗi", "Không lấy được file ghi âm sau khi dừng.");
+        console.error("Recording URI is null after stopping.");
+        Alert.alert("Lỗi", "Không lấy được file ghi âm sau khi dừng.");
       }
     } catch (err) {
       console.error('Failed to stop recording', err);
@@ -171,58 +171,58 @@ export default function SpeakingDetail() {
   };
 
   const playRecording = async () => {
-      if (!playbackUri) return;
-      console.log('Playing recording from:', playbackUri);
-      try {
-          const { sound } = await Audio.Sound.createAsync(
-              { uri: playbackUri },
-              { shouldPlay: true }
-          );
-          sound.setOnPlaybackStatusUpdate(async (status) => {
-              if (status.isLoaded && status.didJustFinish) {
-                  console.log('Playback finished');
-                  await sound.unloadAsync();
-                  console.log('Sound unloaded');
-              } else if (!status.isLoaded && status.error) {
-                  console.error(`Playback Error: ${status.error}`);
-                  await sound.unloadAsync();
-              }
-          });
-      } catch (err) {
-          console.error('Failed to play recording', err);
-          Alert.alert('Lỗi phát lại', 'Không thể phát lại bản ghi âm.');
-      }
+    if (!playbackUri) return;
+    console.log('Playing recording from:', playbackUri);
+    try {
+      const { sound } = await Audio.Sound.createAsync(
+        { uri: playbackUri },
+        { shouldPlay: true }
+      );
+      sound.setOnPlaybackStatusUpdate(async (status) => {
+        if (status.isLoaded && status.didJustFinish) {
+          console.log('Playback finished');
+          await sound.unloadAsync();
+          console.log('Sound unloaded');
+        } else if (!status.isLoaded && status.error) {
+          console.error(`Playback Error: ${status.error}`);
+          await sound.unloadAsync();
+        }
+      });
+    } catch (err) {
+      console.error('Failed to play recording', err);
+      Alert.alert('Lỗi phát lại', 'Không thể phát lại bản ghi âm.');
+    }
   };
 
   const playAudio = async (audioFileName: string | undefined) => {
-      if (!audioFileName) {
-         console.warn('Attempted to play audio with undefined filename');
-         return;
+    if (!audioFileName) {
+      console.warn('Attempted to play audio with undefined filename');
+      return;
+    }
+    console.log('Playing reference audio:', audioFileName);
+    try {
+      const audioResource = audioFiles[audioFileName];
+      if (!audioResource) {
+        console.error(`Audio file not found in audioFiles map: ${audioFileName}`);
+        Alert.alert('Lỗi file', `Không tìm thấy file âm thanh: ${audioFileName}`);
+        return;
       }
-      console.log('Playing reference audio:', audioFileName);
-      try {
-          const audioResource = audioFiles[audioFileName];
-          if (!audioResource) {
-              console.error(`Audio file not found in audioFiles map: ${audioFileName}`);
-              Alert.alert('Lỗi file', `Không tìm thấy file âm thanh: ${audioFileName}`);
-              return;
-          }
-          const { sound } = await Audio.Sound.createAsync(
-              audioResource,
-              { shouldPlay: true }
-          );
-          sound.setOnPlaybackStatusUpdate(async (status) => {
-              if (status.isLoaded && status.didJustFinish) {
-                  await sound.unloadAsync();
-              } else if (!status.isLoaded && status.error) {
-                  console.error(`Reference Audio Playback Error: ${status.error}`);
-                  await sound.unloadAsync();
-              }
-          });
-      } catch (err) {
-          console.error('Failed to play reference audio', err);
-          Alert.alert('Lỗi phát âm thanh', 'Không thể phát file âm thanh mẫu.');
-      }
+      const { sound } = await Audio.Sound.createAsync(
+        audioResource,
+        { shouldPlay: true }
+      );
+      sound.setOnPlaybackStatusUpdate(async (status) => {
+        if (status.isLoaded && status.didJustFinish) {
+          await sound.unloadAsync();
+        } else if (!status.isLoaded && status.error) {
+          console.error(`Reference Audio Playback Error: ${status.error}`);
+          await sound.unloadAsync();
+        }
+      });
+    } catch (err) {
+      console.error('Failed to play reference audio', err);
+      Alert.alert('Lỗi phát âm thanh', 'Không thể phát file âm thanh mẫu.');
+    }
   };
 
   // --- Transcription Functions ---
@@ -233,102 +233,114 @@ export default function SpeakingDetail() {
    * @returns The transcribed text from the backend.
    */
   const transcribeWithBackend = async (recordingUri: string): Promise<string> => {
-      console.log(`Sending audio to backend: ${recordingUri}`);
+    console.log(`Sending audio to backend: ${recordingUri}`);
 
-      const fileExtension = recordingUri.split('.').pop()?.toLowerCase();
-      if (!fileExtension) {
-          throw new Error("Không thể xác định định dạng file từ URI.");
-      }
-      const fileName = `recording.${fileExtension}`; // e.g., recording.m4a
-      let mimeType: string;
+    const fileExtension = recordingUri.split('.').pop()?.toLowerCase();
+    if (!fileExtension) {
+      throw new Error("Không thể xác định định dạng file từ URI.");
+    }
+    const fileName = `recording.${fileExtension}`; // e.g., recording.m4a
+    let mimeType: string;
 
-      // Xác định MIME type dựa trên phần mở rộng file
-      if (Platform.OS === 'ios') {
-          // iOS thường ghi âm thành .caf hoặc .m4a tùy cấu hình
-          if (fileExtension === 'caf') mimeType = 'audio/x-caf';
-          else mimeType = 'audio/m4a'; // Mặc định là m4a cho iOS nếu không phải caf
-      } else if (Platform.OS === 'android') {
-          // Android thường ghi âm thành .m4a hoặc .aac, .3gp tùy thiết bị và cấu hình
-          // Expo AV thường cố gắng chuẩn hóa thành m4a trên Android với HIGH_QUALITY
-          mimeType = 'audio/m4a'; // Giả định là m4a trên Android
+    // Xác định MIME type dựa trên phần mở rộng file
+    if (Platform.OS === 'ios') {
+      // iOS thường ghi âm thành .caf hoặc .m4a tùy cấu hình
+      if (fileExtension === 'caf') mimeType = 'audio/x-caf';
+      else mimeType = 'audio/m4a'; // Mặc định là m4a cho iOS nếu không phải caf
+    } else if (Platform.OS === 'android') {
+      // Android thường ghi âm thành .m4a hoặc .aac, .3gp tùy thiết bị và cấu hình
+      // Expo AV thường cố gắng chuẩn hóa thành m4a trên Android với HIGH_QUALITY
+      mimeType = 'audio/m4a'; // Giả định là m4a trên Android
+    } else {
+      mimeType = 'application/octet-stream'; // Fallback chung
+    }
+
+    console.log(`Uploading to backend: name=${fileName}, type=${mimeType}`);
+
+    const formData = new FormData();
+    // Đảm bảo tên field là 'audio' như trong backend Flask
+    // Cast sang 'any' để tránh lỗi type checking với cấu trúc của React Native FormData
+    formData.append('audio', {
+      uri: recordingUri,
+      name: fileName,
+      type: mimeType,
+    } as any);
+
+    try {
+      // *** THAY ĐỔI QUAN TRỌNG Ở ĐÂY ***
+      const response = await axios.post(BACKEND_TRANSCRIPTION_URL, formData, {
+        headers: {
+          // Ép kiểu Content-Type thành multipart/form-data
+          // Mặc dù Axios thường tự làm điều này với FormData,
+          // việc chỉ định rõ ràng giúp đảm bảo và gỡ lỗi dễ hơn.
+          'Content-Type': 'multipart/form-data',
+        },
+        timeout: 60000, // Tăng timeout nếu cần cho việc upload và xử lý backend
+      });
+      // *** KẾT THÚC THAY ĐỔI ***
+
+      if (response.status === 200 && response.data && response.data.transcription) {
+        console.log('Backend transcription success:', response.data.transcription);
+        return response.data.transcription;
       } else {
-          mimeType = 'application/octet-stream'; // Fallback chung
+        // Xử lý lỗi trả về từ backend (nếu có cấu trúc error)
+        const errorMessage = response.data?.error || `Lỗi không xác định từ backend (status ${response.status})`;
+        console.error('Backend returned error:', errorMessage);
+        throw new Error(errorMessage);
       }
-
-      console.log(`Uploading to backend: name=${fileName}, type=${mimeType}`);
-
-      const formData = new FormData();
-      // Đảm bảo tên field là 'audio' như trong backend Flask
-      // Cast sang 'any' để tránh lỗi type checking với cấu trúc của React Native FormData
-      formData.append('audio', {
-          uri: recordingUri,
-          name: fileName,
-          type: mimeType,
-      } as any);
-
-      try {
-          // *** THAY ĐỔI QUAN TRỌNG Ở ĐÂY ***
-          const response = await axios.post(BACKEND_TRANSCRIPTION_URL, formData, {
-              headers: {
-                  // Ép kiểu Content-Type thành multipart/form-data
-                  // Mặc dù Axios thường tự làm điều này với FormData,
-                  // việc chỉ định rõ ràng giúp đảm bảo và gỡ lỗi dễ hơn.
-                  'Content-Type': 'multipart/form-data',
-              },
-              timeout: 60000, // Tăng timeout nếu cần cho việc upload và xử lý backend
-          });
-          // *** KẾT THÚC THAY ĐỔI ***
-
-          if (response.status === 200 && response.data && response.data.transcription) {
-              console.log('Backend transcription success:', response.data.transcription);
-              return response.data.transcription;
-          } else {
-              // Xử lý lỗi trả về từ backend (nếu có cấu trúc error)
-              const errorMessage = response.data?.error || `Lỗi không xác định từ backend (status ${response.status})`;
-              console.error('Backend returned error:', errorMessage);
-              throw new Error(errorMessage);
-          }
-      } catch (error: any) {
-          console.error('Error calling backend API:', error);
-          if (axios.isAxiosError(error)) {
-              if (error.response) {
-                  // Lỗi có response từ server (4xx, 5xx)
-                  console.error("Backend error details:", error.response.status, error.response.data);
-                  throw new Error(`Lỗi từ backend (${error.response.status}): ${error.response.data?.error || error.message}`);
-              } else if (error.request) {
-                  // Request được gửi đi nhưng không nhận được response (lỗi mạng, timeout, không kết nối được backend)
-                  console.error("No response received:", error.request);
-                   // Thông báo lỗi rõ ràng hơn cho người dùng
-                  throw new Error('Không thể kết nối đến server. Vui lòng kiểm tra kết nối mạng, địa chỉ IP của backend và đảm bảo server đang chạy.');
-              } else {
-                  // Lỗi xảy ra khi thiết lập request
-                  console.error('Axios setup error:', error.message);
-                  throw new Error(`Lỗi khi gửi yêu cầu: ${error.message}`);
-              }
-          } else {
-              // Lỗi không phải của Axios
-              console.error('Non-Axios error:', error);
-              throw new Error(`Lỗi không xác định: ${error.message}`);
-          }
+    } catch (error: any) {
+      console.error('Error calling backend API:', error);
+      if (axios.isAxiosError(error)) {
+        if (error.response) {
+          // Lỗi có response từ server (4xx, 5xx)
+          console.error("Backend error details:", error.response.status, error.response.data);
+          throw new Error(`Lỗi từ backend (${error.response.status}): ${error.response.data?.error || error.message}`);
+        } else if (error.request) {
+          // Request được gửi đi nhưng không nhận được response (lỗi mạng, timeout, không kết nối được backend)
+          console.error("No response received:", error.request);
+          // Thông báo lỗi rõ ràng hơn cho người dùng
+          throw new Error('Không thể kết nối đến server. Vui lòng kiểm tra kết nối mạng, địa chỉ IP của backend và đảm bảo server đang chạy.');
+        } else {
+          // Lỗi xảy ra khi thiết lập request
+          console.error('Axios setup error:', error.message);
+          throw new Error(`Lỗi khi gửi yêu cầu: ${error.message}`);
+        }
+      } else {
+        // Lỗi không phải của Axios
+        console.error('Non-Axios error:', error);
+        throw new Error(`Lỗi không xác định: ${error.message}`);
       }
+    }
   };
 
   // Simple accuracy calculation (word-by-word match)
   const calculateAccuracy = (original: string, transcript: string): number | null => {
     if (!original || !transcript) return 0;
-    const originalWords = original.toLowerCase().trim().split(/\s+/);
-    const transcriptWords = transcript.toLowerCase().trim().split(/\s+/);
+
+    // Hàm làm sạch dấu câu và chuẩn hóa từ
+    const cleanText = (text: string): string[] => {
+      return text
+        .toLowerCase()
+        .replace(/[\.,!?;:"'()\-\[\]{}]/g, '') // loại bỏ dấu câu phổ biến và cả dấu ngoặc
+        .trim()
+        .split(/\s+/); // tách từ
+    };
+
+    const originalWords = cleanText(original);
+    const transcriptWords = cleanText(transcript);
+
     if (originalWords.length === 0) return 0;
+
     let matchCount = 0;
     const minLength = Math.min(originalWords.length, transcriptWords.length);
+
     for (let i = 0; i < minLength; i++) {
-        // Cân nhắc làm sạch dấu câu nếu cần độ chính xác cao hơn
-        if (originalWords[i] === transcriptWords[i]) {
-            matchCount++;
-        }
+      if (originalWords[i] === transcriptWords[i]) {
+        matchCount++;
+      }
     }
-    // Tránh chia cho 0 nếu original rỗng
-    const accuracy = originalWords.length > 0 ? (matchCount / originalWords.length) * 100 : 0;
+
+    const accuracy = (matchCount / originalWords.length) * 100;
     return parseFloat(accuracy.toFixed(2));
   };
 
@@ -355,7 +367,7 @@ export default function SpeakingDetail() {
       console.error('Error during backend transcription process:', error);
       // Hiển thị lỗi cho người dùng một cách thân thiện hơn
       Alert.alert('Lỗi xử lý', error.message || 'Quá trình chuyển đổi giọng nói thất bại. Vui lòng thử lại.');
-       setTranscriptionResult({ text: "Lỗi xử lý", accuracy: null }); // Hiển thị lỗi trên UI
+      setTranscriptionResult({ text: "Lỗi xử lý", accuracy: null }); // Hiển thị lỗi trên UI
     } finally {
       setIsTranscribing(false);
     }
@@ -414,52 +426,52 @@ export default function SpeakingDetail() {
         <Button title="Sau" onPress={handleNext} disabled={currentDialogueIndex === dialogues.length - 1 || isTranscribing || !!recording} />
       </View>
 
-       {/* Recording Controls */}
+      {/* Recording Controls */}
       <View style={styles.recordingSection}>
-         <Text style={styles.sectionTitle}>Ghi Âm</Text>
-         <View style={styles.recordingButtons}>
-           <Button
-             title={recording ? "Dừng Ghi Âm" : "Bắt Đầu Ghi Âm"}
-             onPress={recording ? stopRecording : startRecording}
-             disabled={isTranscribing}
-             color={recording ? "#DC3545" : "#007AFF"}
-           />
-           <Button
-             title="Phát Lại"
-             onPress={playRecording}
-             disabled={!playbackUri || !!recording || isTranscribing}
-           />
-         </View>
+        <Text style={styles.sectionTitle}>Ghi Âm</Text>
+        <View style={styles.recordingButtons}>
+          <Button
+            title={recording ? "Dừng Ghi Âm" : "Bắt Đầu Ghi Âm"}
+            onPress={recording ? stopRecording : startRecording}
+            disabled={isTranscribing}
+            color={recording ? "#DC3545" : "#007AFF"}
+          />
+          <Button
+            title="Phát Lại"
+            onPress={playRecording}
+            disabled={!playbackUri || !!recording || isTranscribing}
+          />
+        </View>
       </View>
 
       {/* Transcription Controls & Results */}
       {playbackUri && (
-         <View style={styles.transcriptionSection}>
-             <Text style={styles.sectionTitle}>Kiểm Tra Phát Âm</Text>
-             <Button
-                 title={isTranscribing ? "Đang xử lý..." : "Kiểm tra giọng nói"}
-                 onPress={handleTranscription} // Sử dụng hàm đã cập nhật
-                 disabled={!playbackUri || isTranscribing || !!recording}
-             />
-             {isTranscribing && <ActivityIndicator style={{ marginTop: 10 }} color="#007AFF" />}
-             {transcriptionResult && !isTranscribing && (
-                <View style={styles.resultCard}>
-                    <Text style={styles.resultLabel}>Giọng nói của bạn:</Text>
-                    {/* Hiển thị kết quả hoặc thông báo lỗi */}
-                    <Text style={[styles.resultText, transcriptionResult.text === "Lỗi xử lý" && { color: 'red' }]}>
-                        {transcriptionResult.text || "(Không nhận dạng được)"}
-                    </Text>
-                    {transcriptionResult.accuracy !== null && ( // Chỉ hiển thị độ chính xác nếu có
-                      <>
-                        <Text style={styles.resultLabel}>Độ chính xác (ước tính):</Text>
-                        <Text style={[styles.resultAccuracy, { color: (transcriptionResult.accuracy ?? 0) >= 70 ? 'green' : 'orange' }]}>
-                              {`${transcriptionResult.accuracy}%`}
-                        </Text>
-                      </>
-                    )}
-                </View>
-             )}
-         </View>
+        <View style={styles.transcriptionSection}>
+          <Text style={styles.sectionTitle}>Kiểm Tra Phát Âm</Text>
+          <Button
+            title={isTranscribing ? "Đang xử lý..." : "Kiểm tra giọng nói"}
+            onPress={handleTranscription} // Sử dụng hàm đã cập nhật
+            disabled={!playbackUri || isTranscribing || !!recording}
+          />
+          {isTranscribing && <ActivityIndicator style={{ marginTop: 10 }} color="#007AFF" />}
+          {transcriptionResult && !isTranscribing && (
+            <View style={styles.resultCard}>
+              <Text style={styles.resultLabel}>Giọng nói của bạn:</Text>
+              {/* Hiển thị kết quả hoặc thông báo lỗi */}
+              <Text style={[styles.resultText, transcriptionResult.text === "Lỗi xử lý" && { color: 'red' }]}>
+                {transcriptionResult.text || "(Không nhận dạng được)"}
+              </Text>
+              {transcriptionResult.accuracy !== null && ( // Chỉ hiển thị độ chính xác nếu có
+                <>
+                  <Text style={styles.resultLabel}>Độ chính xác (ước tính):</Text>
+                  <Text style={[styles.resultAccuracy, { color: (transcriptionResult.accuracy ?? 0) >= 70 ? 'green' : 'orange' }]}>
+                    {`${transcriptionResult.accuracy}%`}
+                  </Text>
+                </>
+              )}
+            </View>
+          )}
+        </View>
       )}
 
     </ScrollView>

@@ -1,13 +1,10 @@
-import { useEffect } from 'react';
-import { useRouter, Stack } from 'expo-router';
+import { Stack } from 'expo-router';
 
 export default function RootLayout() {
-  const router = useRouter();
-
-  useEffect(() => {
-    router.replace('/login'); 
-  }, [router]);
-
-  return <Stack />;
+  return <Stack
+    screenOptions={{
+      headerShown: false, // ẩn header
+      animation: 'slide_from_right', // kiểu chuyển cảnh
+    }}
+  />;
 }
-

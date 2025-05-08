@@ -28,13 +28,6 @@ const features: Feature[] = [
     color: '#2196F3',
   },
   {
-    id: 'listening',
-    title: 'Listening',
-    description: 'Improve your listening skills',
-    icon: 'headset-outline',
-    color: '#FF9800',
-  },
-  {
     id: 'speaking',
     title: 'Speaking',
     description: 'Practice speaking English',
@@ -42,17 +35,10 @@ const features: Feature[] = [
     color: '#E91E63',
   },
   {
-    id: 'reading',
-    title: 'Reading',
-    description: 'Enhance reading comprehension',
-    icon: 'newspaper-outline',
-    color: '#9C27B0',
-  },
-  {
-    id: 'writing',
-    title: 'Writing',
-    description: 'Practice writing skills',
-    icon: 'pencil-outline',
+    id: 'ai',
+    title: 'AI',
+    description: 'AI support for learning',
+    icon: 'chatbubbles-outline',
     color: '#607D8B',
   },
 ];

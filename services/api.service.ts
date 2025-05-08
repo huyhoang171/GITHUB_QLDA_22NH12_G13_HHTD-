@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://92d8-117-2-255-218.ngrok-free.app/';
+const API_BASE_URL = 'https://ab8c-117-2-255-206.ngrok-free.app';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
@@ -73,5 +73,11 @@ export const checkLogin = async (username: string, password: string): Promise<Lo
 
 export const registerUser = async (data: { username: string; email: string; password: string }): Promise<{ success: boolean; message: string }> => {
   const response = await api.post('/auth/register', data);
+  return response.data;
+};
+
+//call api for ai 
+export const processAIRequest = async (input: string): Promise<{ result: string }> => {
+  const response = await api.post('/ai/process', { input });
   return response.data;
 };

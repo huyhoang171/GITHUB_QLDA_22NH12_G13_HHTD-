@@ -6,12 +6,12 @@ const StartScreen = () => {
   const router = useRouter();
 
   const handleStart = () => {
-    router.push('/(tabs)/index' as any); // Điều hướng đến giao diện chính của user
+    router.push('/(auth)/login'); // Điều hướng đến giao diện chính của user
   };
 
   return (
     <View style={styles.container}>
-      <Image source={require('../assets/images/splash-icon.png')} style={styles.image} />
+      <Image source={require('../assets/images/ezylearn_logo.jpg')} style={styles.image} />
       <Text style={styles.title}>Ezylearn</Text>
       <Text style={styles.subtitle}>Học tiếng Anh dễ dàng và hiệu quả!</Text>
       <TouchableOpacity style={styles.startButton} onPress={handleStart}>

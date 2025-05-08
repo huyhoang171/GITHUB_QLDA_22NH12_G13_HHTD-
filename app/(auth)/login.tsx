@@ -20,7 +20,7 @@ const LoginScreen = () => {
         if (response.role === 'Admin') {
           router.push('/admin-dashboard'); 
         } else if (response.role === 'User') {
-          router.push('/(tabs)/index' as any);
+          router.push('/(practice)');
         }
       } else {
         Alert.alert('Login Failed', response.message);

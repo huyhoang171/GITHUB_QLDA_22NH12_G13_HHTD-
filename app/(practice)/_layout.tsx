@@ -112,6 +112,16 @@ export default function PracticeLayout() {
         }}
       />
       <Tabs.Screen
+        name="ai"
+        options={{
+          title: 'AI',
+          headerTitle: 'AI',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="chatbubble-ellipses" size={size} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
         name="BasicGrammarScreen"
         options={{
           headerTitle: '',
