@@ -88,7 +88,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     borderBottomWidth: 1,
     borderBottomColor: '#eee',
-    marginTop: 15,
   },
   title: {
     fontSize: 28,
@@ -109,7 +108,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     borderRadius: 12,
     padding: 15,
-    marginBottom: 15,
+    marginBottom: 10,
     shadowColor: '#000',
     shadowOffset: {
       width: 0,
@@ -118,6 +117,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.1,
     shadowRadius: 3,
     elevation: 3,
+    height: 120,
   },
   iconContainer: {
     width: 60,

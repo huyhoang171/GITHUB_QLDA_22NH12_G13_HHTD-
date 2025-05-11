@@ -2,7 +2,8 @@ import React, { useMemo } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Image } from 'react-native';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { CategoryData, Lesson } from '../types/navigation';
-
+import {styles} from '../styles/BasicGrammarStyle'
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const BasicGrammarScreen = () => {
   const router = useRouter();
@@ -28,7 +29,14 @@ const BasicGrammarScreen = () => {
     // Trong trường hợp lỗi, sử dụng giá trị mặc định đã khai báo
   }
 
-  const handleStartLearning = (lesson: Lesson) => {
+  const handleStartLearning = async (lesson: Lesson) => {
+    // Lưu category vào AsyncStorage trước khi chuyển trang
+    try {
+      await AsyncStorage.setItem('current_category', JSON.stringify(category));
+    } catch (error) {
+      console.error('Error saving category:', error);
+    }
+    
     router.push({
       pathname: '/(practice)/TopicDetail',
       params: { lesson: JSON.stringify(lesson) }
@@ -78,88 +86,5 @@ const BasicGrammarScreen = () => {
     </ScrollView>
   );
 };
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#FFFFFF',
-  },
-  header: {
-    padding: 20,
-    backgroundColor: '#FFFFFF',
-  },
-  headerText: {
-    fontSize: 24,
-    fontWeight: 'bold',
-    marginBottom: 10,
-  },
-  subHeaderText: {
-    fontSize: 16,
-    color: '#666666',
-    lineHeight: 22,
-  },
-  topicsGrid: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    padding: 10,
-    justifyContent: 'space-between',
-  },
-  topicCard: {
-    width: '48%',
-    height: 170,
-    backgroundColor: '#DEE2E6', // đậm hơn một bậc so với #E9ECEF
-    borderRadius: 12,
-    padding: 15,
-    marginBottom: 15,
-    alignItems: 'center',
-    justifyContent: 'center',
-  
-    // Bóng sắc nét hơn
-    elevation: 5, // Android
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.2,
-    shadowRadius: 6,
-  },
-  
-  topicIcon: {
-    width: 50,
-    height: 50,
-    marginBottom: 10,
-    borderRadius: 8,
-  },
-  topicTitle: {
-    fontSize: 16,
-    fontWeight: '600',
-    marginBottom: 5,
-    textAlign: 'center',
-  },
-  topicDescription: {
-    fontSize: 14,
-    color: '#666666',
-    textAlign: 'center',
-  },
-  startButton: {
-    backgroundColor: '#007AFF',
-    margin: 20,
-    padding: 15,
-    borderRadius: 10,
-    alignItems: 'center',
-  },
-  startButtonText: {
-    color: '#FFFFFF',
-    fontSize: 16,
-    fontWeight: '600',
-  },
-  headerImage: {
-    alignSelf: 'center',
-    width: '95%',
-    height: 350,
-    marginVertical: 15,
-    resizeMode: 'cover', 
-    borderRadius: 40,
-    overflow: 'hidden', 
-  },
-});
 
 export default BasicGrammarScreen;

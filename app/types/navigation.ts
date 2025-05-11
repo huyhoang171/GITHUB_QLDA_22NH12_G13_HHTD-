@@ -28,3 +28,15 @@ export type RootStackParamList = {
   BasicGrammar: { category: CategoryData };
   TopicDetail: { topic: GrammarTopic };
 }; 
+export interface Topic {
+  id: string;
+  title: string;
+  titleVN: string;
+  image: any;
+  subtopics: subtopics[];
+}
+export interface subtopics {
+  id: string;
+  title: string;
+  titleVN: string;
+}

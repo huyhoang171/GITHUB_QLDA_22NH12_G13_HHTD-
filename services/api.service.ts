@@ -67,9 +67,17 @@ export const deleteTable = async (tableId: number): Promise<void> => {
 
 // Add a new function to check login
 export const checkLogin = async (username: string, password: string): Promise<LoginResponse> => {
-  const response = await api.post('/auth/login', { username, password });
-  return response.data;
+  // giả lập response thành công
+  return {
+    success: true,
+    message: "Đăng nhập thành công",
+    role: "User", // hoặc "Admin"
+  };
 };
+// export const checkLogin = async (username: string, password: string): Promise<LoginResponse> => {
+//   const response = await api.post('/auth/login', { username, password });
+//   return response.data;
+// };
 
 export const registerUser = async (data: { username: string; email: string; password: string }): Promise<{ success: boolean; message: string }> => {
   const response = await api.post('/auth/register', data);
