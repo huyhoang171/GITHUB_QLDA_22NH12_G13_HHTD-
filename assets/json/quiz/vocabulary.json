@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 1,
+    "question": "You should wear a _____ when riding a motorcycle.",
+    "options": [
+      "helmet",
+      "hood",
+      "hat",
+      "cap"
+    ],
+    "answer": "helmet"
+  },
+  {
+    "id": 2,
+    "question": "He set the alarm to wake up at _____.",
+    "options": [
+      "7 a.m.",
+      "midnight",
+      "noon",
+      "5 p.m."
+    ],
+    "answer": "7 a.m."
+  },
+  {
+    "id": 3,
+    "question": "To unlock the door, you need a _____.",
+    "options": [
+      "key",
+      "button",
+      "card",
+      "pin"
+    ],
+    "answer": "key"
+  },
+  {
+    "id": 4,
+    "question": "Don't forget to take your _____ before going to the airport.",
+    "options": [
+      "wallet",
+      "license",
+      "ticket",
+      "passport"
+    ],
+    "answer": "passport"
+  },
+  {
+    "id": 5,
+    "question": "He used a _____ to cut the paper.",
+    "options": [
+      "knife",
+      "pen",
+      "scissors",
+      "ruler"
+    ],
+    "answer": "scissors"
+  },
+  {
+    "id": 6,
+    "question": "The children played in the _____ during recess.",
+    "options": [
+      "library",
+      "kitchen",
+      "playground",
+      "classroom"
+    ],
+    "answer": "playground"
+  },
+  {
+    "id": 7,
+    "question": "He wiped his hands with a _____.",
+    "options": [
+      "towel",
+      "sheet",
+      "napkin",
+      "blanket"
+    ],
+    "answer": "towel"
+  },
+  {
+    "id": 8,
+    "question": "She poured the tea into a _____ and handed it to me.",
+    "options": [
+      "plate",
+      "cup",
+      "pan",
+      "bottle"
+    ],
+    "answer": "cup"
+  },
+  {
+    "id": 9,
+    "question": "She bought a _____ of bread from the bakery.",
+    "options": [
+      "loaf",
+      "piece",
+      "pack",
+      "slice"
+    ],
+    "answer": "loaf"
+  },
+  {
+    "id": 10,
+    "question": "We need a _____ to fix this leak in the pipe.",
+    "options": [
+      "carpenter",
+      "painter",
+      "plumber",
+      "electrician"
+    ],
+    "answer": "plumber"
+  },
+  {
+    "id": 11,
+    "question": "When it's raining, you should use an _____ to stay dry.",
+    "options": [
+      "umbrella",
+      "scarf",
+      "glove",
+      "sock"
+    ],
+    "answer": "umbrella"
+  },
+  {
+    "id": 12,
+    "question": "She likes to write her thoughts in a _____ before bed.",
+    "options": [
+      "computer",
+      "diary",
+      "newspaper",
+      "magazine"
+    ],
+    "answer": "diary"
+  },
+  {
+    "id": 13,
+    "question": "To see distant stars and planets, you often use a _____.",
+    "options": [
+      "microscope",
+      "magnifying glass",
+      "telescope",
+      "camera"
+    ],
+    "answer": "telescope"
+  },
+  {
+    "id": 14,
+    "question": "In autumn, the _____ fall from the trees.",
+    "options": [
+      "flowers",
+      "leaves",
+      "fruits",
+      "branches"
+    ],
+    "answer": "leaves"
+  },
+  {
+    "id": 15,
+    "question": "If you are sick, you should visit a _____.",
+    "options": [
+      "teacher",
+      "doctor",
+      "chef",
+      "pilot"
+    ],
+    "answer": "doctor"
+  },
+  {
+    "id": 16,
+    "question": "We buy stamps and send letters at the _____.",
+    "options": [
+      "bank",
+      "post office",
+      "library",
+      "supermarket"
+    ],
+    "answer": "post office"
+  },
+  {
+    "id": 17,
+    "question": "A _____ helps us know what the time is.",
+    "options": [
+      "calendar",
+      "clock",
+      "map",
+      "ruler"
+    ],
+    "answer": "clock"
+  },
+  {
+    "id": 18,
+    "question": "You can borrow books from a _____.",
+    "options": [
+      "bookstore",
+      "library",
+      "cinema",
+      "museum"
+    ],
+    "answer": "library"
+  },
+  {
+    "id": 19,
+    "question": "A person who flies an airplane is called a _____.",
+    "options": [
+      "driver",
+      "captain",
+      "pilot",
+      "sailor"
+    ],
+    "answer": "pilot"
+  },
+  {
+    "id": 20,
+    "question": "To make a phone call, you need a _____.",
+    "options": [
+      "radio",
+      "television",
+      "telephone",
+      "computer"
+    ],
+    "answer": "telephone"
+  },
+  {
+    "id": 21,
+    "question": "We keep food cold in the _____.",
+    "options": [
+      "oven",
+      "microwave",
+      "refrigerator",
+      "toaster"
+    ],
+    "answer": "refrigerator"
+  },
+  {
+    "id": 22,
+    "question": "A _____ is a place where you can see many historical objects.",
+    "options": [
+      "gallery",
+      "museum",
+      "theater",
+      "stadium"
+    ],
+    "answer": "museum"
+  },
+  {
+    "id": 23,
+    "question": "She uses a _____ to clean her teeth every morning.",
+    "options": [
+      "comb",
+      "soap",
+      "toothbrush",
+      "shampoo"
+    ],
+    "answer": "toothbrush"
+  },
+  {
+    "id": 24,
+    "question": "The _____ is often called the king of the jungle.",
+    "options": [
+      "tiger",
+      "elephant",
+      "lion",
+      "bear"
+    ],
+    "answer": "lion"
+  },
+  {
+    "id": 25,
+    "question": "To travel across the sea, you can take a _____.",
+    "options": [
+      "bus",
+      "train",
+      "ship",
+      "bicycle"
+    ],
+    "answer": "ship"
+  },
+  {
+    "id": 26,
+    "question": "We use a _____ to write on a whiteboard.",
+    "options": [
+      "pen",
+      "pencil",
+      "marker",
+      "crayon"
+    ],
+    "answer": "marker"
+  },
+  {
+    "id": 27,
+    "question": "A baby cat is called a _____.",
+    "options": [
+      "puppy",
+      "kitten",
+      "cub",
+      "chick"
+    ],
+    "answer": "kitten"
+  },
+  {
+    "id": 28,
+    "question": "You wear _____ on your feet to keep them warm or protected in shoes.",
+    "options": [
+      "gloves",
+      "hats",
+      "socks",
+      "scarves"
+    ],
+    "answer": "socks"
+  },
+  {
+    "id": 29,
+    "question": "The capital city of France is _____.",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Rome"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "id": 30,
+    "question": "To boil water quickly, you can use a _____.",
+    "options": [
+      "blender",
+      "kettle",
+      "grill",
+      "mixer"
+    ],
+    "answer": "kettle"
+  },
+  {
+    "id": 31,
+    "question": "A person who teaches students is called a _____.",
+    "options": [
+      "doctor",
+      "teacher",
+      "engineer",
+      "artist"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "id": 32,
+    "question": "We use a knife and _____ to eat steak.",
+    "options": [
+      "spoon",
+      "fork",
+      "chopsticks",
+      "plate"
+    ],
+    "answer": "fork"
+  },
+  {
+    "id": 33,
+    "question": "You can see many wild animals at the _____.",
+    "options": [
+      "park",
+      "farm",
+      "zoo",
+      "aquarium"
+    ],
+    "answer": "zoo"
+  },
+  {
+    "id": 34,
+    "question": "A place where airplanes take off and land is an _____.",
+    "options": [
+      "airport",
+      "station",
+      "harbor",
+      "bus stop"
+    ],
+    "answer": "airport"
+  },
+  {
+    "id": 35,
+    "question": "To listen to music privately, you can use _____.",
+    "options": [
+      "speakers",
+      "headphones",
+      "microphone",
+      "radio"
+    ],
+    "answer": "headphones"
+  },
+  {
+    "id": 36,
+    "question": "A _____ is a vehicle with two wheels, powered by pedaling.",
+    "options": [
+      "motorcycle",
+      "car",
+      "bicycle",
+      "scooter"
+    ],
+    "answer": "bicycle"
+  },
+  {
+    "id": 37,
+    "question": "In winter, many people build a _____ out of snow.",
+    "options": [
+      "snowman",
+      "sandcastle",
+      "tent",
+      "fort"
+    ],
+    "answer": "snowman"
+  },
+  {
+    "id": 38,
+    "question": "A _____ grows on a vine and can be red or green.",
+    "options": [
+      "apple",
+      "banana",
+      "grape",
+      "orange"
+    ],
+    "answer": "grape"
+  },
+  {
+    "id": 39,
+    "question": "If you want to send a package, you need to put it in a _____.",
+    "options": [
+      "bag",
+      "envelope",
+      "box",
+      "bottle"
+    ],
+    "answer": "box"
+  },
+  {
+    "id": 40,
+    "question": "The opposite of 'hot' is _____.",
+    "options": [
+      "warm",
+      "cold",
+      "cool",
+      "icy"
+    ],
+    "answer": "cold"
+  },
+  {
+    "id": 41,
+    "question": "A _____ tells you the date, day, and month.",
+    "options": [
+      "clock",
+      "watch",
+      "calendar",
+      "timer"
+    ],
+    "answer": "calendar"
+  },
+  {
+    "id": 42,
+    "question": "You need a _____ to open a bottle of wine.",
+    "options": [
+      "can opener",
+      "bottle opener",
+      "corkscrew",
+      "knife"
+    ],
+    "answer": "corkscrew"
+  },
+  {
+    "id": 43,
+    "question": "People who fight fires are called _____.",
+    "options": [
+      "police officers",
+      "firefighters",
+      "paramedics",
+      "soldiers"
+    ],
+    "answer": "firefighters"
+  },
+  {
+    "id": 44,
+    "question": "To see yourself, you look in a _____.",
+    "options": [
+      "window",
+      "mirror",
+      "picture",
+      "screen"
+    ],
+    "answer": "mirror"
+  },
+  {
+    "id": 45,
+    "question": "The money used in Japan is called _____.",
+    "options": [
+      "Dollar",
+      "Euro",
+      "Yen",
+      "Pound"
+    ],
+    "answer": "Yen"
+  },
+  {
+    "id": 46,
+    "question": "A _____ is a large, yellow fruit with a thick rind and sour, acidic juice.",
+    "options": [
+      "lemon",
+      "lime",
+      "orange",
+      "grapefruit"
+    ],
+    "answer": "lemon"
+  },
+  {
+    "id": 47,
+    "question": "You use a _____ to hit a nail into wood.",
+    "options": [
+      "screwdriver",
+      "hammer",
+      "wrench",
+      "pliers"
+    ],
+    "answer": "hammer"
+  },
+  {
+    "id": 48,
+    "question": "A place where you wait for a bus is called a bus _____.",
+    "options": [
+      "station",
+      "stop",
+      "depot",
+      "terminal"
+    ],
+    "answer": "stop"
+  },
+  {
+    "id": 49,
+    "question": "To dry your hair after washing it, you can use a _____.",
+    "options": [
+      "towel",
+      "fan",
+      "hairdryer",
+      "heater"
+    ],
+    "answer": "hairdryer"
+  },
+  {
+    "id": 50,
+    "question": "The main meal of the day, often eaten in the evening, is called _____.",
+    "options": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "answer": "dinner"
+  },
+  {
+    "id": 51,
+    "question": "A _____ is a small, flying insect that can bite and cause itching.",
+    "options": [
+      "bee",
+      "ant",
+      "mosquito",
+      "fly"
+    ],
+    "answer": "mosquito"
+  },
+  {
+    "id": 52,
+    "question": "You sleep in a _____.",
+    "options": [
+      "chair",
+      "sofa",
+      "bed",
+      "table"
+    ],
+    "answer": "bed"
+  },
+  {
+    "id": 53,
+    "question": "The red liquid that flows through your body is called _____.",
+    "options": [
+      "water",
+      "blood",
+      "juice",
+      "milk"
+    ],
+    "answer": "blood"
+  },
+  {
+    "id": 54,
+    "question": "A _____ is a very large area of salt water.",
+    "options": [
+      "river",
+      "lake",
+      "ocean",
+      "pond"
+    ],
+    "answer": "ocean"
+  },
+  {
+    "id": 55,
+    "question": "To sweep dust and dirt from the floor, you use a _____.",
+    "options": [
+      "mop",
+      "broom",
+      "vacuum",
+      "sponge"
+    ],
+    "answer": "broom"
+  },
+  {
+    "id": 56,
+    "question": "A _____ is a bright flash of light in the sky seen during a thunderstorm.",
+    "options": [
+      "rainbow",
+      "lightning",
+      "star",
+      "moon"
+    ],
+    "answer": "lightning"
+  },
+  {
+    "id": 57,
+    "question": "People wear _____ on their hands in cold weather.",
+    "options": [
+      "socks",
+      "shoes",
+      "gloves",
+      "hats"
+    ],
+    "answer": "gloves"
+  },
+  {
+    "id": 58,
+    "question": "The day after today is _____.",
+    "options": [
+      "yesterday",
+      "tomorrow",
+      "today",
+      "next week"
+    ],
+    "answer": "tomorrow"
+  },
+  {
+    "id": 59,
+    "question": "A _____ is used for measuring temperature.",
+    "options": [
+      "barometer",
+      "thermometer",
+      "speedometer",
+      "altimeter"
+    ],
+    "answer": "thermometer"
+  },
+  {
+    "id": 60,
+    "question": "You sit on a _____ at a table.",
+    "options": [
+      "bed",
+      "stool",
+      "chair",
+      "sofa"
+    ],
+    "answer": "chair"
+  },
+  {
+    "id": 61,
+    "question": "A place where children go to learn is called a _____.",
+    "options": [
+      "hospital",
+      "school",
+      "office",
+      "factory"
+    ],
+    "answer": "school"
+  },
+  {
+    "id": 62,
+    "question": "To protect your eyes from the sun, you can wear _____.",
+    "options": [
+      "glasses",
+      "sunglasses",
+      "goggles",
+      "masks"
+    ],
+    "answer": "sunglasses"
+  },
+  {
+    "id": 63,
+    "question": "A _____ is a type of fruit that is long, yellow, and curved.",
+    "options": [
+      "apple",
+      "banana",
+      "orange",
+      "strawberry"
+    ],
+    "answer": "banana"
+  },
+  {
+    "id": 64,
+    "question": "We celebrate New Year's Eve on the last day of _____.",
+    "options": [
+      "January",
+      "December",
+      "November",
+      "February"
+    ],
+    "answer": "December"
+  },
+  {
+    "id": 65,
+    "question": "A _____ is a professional who cooks food in a restaurant.",
+    "options": [
+      "waiter",
+      "chef",
+      "baker",
+      "manager"
+    ],
+    "answer": "chef"
+  },
+  {
+    "id": 66,
+    "question": "You use _____ to wash your hair.",
+    "options": [
+      "soap",
+      "shampoo",
+      "conditioner",
+      "lotion"
+    ],
+    "answer": "shampoo"
+  },
+  {
+    "id": 67,
+    "question": "A baby dog is called a _____.",
+    "options": [
+      "kitten",
+      "puppy",
+      "foal",
+      "calf"
+    ],
+    "answer": "puppy"
+  },
+  {
+    "id": 68,
+    "question": "The capital of the United States is _____ D.C.",
+    "options": [
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "Washington"
+    ],
+    "answer": "Washington"
+  },
+  {
+    "id": 69,
+    "question": "To make toast, you put bread in a _____.",
+    "options": [
+      "oven",
+      "microwave",
+      "toaster",
+      "grill"
+    ],
+    "answer": "toaster"
+  },
+  {
+    "id": 70,
+    "question": "A _____ has four legs and barks.",
+    "options": [
+      "cat",
+      "dog",
+      "horse",
+      "cow"
+    ],
+    "answer": "dog"
+  },
+  {
+    "id": 71,
+    "question": "You can buy medicine at a _____ or pharmacy.",
+    "options": [
+      "supermarket",
+      "clinic",
+      "drugstore",
+      "hospital"
+    ],
+    "answer": "drugstore"
+  },
+  {
+    "id": 72,
+    "question": "The _____ is the largest planet in our solar system.",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 73,
+    "question": "A person who reports news for television or radio is a _____.",
+    "options": [
+      "actor",
+      "journalist",
+      "director",
+      "producer"
+    ],
+    "answer": "journalist"
+  },
+  {
+    "id": 74,
+    "question": "To unlock your phone, you might use a password or a _____ scan.",
+    "options": [
+      "fingerprint",
+      "voice",
+      "eye",
+      "face"
+    ],
+    "answer": "fingerprint"
+  },
+  {
+    "id": 75,
+    "question": "The opposite of 'empty' is _____.",
+    "options": [
+      "full",
+      "hollow",
+      "vacant",
+      "bare"
+    ],
+    "answer": "full"
+  },
+  {
+    "id": 76,
+    "question": "A _____ is a sweet, cold dessert often eaten in summer.",
+    "options": [
+      "cake",
+      "pie",
+      "ice cream",
+      "cookie"
+    ],
+    "answer": "ice cream"
+  },
+  {
+    "id": 77,
+    "question": "You need a _____ and a ball to play tennis.",
+    "options": [
+      "bat",
+      "club",
+      "racket",
+      "stick"
+    ],
+    "answer": "racket"
+  },
+  {
+    "id": 78,
+    "question": "A _____ is a building where people live, often with multiple floors and apartments.",
+    "options": [
+      "house",
+      "cottage",
+      "apartment building",
+      "mansion"
+    ],
+    "answer": "apartment building"
+  },
+  {
+    "id": 79,
+    "question": "To make a drawing, you can use a _____ or crayons.",
+    "options": [
+      "pen",
+      "pencil",
+      "marker",
+      "brush"
+    ],
+    "answer": "pencil"
+  },
+  {
+    "id": 80,
+    "question": "The season when it is usually coldest and snows in some places is _____.",
+    "options": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "answer": "winter"
+  },
+  {
+    "id": 81,
+    "question": "A _____ is a small, portable computer.",
+    "options": [
+      "desktop",
+      "tablet",
+      "laptop",
+      "server"
+    ],
+    "answer": "laptop"
+  },
+  {
+    "id": 82,
+    "question": "The color of a ripe strawberry is _____.",
+    "options": [
+      "green",
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "answer": "red"
+  },
+  {
+    "id": 83,
+    "question": "A _____ is a place where trains stop for passengers.",
+    "options": [
+      "bus stop",
+      "airport",
+      "train station",
+      "port"
+    ],
+    "answer": "train station"
+  },
+  {
+    "id": 84,
+    "question": "To send an email, you need an internet _____.",
+    "options": [
+      "cable",
+      "connection",
+      "modem",
+      "router"
+    ],
+    "answer": "connection"
+  },
+  {
+    "id": 85,
+    "question": "A _____ is a farm animal that gives us milk.",
+    "options": [
+      "chicken",
+      "pig",
+      "cow",
+      "sheep"
+    ],
+    "answer": "cow"
+  },
+  {
+    "id": 86,
+    "question": "The top part of a room, opposite the floor, is called the _____.",
+    "options": [
+      "floor",
+      "wall",
+      "ceiling",
+      "roof"
+    ],
+    "answer": "ceiling"
+  },
+  {
+    "id": 87,
+    "question": "You use a _____ to change TV channels from a distance.",
+    "options": [
+      "button",
+      "switch",
+      "remote control",
+      "mouse"
+    ],
+    "answer": "remote control"
+  },
+  {
+    "id": 88,
+    "question": "A _____ is a medical professional who helps people with their teeth.",
+    "options": [
+      "doctor",
+      "nurse",
+      "dentist",
+      "surgeon"
+    ],
+    "answer": "dentist"
+  },
+  {
+    "id": 89,
+    "question": "When you are tired, you might _____.",
+    "options": [
+      "laugh",
+      "cry",
+      "yawn",
+      "sneeze"
+    ],
+    "answer": "yawn"
+  },
+  {
+    "id": 90,
+    "question": "A _____ is a piece of furniture with drawers for storing clothes.",
+    "options": [
+      "wardrobe",
+      "bookshelf",
+      "chest of drawers",
+      "cabinet"
+    ],
+    "answer": "chest of drawers"
+  },
+  {
+    "id": 91,
+    "question": "You use a _____ to unlock a door or start a car.",
+    "options": [
+      "handle",
+      "knob",
+      "key",
+      "switch"
+    ],
+    "answer": "key"
+  },
+  {
+    "id": 92,
+    "question": "The _____ is the star that provides light and heat to Earth.",
+    "options": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Venus"
+    ],
+    "answer": "Sun"
+  },
+  {
+    "id": 93,
+    "question": "A person who designs buildings is an _____.",
+    "options": [
+      "engineer",
+      "artist",
+      "architect",
+      "builder"
+    ],
+    "answer": "architect"
+  },
+  {
+    "id": 94,
+    "question": "To make a salad, you often use fresh _____ like lettuce and tomatoes.",
+    "options": [
+      "fruits",
+      "vegetables",
+      "grains",
+      "meats"
+    ],
+    "answer": "vegetables"
+  },
+  {
+    "id": 95,
+    "question": "The sound a dog makes is called a _____.",
+    "options": [
+      "meow",
+      "bark",
+      "moo",
+      "roar"
+    ],
+    "answer": "bark"
+  },
+  {
+    "id": 96,
+    "question": "A _____ is a soft piece of furniture you can sit or lie on, often in the living room.",
+    "options": [
+      "chair",
+      "stool",
+      "sofa",
+      "bench"
+    ],
+    "answer": "sofa"
+  },
+  {
+    "id": 97,
+    "question": "If you break a bone, you might need to wear a _____.",
+    "options": [
+      "bandage",
+      "cast",
+      "sling",
+      "brace"
+    ],
+    "answer": "cast"
+  },
+  {
+    "id": 98,
+    "question": "A vehicle that transports sick or injured people to the hospital is an _____.",
+    "options": [
+      "ambulance",
+      "fire truck",
+      "police car",
+      "taxi"
+    ],
+    "answer": "ambulance"
+  },
+  {
+    "id": 99,
+    "question": "To pay for things in a shop, you use _____ or a credit card.",
+    "options": [
+      "checks",
+      "coins",
+      "money",
+      "notes"
+    ],
+    "answer": "money"
+  },
+  {
+    "id": 100,
+    "question": "A _____ is a book containing maps.",
+    "options": [
+      "dictionary",
+      "atlas",
+      "encyclopedia",
+      "novel"
+    ],
+    "answer": "atlas"
+  },
+  {
+    "id": 101,
+    "question": "When you want to ask a question in class, you usually raise your _____.",
+    "options": [
+      "voice",
+      "book",
+      "hand",
+      "head"
+    ],
+    "answer": "hand"
+  },
+  {
+    "id": 102,
+    "question": "A _____ is a tool used for digging holes in the ground.",
+    "options": [
+      "hammer",
+      "saw",
+      "shovel",
+      "axe"
+    ],
+    "answer": "shovel"
+  },
+  {
+    "id": 103,
+    "question": "The day before Sunday is _____.",
+    "options": [
+      "Monday",
+      "Friday",
+      "Saturday",
+      "Tuesday"
+    ],
+    "answer": "Saturday"
+  },
+  {
+    "id": 104,
+    "question": "You can find information on the internet using a search _____.",
+    "options": [
+      "engine",
+      "program",
+      "machine",
+      "system"
+    ],
+    "answer": "engine"
+  },
+  {
+    "id": 105,
+    "question": "A _____ is a story, often for children, that features magical creatures and events.",
+    "options": [
+      "biography",
+      "documentary",
+      "fairy tale",
+      "news report"
+    ],
+    "answer": "fairy tale"
+  },
+  {
+    "id": 106,
+    "question": "To go to a higher floor in a tall building, you often use an _____.",
+    "options": [
+      "escalator",
+      "elevator",
+      "ladder",
+      "staircase"
+    ],
+    "answer": "elevator"
+  },
+  {
+    "id": 107,
+    "question": "A _____ is a place where movies are shown.",
+    "options": [
+      "theater",
+      "cinema",
+      "gallery",
+      "concert hall"
+    ],
+    "answer": "cinema"
+  },
+  {
+    "id": 108,
+    "question": "The green substance in plant leaves that helps them make food is called _____.",
+    "options": [
+      "protein",
+      "chlorophyll",
+      "glucose",
+      "water"
+    ],
+    "answer": "chlorophyll"
+  },
+  {
+    "id": 109,
+    "question": "A _____ is a game played with a white ball and 15 colored balls on a table with pockets.",
+    "options": [
+      "chess",
+      "bowling",
+      "billiards",
+      "darts"
+    ],
+    "answer": "billiards"
+  },
+  {
+    "id": 110,
+    "question": "You use a _____ to take photographs.",
+    "options": [
+      "microphone",
+      "speaker",
+      "camera",
+      "projector"
+    ],
+    "answer": "camera"
+  }
+]

@@ -22,6 +22,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { BlurView } from 'expo-blur';
 import { useFonts, Poppins_400Regular, Poppins_500Medium, Poppins_600SemiBold, Poppins_700Bold } from '@expo-google-fonts/poppins';
 import { Ionicons, FontAwesome } from '@expo/vector-icons';
+import { CommonActions } from '@react-navigation/native';
 
 const { width, height } = Dimensions.get('window');
 
@@ -107,11 +108,14 @@ const LoginScreen = () => {
     try {
       const response = await checkLogin(email, password);
       if (response.success) {
-        if (response.role === 'Admin') {
-          router.push('/admin-dashboard');
-        } else if (response.role === 'User') {
-          router.push('/(practice)');
-        }
+        const targetRoute = response.role === 'Admin' ? 'admin-dashboard' : '(practice)';
+
+        navigation.dispatch(
+          CommonActions.reset({
+            index: 0,
+            routes: [{ name: targetRoute }],
+          })
+        );
       } else {
         alert('Đăng nhập không thành công. Vui lòng thử lại.');
       }

@@ -1,84 +1,55 @@
 import React from 'react';
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
+import { useRouter } from 'expo-router';
 
 export default function QuizzesScreen() {
+  const router = useRouter(); // ✅ Dùng router để điều hướng
+
   const quizCategories = [
     {
       id: '1',
       title: 'Grammar Quizzes',
       description: 'Test your grammar knowledge',
       icon: 'document-text' as const,
-      count: 15,
+      link: '/grammar_quizzes',
     },
     {
       id: '2',
       title: 'Vocabulary Quizzes',
       description: 'Check your vocabulary range',
       icon: 'book' as const,
-      count: 20,
-    },
-    {
-      id: '3',
-      title: 'Listening Comprehension',
-      description: 'Practice listening skills',
-      icon: 'headset' as const,
-      count: 10,
-    },
-    {
-      id: '4',
-      title: 'Reading Comprehension',
-      description: 'Test your reading abilities',
-      icon: 'reader' as const,
-      count: 8,
+      link: '/vocabulary_quizzes', 
     },
   ];
 
   return (
-    <ScrollView style={styles.container}>
+    <ScrollView style={styles.container} contentContainerStyle={{ paddingBottom: 30 }}>
       <View style={styles.header}>
-        <Text style={styles.title}>Quizzes</Text>
         <Text style={styles.subtitle}>Test your knowledge in different areas</Text>
       </View>
 
       <View style={styles.categoriesContainer}>
         {quizCategories.map((category) => (
-          <TouchableOpacity key={category.id} style={styles.categoryCard}>
+          <View key={category.id} style={styles.categoryCard}>
             <View style={styles.categoryHeader}>
               <Ionicons name={category.icon} size={28} color="#4A90E2" />
-              <View style={styles.countBadge}>
-                <Text style={styles.countText}>{category.count}</Text>
-              </View>
             </View>
             <Text style={styles.categoryTitle}>{category.title}</Text>
             <Text style={styles.categoryDescription}>{category.description}</Text>
-            <TouchableOpacity style={styles.startButton}>
+            <TouchableOpacity
+              style={styles.startButton}
+              onPress={() => router.push(category.link as any)} // ✅ Điều hướng sang trang tương ứng
+            >
               <Text style={styles.startButtonText}>Start Quiz</Text>
             </TouchableOpacity>
-          </TouchableOpacity>
+          </View>
         ))}
-      </View>
-
-      <View style={styles.statsSection}>
-        <Text style={styles.sectionTitle}>Your Statistics</Text>
-        <View style={styles.statsContainer}>
-          <View style={styles.statItem}>
-            <Text style={styles.statValue}>75%</Text>
-            <Text style={styles.statLabel}>Accuracy</Text>
-          </View>
-          <View style={styles.statItem}>
-            <Text style={styles.statValue}>12</Text>
-            <Text style={styles.statLabel}>Completed</Text>
-          </View>
-          <View style={styles.statItem}>
-            <Text style={styles.statValue}>5</Text>
-            <Text style={styles.statLabel}>Pending</Text>
-          </View>
-        </View>
       </View>
     </ScrollView>
   );
 }
+
 
 const styles = StyleSheet.create({
   container: {
@@ -153,33 +124,4 @@ const styles = StyleSheet.create({
     color: '#FFFFFF',
     fontWeight: 'bold',
   },
-  statsSection: {
-    padding: 15,
-    backgroundColor: '#FFFFFF',
-    marginTop: 5,
-    marginBottom: 20,
-  },
-  sectionTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
-    marginBottom: 15,
-  },
-  statsContainer: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-  },
-  statItem: {
-    alignItems: 'center',
-    flex: 1,
-  },
-  statValue: {
-    fontSize: 24,
-    fontWeight: 'bold',
-    color: '#4A90E2',
-    marginBottom: 5,
-  },
-  statLabel: {
-    fontSize: 14,
-    color: '#666666',
-  },
-}); 
+});

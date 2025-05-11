@@ -18,6 +18,15 @@ export default function PracticeLayout() {
     if (path.includes('BasicGrammarScreen')) {
       return '/grammar';
     }
+    if (path.includes('vocabulary_quizzes')) {
+      return '/quizzes';
+    }
+    if (path.includes('grammar_quizzes')) {
+      return '/quizzes';
+    }
+    if (path.includes('speakingDetail')) {
+      return '/speaking';
+    }
     if (path === '/vocabulary' || path === '/grammar' || path === '/quizzes') {
       return '/';
     }
@@ -166,6 +175,26 @@ export default function PracticeLayout() {
       />
       <Tabs.Screen
         name="TopicDetail"
+        options={{
+          headerTitle: '',
+          tabBarStyle: { display: 'none' }, 
+          tabBarShowLabel: false,
+          tabBarIcon: () => null,
+          href: null,
+        }}
+      />
+      <Tabs.Screen
+        name="vocabulary_quizzes"
+        options={{
+          headerTitle: '',
+          tabBarStyle: { display: 'none' }, 
+          tabBarShowLabel: false,
+          tabBarIcon: () => null,
+          href: null,
+        }}
+      />
+      <Tabs.Screen
+        name="grammar_quizzes"
         options={{
           headerTitle: '',
           tabBarStyle: { display: 'none' }, 
