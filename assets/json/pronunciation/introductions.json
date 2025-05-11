@@ -1,0 +1,62 @@
+[
+  {
+    "english": "My name is Anna.",
+    "phonetic": "/maɪ neɪm ɪz ˈænə/",
+    "vietnamese": "Tôi tên là Anna.",
+    "audio": "my_name_is_anna.mp3"
+  },
+  {
+    "english": "I am from Vietnam.",
+    "phonetic": "/aɪ æm frɒm ˌviːetˈnæm/",
+    "vietnamese": "Tôi đến từ Việt Nam.",
+    "audio": "i_am_from_vietnam.mp3"
+  },
+  {
+    "english": "This is my friend, John.",
+    "phonetic": "/ðɪs ɪz maɪ frɛnd, dʒɑːn/",
+    "vietnamese": "Đây là bạn tôi, John.",
+    "audio": "this_is_my_friend_john.mp3"
+  },
+  {
+    "english": "Nice to meet you.",
+    "phonetic": "/naɪs tə miːt juː/",
+    "vietnamese": "Rất vui được gặp bạn.",
+    "audio": "nice_to_meet_you1.mp3"
+  },
+  {
+    "english": "What’s your name?",
+    "phonetic": "/wʌts jɔːr neɪm/",
+    "vietnamese": "Tên bạn là gì?",
+    "audio": "whats_your_name.mp3"
+  },
+  {
+    "english": "I’m a student.",
+    "phonetic": "/aɪm ə ˈstjuːdənt/",
+    "vietnamese": "Tôi là sinh viên.",
+    "audio": "i_am_a_student.mp3"
+  },
+  {
+    "english": "How old are you?",
+    "phonetic": "/haʊ oʊld ɑːr juː/",
+    "vietnamese": "Bạn bao nhiêu tuổi?",
+    "audio": "how_old_are_you.mp3"
+  },
+  {
+    "english": "Where do you live?",
+    "phonetic": "/wɛr duː juː lɪv/",
+    "vietnamese": "Bạn sống ở đâu?",
+    "audio": "where_do_you_live.mp3"
+  },
+  {
+    "english": "I work as a teacher.",
+    "phonetic": "/aɪ wɜːrk æz ə ˈtiːtʃər/",
+    "vietnamese": "Tôi làm nghề giáo viên.",
+    "audio": "i_work_as_a_teacher.mp3"
+  },
+  {
+    "english": "Let me introduce myself.",
+    "phonetic": "/lɛt miː ˌɪntrəˈdjuːs maɪˈsɛlf/",
+    "vietnamese": "Để tôi tự giới thiệu bản thân.",
+    "audio": "let_me_introduce_myself.mp3"
+  }
+]

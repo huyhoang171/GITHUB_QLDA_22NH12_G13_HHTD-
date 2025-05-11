@@ -3,6 +3,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { useEffect } from 'react';
 import { BackHandler, TouchableOpacity } from 'react-native';
 import FontAwesome5 from '@expo/vector-icons/FontAwesome5';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export default function PracticeLayout() {
   const router = useRouter();
@@ -10,7 +11,11 @@ export default function PracticeLayout() {
 
   // Hàm xác định trang cha dựa trên đường dẫn hiện tại
   const getParentRoute = (path: string): string => {
-    if (path.includes('TopicDetail') || path.includes('BasicGrammarScreen')) {
+    console.log('Current path:', path);
+    if (path.includes('TopicDetail')) {
+      return '/BasicGrammarScreen';
+    }
+    if (path.includes('BasicGrammarScreen')) {
       return '/grammar';
     }
     if (path === '/vocabulary' || path === '/grammar' || path === '/quizzes') {
@@ -18,18 +23,45 @@ export default function PracticeLayout() {
     }
     const pathSegments = path.split('/').filter(segment => segment !== '');
     if (pathSegments.length > 1) {
-      return '/' + pathSegments.slice(0, -1).join('/');
+      const parentPath = '/' + pathSegments.slice(0, -1).join('/');
+      console.log('Calculated parent path:', parentPath);
+      return parentPath;
     }
     
+    console.log('Default return to home');
     return '/';
   };
 
   // Hàm xử lý quay lại trang cha
   const goBack = () => {
+    console.log('goBack called, current path:', currentPath);
     if (currentPath === '/' || currentPath === '/index') {
+      console.log('At home/index, not going back');
       return false;
     }
     const parentRoute = getParentRoute(currentPath);
+    console.log('Navigating to parent route:', parentRoute);
+
+    // Nếu đang ở TopicDetail và quay về BasicGrammarScreen
+    if (currentPath.includes('TopicDetail')) {
+      AsyncStorage.getItem('current_category')
+        .then(savedCategory => {
+          if (savedCategory) {
+            router.replace({
+              pathname: parentRoute as any,
+              params: { category: savedCategory }
+            });
+          } else {
+            router.replace(parentRoute as any);
+          }
+        })
+        .catch(error => {
+          console.error('Error retrieving category:', error);
+          router.replace(parentRoute as any);
+        });
+      return true;
+    }
+
     router.replace(parentRoute as any);
     return true;
   };
@@ -113,6 +145,16 @@ export default function PracticeLayout() {
         }}
       />
       <Tabs.Screen
+        name="ai"
+        options={{
+          title: 'AI',
+          headerTitle: 'AI',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="chatbubble-ellipses" size={size} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
         name="BasicGrammarScreen"
         options={{
           headerTitle: '',
@@ -124,6 +166,26 @@ export default function PracticeLayout() {
       />
       <Tabs.Screen
         name="TopicDetail"
+        options={{
+          headerTitle: '',
+          tabBarStyle: { display: 'none' }, 
+          tabBarShowLabel: false,
+          tabBarIcon: () => null,
+          href: null,
+        }}
+      />
+      <Tabs.Screen
+        name="speakingDetail"
+        options={{
+          headerTitle: '',
+          tabBarStyle: { display: 'none' }, 
+          tabBarShowLabel: false,
+          tabBarIcon: () => null,
+          href: null,
+        }}
+      />
+      <Tabs.Screen
+        name="speaking"
         options={{
           headerTitle: '',
           tabBarStyle: { display: 'none' }, 

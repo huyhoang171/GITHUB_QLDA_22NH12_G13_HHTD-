@@ -1,7 +1,11 @@
 import { Audio } from 'expo-av';
 
-export const getRandomColor = () => {
-  const hue = Math.floor(Math.random() * 360);
+export const getRandomColor = (id: string) => {
+  // Sử dụng id để tạo một số cố định từ 0-360
+  const hash = id.split('').reduce((acc, char) => {
+    return char.charCodeAt(0) + ((acc << 5) - acc);
+  }, 0);
+  const hue = Math.abs(hash % 360);
   return `hsl(${hue}, 100%, 90%)`;
 };
 

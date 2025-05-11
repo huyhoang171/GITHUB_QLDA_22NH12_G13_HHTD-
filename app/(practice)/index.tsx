@@ -35,12 +35,12 @@ const features: Feature[] = [
     color: '#E91E63',
   },
   {
-    id: 'quizzes',
-    title: 'Quizzes',
-    description: 'Test your knowledge with quizzes',
-    icon: 'checkmark-circle-outline',
-    color: '#FF9800',
-  }
+    id: 'ai',
+    title: 'AI',
+    description: 'AI support for learning',
+    icon: 'chatbubbles-outline',
+    color: '#607D8B',
+  },
 ];
 
 export default function HomeScreen() {

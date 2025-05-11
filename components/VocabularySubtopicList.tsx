@@ -78,7 +78,7 @@ export const SubtopicList: React.FC<SubtopicListProps> = ({ topic, onSelectSubto
         {topic.subtopics?.map((subtopic) => (
           <TouchableOpacity
             key={subtopic.id}
-            style={[styles.subtopicCard, { backgroundColor: getRandomColor() }]}
+            style={[styles.subtopicCard, { backgroundColor: getRandomColor(subtopic.id) }]}
             onPress={() => onSelectSubtopic(subtopic.id)}
           >
             <Text style={styles.subtopicTitle}>{subtopic.title}</Text>

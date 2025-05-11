@@ -118,6 +118,10 @@ export default function VocabularyScreen() {
             setVocabularyItems([]);
             setCurrentIndex(0);
             setShowAnswer(false);
+            setTranslatedSenses(null);
+            setTranslatedWord(null);
+            setTranslationError(null);
+            setIsTranslating(false);
           }}
         >
           <Text style={styles.backButtonText}>← Back to {currentTopic?.title}</Text>
@@ -164,6 +168,12 @@ export default function VocabularyScreen() {
             setTranslatedWord,
             setTranslatedSenses
           )}
+          currentTopic={selectedTopic || ''}
+          setShowAnswer={setShowAnswer}
+          setTranslationError={setTranslationError}
+          setIsTranslating={setIsTranslating}
+          setTranslatedWord={setTranslatedWord}
+          setTranslatedSenses={setTranslatedSenses}
         />
       ) : (
         <Text style={styles.loadingText}>Loading vocabulary data...</Text>

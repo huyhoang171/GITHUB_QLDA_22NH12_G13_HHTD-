@@ -1,31 +1,88 @@
-import {StyleSheet, Platform} from 'react-native';
+import {StyleSheet, Platform, Dimensions} from 'react-native';
+const { width } = Dimensions.get('window');
+
+// Palette màu theo yêu cầu
+const COLORS = {
+  primary: '#00C5CD',      // Màu chính đậm hơn để nút, border, icon
+  primaryLight: 'rgba(1, 132, 146, 0.15)', // Màu chính nhạt hơn cho background
+  primaryUltraLight: 'rgba(4, 74, 82, 0.07)', // Màu chính rất nhạt cho background
+  secondary: '#20B2AA',    // Màu phụ cho các nút thứ cấp
+  text: '#2D3748',         // Màu chữ chính
+  textLight: '#718096',    // Màu chữ nhạt
+  background: '#FFFFFF',   // Màu nền chính
+  backgroundLight: '#F7FAFC', // Màu nền nhạt
+  error: '#FF6B6B',        // Màu lỗi
+  white: '#FFFFFF',         // Màu trắng
+  red: '#FF0000',         // Màu đỏ
+  blue: '#0000FF',         // Màu xanh dương
+};
 export const styles = StyleSheet.create({
-  // Main Container
   container: {
     flex: 1,
-    backgroundColor: '#f8f9fa',
+    backgroundColor: '#fff',
   },
-
-  // Headers & Titles
+  loadingContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  backgroundGradient: {
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    top: 0,
+    bottom: 0,
+  },
+  decorContainer: {
+    position: 'absolute',
+    width: width,
+    height: '100%',
+  },
+  decorBlob: {
+    position: 'absolute',
+    borderRadius: 100,
+  },
+  decorBlob1: {
+    width: width * 0.7,
+    height: width * 0.7,
+    backgroundColor: 'rgba(60, 230, 164, 0.08)',
+    top: -width * 0.2,
+    right: -width * 0.3,
+    transform: [{ rotate: '35deg' }],
+  },
+  decorBlob2: {
+    width: width * 0.5,
+    height: width * 0.5,
+    backgroundColor: 'rgba(93, 213, 227, 0.07)',
+    bottom: '30%',
+    left: -width * 0.2,
+    transform: [{ rotate: '-15deg' }],
+  },
+  scrollContainer: {
+    flexGrow: 1,
+    paddingTop: Platform.OS === 'ios' ? 20 : 40,
+    paddingBottom: 20,
+  },
+  headerContainer: {
+    alignItems: 'center',
+    paddingHorizontal: 24,
+    marginBottom: 40,
+  },
   title: {
     fontSize: 26,
-    fontWeight: '700',
-    color: '#212529',
-    padding: 20,
-    paddingBottom: 12,
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
-    letterSpacing: 0.3,
+    fontFamily: 'Poppins_700Bold',
+    color: '#1a1c1e',
+    marginBottom: 10,
   },
-  headerTitle: {
-    fontSize: 22,
-    fontWeight: '700',
-    color: '#212529',
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
+  description: {
+    fontSize: 16,
+    fontFamily: 'Poppins_400Regular',
+    color: '#666',
+    textAlign: 'center',
+    paddingHorizontal: 20,
   },
-
-  // Topic Grid & Cards
   topicsGrid: {
-    padding: 12,
+    paddingHorizontal: 12,
     paddingBottom: 40,
   },
   topicCard: {
@@ -58,30 +115,28 @@ export const styles = StyleSheet.create({
   },
   topicInfo: {
     padding: 16,
-    // Semi-transparent gradient background for info section
-    backgroundColor: 'rgba(255, 255, 255, 0.95)',
-    borderBottomLeftRadius: 14,
-    borderBottomRightRadius: 14,
-    // Subtle inner shadow
-    shadowColor: 'rgba(0, 0, 0, 0.1)',
-    shadowOffset: { width: 0, height: -2 },
-    shadowOpacity: 0.8,
-    shadowRadius: 4,
+    borderBottomLeftRadius: 16,
+    borderBottomRightRadius: 16,
   },
   topicTitle: {
     fontSize: 18,
-    fontWeight: '700',
-    color: '#212529',
+    fontFamily: 'Poppins_600SemiBold',
+    color: '#1a1c1e',
     marginBottom: 4,
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
   },
   topicTitleVN: {
     fontSize: 14,
-    color: '#6c757d',
+    fontFamily: 'Poppins_400Regular',
+    color: '#666',
+  },
+
+  headerTitle: {
+    fontSize: 22,
+    fontWeight: '700',
+    color: '#212529',
     fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
   },
 
-  // Header & Navigation
   header: {
     backgroundColor: '#ffffff',
     paddingVertical: 16,
@@ -132,70 +187,226 @@ export const styles = StyleSheet.create({
     color: '#495057',
     fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
   },
-
-  // Word Cards
   scrollView: {
     flex: 1,
+    backgroundColor: COLORS.backgroundLight,
+  },
+  containerVocabularyCard: {
+    padding: 16,
+    alignItems: 'center',
+    minHeight: '100%',
   },
   card: {
-    margin: 16,
-    backgroundColor: '#ffffff',
-    borderRadius: 18,
+    width: width - 32,
+    backgroundColor: COLORS.background,
+    borderRadius: 20,
     padding: 24,
-    shadowColor: 'rgba(0, 0, 0, 0.1)',
-    shadowOffset: { width: 0, height: 3 },
-    shadowOpacity: 0.9,
-    shadowRadius: 10,
-    elevation: 5,
+    shadowColor: COLORS.primary,
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.25,
+    shadowRadius: 15,
+    elevation: 8,
+  },
+  wordHeader: {
+    alignItems: 'center',
+    marginBottom: 20,
   },
   word: {
-    fontSize: 32,
+    fontSize: 28,
     fontWeight: '700',
-    color: '#212529',
+    color: COLORS.text,
+    marginBottom: 5,
     textAlign: 'center',
-    marginBottom: 16,
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
-    letterSpacing: 0.4,
   },
   wordVN: {
-    fontSize: 24,
+    fontSize: 22,
+    color: COLORS.primary,
     fontWeight: '600',
-    color: '#198754',
+    marginTop: 6,
     textAlign: 'center',
-    marginBottom: 20,
-    fontStyle: 'italic',
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
   },
-
-  // Pronunciation
   pronunciationContainer: {
     flexDirection: 'row',
-    justifyContent: 'space-around',
+    justifyContent: 'space-between',
     marginBottom: 24,
-    marginTop: 8,
   },
-  pronunciation: {
-    alignItems: 'center',
-    backgroundColor: 'rgba(0, 0, 0, 0.03)',
+  pronunciationCard: {
+    flex: 1,
+    backgroundColor: COLORS.primaryUltraLight,
     borderRadius: 12,
-    padding: 12,
-    minWidth: 120,
+    padding: 14,
+    marginHorizontal: 6,
+  },
+  pronunciationHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 8,
   },
   pronunciationLabel: {
     fontSize: 14,
     fontWeight: '600',
-    color: '#6c757d',
-    marginBottom: 6,
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
+    color: COLORS.textLight,
   },
   phoneticText: {
-    fontSize: 18,
-    color: '#343a40',
-    marginBottom: 10,
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
+    fontSize: 16,
+    color: COLORS.text,
+    fontWeight: '500',
   },
-
-  // Sound Buttons
+  playButton: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    backgroundColor: COLORS.primaryLight,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  contentSection: {
+    marginTop: 10,
+  },
+  definitionBox: {
+    backgroundColor: COLORS.primaryUltraLight,
+    borderRadius: 12,
+    padding: 18,
+    marginBottom: 16,
+    borderLeftWidth: 4,
+    borderLeftColor: COLORS.primary,
+  },
+  meaning: {
+    fontSize: 17,
+    lineHeight: 24,
+    color: COLORS.text,
+    fontWeight: '500',
+  },
+  translatedBox: {
+    backgroundColor: COLORS.primaryUltraLight,
+    borderRadius: 12,
+    padding: 16,
+    marginBottom: 16,
+    borderLeftWidth: 4,
+    borderLeftColor: COLORS.secondary,
+  },
+  translatedText: {
+    fontSize: 16,
+    lineHeight: 24,
+    color: COLORS.text,
+    fontStyle: 'italic',
+  },
+  examplesContainer: {
+    marginTop: 8,
+    marginBottom: 20,
+  },
+  exampleItem: {
+    flexDirection: 'row',
+    marginBottom: 16,
+    paddingLeft: 8,
+  },
+  quoteIcon: {
+    marginRight: 10,
+    marginTop: 4,
+  },
+  example: {
+    flex: 1,
+    fontSize: 16,
+    lineHeight: 24,
+    color: COLORS.textLight,
+    fontStyle: 'italic',
+  },
+  showAnswerButton: {
+    backgroundColor: COLORS.primary,
+    borderRadius: 12,
+    paddingVertical: 14,
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginTop: 20,
+  },
+  showAnswerText: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: COLORS.white,
+  },
+  buttonIcon: {
+    marginRight: 10,
+  },
+  actionButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+    borderRadius: 12,
+    marginTop: 16, 
+  },
+  translateButton: {
+    backgroundColor: COLORS.primary,
+  },
+  examplesButton: {
+    backgroundColor: COLORS.primary,
+  },
+  actionButtonText: {
+    color: COLORS.white,
+    fontWeight: '600',
+    fontSize: 16,
+    marginLeft: 8,
+  },
+  loadingText: {
+    marginLeft: 10,
+    fontSize: 16,
+    color: COLORS.textLight,
+  },
+  errorContainer: {
+    backgroundColor: 'rgba(255, 107, 107, 0.1)',
+    borderRadius: 12,
+    padding: 16,
+    marginVertical: 10,
+    borderLeftWidth: 4,
+    borderLeftColor: COLORS.error,
+  },
+  errorText: {
+    fontSize: 16,
+    color: COLORS.error,
+    marginBottom: 12,
+  },
+  navigationButtons: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginTop: 30,
+  },
+  navButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 12,
+    borderWidth: 1.5,
+    borderColor: COLORS.primary,
+    backgroundColor: COLORS.background,
+  },
+  prevButton: {
+    paddingLeft: 16,
+  },
+  nextButton: {
+    paddingRight: 16,
+  },
+  navButtonText: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: COLORS.primary,
+    marginHorizontal: 8,
+  },
+  allButton: {
+    backgroundColor: COLORS.primary,
+    alignSelf: 'center',
+    marginTop: 20,
+    paddingHorizontal: 24,
+    width: '100%',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  allButtonText: {
+    color: COLORS.white,
+  },
   playButtonUK: {
     backgroundColor: '#198754',
     width: 42,
@@ -228,62 +439,6 @@ export const styles = StyleSheet.create({
     fontWeight: '600',
     fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
   },
-
-  // Definition & Examples
-  meaning: {
-    fontSize: 18,
-    color: '#343a40',
-    marginBottom: 18,
-    lineHeight: 26,
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
-    letterSpacing: 0.2,
-  },
-  example: {
-    fontSize: 16,
-    color: '#6c757d',
-    fontStyle: 'italic',
-    marginBottom: 12,
-    lineHeight: 24,
-    paddingLeft: 12,
-    borderLeftWidth: 2,
-    borderLeftColor: 'black',
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
-  },
-  translatedText: {
-    fontSize: 18,
-    color: '#343a40',
-    marginBottom: 16,
-    lineHeight: 26,
-    backgroundColor: 'rgba(25, 135, 84, 0.05)',
-    padding: 12,
-    borderRadius: 10,
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
-  },
-
-  // Buttons
-  showAnswerButton: {
-    backgroundColor: '#0d6efd',
-    padding: 16,
-    borderRadius: 12,
-    alignItems: 'center',
-    marginVertical: 20,
-    shadowColor: 'rgba(13, 110, 253, 0.3)',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.8,
-    shadowRadius: 4,
-    elevation: 3,
-  },
-  showAnswerText: {
-    color: '#ffffff',
-    fontSize: 16,
-    fontWeight: '600',
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
-  },
-  navigationButtons: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    marginTop: 12,
-  },
   button: {
     backgroundColor: '#f1f3f5',
     padding: 16,
@@ -303,19 +458,6 @@ export const styles = StyleSheet.create({
     fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
   },
 
-  // Translation/Action Buttons
-  translateButton: {
-    backgroundColor: '#0d6efd',
-    padding: 14,
-    borderRadius: 12,
-    alignItems: 'center',
-    marginVertical: 12,
-    shadowColor: 'rgba(13, 110, 253, 0.3)',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.8,
-    shadowRadius: 4,
-    elevation: 3,
-  },
   translateButtonText: {
     color: '#ffffff',
     fontSize: 16,
@@ -361,32 +503,12 @@ export const styles = StyleSheet.create({
   },
 
   // Loading & Error States
-  loadingContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center',
-    marginVertical: 16,
-  },
-  loadingText: {
-    fontSize: 16,
-    color: '#6c757d',
-    marginLeft: 10,
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
-  },
-  errorContainer: {
-    alignItems: 'center',
-    backgroundColor: 'rgba(220, 53, 69, 0.05)',
-    padding: 12,
-    borderRadius: 10,
-    marginVertical: 12,
-  },
-  errorText: {
-    color: '#dc3545',
-    textAlign: 'center',
-    marginBottom: 12,
-    fontFamily: Platform.OS === 'ios' ? 'System' : 'Roboto',
-    fontSize: 15,
-  },
+  // loadingContainer: {
+  //   flexDirection: 'row',
+  //   alignItems: 'center',
+  //   justifyContent: 'center',
+  //   marginVertical: 16,
+  // },
   iconContainer: {
     flexDirection: 'row',
     position: 'absolute',
@@ -399,5 +521,71 @@ export const styles = StyleSheet.create({
   icon: {
     fontSize: 24,
     color: '#495057',
-  }
+  },
+
+  // Search styles
+  searchContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: COLORS.backgroundLight,
+    borderRadius: 12,
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    marginHorizontal: 16,
+    marginVertical: 12,
+    borderWidth: 2,
+    borderColor: COLORS.primaryLight,
+    width: '100%',
+    shadowColor: COLORS.primary,
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.25,
+    shadowRadius: 15,
+  },
+  searchInput: {
+    flex: 1,
+    fontSize: 16,
+    color: COLORS.text,
+    paddingVertical: 8,
+    fontFamily: 'Poppins_400Regular',
+  },
+  searchIcon: {
+    marginLeft: 8,
+  },
+  searchResultsContainer: {
+    maxHeight: 200,
+    backgroundColor: COLORS.white,
+    borderRadius: 12,
+    marginHorizontal: 16,
+    marginBottom: 12,
+    borderWidth: 1,
+    borderColor: COLORS.primaryLight,
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.1,
+    shadowRadius: 4,
+    elevation: 3,
+    width: '100%',
+  },
+  searchResultsScrollView: {
+    maxHeight: 200,
+  },
+  searchResultItem: {
+    padding: 12,
+    borderBottomWidth: 1,
+    borderBottomColor: COLORS.primaryUltraLight,
+  },
+  searchResultText: {
+    fontSize: 16,
+    color: COLORS.text,
+    fontFamily: 'Poppins_400Regular',
+  },
+  noResultsText: {
+    padding: 16,
+    textAlign: 'center',
+    color: COLORS.textLight,
+    fontFamily: 'Poppins_400Regular',
+  },
 });

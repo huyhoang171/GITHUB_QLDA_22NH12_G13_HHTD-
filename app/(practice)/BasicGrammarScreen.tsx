@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Image } from 'rea
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { CategoryData, Lesson } from '../types/navigation';
 import {styles} from '../styles/BasicGrammarStyle'
-
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const BasicGrammarScreen = () => {
   const router = useRouter();
@@ -29,7 +29,14 @@ const BasicGrammarScreen = () => {
     // Trong trường hợp lỗi, sử dụng giá trị mặc định đã khai báo
   }
 
-  const handleStartLearning = (lesson: Lesson) => {
+  const handleStartLearning = async (lesson: Lesson) => {
+    // Lưu category vào AsyncStorage trước khi chuyển trang
+    try {
+      await AsyncStorage.setItem('current_category', JSON.stringify(category));
+    } catch (error) {
+      console.error('Error saving category:', error);
+    }
+    
     router.push({
       pathname: '/(practice)/TopicDetail',
       params: { lesson: JSON.stringify(lesson) }
@@ -79,7 +86,5 @@ const BasicGrammarScreen = () => {
     </ScrollView>
   );
 };
-
-
 
 export default BasicGrammarScreen;
