@@ -1,22 +1,21 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, Button, StyleSheet, TouchableOpacity, ActivityIndicator, Platform, Alert, ScrollView } from 'react-native';
+import { View, Text, TouchableOpacity, StyleSheet, ActivityIndicator, Platform, Alert, ScrollView } from 'react-native';
 import { useLocalSearchParams } from 'expo-router';
 import { Audio, InterruptionModeIOS, InterruptionModeAndroid } from 'expo-av';
-import * as FileSystem from 'expo-file-system';
-import axios from 'axios'; // Vẫn dùng axios để gọi backend
+import { LinearGradient } from 'expo-linear-gradient';
+import Animated, { useSharedValue, useAnimatedStyle, withSpring } from 'react-native-reanimated';
+import { Ionicons } from '@expo/vector-icons';
+import axios from 'axios';
 
-// !! QUAN TRỌNG: Thay thế bằng địa chỉ IP và cổng của máy đang chạy backend Flask !!
-// Ví dụ: 'http://192.168.1.100:5000' hoặc 'http://10.0.2.2:5000' (cho Android Emulator)
-const BACKEND_TRANSCRIPTION_URL = 'http://172.20.10.7:5000/transcribe'; // <<< KIỂM TRA LẠI IP NÀY!
+const BACKEND_TRANSCRIPTION_URL = 'http://172.20.10.7:5000/transcribe';
 
 interface Dialogue {
   english: string;
   phonetic: string;
   vietnamese: string;
-  audio: string; // Assuming this is the key/filename for audioFiles
+  audio: string;
 }
 
-// --- Static Data ---
 const topicFiles: Record<string, any> = {
   greetings: require('../../assets/json/pronunciation/greetings.json'),
   introductions: require('../../assets/json/pronunciation/introductions.json'),
@@ -37,7 +36,6 @@ const audioFiles: Record<string, any> = {
   'whats_up.mp3': require('../../assets/audio/greetings/whats_up.mp3'),
   'how_have_you_been.mp3': require('../../assets/audio/greetings/how_have_you_been.mp3'),
   'hey_good_to_see_you.mp3': require('../../assets/audio/greetings/hey_good_to_see_you.mp3'),
-
   // Daily Conversations
   'how_was_your_day.mp3': require('../../assets/audio/daily-conversations/how_was_your_day.mp3'),
   'i_am_going_to_the_market.mp3': require('../../assets/audio/daily-conversations/i_am_going_to_the_market.mp3'),
@@ -49,7 +47,6 @@ const audioFiles: Record<string, any> = {
   'please_wait_a_moment.mp3': require('../../assets/audio/daily-conversations/please_wait_a_moment.mp3'),
   'i_am_tired_today.mp3': require('../../assets/audio/daily-conversations/i_am_tired_today.mp3'),
   'lets_have_lunch.mp3': require('../../assets/audio/daily-conversations/lets_have_lunch.mp3'),
-
   // Introductions
   'my_name_is_anna.mp3': require('../../assets/audio/introductions/my_name_is_anna.mp3'),
   'i_am_from_vietnam.mp3': require('../../assets/audio/introductions/i_am_from_vietnam.mp3'),
@@ -61,7 +58,6 @@ const audioFiles: Record<string, any> = {
   'where_do_you_live.mp3': require('../../assets/audio/introductions/where_do_you_live.mp3'),
   'i_work_as_a_teacher.mp3': require('../../assets/audio/introductions/i_work_as_a_teacher.mp3'),
   'let_me_introduce_myself.mp3': require('../../assets/audio/introductions/let_me_introduce_myself.mp3'),
-
   // Travel
   'where_is_the_bus_stop.mp3': require('../../assets/audio/travel/where_is_the_bus_stop.mp3'),
   'id_like_to_book_a_room.mp3': require('../../assets/audio/travel/id_like_to_book_a_room.mp3'),
@@ -73,7 +69,6 @@ const audioFiles: Record<string, any> = {
   'what_time_does_it_open.mp3': require('../../assets/audio/travel/what_time_does_it_open.mp3'),
   'i_need_a_taxi.mp3': require('../../assets/audio/travel/i_need_a_taxi.mp3'),
   'how_far_is_the_airport.mp3': require('../../assets/audio/travel/how_far_is_the_airport.mp3'),
-
   // Work
   'i_have_a_meeting_at_10_am.mp3': require('../../assets/audio/work/i_have_a_meeting_at_10_am.mp3'),
   'please_send_me_the_report.mp3': require('../../assets/audio/work/please_send_me_the_report.mp3'),
@@ -87,7 +82,6 @@ const audioFiles: Record<string, any> = {
   'lets_schedule_a_call.mp3': require('../../assets/audio/work/lets_schedule_a_call.mp3'),
 };
 
-// --- Component ---
 export default function SpeakingDetail() {
   const { topicId } = useLocalSearchParams();
   const [dialogues, setDialogues] = useState<Dialogue[]>([]);
@@ -95,10 +89,15 @@ export default function SpeakingDetail() {
   const [recording, setRecording] = useState<Audio.Recording | null>(null);
   const [playbackUri, setPlaybackUri] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
-  const [isTranscribing, setIsTranscribing] = useState(false); // State for transcription loading
+  const [isTranscribing, setIsTranscribing] = useState(false);
   const [transcriptionResult, setTranscriptionResult] = useState<{ text: string; accuracy: number | null } | null>(null);
 
-  // --- Effects ---
+  // Animation values for buttons
+  const buttonScale = useSharedValue(1);
+  const buttonAnimatedStyle = useAnimatedStyle(() => ({
+    transform: [{ scale: buttonScale.value }],
+  }));
+
   useEffect(() => {
     if (!topicId || typeof topicId !== 'string') {
       console.error('Invalid or missing topicId param');
@@ -106,13 +105,11 @@ export default function SpeakingDetail() {
       return;
     }
 
-    console.log('Loading dialogues for topicId:', topicId);
     try {
       const dialoguesData = topicFiles[topicId];
       if (dialoguesData && Array.isArray(dialoguesData)) {
         setDialogues(dialoguesData);
       } else {
-        console.error('No valid dialogues array found for topicId:', topicId);
         setDialogues([]);
       }
     } catch (error) {
@@ -123,46 +120,39 @@ export default function SpeakingDetail() {
     }
   }, [topicId]);
 
-  // --- Audio & Recording Functions ---
   const startRecording = async () => {
     setPlaybackUri(null);
     setTranscriptionResult(null);
     try {
       const { status } = await Audio.requestPermissionsAsync();
       if (status !== 'granted') {
-        Alert.alert('Từ chối quyền', 'Quyền truy cập micro bị từ chối!');
+        Alert.alert('Permission Denied', 'Microphone access is required!');
         return;
       }
       await Audio.setAudioModeAsync({
-        allowsRecordingIOS: true, playsInSilentModeIOS: true,
+        allowsRecordingIOS: true,
+        playsInSilentModeIOS: true,
         interruptionModeIOS: InterruptionModeIOS.DoNotMix,
-        shouldDuckAndroid: true, interruptionModeAndroid: InterruptionModeAndroid.DoNotMix,
+        shouldDuckAndroid: true,
+        interruptionModeAndroid: InterruptionModeAndroid.DoNotMix,
         playThroughEarpieceAndroid: false,
       });
-      console.log('Starting recording...');
-      const recordingOptions = Audio.RecordingOptionsPresets.HIGH_QUALITY; // Giữ nguyên định dạng m4a/caf
+      const recordingOptions = Audio.RecordingOptionsPresets.HIGH_QUALITY;
       const { recording } = await Audio.Recording.createAsync(recordingOptions);
       setRecording(recording);
-      console.log('Recording started');
     } catch (err) {
       console.error('Failed to start recording', err);
-      Alert.alert('Lỗi ghi âm', 'Không thể bắt đầu ghi âm.');
+      Alert.alert('Recording Error', 'Unable to start recording.');
     }
   };
 
   const stopRecording = async () => {
     if (!recording) return;
-    console.log('Stopping recording...');
     try {
       await recording.stopAndUnloadAsync();
       const uri = recording.getURI();
-      console.log('Recording stopped, URI:', uri);
-      if (uri) {
-        setPlaybackUri(uri);
-      } else {
-        console.error("Recording URI is null after stopping.");
-        Alert.alert("Lỗi", "Không lấy được file ghi âm sau khi dừng.");
-      }
+      if (uri) setPlaybackUri(uri);
+      else Alert.alert('Error', 'No recording file found.');
     } catch (err) {
       console.error('Failed to stop recording', err);
     } finally {
@@ -172,208 +162,96 @@ export default function SpeakingDetail() {
 
   const playRecording = async () => {
     if (!playbackUri) return;
-    console.log('Playing recording from:', playbackUri);
     try {
-      const { sound } = await Audio.Sound.createAsync(
-        { uri: playbackUri },
-        { shouldPlay: true }
-      );
+      const { sound } = await Audio.Sound.createAsync({ uri: playbackUri }, { shouldPlay: true });
       sound.setOnPlaybackStatusUpdate(async (status) => {
-        if (status.isLoaded && status.didJustFinish) {
-          console.log('Playback finished');
-          await sound.unloadAsync();
-          console.log('Sound unloaded');
-        } else if (!status.isLoaded && status.error) {
-          console.error(`Playback Error: ${status.error}`);
-          await sound.unloadAsync();
-        }
+        if (status.isLoaded && status.didJustFinish) await sound.unloadAsync();
       });
     } catch (err) {
       console.error('Failed to play recording', err);
-      Alert.alert('Lỗi phát lại', 'Không thể phát lại bản ghi âm.');
+      Alert.alert('Playback Error', 'Unable to play recording.');
     }
   };
 
   const playAudio = async (audioFileName: string | undefined) => {
-    if (!audioFileName) {
-      console.warn('Attempted to play audio with undefined filename');
-      return;
-    }
-    console.log('Playing reference audio:', audioFileName);
+    if (!audioFileName) return;
     try {
       const audioResource = audioFiles[audioFileName];
       if (!audioResource) {
-        console.error(`Audio file not found in audioFiles map: ${audioFileName}`);
-        Alert.alert('Lỗi file', `Không tìm thấy file âm thanh: ${audioFileName}`);
+        Alert.alert('File Error', `Audio file not found: ${audioFileName}`);
         return;
       }
-      const { sound } = await Audio.Sound.createAsync(
-        audioResource,
-        { shouldPlay: true }
-      );
+      const { sound } = await Audio.Sound.createAsync(audioResource, { shouldPlay: true });
       sound.setOnPlaybackStatusUpdate(async (status) => {
-        if (status.isLoaded && status.didJustFinish) {
-          await sound.unloadAsync();
-        } else if (!status.isLoaded && status.error) {
-          console.error(`Reference Audio Playback Error: ${status.error}`);
-          await sound.unloadAsync();
-        }
+        if (status.isLoaded && status.didJustFinish) await sound.unloadAsync();
       });
     } catch (err) {
       console.error('Failed to play reference audio', err);
-      Alert.alert('Lỗi phát âm thanh', 'Không thể phát file âm thanh mẫu.');
+      Alert.alert('Audio Error', 'Unable to play sample audio.');
     }
   };
 
-  // --- Transcription Functions ---
-
-  /**
-   * Sends the recorded audio file to the Flask backend for transcription.
-   * @param recordingUri The file URI of the recorded audio (.m4a or .caf).
-   * @returns The transcribed text from the backend.
-   */
   const transcribeWithBackend = async (recordingUri: string): Promise<string> => {
-    console.log(`Sending audio to backend: ${recordingUri}`);
-
     const fileExtension = recordingUri.split('.').pop()?.toLowerCase();
-    if (!fileExtension) {
-      throw new Error("Không thể xác định định dạng file từ URI.");
-    }
-    const fileName = `recording.${fileExtension}`; // e.g., recording.m4a
-    let mimeType: string;
-
-    // Xác định MIME type dựa trên phần mở rộng file
-    if (Platform.OS === 'ios') {
-      // iOS thường ghi âm thành .caf hoặc .m4a tùy cấu hình
-      if (fileExtension === 'caf') mimeType = 'audio/x-caf';
-      else mimeType = 'audio/m4a'; // Mặc định là m4a cho iOS nếu không phải caf
-    } else if (Platform.OS === 'android') {
-      // Android thường ghi âm thành .m4a hoặc .aac, .3gp tùy thiết bị và cấu hình
-      // Expo AV thường cố gắng chuẩn hóa thành m4a trên Android với HIGH_QUALITY
-      mimeType = 'audio/m4a'; // Giả định là m4a trên Android
-    } else {
-      mimeType = 'application/octet-stream'; // Fallback chung
-    }
-
-    console.log(`Uploading to backend: name=${fileName}, type=${mimeType}`);
+    if (!fileExtension) throw new Error('Cannot determine file format.');
+    const fileName = `recording.${fileExtension}`;
+    const mimeType = Platform.OS === 'ios' ? (fileExtension === 'caf' ? 'audio/x-caf' : 'audio/m4a') : 'audio/m4a';
 
     const formData = new FormData();
-    // Đảm bảo tên field là 'audio' như trong backend Flask
-    // Cast sang 'any' để tránh lỗi type checking với cấu trúc của React Native FormData
-    formData.append('audio', {
-      uri: recordingUri,
-      name: fileName,
-      type: mimeType,
-    } as any);
+    formData.append('audio', { uri: recordingUri, name: fileName, type: mimeType } as any);
 
     try {
-      // *** THAY ĐỔI QUAN TRỌNG Ở ĐÂY ***
       const response = await axios.post(BACKEND_TRANSCRIPTION_URL, formData, {
-        headers: {
-          // Ép kiểu Content-Type thành multipart/form-data
-          // Mặc dù Axios thường tự làm điều này với FormData,
-          // việc chỉ định rõ ràng giúp đảm bảo và gỡ lỗi dễ hơn.
-          'Content-Type': 'multipart/form-data',
-        },
-        timeout: 60000, // Tăng timeout nếu cần cho việc upload và xử lý backend
+        headers: { 'Content-Type': 'multipart/form-data' },
+        timeout: 60000,
       });
-      // *** KẾT THÚC THAY ĐỔI ***
-
-      if (response.status === 200 && response.data && response.data.transcription) {
-        console.log('Backend transcription success:', response.data.transcription);
+      if (response.status === 200 && response.data.transcription) {
         return response.data.transcription;
-      } else {
-        // Xử lý lỗi trả về từ backend (nếu có cấu trúc error)
-        const errorMessage = response.data?.error || `Lỗi không xác định từ backend (status ${response.status})`;
-        console.error('Backend returned error:', errorMessage);
-        throw new Error(errorMessage);
       }
+      throw new Error(response.data?.error || 'Unknown backend error');
     } catch (error: any) {
-      console.error('Error calling backend API:', error);
       if (axios.isAxiosError(error)) {
-        if (error.response) {
-          // Lỗi có response từ server (4xx, 5xx)
-          console.error("Backend error details:", error.response.status, error.response.data);
-          throw new Error(`Lỗi từ backend (${error.response.status}): ${error.response.data?.error || error.message}`);
-        } else if (error.request) {
-          // Request được gửi đi nhưng không nhận được response (lỗi mạng, timeout, không kết nối được backend)
-          console.error("No response received:", error.request);
-          // Thông báo lỗi rõ ràng hơn cho người dùng
-          throw new Error('Không thể kết nối đến server. Vui lòng kiểm tra kết nối mạng, địa chỉ IP của backend và đảm bảo server đang chạy.');
-        } else {
-          // Lỗi xảy ra khi thiết lập request
-          console.error('Axios setup error:', error.message);
-          throw new Error(`Lỗi khi gửi yêu cầu: ${error.message}`);
-        }
-      } else {
-        // Lỗi không phải của Axios
-        console.error('Non-Axios error:', error);
-        throw new Error(`Lỗi không xác định: ${error.message}`);
+        throw new Error(error.response?.data?.error || 'Network error: Check backend connection.');
       }
+      throw new Error(error.message);
     }
   };
 
-  // Simple accuracy calculation (word-by-word match)
   const calculateAccuracy = (original: string, transcript: string): number | null => {
     if (!original || !transcript) return 0;
-
-    // Hàm làm sạch dấu câu và chuẩn hóa từ
-    const cleanText = (text: string): string[] => {
-      return text
+    const cleanText = (text: string) =>
+      text
         .toLowerCase()
-        .replace(/[\.,!?;:"'()\-\[\]{}]/g, '') // loại bỏ dấu câu phổ biến và cả dấu ngoặc
+        .replace(/[\.,!?;:"'()\-\[\]{}]/g, '')
         .trim()
-        .split(/\s+/); // tách từ
-    };
-
+        .split(/\s+/);
     const originalWords = cleanText(original);
     const transcriptWords = cleanText(transcript);
-
     if (originalWords.length === 0) return 0;
-
     let matchCount = 0;
     const minLength = Math.min(originalWords.length, transcriptWords.length);
-
     for (let i = 0; i < minLength; i++) {
-      if (originalWords[i] === transcriptWords[i]) {
-        matchCount++;
-      }
+      if (originalWords[i] === transcriptWords[i]) matchCount++;
     }
-
-    const accuracy = (matchCount / originalWords.length) * 100;
-    return parseFloat(accuracy.toFixed(2));
+    return parseFloat(((matchCount / originalWords.length) * 100).toFixed(2));
   };
 
-  // Handler to trigger transcription using the backend
   const handleTranscription = async () => {
-    if (!playbackUri) {
-      Alert.alert('Thiếu file', 'Chưa có bản ghi âm nào để xử lý.');
-      return;
-    }
-    if (!currentDialogue) {
-      Alert.alert("Lỗi dữ liệu", "Không tìm thấy đoạn hội thoại hiện tại.");
-      return;
-    }
-
+    if (!playbackUri || !currentDialogue) return;
     setIsTranscribing(true);
-    setTranscriptionResult(null); // Clear previous result
-
+    setTranscriptionResult(null);
     try {
-      // Gọi hàm transcribeWithBackend đã được cập nhật
       const transcript = await transcribeWithBackend(playbackUri);
       const accuracy = calculateAccuracy(currentDialogue.english, transcript);
       setTranscriptionResult({ text: transcript, accuracy });
     } catch (error: any) {
-      console.error('Error during backend transcription process:', error);
-      // Hiển thị lỗi cho người dùng một cách thân thiện hơn
-      Alert.alert('Lỗi xử lý', error.message || 'Quá trình chuyển đổi giọng nói thất bại. Vui lòng thử lại.');
-      setTranscriptionResult({ text: "Lỗi xử lý", accuracy: null }); // Hiển thị lỗi trên UI
+      Alert.alert('Transcription Error', error.message);
+      setTranscriptionResult({ text: 'Transcription failed', accuracy: null });
     } finally {
       setIsTranscribing(false);
     }
   };
 
-  // --- Navigation ---
   const handleNext = () => {
     if (currentDialogueIndex < dialogues.length - 1) {
       setCurrentDialogueIndex(currentDialogueIndex + 1);
@@ -392,112 +270,400 @@ export default function SpeakingDetail() {
 
   const currentDialogue = dialogues[currentDialogueIndex];
 
-  // --- Render ---
   if (isLoading) {
     return (
       <View style={styles.loadingContainer}>
-        <ActivityIndicator size="large" color="#007AFF" />
+        <ActivityIndicator size="large" color="#6C63FF" />
       </View>
     );
   }
 
   return (
-    <ScrollView contentContainerStyle={[styles.container, { flexGrow: 1 }]}>
-      {currentDialogue ? (
-        <View style={styles.dialogueCard}>
-          <Text style={styles.label}>English:</Text>
-          <Text style={styles.english}>{currentDialogue.english}</Text>
-          <Text style={styles.label}>Phonetic:</Text>
-          <Text style={styles.phonetic}>{currentDialogue.phonetic}</Text>
-          <Text style={styles.label}>Vietnamese:</Text>
-          <Text style={styles.vietnamese}>{currentDialogue.vietnamese}</Text>
-          <TouchableOpacity onPress={() => playAudio(currentDialogue.audio)} style={styles.audioButton}>
-            <Text style={styles.audioButtonText}>Nghe mẫu</Text>
+    <View style={styles.mainContainer}>
+      <LinearGradient colors={['#6C63FF', '#4834D4']} style={styles.header}>
+        <Text style={styles.headerTitle}>Pronunciation Practice</Text>
+        <Text style={styles.headerSubtitle}>Master your speaking skills</Text>
+      </LinearGradient>
+
+      <ScrollView contentContainerStyle={styles.scrollContent}>
+        {currentDialogue ? (
+          <View style={styles.dialogueCard}>
+            <LinearGradient colors={['#FFFFFF', '#F8F9FA']} style={styles.cardGradient}>
+              <Text style={styles.label}>English</Text>
+              <Text style={styles.english}>{currentDialogue.english}</Text>
+              <Text style={styles.label}>Phonetic</Text>
+              <Text style={styles.phonetic}>{currentDialogue.phonetic}</Text>
+              <Text style={styles.label}>Vietnamese</Text>
+              <Text style={styles.vietnamese}>{currentDialogue.vietnamese}</Text>
+              <TouchableOpacity
+                style={styles.audioButton}
+                onPress={() => {
+                  buttonScale.value = withSpring(0.95, {}, () => (buttonScale.value = withSpring(1)));
+                  playAudio(currentDialogue.audio);
+                }}
+              >
+                <Animated.View style={[styles.audioButtonContent, buttonAnimatedStyle]}>
+                  <Ionicons name="play-circle" size={24} color="#FFFFFF" />
+                  <Text style={styles.audioButtonText}>Play Sample</Text>
+                </Animated.View>
+              </TouchableOpacity>
+            </LinearGradient>
+          </View>
+        ) : (
+          <Text style={styles.errorText}>No dialogue data available.</Text>
+        )}
+
+        <View style={styles.progressContainer}>
+          <Text style={styles.progressText}>
+            {currentDialogueIndex + 1} / {dialogues.length}
+          </Text>
+          <View style={styles.progressBar}>
+            <View
+              style={[
+                styles.progressFill,
+                { width: `${((currentDialogueIndex + 1) / dialogues.length) * 100}%` },
+              ]}
+            />
+          </View>
+        </View>
+
+        <View style={styles.navigationButtons}>
+          <TouchableOpacity
+            style={[styles.navButton, currentDialogueIndex === 0 && styles.disabledButton]}
+            disabled={currentDialogueIndex === 0 || isTranscribing || !!recording}
+            onPress={() => {
+              buttonScale.value = withSpring(0.95, {}, () => (buttonScale.value = withSpring(1)));
+              handlePrevious();
+            }}
+          >
+            <Animated.View style={[buttonAnimatedStyle]}>
+              <Ionicons name="chevron-back" size={24} color="#FFFFFF" />
+            </Animated.View>
+          </TouchableOpacity>
+          <TouchableOpacity
+            style={[
+              styles.navButton,
+              currentDialogueIndex === dialogues.length - 1 && styles.disabledButton,
+            ]}
+            disabled={currentDialogueIndex === dialogues.length - 1 || isTranscribing || !!recording}
+            onPress={() => {
+              buttonScale.value = withSpring(0.95, {}, () => (buttonScale.value = withSpring(1)));
+              handleNext();
+            }}
+          >
+            <Animated.View style={[buttonAnimatedStyle]}>
+              <Ionicons name="chevron-forward" size={24} color="#FFFFFF" />
+            </Animated.View>
           </TouchableOpacity>
         </View>
-      ) : (
-        <Text style={styles.errorText}>Không có dữ liệu hội thoại cho chủ đề này.</Text>
-      )}
 
-      {/* Navigation */}
-      <View style={styles.navigationButtons}>
-        <Button title="Trước" onPress={handlePrevious} disabled={currentDialogueIndex === 0 || isTranscribing || !!recording} />
-        <Text style={styles.progressText}>{currentDialogueIndex + 1} / {dialogues.length}</Text>
-        <Button title="Sau" onPress={handleNext} disabled={currentDialogueIndex === dialogues.length - 1 || isTranscribing || !!recording} />
-      </View>
-
-      {/* Recording Controls */}
-      <View style={styles.recordingSection}>
-        <Text style={styles.sectionTitle}>Ghi Âm</Text>
-        <View style={styles.recordingButtons}>
-          <Button
-            title={recording ? "Dừng Ghi Âm" : "Bắt Đầu Ghi Âm"}
-            onPress={recording ? stopRecording : startRecording}
-            disabled={isTranscribing}
-            color={recording ? "#DC3545" : "#007AFF"}
-          />
-          <Button
-            title="Phát Lại"
-            onPress={playRecording}
-            disabled={!playbackUri || !!recording || isTranscribing}
-          />
+        <View style={styles.recordingSection}>
+          <Text style={styles.sectionTitle}>Record Your Voice</Text>
+          <View style={styles.recordingButtons}>
+            <TouchableOpacity
+              style={[styles.actionButton, recording && styles.stopButton]}
+              onPress={() => {
+                buttonScale.value = withSpring(0.95, {}, () => (buttonScale.value = withSpring(1)));
+                recording ? stopRecording() : startRecording();
+              }}
+              disabled={isTranscribing}
+            >
+              <Animated.View style={[styles.actionButtonContent, buttonAnimatedStyle]}>
+                <Ionicons name={recording ? "stop-circle" : "mic-circle"} size={24} color="#FFFFFF" />
+                <Text style={styles.actionButtonText}>
+                  {recording ? "Stop Recording" : "Start Recording"}
+                </Text>
+              </Animated.View>
+            </TouchableOpacity>
+            <TouchableOpacity
+              style={[styles.actionButton, !playbackUri && styles.disabledButton]}
+              onPress={() => {
+                buttonScale.value = withSpring(0.95, {}, () => (buttonScale.value = withSpring(1)));
+                playRecording();
+              }}
+              disabled={!playbackUri || !!recording || isTranscribing}
+            >
+              <Animated.View style={[styles.actionButtonContent, buttonAnimatedStyle]}>
+                <Ionicons name="play-circle" size={24} color="#FFFFFF" />
+                <Text style={styles.actionButtonText}>Play Recording</Text>
+              </Animated.View>
+            </TouchableOpacity>
+          </View>
         </View>
-      </View>
 
-      {/* Transcription Controls & Results */}
-      {playbackUri && (
-        <View style={styles.transcriptionSection}>
-          <Text style={styles.sectionTitle}>Kiểm Tra Phát Âm</Text>
-          <Button
-            title={isTranscribing ? "Đang xử lý..." : "Kiểm tra giọng nói"}
-            onPress={handleTranscription} // Sử dụng hàm đã cập nhật
-            disabled={!playbackUri || isTranscribing || !!recording}
-          />
-          {isTranscribing && <ActivityIndicator style={{ marginTop: 10 }} color="#007AFF" />}
-          {transcriptionResult && !isTranscribing && (
-            <View style={styles.resultCard}>
-              <Text style={styles.resultLabel}>Giọng nói của bạn:</Text>
-              {/* Hiển thị kết quả hoặc thông báo lỗi */}
-              <Text style={[styles.resultText, transcriptionResult.text === "Lỗi xử lý" && { color: 'red' }]}>
-                {transcriptionResult.text || "(Không nhận dạng được)"}
-              </Text>
-              {transcriptionResult.accuracy !== null && ( // Chỉ hiển thị độ chính xác nếu có
-                <>
-                  <Text style={styles.resultLabel}>Độ chính xác (ước tính):</Text>
-                  <Text style={[styles.resultAccuracy, { color: (transcriptionResult.accuracy ?? 0) >= 70 ? 'green' : 'orange' }]}>
-                    {`${transcriptionResult.accuracy}%`}
-                  </Text>
-                </>
-              )}
-            </View>
-          )}
-        </View>
-      )}
-
-    </ScrollView>
+        {playbackUri && (
+          <View style={styles.transcriptionSection}>
+            <Text style={styles.sectionTitle}>Check Your Pronunciation</Text>
+            <TouchableOpacity
+              style={[styles.actionButton, isTranscribing && styles.disabledButton]}
+              onPress={() => {
+                buttonScale.value = withSpring(0.95, {}, () => (buttonScale.value = withSpring(1)));
+                handleTranscription();
+              }}
+              disabled={!playbackUri || isTranscribing || !!recording}
+            >
+              <Animated.View style={[styles.actionButtonContent, buttonAnimatedStyle]}>
+                <Ionicons name="checkmark-circle" size={24} color="#FFFFFF" />
+                <Text style={styles.actionButtonText}>
+                  {isTranscribing ? "Processing..." : "Check Speech"}
+                </Text>
+              </Animated.View>
+            </TouchableOpacity>
+            {isTranscribing && <ActivityIndicator style={styles.loader} color="#6C63FF" />}
+            {transcriptionResult && !isTranscribing && (
+              <LinearGradient
+                colors={['#FFFFFF', '#F8F9FA']}
+                style={styles.resultCard}
+              >
+                <Text style={styles.resultLabel}>Your Speech:</Text>
+                <Text
+                  style={[
+                    styles.resultText,
+                    transcriptionResult.text === "Transcription failed" && { color: '#FF4D4F' },
+                  ]}
+                >
+                  {transcriptionResult.text || "(Not recognized)"}
+                </Text>
+                {transcriptionResult.accuracy !== null && (
+                  <>
+                    <Text style={styles.resultLabel}>Accuracy:</Text>
+                    <Text
+                      style={[
+                        styles.resultAccuracy,
+                        { color: transcriptionResult.accuracy >= 70 ? '#28A745' : '#FFA500' },
+                      ]}
+                    >
+                      {`${transcriptionResult.accuracy}%`}
+                    </Text>
+                  </>
+                )}
+              </LinearGradient>
+            )}
+          </View>
+        )}
+      </ScrollView>
+    </View>
   );
 }
 
-// --- Styles ---
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: 15, backgroundColor: '#f0f0f0' },
-  loadingContainer: { flex: 1, justifyContent: 'center', alignItems: 'center' },
-  dialogueCard: { backgroundColor: '#ffffff', padding: 15, borderRadius: 8, marginBottom: 15, shadowColor: "#000", shadowOffset: { width: 0, height: 1 }, shadowOpacity: 0.20, shadowRadius: 1.41, elevation: 2 },
-  label: { fontSize: 14, color: '#666', marginBottom: 2 },
-  english: { fontSize: 18, fontWeight: 'bold', marginBottom: 5, color: '#000' },
-  phonetic: { fontSize: 15, fontStyle: 'italic', color: '#555', marginBottom: 5 },
-  vietnamese: { fontSize: 16, color: '#333', marginBottom: 10 },
-  audioButton: { marginTop: 10, backgroundColor: '#007AFF', paddingVertical: 8, paddingHorizontal: 15, borderRadius: 5, alignSelf: 'flex-start' },
-  audioButtonText: { color: '#fff', fontWeight: 'bold', fontSize: 14 },
-  navigationButtons: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 20, paddingHorizontal: 10 },
-  progressText: { fontSize: 16, fontWeight: 'bold', color: '#333' },
-  recordingSection: { backgroundColor: '#ffffff', padding: 15, borderRadius: 8, marginBottom: 15, shadowColor: "#000", shadowOffset: { width: 0, height: 1 }, shadowOpacity: 0.20, shadowRadius: 1.41, elevation: 2 },
-  sectionTitle: { fontSize: 16, fontWeight: 'bold', marginBottom: 10, color: '#333' },
-  recordingButtons: { flexDirection: 'row', justifyContent: 'space-around', gap: 15 },
-  transcriptionSection: { backgroundColor: '#ffffff', padding: 15, borderRadius: 8, marginBottom: 15, shadowColor: "#000", shadowOffset: { width: 0, height: 1 }, shadowOpacity: 0.20, shadowRadius: 1.41, elevation: 2 },
-  resultCard: { marginTop: 15, padding: 10, backgroundColor: '#f8f9fa', borderRadius: 5, borderWidth: 1, borderColor: '#e0e0e0' },
-  resultLabel: { fontSize: 14, color: '#666', marginBottom: 3 },
-  resultText: { fontSize: 16, color: '#000', marginBottom: 8 },
-  resultAccuracy: { fontSize: 18, fontWeight: 'bold' },
-  errorText: { fontSize: 16, color: 'red', textAlign: 'center', marginTop: 20 },
+  mainContainer: {
+    flex: 1,
+    backgroundColor: '#F0F2F5',
+  },
+  header: {
+    height: 110,
+    backgroundColor: '#6C63FF',
+    paddingHorizontal: 20,
+    paddingTop: 20,
+    paddingBottom: 15,
+    borderBottomLeftRadius: 25,
+    borderBottomRightRadius: 25,
+    shadowColor: "#6C63FF",
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.3,
+    shadowRadius: 5,
+    elevation: 10,
+    marginBottom: 15,
+    alignSelf: 'center',
+    width: '90%',
+  },
+  headerTitle: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    color: '#FFFFFF',
+    marginBottom: 8,
+  },
+  headerSubtitle: {
+    fontSize: 16,
+    color: 'rgba(255, 255, 255, 0.9)',
+  },
+  scrollContent: {
+    padding: 20,
+  },
+  container: {
+    flexGrow: 1,
+    backgroundColor: '#F0F2F5',
+  },
+  loadingContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#F0F2F5',
+  },
+  dialogueCard: {
+    marginBottom: 20,
+    borderRadius: 16,
+    overflow: 'hidden',
+    elevation: 3,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.1,
+    shadowRadius: 4,
+  },
+  cardGradient: {
+    padding: 20,
+  },
+  label: {
+    fontSize: 14,
+    color: '#6B7280',
+    marginBottom: 4,
+    fontWeight: '600',
+  },
+  english: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    color: '#1F2937',
+    marginBottom: 12,
+  },
+  phonetic: {
+    fontSize: 16,
+    color: '#4B5563',
+    fontStyle: 'italic',
+    marginBottom: 12,
+  },
+  vietnamese: {
+    fontSize: 16,
+    color: '#374151',
+    marginBottom: 16,
+  },
+  audioButton: {
+    backgroundColor: '#6C63FF',
+    borderRadius: 12,
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    alignSelf: 'flex-start',
+  },
+  audioButtonContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  audioButtonText: {
+    color: '#FFFFFF',
+    fontSize: 16,
+    fontWeight: '600',
+    marginLeft: 8,
+  },
+  progressContainer: {
+    alignItems: 'center',
+    marginBottom: 20,
+  },
+  progressText: {
+    fontSize: 16,
+    fontWeight: 'bold',
+    color: '#1F2937',
+    marginBottom: 8,
+  },
+  progressBar: {
+    width: '80%',
+    height: 8,
+    backgroundColor: '#E5E7EB',
+    borderRadius: 4,
+    overflow: 'hidden',
+  },
+  progressFill: {
+    height: '100%',
+    backgroundColor: '#6C63FF',
+  },
+  navigationButtons: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginBottom: 20,
+  },
+  navButton: {
+    backgroundColor: '#6C63FF',
+    borderRadius: 12,
+    padding: 12,
+    width: 60,
+    alignItems: 'center',
+    elevation: 2,
+  },
+  disabledButton: {
+    backgroundColor: '#D1D5DB',
+  },
+  recordingSection: {
+    backgroundColor: '#FFFFFF',
+    borderRadius: 16,
+    padding: 20,
+    marginBottom: 20,
+    elevation: 3,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.1,
+    shadowRadius: 4,
+  },
+  sectionTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    color: '#1F2937',
+    marginBottom: 16,
+  },
+  recordingButtons: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    gap: 12,
+  },
+  actionButton: {
+    flex: 1,
+    backgroundColor: '#6C63FF',
+    borderRadius: 12,
+    paddingVertical: 12,
+    alignItems: 'center',
+    elevation: 2,
+  },
+  stopButton: {
+    backgroundColor: '#FF4D4F',
+  },
+  actionButtonContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  actionButtonText: {
+    color: '#FFFFFF',
+    fontSize: 16,
+    fontWeight: '600',
+    marginLeft: 8,
+  },
+  transcriptionSection: {
+    backgroundColor: '#FFFFFF',
+    borderRadius: 16,
+    padding: 20,
+    marginBottom: 20,
+    elevation: 3,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.1,
+    shadowRadius: 4,
+  },
+  loader: {
+    marginTop: 12,
+  },
+  resultCard: {
+    marginTop: 16,
+    padding: 16,
+    borderRadius: 12,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
+  },
+  resultLabel: {
+    fontSize: 14,
+    color: '#6B7280',
+    marginBottom: 4,
+    fontWeight: '600',
+  },
+  resultText: {
+    fontSize: 16,
+    color: '#1F2937',
+    marginBottom: 12,
+  },
+  resultAccuracy: {
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+  errorText: {
+    fontSize: 16,
+    color: '#FF4D4F',
+    textAlign: 'center',
+    marginTop: 20,
+  },
 });

@@ -21,6 +21,12 @@ export default function PracticeLayout() {
     if (path === '/vocabulary' || path === '/grammar' || path === '/quizzes') {
       return '/';
     }
+    if (path === '/speaking') {
+      return '/';
+    }
+    if (path === '/speakingDetail') {
+      return '/speaking';
+    }
     const pathSegments = path.split('/').filter(segment => segment !== '');
     if (pathSegments.length > 1) {
       const parentPath = '/' + pathSegments.slice(0, -1).join('/');
