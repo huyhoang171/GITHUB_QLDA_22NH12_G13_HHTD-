@@ -3,7 +3,7 @@ import os
 import json
 
 # Đường dẫn đến file JSON chứa danh sách câu
-INPUT_FILE = 'introductions.json'
+INPUT_FILE = 'daily-conversations.json'
 # Thư mục để lưu file mp3
 OUTPUT_DIR = 'audio_output'
 

@@ -58,5 +58,251 @@
     "phonetic": "/lɛts hæv lʌntʃ/",
     "vietnamese": "Hãy ăn trưa đi.",
     "audio": "lets_have_lunch.mp3"
+  },
+  {
+    "english": "Did you sleep well?",
+    "phonetic": "/dɪd juː sliːp wɛl/",
+    "vietnamese": "Bạn ngủ ngon không?",
+    "audio": "did_you_sleep_well.mp3"
+  },
+  {
+    "english": "What are your plans for today?",
+    "phonetic": "/wʌt ɑːr jɔːr plænz fə təˈdeɪ/",
+    "vietnamese": "Kế hoạch hôm nay của bạn là gì?",
+    "audio": "what_are_your_plans_for_today.mp3"
+  },
+  {
+    "english": "Let’s meet at the coffee shop.",
+    "phonetic": "/lɛts miːt æt ðə ˈkɒfi ʃɒp/",
+    "vietnamese": "Gặp nhau ở quán cà phê nhé.",
+    "audio": "lets_meet_at_the_coffee_shop.mp3"
+  },
+  {
+    "english": "How’s the weather today?",
+    "phonetic": "/haʊz ðə ˈwɛðər təˈdeɪ/",
+    "vietnamese": "Thời tiết hôm nay thế nào?",
+    "audio": "hows_the_weather_today.mp3"
+  },
+  {
+    "english": "Do you want some coffee?",
+    "phonetic": "/duː juː wɒnt sʌm ˈkɒfi/",
+    "vietnamese": "Bạn có muốn uống cà phê không?",
+    "audio": "do_you_want_some_coffee.mp3"
+  },
+  {
+    "english": "I have a lot of work to do.",
+    "phonetic": "/aɪ hæv ə lɒt əv wɜːk tuː duː/",
+    "vietnamese": "Tôi có nhiều việc phải làm.",
+    "audio": "i_have_a_lot_of_work_to_do.mp3"
+  },
+  {
+    "english": "Let’s go shopping.",
+    "phonetic": "/lɛts ɡəʊ ˈʃɒpɪŋ/",
+    "vietnamese": "Đi mua sắm nhé.",
+    "audio": "lets_go_shopping.mp3"
+  },
+  {
+    "english": "I’m feeling great today!",
+    "phonetic": "/aɪm ˈfiːlɪŋ ɡreɪt təˈdeɪ/",
+    "vietnamese": "Hôm nay tôi cảm thấy rất tuyệt!",
+    "audio": "i_am_feeling_great_today.mp3"
+  },
+  {
+    "english": "Can I call you later?",
+    "phonetic": "/kæn aɪ kɔːl juː ˈleɪtə/",
+    "vietnamese": "Tôi có thể gọi cho bạn sau không?",
+    "audio": "can_i_call_you_later.mp3"
+  },
+  {
+    "english": "I’m learning English.",
+    "phonetic": "/aɪm ˈlɜːnɪŋ ˈɪŋɡlɪʃ/",
+    "vietnamese": "Tôi đang học tiếng Anh.",
+    "audio": "i_am_learning_english.mp3"
+  },
+  {
+    "english": "What’s your favorite food?",
+    "phonetic": "/wɒts jɔːr ˈfeɪvərɪt fuːd/",
+    "vietnamese": "Món ăn yêu thích của bạn là gì?",
+    "audio": "whats_your_favorite_food.mp3"
+  },
+  {
+    "english": "I need some rest.",
+    "phonetic": "/aɪ niːd sʌm rɛst/",
+    "vietnamese": "Tôi cần nghỉ ngơi.",
+    "audio": "i_need_some_rest.mp3"
+  },
+  {
+    "english": "Let’s watch a movie.",
+    "phonetic": "/lɛts wɒtʃ ə ˈmuːvi/",
+    "vietnamese": "Xem phim nhé.",
+    "audio": "lets_watch_a_movie.mp3"
+  },
+  {
+    "english": "I’m going out now.",
+    "phonetic": "/aɪm ˈɡəʊɪŋ aʊt naʊ/",
+    "vietnamese": "Tôi ra ngoài bây giờ.",
+    "audio": "i_am_going_out_now.mp3"
+  },
+  {
+    "english": "Do you have any siblings?",
+    "phonetic": "/duː juː hæv ˈɛni ˈsɪblɪŋz/",
+    "vietnamese": "Bạn có anh chị em không?",
+    "audio": "do_you_have_any_siblings.mp3"
+  },
+  {
+    "english": "I’m not sure.",
+    "phonetic": "/aɪm nɒt ʃʊə/",
+    "vietnamese": "Tôi không chắc.",
+    "audio": "i_am_not_sure.mp3"
+  },
+  {
+    "english": "Let’s take a break.",
+    "phonetic": "/lɛts teɪk ə breɪk/",
+    "vietnamese": "Nghỉ giải lao nhé.",
+    "audio": "lets_take_a_break.mp3"
+  },
+  {
+    "english": "I’m coming!",
+    "phonetic": "/aɪm ˈkʌmɪŋ/",
+    "vietnamese": "Tôi đang đến!",
+    "audio": "i_am_coming.mp3"
+  },
+  {
+    "english": "Can you repeat that?",
+    "phonetic": "/kæn juː rɪˈpiːt ðæt/",
+    "vietnamese": "Bạn có thể nhắc lại không?",
+    "audio": "can_you_repeat_that.mp3"
+  },
+  {
+    "english": "I’m sorry, I’m late.",
+    "phonetic": "/aɪm ˈsɒri aɪm leɪt/",
+    "vietnamese": "Xin lỗi, tôi đến muộn.",
+    "audio": "i_am_sorry_i_am_late.mp3"
+  },
+  {
+    "english": "Let’s eat dinner together.",
+    "phonetic": "/lɛts iːt ˈdɪnər təˈɡɛðər/",
+    "vietnamese": "Ăn tối cùng nhau nhé.",
+    "audio": "lets_eat_dinner_together.mp3"
+  },
+  {
+    "english": "I’m going to bed.",
+    "phonetic": "/aɪm ˈɡəʊɪŋ tuː bɛd/",
+    "vietnamese": "Tôi đi ngủ đây.",
+    "audio": "i_am_going_to_bed.mp3"
+  },
+  {
+    "english": "What do you do?",
+    "phonetic": "/wɒt duː juː duː/",
+    "vietnamese": "Bạn làm nghề gì?",
+    "audio": "what_do_you_do.mp3"
+  },
+  {
+    "english": "I’m a student.",
+    "phonetic": "/aɪm ə ˈstjuːdənt/",
+    "vietnamese": "Tôi là sinh viên.",
+    "audio": "i_am_a_student.mp3"
+  },
+  {
+    "english": "Let’s go to the park.",
+    "phonetic": "/lɛts ɡəʊ tuː ðə pɑːk/",
+    "vietnamese": "Đi công viên nhé.",
+    "audio": "lets_go_to_the_park.mp3"
+  },
+  {
+    "english": "I’m thirsty.",
+    "phonetic": "/aɪm ˈθɜːsti/",
+    "vietnamese": "Tôi khát nước.",
+    "audio": "i_am_thirsty.mp3"
+  },
+  {
+    "english": "Can you show me the way?",
+    "phonetic": "/kæn juː ʃəʊ miː ðə weɪ/",
+    "vietnamese": "Bạn chỉ đường cho tôi được không?",
+    "audio": "can_you_show_me_the_way.mp3"
+  },
+  {
+    "english": "I’m just looking.",
+    "phonetic": "/aɪm dʒʌst ˈlʊkɪŋ/",
+    "vietnamese": "Tôi chỉ xem thôi.",
+    "audio": "i_am_just_looking.mp3"
+  },
+  {
+    "english": "Let’s take a photo.",
+    "phonetic": "/lɛts teɪk ə ˈfəʊtəʊ/",
+    "vietnamese": "Chụp ảnh nhé.",
+    "audio": "lets_take_a_photo.mp3"
+  },
+  {
+    "english": "I’m not feeling well.",
+    "phonetic": "/aɪm nɒt ˈfiːlɪŋ wɛl/",
+    "vietnamese": "Tôi không khỏe.",
+    "audio": "i_am_not_feeling_well.mp3"
+  },
+  {
+    "english": "Can you speak more slowly?",
+    "phonetic": "/kæn juː spiːk mɔː ˈsləʊli/",
+    "vietnamese": "Bạn nói chậm hơn được không?",
+    "audio": "can_you_speak_more_slowly.mp3"
+  },
+  {
+    "english": "I’m happy to help.",
+    "phonetic": "/aɪm ˈhæpi tuː hɛlp/",
+    "vietnamese": "Tôi rất vui được giúp.",
+    "audio": "i_am_happy_to_help.mp3"
+  },
+  {
+    "english": "Let’s celebrate!",
+    "phonetic": "/lɛts ˈsɛlɪbreɪt/",
+    "vietnamese": "Ăn mừng nhé!",
+    "audio": "lets_celebrate.mp3"
+  },
+  {
+    "english": "I’m on my way.",
+    "phonetic": "/aɪm ɒn maɪ weɪ/",
+    "vietnamese": "Tôi đang trên đường đến.",
+    "audio": "i_am_on_my_way.mp3"
+  },
+  {
+    "english": "Can I ask you something?",
+    "phonetic": "/kæn aɪ ɑːsk juː ˈsʌmθɪŋ/",
+    "vietnamese": "Tôi hỏi bạn cái này được không?",
+    "audio": "can_i_ask_you_something.mp3"
+  },
+  {
+    "english": "I’m ready.",
+    "phonetic": "/aɪm ˈrɛdi/",
+    "vietnamese": "Tôi sẵn sàng.",
+    "audio": "i_am_ready.mp3"
+  },
+  {
+    "english": "Let’s get started.",
+    "phonetic": "/lɛts ɡɛt ˈstɑːtɪd/",
+    "vietnamese": "Bắt đầu nhé.",
+    "audio": "lets_get_started.mp3"
+  },
+  {
+    "english": "I’m looking forward to it.",
+    "phonetic": "/aɪm ˈlʊkɪŋ ˈfɔːwəd tuː ɪt/",
+    "vietnamese": "Tôi rất mong chờ điều đó.",
+    "audio": "i_am_looking_forward_to_it.mp3"
+  },
+  {
+    "english": "Can you give me a hand?",
+    "phonetic": "/kæn juː ɡɪv miː ə hænd/",
+    "vietnamese": "Bạn giúp tôi một tay được không?",
+    "audio": "can_you_give_me_a_hand.mp3"
+  },
+  {
+    "english": "I’m almost done.",
+    "phonetic": "/aɪm ˈɔːlməʊst dʌn/",
+    "vietnamese": "Tôi gần xong rồi.",
+    "audio": "i_am_almost_done.mp3"
+  },
+  {
+    "english": "Let’s keep in touch.",
+    "phonetic": "/lɛts kiːp ɪn tʌtʃ/",
+    "vietnamese": "Giữ liên lạc nhé.",
+    "audio": "lets_keep_in_touch.mp3"
   }
 ]
