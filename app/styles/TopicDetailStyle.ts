@@ -45,6 +45,12 @@ export const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: '600',
   },
+  progressText: {
+    fontSize: 16,
+    color: '#555',
+    marginTop: 8,
+    fontWeight: '500',
+  },
 });
 
 export const markdownStyles = StyleSheet.create({
@@ -82,5 +88,11 @@ export const markdownStyles = StyleSheet.create({
     padding: 16,
     borderRadius: 8,
     marginVertical: 16,
+  },
+  progressText: {
+    fontSize: 16,
+    color: '#555',
+    marginTop: 8,
+    fontWeight: '500',
   },
 });

@@ -16,7 +16,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "avalanche",
@@ -43,7 +44,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "airless",
@@ -66,7 +68,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "anemometer",
@@ -80,7 +83,8 @@
         "definition": "an instrument for measuring the speed of the wind or of a current of gas",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "acid rain",
@@ -99,7 +103,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "awful",
@@ -188,7 +193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "atmosphere",
@@ -298,7 +304,8 @@
         "definition": "a situation when people do not say anything, but feel embarrassed or uncomfortable",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "air",
@@ -584,7 +591,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "anticyclone",
@@ -603,7 +611,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "blizzard",
@@ -639,7 +648,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "azure",
@@ -653,7 +663,8 @@
         "definition": "a bright blue colour, like the sky",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "Beaufort scale",
@@ -672,7 +683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "baking",
@@ -691,7 +703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "blanket",
@@ -727,7 +740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "azure",
@@ -746,7 +760,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "bank",
@@ -913,7 +928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "bleak",
@@ -970,7 +986,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "barometer",
@@ -1002,7 +1019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "blustery",
@@ -1025,7 +1043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "bolt",
@@ -1096,7 +1115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "bad",
@@ -1385,7 +1405,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "breeze",
@@ -1434,7 +1455,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "breezy",
@@ -1470,7 +1492,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "blow",
@@ -1839,7 +1862,8 @@
         "definition": "to get an idea of what is likely to happen before deciding what to do",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "Celsius",
@@ -1862,7 +1886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "centigrade",
@@ -1881,7 +1906,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "centigrade",
@@ -1900,7 +1926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "change",
@@ -2245,7 +2272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "changeability",
@@ -2259,7 +2287,8 @@
         "definition": "the fact of being likely to change; the fact of changing often",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "calm",
@@ -2324,7 +2353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "change",
@@ -2558,7 +2588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "break",
@@ -2891,7 +2922,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "boiling",
@@ -2918,7 +2950,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "clear up",
@@ -2980,7 +3013,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "changeable",
@@ -3003,7 +3037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "chilly",
@@ -3035,7 +3070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "cirrus",
@@ -3049,7 +3085,8 @@
         "definition": "a type of light cloud that forms high in the sky",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "close",
@@ -3480,7 +3517,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "cloud",
@@ -3603,7 +3641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "clear",
@@ -3913,7 +3952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "cloudy",
@@ -3941,7 +3981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "cloudburst",
@@ -3955,7 +3996,8 @@
         "definition": "a sudden very heavy fall of rain",
         "examples": []
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "clear",
@@ -4322,7 +4364,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "crosswind",
@@ -4341,7 +4384,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "crepuscular",
@@ -4355,7 +4399,8 @@
         "definition": "related to the period of the evening when the sun has just gone down but there is still some light in the sky",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "cool",
@@ -4409,7 +4454,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "cold",
@@ -4507,7 +4553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "crack",
@@ -4644,7 +4691,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "cloudless",
@@ -4663,7 +4711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "cumulonimbus",
@@ -4677,7 +4726,8 @@
         "definition": "a high mass of thick cloud with a flat base, often seen during thunderstorms",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "crisp",
@@ -4766,7 +4816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "cyclone",
@@ -4794,7 +4845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "cumulus",
@@ -4808,7 +4860,8 @@
         "definition": "a type of thick white cloud",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "depression",
@@ -4879,7 +4932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "cover",
@@ -5133,7 +5187,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "cool",
@@ -5365,7 +5420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "dew",
@@ -5388,7 +5444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "drench",
@@ -5415,7 +5472,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "drift",
@@ -5491,7 +5549,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "dark",
@@ -5650,7 +5709,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "dismal",
@@ -5690,7 +5750,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "drizzle",
@@ -5722,7 +5783,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "damp",
@@ -5762,7 +5824,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "deluge",
@@ -5802,7 +5865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "cold",
@@ -6053,7 +6117,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "drizzle",
@@ -6076,7 +6141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "drought",
@@ -6112,7 +6178,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "dry spell",
@@ -6140,7 +6207,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "dust storm",
@@ -6154,7 +6222,8 @@
         "definition": "a storm that carries clouds of dust in the wind over a wide area",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "downpour",
@@ -6177,7 +6246,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "dull",
@@ -6291,7 +6361,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "drift",
@@ -6403,7 +6474,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "easterly",
@@ -6417,7 +6489,8 @@
         "definition": "a wind that blows from the east",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "east",
@@ -6456,7 +6529,8 @@
         "definition": "an east wind blows from the east",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "element",
@@ -6608,7 +6682,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "easterly",
@@ -6636,7 +6711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "electrical storm",
@@ -6650,7 +6726,8 @@
         "definition": "a violent storm in which electricity is produced in the atmosphere",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "Fahrenheit",
@@ -6669,7 +6746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "firmament",
@@ -6688,7 +6766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "flood",
@@ -6765,7 +6844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "fall",
@@ -6937,7 +7017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "fair",
@@ -7274,7 +7355,8 @@
         "definition": "used by somebody who is caught doing something wrong, to say that they admit that they are wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "favourable",
@@ -7374,7 +7456,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "fine",
@@ -7709,7 +7792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "flood",
@@ -7826,7 +7910,8 @@
         "definition": "if an engine floods or if you flood it, it becomes so full of petrol that it will not start",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "flake",
@@ -7853,7 +7938,8 @@
         "definition": "a person who is strange or unusual or who forgets things easily",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "fog",
@@ -7901,7 +7987,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "flash flood",
@@ -7920,7 +8007,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "foggy",
@@ -7956,7 +8044,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "freezing",
@@ -8004,7 +8093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "flurry",
@@ -8053,7 +8143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "forecast",
@@ -8084,7 +8175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "foul",
@@ -8194,7 +8286,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "freeze",
@@ -8396,7 +8489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "frost",
@@ -8436,7 +8530,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "force",
@@ -8791,7 +8886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "frosty",
@@ -8844,7 +8940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "gloomy",
@@ -8893,7 +8990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "glorious",
@@ -8951,7 +9049,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "get up",
@@ -8996,7 +9095,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "freeze",
@@ -9050,7 +9150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "gusty",
@@ -9073,7 +9174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "gust",
@@ -9105,7 +9207,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "grey",
@@ -9210,7 +9313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "gray",
@@ -9315,7 +9419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "hailstone",
@@ -9338,7 +9443,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "gale",
@@ -9374,7 +9480,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "front",
@@ -9735,7 +9842,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "good",
@@ -10274,7 +10382,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "hail",
@@ -10306,7 +10415,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "gust",
@@ -10329,7 +10439,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "headwind",
@@ -10343,7 +10454,8 @@
         "definition": "a wind that is blowing towards a person or vehicle, so that it is blowing from the direction in which the person or vehicle is moving",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "heatwave",
@@ -10362,7 +10474,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "haze",
@@ -10407,7 +10520,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "hazy",
@@ -10468,7 +10582,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "hard",
@@ -10891,7 +11006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "hail",
@@ -10953,7 +11069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "horizon",
@@ -10998,7 +11115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "horrible",
@@ -11083,7 +11201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "humid",
@@ -11118,7 +11237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "humidity",
@@ -11158,7 +11278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "heat lightning",
@@ -11177,7 +11298,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "hurricane",
@@ -11216,7 +11338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "isobar",
@@ -11230,7 +11353,8 @@
         "definition": "a line on a weather map that joins places that have the same air pressure at a particular time",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "heat",
@@ -11438,7 +11562,8 @@
         "definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "hot",
@@ -11810,7 +11935,8 @@
         "definition": "to make use of an opportunity immediately",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "high",
@@ -11913,7 +12039,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "low",
@@ -11987,7 +12114,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "miserable",
@@ -12057,7 +12185,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "mild",
@@ -12160,7 +12289,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "icicle",
@@ -12174,7 +12304,8 @@
         "definition": "a pointed piece of ice that is formed when water freezes as it falls down from something such as a roof",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "icy",
@@ -12227,7 +12358,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "lightning",
@@ -12275,7 +12407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "mist",
@@ -12310,7 +12443,8 @@
         "definition": "a fine spray of liquid, for example from an aerosol can",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "ice",
@@ -12449,7 +12583,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "melt",
@@ -12523,7 +12658,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "nimbus",
@@ -12541,7 +12677,8 @@
         "definition": "a circle of light",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "misty",
@@ -12577,7 +12714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "northerly",
@@ -12591,7 +12729,8 @@
         "definition": "a wind that blows from the north",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "monsoon",
@@ -12623,7 +12762,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "north",
@@ -12667,7 +12807,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "northerly",
@@ -12695,7 +12836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "mistral",
@@ -12709,7 +12851,8 @@
         "definition": "a strong cold wind that blows through southern France from the north, mainly in winter",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "nor'easter",
@@ -12728,7 +12871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "overcast",
@@ -12755,7 +12899,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "powder",
@@ -12819,7 +12964,8 @@
         "definition": "to leave suddenly; to run away",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "precipitation",
@@ -12863,7 +13009,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "overhead",
@@ -12886,7 +13033,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "pluvial",
@@ -12900,7 +13048,8 @@
         "definition": "relating to rain",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "pour",
@@ -13066,7 +13215,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "powder snow",
@@ -13080,7 +13230,8 @@
         "definition": "loose, dry snow which has fallen recently",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "muggy",
@@ -13099,7 +13250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "pressure",
@@ -13275,7 +13427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "rainbow",
@@ -13294,7 +13447,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "pall",
@@ -13321,7 +13475,8 @@
         "definition": "a cloth spread over a coffin (= a box used for burying a dead person in)",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "rain",
@@ -13405,7 +13560,8 @@
         "definition": "to prevent somebody from enjoying an event; to cause somebody's plans to fail",
         "examples": []
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "puddle",
@@ -13419,7 +13575,8 @@
         "definition": "a small amount of water or other liquid, especially rain, that has collected in one place on the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "prevailing",
@@ -13455,7 +13612,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "rain",
@@ -13573,7 +13731,8 @@
         "definition": "in excellent health or condition",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "rumble",
@@ -13626,7 +13785,8 @@
         "definition": "to fight against another gang",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "rainstorm",
@@ -13649,7 +13809,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "rainy",
@@ -13680,7 +13841,8 @@
         "definition": "to save something, especially money, for a time when you will really need it",
         "examples": []
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "rainwater",
@@ -13703,7 +13865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "rainfall",
@@ -13726,7 +13889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "raindrop",
@@ -13745,7 +13909,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "sirocco",
@@ -13759,7 +13924,8 @@
         "definition": "a hot wind that blows from Africa into southern Europe",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "sleet",
@@ -13782,7 +13948,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "rumble",
@@ -13817,7 +13984,8 @@
         "definition": "a fight in the street between two or more gangs",
         "examples": []
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "showery",
@@ -13836,7 +14004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "sleet",
@@ -13855,7 +14024,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "slush",
@@ -13887,7 +14057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "sky",
@@ -13986,7 +14157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "shower",
@@ -14113,7 +14285,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "snowdrift",
@@ -14132,7 +14305,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "snowbound",
@@ -14160,7 +14334,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "snowfall",
@@ -14187,7 +14362,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "snowplough",
@@ -14201,7 +14377,8 @@
         "definition": "a vehicle or machine for cleaning snow from roads or railways",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "snowflake",
@@ -14224,7 +14401,8 @@
         "definition": "an offensive word for a person who you think expects special treatment or is too sensitive to criticism and easily upset",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "snowslide",
@@ -14238,7 +14416,8 @@
         "definition": "a mass of snow, ice and rock that falls down the side of a mountain",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "snow",
@@ -14296,7 +14475,8 @@
         "definition": "to be blocked with snow",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "snow",
@@ -14380,7 +14560,8 @@
         "definition": "extremely clean, pure, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "southerly",
@@ -14399,7 +14580,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "soak",
@@ -14473,7 +14655,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "snowstorm",
@@ -14496,7 +14679,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "southerly",
@@ -14524,7 +14708,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "squall",
@@ -14547,7 +14732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "snowy",
@@ -14592,7 +14778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "sprinkle",
@@ -14653,7 +14840,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "spit",
@@ -14775,7 +14963,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "storm",
@@ -14887,7 +15076,8 @@
         "definition": "to attack a place suddenly and capture it",
         "examples": []
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "south",
@@ -14931,7 +15121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "summery",
@@ -14954,7 +15145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "stormy",
@@ -14994,7 +15186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "starless",
@@ -15013,7 +15206,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "sunshine",
@@ -15063,7 +15257,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "sunburst",
@@ -15077,7 +15272,8 @@
         "definition": "an occasion when the sun appears from behind the clouds and sends out bright streams of light",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "spot",
@@ -15370,7 +15566,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "sun",
@@ -15500,7 +15697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "strong",
@@ -15925,7 +16123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "sweltering",
@@ -15944,7 +16143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "sunless",
@@ -15967,7 +16167,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "temperature",
@@ -16060,7 +16261,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "swelteringly",
@@ -16079,7 +16281,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "sultry",
@@ -16119,7 +16322,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "tailwind",
@@ -16138,7 +16342,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "tempest",
@@ -16161,7 +16366,8 @@
         "definition": "a lot of anger or worry about something that is not important",
         "examples": []
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "sunny",
@@ -16209,7 +16415,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "thaw",
@@ -16245,7 +16452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "thunder",
@@ -16307,7 +16515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "thaw",
@@ -16370,7 +16579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "tornado",
@@ -16393,7 +16603,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "thunder",
@@ -16446,7 +16657,8 @@
         "definition": "to get the attention, success, etc. that somebody else was expecting, usually by saying or doing what they had intended to say or do",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "thunderstorm",
@@ -16469,7 +16681,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "torrent",
@@ -16509,7 +16722,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "typhoon",
@@ -16528,7 +16742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "twister",
@@ -16547,7 +16762,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "vapor",
@@ -16574,7 +16790,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "thundercloud",
@@ -16588,7 +16805,8 @@
         "definition": "a large dark cloud that produces thunder and lightning during a storm",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "visibility",
@@ -16628,7 +16846,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "vapour",
@@ -16655,7 +16874,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "warm",
@@ -16823,7 +17043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "weathervane",
@@ -16837,7 +17058,8 @@
         "definition": "a metal object on the roof of a building that turns easily in the wind and shows which direction the wind is blowing from",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "unpredictable",
@@ -16877,7 +17099,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "warmth",
@@ -16921,7 +17144,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "umbrella",
@@ -16986,7 +17210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "weather forecast",
@@ -17009,7 +17234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "weather",
@@ -17168,7 +17394,8 @@
         "definition": "if you are or feel under the weather, you feel slightly ill and not as well as usual",
         "examples": []
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "warm",
@@ -17241,7 +17468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "white-out",
@@ -17255,7 +17483,8 @@
         "definition": "weather conditions in which there is so much snow or cloud that it is impossible to see anything",
         "examples": []
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "wind chill",
@@ -17278,7 +17507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "westerly",
@@ -17306,7 +17536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "wind gauge",
@@ -17320,7 +17551,8 @@
         "definition": "an instrument for measuring the speed of the wind or of a current of gas",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "whirlwind",
@@ -17343,7 +17575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "windless",
@@ -17362,7 +17595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "west",
@@ -17406,7 +17640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "westerly",
@@ -17425,7 +17660,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "wet",
@@ -17545,7 +17781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "wind",
@@ -17775,7 +18012,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "zephyr",
@@ -17789,7 +18027,8 @@
         "definition": "a soft gentle wind",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "zenith",
@@ -17817,7 +18056,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "windy",
@@ -17857,7 +18097,8 @@
         "definition": "involving speaking for longer than necessary and in a way that is complicated and not clear",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "wintry",
@@ -17893,6 +18134,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   }
 ]

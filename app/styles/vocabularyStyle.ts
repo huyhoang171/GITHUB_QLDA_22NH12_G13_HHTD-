@@ -73,6 +73,7 @@ export const styles = StyleSheet.create({
     fontFamily: 'Poppins_700Bold',
     color: '#1a1c1e',
     marginBottom: 10,
+    textAlign: 'center',
   },
   description: {
     fontSize: 16,
@@ -587,5 +588,15 @@ export const styles = StyleSheet.create({
     textAlign: 'center',
     color: COLORS.textLight,
     fontFamily: 'Poppins_400Regular',
+  },
+  // Thêm style mới
+  disabledButton: {
+    opacity: 0.5, // Làm mờ nút khi vô hiệu hóa
+  },
+  wordIndex: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    color: '#00C5CD', // Màu giống COLORS.primary
+    marginRight: 8,
   },
 });

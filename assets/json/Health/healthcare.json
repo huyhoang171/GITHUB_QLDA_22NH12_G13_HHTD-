@@ -11,7 +11,8 @@
         "definition": "a drug used to reduce pain and high temperature",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "administer",
@@ -90,7 +91,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "acupuncture",
@@ -113,7 +115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "accident and emergency",
@@ -136,7 +139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "abort",
@@ -181,7 +185,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "abortion",
@@ -229,7 +234,8 @@
         "definition": "the process of giving birth to a baby before it is fully developed and able to survive",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "acupressure",
@@ -243,7 +249,8 @@
         "definition": "a form of medical treatment, originally from East Asia, in which pressure is applied to particular parts of the body using the fingers",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "acupuncturist",
@@ -257,7 +264,8 @@
         "definition": "a person who is trained to perform acupuncture",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "aftercare",
@@ -285,7 +293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "Alexander technique",
@@ -299,7 +308,8 @@
         "definition": "a method of improving somebody’s health by teaching them how to stand, sit and move correctly",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "amputate",
@@ -326,7 +336,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "administration",
@@ -415,7 +426,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "admission",
@@ -500,7 +512,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "admit",
@@ -656,7 +669,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "anaesthetic",
@@ -687,7 +701,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "anaesthesia",
@@ -710,7 +725,8 @@
         "definition": "the state of being unable to feel anything, especially pain",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "amputation",
@@ -729,7 +745,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "anaesthetist",
@@ -743,7 +760,8 @@
         "definition": "a person who is trained to give anaesthetics to patients",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "alternative medicine",
@@ -757,7 +775,8 @@
         "definition": "any type of treatment that does not use the usual scientific methods of Western medicine, for example one using plants instead of artificial drugs",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "aggressive",
@@ -823,7 +842,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "ambulance",
@@ -850,7 +870,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "anaesthetize",
@@ -869,7 +890,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "antihistamine",
@@ -888,7 +910,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "angiogram",
@@ -907,7 +930,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "anesthesia",
@@ -925,7 +949,8 @@
         "definition": "the state of being unable to feel anything, especially pain",
         "examples": []
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "antibiotic",
@@ -944,7 +969,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "angiography",
@@ -967,7 +993,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "antidote",
@@ -995,7 +1022,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "antihypertensive",
@@ -1018,7 +1046,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "antimicrobial",
@@ -1041,7 +1070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "antiseptic",
@@ -1072,7 +1102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "antiviral",
@@ -1086,7 +1117,8 @@
         "definition": "used to treat diseases caused by a virus",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "anticancer",
@@ -1109,7 +1141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "anaesthetic",
@@ -1128,7 +1161,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "antimicrobial resistance",
@@ -1147,7 +1181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "anti-vaccine",
@@ -1170,7 +1205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "antiviral",
@@ -1189,7 +1225,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "bandage",
@@ -1208,7 +1245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "arthroscopic surgery",
@@ -1222,7 +1260,8 @@
         "definition": "medical operations that involve only a very small cut being made in the patient’s body",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "appointment",
@@ -1324,7 +1363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "barium meal",
@@ -1338,7 +1378,8 @@
         "definition": "a substance containing barium that a doctor gives somebody to swallow before an X-ray because it makes organs in the body easier to see",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "bandage",
@@ -1365,7 +1406,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "aspirin",
@@ -1388,7 +1430,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "aseptic",
@@ -1402,7 +1445,8 @@
         "definition": "free from harmful bacteria",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "barbiturate",
@@ -1421,7 +1465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "bedpan",
@@ -1435,7 +1480,8 @@
         "definition": "a container used as a toilet by a person who is too ill to get out of bed",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "bathe",
@@ -1484,7 +1530,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "bed rest",
@@ -1507,7 +1554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "attendant",
@@ -1534,7 +1582,8 @@
         "definition": "a person who takes care of and lives or travels with a person who has an important job, or who has a medical condition or disability",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "Ayurvedic medicine",
@@ -1548,7 +1597,8 @@
         "definition": "a type of traditional Hindu medicine that treats illnesses using a combination of foods, herbs and breathing exercises",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "Band-Aid™",
@@ -1571,7 +1621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "bedside manner",
@@ -1590,7 +1641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "blood group",
@@ -1621,7 +1673,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "blood test",
@@ -1635,7 +1688,8 @@
         "definition": "an examination of a small amount of your blood by doctors in order to make judgements about your medical condition",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "caesarean",
@@ -1654,7 +1708,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "blood type",
@@ -1668,7 +1723,8 @@
         "definition": "any of the different types that human blood is separated into for medical purposes",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "capsule",
@@ -1717,7 +1773,8 @@
         "definition": "a shell or container for seeds or eggs in some plants and animals",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "biopsy",
@@ -1731,7 +1788,8 @@
         "definition": "the process of removing and examining tissue from the body of somebody who is ill, in order to find out more about their disease",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "Caplet™",
@@ -1745,7 +1803,8 @@
         "definition": "a long narrow tablet of medicine, with round ends, that you swallow",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "brace",
@@ -1816,7 +1875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "bypass",
@@ -1856,7 +1916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "booster",
@@ -1901,7 +1962,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "carer",
@@ -1920,7 +1982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "care for",
@@ -1948,7 +2011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "caregiver",
@@ -1971,7 +2035,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "casualty",
@@ -2024,7 +2089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "cast",
@@ -2109,7 +2175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "CCU",
@@ -2127,7 +2194,8 @@
         "definition": "part of a hospital that provides care for people with heart conditions (the abbreviation for ‘coronary care unit’ or ‘cardiac care unit’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "care",
@@ -2316,7 +2384,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "cesarean",
@@ -2339,7 +2408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "CAT scan",
@@ -2353,7 +2423,8 @@
         "definition": "a medical examination that uses a computer to produce an image of the inside of somebody’s body from X-ray or ultrasound pictures",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "cannula",
@@ -2372,7 +2443,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "caesarean",
@@ -2399,7 +2471,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "cesarian",
@@ -2422,7 +2495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "chemo",
@@ -2436,7 +2510,8 @@
         "definition": "chemotherapy (= the treatment of disease, especially cancer, with the use of chemical substances)",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "chiropractic",
@@ -2450,7 +2525,8 @@
         "definition": "the medical profession that involves treating some diseases and physical problems by pressing and moving the bones in a person’s spine or joints; the work of a chiropractor",
         "examples": []
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "chemotherapy",
@@ -2469,7 +2545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "chloroquine",
@@ -2488,7 +2565,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "check-up",
@@ -2511,7 +2589,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "catheter",
@@ -2525,7 +2604,8 @@
         "definition": "a thin tube that is put into the body in order to remove liquid such as urine",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "chemist",
@@ -2569,7 +2649,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "circumcise",
@@ -2587,7 +2668,8 @@
         "definition": "to cut off part of the sex organs of a girl or woman for non-medical reasons (a traditional practice in some cultures but illegal in many countries)",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "chiropodist",
@@ -2601,7 +2683,8 @@
         "definition": "a person whose job is the care and treatment of people’s feet",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "clinical trial",
@@ -2620,7 +2703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "circumcision",
@@ -2634,7 +2718,8 @@
         "definition": "the act of circumcising somebody; the religious ceremony when somebody, especially a baby, is circumcised",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "chiropractor",
@@ -2648,7 +2733,8 @@
         "definition": "a person whose job involves treating some diseases and physical problems by pressing and moving the bones in a person’s spine or joints",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "cleanse",
@@ -2684,7 +2770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "community hospital",
@@ -2703,7 +2790,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "clinician",
@@ -2717,7 +2805,8 @@
         "definition": "a doctor, psychologist, etc. who has direct contact with patients",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "come round",
@@ -2763,7 +2852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "codeine",
@@ -2777,7 +2867,8 @@
         "definition": "a drug used to reduce pain",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "combination therapy",
@@ -2796,7 +2887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "complementary medicine",
@@ -2810,7 +2902,8 @@
         "definition": "medical treatment that is not part of the usual scientific treatment used in Western countries, for example acupuncture",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "contact tracer",
@@ -2829,7 +2922,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "clinic",
@@ -2899,7 +2993,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "come around",
@@ -2945,7 +3040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "contact tracing",
@@ -2964,7 +3060,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "consult",
@@ -3029,7 +3126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "cough mixture",
@@ -3043,7 +3141,8 @@
         "definition": "liquid medicine that you take for a cough",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "cottage hospital",
@@ -3057,7 +3156,8 @@
         "definition": "a small hospital in a country area",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "consultant",
@@ -3101,7 +3201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "contraceptive",
@@ -3120,7 +3221,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "conventional",
@@ -3199,7 +3301,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "CPAP",
@@ -3222,7 +3325,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "curettage",
@@ -3241,7 +3345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "curative",
@@ -3260,7 +3365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "cure",
@@ -3338,7 +3444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "deep-clean",
@@ -3357,7 +3464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "crutch",
@@ -3405,7 +3513,8 @@
         "definition": "the part of a pair of trousers, etc. that covers the crotch",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "cure",
@@ -3492,7 +3601,8 @@
         "definition": "used to say that what you are going to do will either be very successful or fail completely",
         "examples": []
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "critical care",
@@ -3524,7 +3634,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "defibrillator",
@@ -3538,7 +3649,8 @@
         "definition": "a piece of equipment used to control the movements of the heart muscles by giving the heart an electric shock in a carefully managed way",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "dental surgeon",
@@ -3552,7 +3664,8 @@
         "definition": "a dentist, especially one who performs surgery inside the mouth",
         "examples": []
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "diagnose",
@@ -3591,7 +3704,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "deep-cleaning",
@@ -3610,7 +3724,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "dentistry",
@@ -3633,7 +3748,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "dentist",
@@ -3673,7 +3789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "dermatologist",
@@ -3687,7 +3804,8 @@
         "definition": "a doctor who studies and treats skin diseases",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "course",
@@ -4127,7 +4245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "dilatation and curettage",
@@ -4141,7 +4260,8 @@
         "definition": "an operation in which material is removed from the uterus, for example after a miscarriage",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "diagnostic",
@@ -4177,7 +4297,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "diagnosis",
@@ -4208,7 +4329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "dietician",
@@ -4222,7 +4344,8 @@
         "definition": "a person whose job is to advise people on what kind of food they should eat to keep healthy",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "dispensary",
@@ -4240,7 +4363,8 @@
         "definition": "a place where patients are treated, especially one run by a charity",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "discharge",
@@ -4375,7 +4499,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "dosage",
@@ -4406,7 +4531,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "dispensing chemist",
@@ -4420,7 +4546,8 @@
         "definition": "a person whose job is to prepare and sell medicines, and who works in a shop",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "dispense",
@@ -4473,7 +4600,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "district nurse",
@@ -4487,7 +4615,8 @@
         "definition": "(in the UK) a nurse who visits patients in their homes",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "doctor",
@@ -4564,7 +4693,8 @@
         "definition": "exactly what somebody wants or needs",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "dose",
@@ -4634,7 +4764,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "Dr",
@@ -4657,7 +4788,8 @@
         "definition": "(in street names) drive",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "downer",
@@ -4684,7 +4816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "dressing",
@@ -4725,7 +4858,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "drug",
@@ -4817,7 +4951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "druggist",
@@ -4831,7 +4966,8 @@
         "definition": "a pharmacist (= a person whose job is to prepare medicines and sell or give them to the public in a store or in a hospital)",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "echocardiogram",
@@ -4850,7 +4986,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "ear drops",
@@ -4864,7 +5001,8 @@
         "definition": "liquid medicine that can be put into the ears",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "drip",
@@ -4927,7 +5065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "draught",
@@ -4997,7 +5136,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "dress",
@@ -5139,7 +5279,8 @@
         "definition": "an offensive way to describe a woman who you think is trying to look younger than she really is, especially by wearing clothes that are designed for young people",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "echocardiography",
@@ -5158,7 +5299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "emergency room",
@@ -5172,7 +5314,8 @@
         "definition": "the part of a hospital where people who need immediate treatment are taken",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "endoscope",
@@ -5186,7 +5329,8 @@
         "definition": "an instrument used in medical operations that consists of a very small camera on a long thin tube that can be put into a person’s body so that the parts inside can be seen",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "ENT",
@@ -5209,7 +5353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "EpiPen™",
@@ -5228,7 +5373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "eye drops",
@@ -5247,7 +5393,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "endoscopic",
@@ -5266,7 +5413,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "ephedrine",
@@ -5285,7 +5433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "eyewash",
@@ -5313,7 +5462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "face mask",
@@ -5345,7 +5495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "face covering",
@@ -5364,7 +5515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "family doctor",
@@ -5378,7 +5530,8 @@
         "definition": "a doctor who is trained in general medicine and who treats patients in a local community rather than at a hospital",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "faith healing",
@@ -5392,7 +5545,8 @@
         "definition": "a method of treating a sick person through the power of belief and prayer",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "facelift",
@@ -5420,7 +5574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "examine",
@@ -5518,7 +5673,8 @@
         "definition": "to be crazy",
         "examples": []
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "examination",
@@ -5615,7 +5771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "family practitioner",
@@ -5629,7 +5786,8 @@
         "definition": "a doctor who is trained in general medicine and who treats patients in a local community rather than at a hospital",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "fentanyl",
@@ -5648,7 +5806,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "family medicine",
@@ -5667,7 +5826,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "family practice",
@@ -5690,7 +5850,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "first aid",
@@ -5721,7 +5882,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "gastric bypass",
@@ -5740,7 +5902,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "forceps",
@@ -5763,7 +5926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "fringe medicine",
@@ -5777,7 +5941,8 @@
         "definition": "any type of treatment that is not accepted by many people as being part of Western medicine, for example one using plants instead of artificial drugs",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "gastroenterology",
@@ -5791,7 +5956,8 @@
         "definition": "the study and treatment of diseases of the stomach and intestines",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "general practice",
@@ -5818,7 +5984,8 @@
         "definition": "the work of a lawyer who deals with all kinds of legal cases and who is not a specialist in one particular area of law; the place where a lawyer like this works",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "first aid kit",
@@ -5837,7 +6004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "general practitioner",
@@ -5851,7 +6019,8 @@
         "definition": "a doctor who is trained in general medicine and who treats patients in a local community rather than at a hospital",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "government health warning",
@@ -5883,7 +6052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "graft",
@@ -5928,7 +6098,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "gynaecology",
@@ -5942,7 +6113,8 @@
         "definition": "the scientific study and treatment of the medical conditions and diseases of women, especially those connected with sexual reproduction",
         "examples": []
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "gown",
@@ -5987,7 +6159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "geriatric",
@@ -6005,7 +6178,8 @@
         "definition": "an offensive word for an old person",
         "examples": []
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "hand sanitizer",
@@ -6024,7 +6198,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "gynaecologist",
@@ -6047,7 +6222,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "hand gel",
@@ -6066,7 +6242,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "graft",
@@ -6116,7 +6293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "GP",
@@ -6152,7 +6330,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "heal",
@@ -6209,7 +6388,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "healing",
@@ -6240,7 +6420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "health professional",
@@ -6259,7 +6440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "health check",
@@ -6287,7 +6469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "herbalism",
@@ -6301,7 +6484,8 @@
         "definition": "the medical use of plants, especially as a form of alternative medicine",
         "examples": []
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "homeopathy",
@@ -6315,7 +6499,8 @@
         "definition": "a system of treating diseases or conditions using very small amounts of the substance that causes the disease or condition",
         "examples": []
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "healer",
@@ -6343,7 +6528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "health screening",
@@ -6366,7 +6552,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "healthcare",
@@ -6393,7 +6580,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "homeopath",
@@ -6407,7 +6595,8 @@
         "definition": "a person who treats illness using homeopathic methods",
         "examples": []
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "home visit",
@@ -6426,7 +6615,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "herd immunity",
@@ -6445,7 +6635,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "holism",
@@ -6463,7 +6654,8 @@
         "definition": "the idea that the whole of a sick person, including their body, mind and way of life, should be considered when treating them, and not just the symptoms (= effects) of the disease",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "hospitalization",
@@ -6482,7 +6674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "hospitalize",
@@ -6501,7 +6694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "hypnotherapy",
@@ -6520,7 +6714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "hypnotherapist",
@@ -6539,7 +6734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "house call",
@@ -6558,7 +6754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "hospitalist",
@@ -6577,7 +6774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "hospice",
@@ -6596,7 +6794,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "hypodermic",
@@ -6619,7 +6818,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "hospital",
@@ -6738,7 +6938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "hypodermic",
@@ -6752,7 +6953,8 @@
         "definition": "a medical instrument with a long thin needle that is used to give somebody an injection under their skin",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "ICU",
@@ -6766,7 +6968,8 @@
         "definition": "intensive care unit (in a hospital)",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "ice pack",
@@ -6780,7 +6983,8 @@
         "definition": "a plastic container filled with ice that is used to cool parts of the body that are injured, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "hypotensive",
@@ -6808,7 +7012,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "immunize",
@@ -6835,7 +7040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "implant",
@@ -6858,7 +7064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "incubator",
@@ -6881,7 +7088,8 @@
         "definition": "a machine like a box where eggs are kept warm until the young birds are born",
         "examples": []
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "implantable",
@@ -6900,7 +7108,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "incision",
@@ -6919,7 +7128,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "infirmary",
@@ -6955,7 +7165,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "informed consent",
@@ -6974,7 +7185,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "implant",
@@ -7015,7 +7227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "infuse",
@@ -7051,7 +7264,8 @@
         "definition": "to slowly put a drug or other substance into a person’s vein",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "infusion",
@@ -7091,7 +7305,8 @@
         "definition": "an act of slowly putting a drug or other substance into a person’s vein; the drug that is used in this way",
         "examples": []
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "inhaler",
@@ -7105,7 +7320,8 @@
         "definition": "a small device containing medicine that you breathe in through your mouth, used by people who have problems with breathing",
         "examples": []
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "inject",
@@ -7183,7 +7399,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "inoculation",
@@ -7206,7 +7423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "injection",
@@ -7259,7 +7477,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "intern",
@@ -7291,7 +7510,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "intensive care",
@@ -7327,7 +7547,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "internship",
@@ -7350,7 +7571,8 @@
         "definition": "a job that an advanced student of medicine, whose training is nearly finished, does in a hospital to get further practical experience",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "integrative",
@@ -7378,7 +7600,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "insulin",
@@ -7397,7 +7620,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "inpatient",
@@ -7411,7 +7635,8 @@
         "definition": "a person who stays in a hospital while receiving treatment",
         "examples": []
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "inoculate",
@@ -7425,7 +7650,8 @@
         "definition": "to protect a person or an animal from catching a particular disease by injecting them with a mild form of the disease",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "intravenous",
@@ -7452,7 +7678,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "integrative medicine",
@@ -7471,7 +7698,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "intravenously",
@@ -7494,7 +7722,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "iridology",
@@ -7508,7 +7737,8 @@
         "definition": "a form of alternative medicine in which the iris (= the coloured part of the eye) is examined in order to find out what is wrong with somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "keyhole surgery",
@@ -7522,7 +7752,8 @@
         "definition": "medical operations that involve only a very small cut being made in the patient’s body",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "isolate",
@@ -7580,7 +7811,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "lateral flow test",
@@ -7599,7 +7831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "jab",
@@ -7639,7 +7872,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "laxative",
@@ -7653,7 +7887,8 @@
         "definition": "a medicine, food or drink that makes somebody empty their bowels easily",
         "examples": []
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "invasive",
@@ -7707,7 +7942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "isolation",
@@ -7764,7 +8000,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "junior doctor",
@@ -7778,7 +8015,8 @@
         "definition": "(in the UK) a doctor who has finished medical school and who is working at a hospital to get further practical experience",
         "examples": []
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "jab",
@@ -7822,7 +8060,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "live",
@@ -7977,7 +8216,8 @@
         "definition": "a person who is lively and full of energy",
         "examples": []
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "lozenge",
@@ -8000,7 +8240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "life support machine",
@@ -8019,7 +8260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "locum",
@@ -8042,7 +8284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "massage",
@@ -8083,7 +8326,8 @@
         "definition": "to say nice things about somebody, often in a way that is not sincere, in order to make them feel better, more confident, more attractive, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "lobotomy",
@@ -8097,7 +8341,8 @@
         "definition": "a rare medical operation that cuts into part of a person’s brain in order to treat some serious mental illnesses",
         "examples": []
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "maternity",
@@ -8120,7 +8365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "managed care",
@@ -8139,7 +8385,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "massage",
@@ -8182,7 +8429,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "mask",
@@ -8240,7 +8488,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "liver salts",
@@ -8254,7 +8503,8 @@
         "definition": "a substance that you drink to help with indigestion (= pain caused by difficulty in digesting food)",
         "examples": []
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "medical",
@@ -8314,7 +8564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "matron",
@@ -8336,7 +8587,8 @@
         "definition": "an older married woman",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "medic",
@@ -8359,7 +8611,8 @@
         "definition": "a person who is trained to give medical treatment, especially somebody in the armed forces",
         "examples": []
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "medicate",
@@ -8391,7 +8644,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "medical mask",
@@ -8410,7 +8664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "medical doctor",
@@ -8429,7 +8684,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "medicine man",
@@ -8443,7 +8699,8 @@
         "definition": "(especially among some native North American peoples) a person who is believed to have special magic powers that can be used to make sick people well again",
         "examples": []
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "medication",
@@ -8478,7 +8735,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "midwife",
@@ -8492,7 +8750,8 @@
         "definition": "a person, especially a woman, who is trained to help women give birth to babies",
         "examples": []
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "midwifery",
@@ -8506,7 +8765,8 @@
         "definition": "the profession and work of a midwife",
         "examples": []
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "meridian",
@@ -8529,7 +8789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "medicine",
@@ -8623,7 +8884,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "medical",
@@ -8646,7 +8908,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "narcotic",
@@ -8674,7 +8937,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "mortuary",
@@ -8701,7 +8965,8 @@
         "definition": "a place where dead people are prepared for being buried or cremated (= burned) and where visitors can see the body",
         "examples": []
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "morphine",
@@ -8720,7 +8985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "MRI",
@@ -8747,7 +9013,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "narcotic",
@@ -8770,7 +9037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "MRSA",
@@ -8789,7 +9057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "NAT",
@@ -8808,7 +9077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "monitor",
@@ -8903,7 +9173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "naturopath",
@@ -8922,7 +9193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "naturopathy",
@@ -8936,7 +9208,8 @@
         "definition": "a system for treating diseases or conditions using natural foods and herbs and various other techniques, rather than artificial drugs",
         "examples": []
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "neurosurgery",
@@ -8950,7 +9223,8 @@
         "definition": "medical operations performed on the nervous system, especially the brain",
         "examples": []
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "neurosurgeon",
@@ -8969,7 +9243,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "nip and tuck",
@@ -8983,7 +9258,8 @@
         "definition": "a medical operation in which skin is removed or made tighter to make somebody look younger or more attractive, especially a facelift",
         "examples": []
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "nucleic acid test",
@@ -9002,7 +9278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "neurologist",
@@ -9016,7 +9293,8 @@
         "definition": "a doctor who studies and treats diseases of the nerves",
         "examples": []
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "naturopathic",
@@ -9039,7 +9317,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "nose job",
@@ -9058,7 +9337,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "nurse",
@@ -9125,7 +9405,8 @@
         "definition": "(in the past) a woman or girl whose job was to take care of babies or small children in their own homes",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "needle",
@@ -9239,7 +9520,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "nephrology",
@@ -9253,7 +9535,8 @@
         "definition": "the branch of medicine concerned with the study and treatment of diseases connected with the kidneys",
         "examples": []
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "obstetrics",
@@ -9267,7 +9550,8 @@
         "definition": "the branch of medicine that deals with the birth of children",
         "examples": []
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "nutritionist",
@@ -9281,7 +9565,8 @@
         "definition": "a person who is an expert on the relationship between food and health",
         "examples": []
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "occupational therapy",
@@ -9295,7 +9580,8 @@
         "definition": "the work of an occupational therapist",
         "examples": []
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "ointment",
@@ -9322,7 +9608,8 @@
         "definition": "a person or thing that makes a situation or an occasion less pleasant, successful, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "operating table",
@@ -9341,7 +9628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "operable",
@@ -9369,7 +9657,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "operation",
@@ -9552,7 +9841,8 @@
         "definition": "a process in which a number or quantity is changed by adding, multiplying, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "open-heart surgery",
@@ -9566,7 +9856,8 @@
         "definition": "a medical operation on the heart, during which the patient’s blood is kept flowing by a machine",
         "examples": []
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "operate",
@@ -9699,7 +9990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "occupational therapist",
@@ -9713,7 +10005,8 @@
         "definition": "a person whose job is to help people get better after illness or injury by giving them special activities to do",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "operating theatre",
@@ -9727,7 +10020,8 @@
         "definition": "a room in a hospital used for medical operations",
         "examples": []
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "op",
@@ -9776,7 +10070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "ophthalmologist",
@@ -9790,7 +10085,8 @@
         "definition": "a doctor who studies and treats the diseases of the eye",
         "examples": []
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "operative",
@@ -9839,7 +10135,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "opiate",
@@ -9853,7 +10150,8 @@
         "definition": "a drug made from opium. Opiates are used in medicine to reduce severe pain.",
         "examples": []
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "ophthalmic optician",
@@ -9867,7 +10165,8 @@
         "definition": "a person whose job is to examine people’s eyes and to recommend and sell glasses",
         "examples": []
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "osteopathy",
@@ -9881,7 +10180,8 @@
         "definition": "the treatment of some diseases and physical problems by pressing and moving the bones and muscles",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "opioid",
@@ -9900,7 +10200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "opioid",
@@ -9919,7 +10220,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "orthopaedics",
@@ -9933,7 +10235,8 @@
         "definition": "the branch of medicine that deals with injuries and diseases of the bones or muscles",
         "examples": []
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "optician",
@@ -9964,7 +10267,8 @@
         "definition": "a person who makes lenses, glasses, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "orderly",
@@ -9982,7 +10286,8 @@
         "definition": "a soldier who does jobs that do not need any special training",
         "examples": []
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "osteopath",
@@ -9996,7 +10301,8 @@
         "definition": "a person whose job involves treating some diseases and physical problems by pressing and moving the bones and muscles",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "over-the-counter",
@@ -10014,7 +10320,8 @@
         "definition": "not appearing in an official stock exchange list",
         "examples": []
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "outpatient",
@@ -10033,7 +10340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "over the counter",
@@ -10122,7 +10430,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "oxygen mask",
@@ -10136,7 +10445,8 @@
         "definition": "a device placed over the nose and mouth through which a person can breathe oxygen, for example in an aircraft or a hospital",
         "examples": []
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "paediatrician",
@@ -10150,7 +10460,8 @@
         "definition": "a doctor who studies and treats the diseases of children",
         "examples": []
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "paramedic",
@@ -10169,7 +10480,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "paracetamol",
@@ -10192,7 +10504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "painless",
@@ -10224,7 +10537,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "pacemaker",
@@ -10265,7 +10579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "paramedical",
@@ -10284,7 +10599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "pack",
@@ -10443,7 +10759,8 @@
         "definition": "a person or thing that could change the way that things will happen in a way that cannot be predicted",
         "examples": []
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "painkilling",
@@ -10462,7 +10779,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "painkiller",
@@ -10481,7 +10799,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "PCP",
@@ -10499,7 +10818,8 @@
         "definition": "primary care provider (= a company or organization that provides primary care)",
         "examples": []
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "pediatrics",
@@ -10513,7 +10833,8 @@
         "definition": "the branch of medicine that deals with children and their diseases",
         "examples": []
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "patient advocate",
@@ -10532,7 +10853,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "patient",
@@ -10588,7 +10910,8 @@
         "definition": "the person or thing that is affected by the action of the verb. In the sentence ‘I started the car’, the patient is car.",
         "examples": []
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "pharma",
@@ -10607,7 +10930,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "PCR test",
@@ -10626,7 +10950,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "penicillin",
@@ -10649,7 +10974,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "personal protective equipment",
@@ -10668,7 +10994,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "pharmaceutical",
@@ -10691,7 +11018,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "pharmacy",
@@ -10722,7 +11050,8 @@
         "definition": "the study of how to prepare medicines and drugs",
         "examples": []
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "pharmacist",
@@ -10750,7 +11079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "pharmaceutical",
@@ -10773,7 +11103,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "physician's assistant",
@@ -10792,7 +11123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "pharmacovigilance",
@@ -10815,7 +11147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "physician",
@@ -10838,7 +11171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "physiotherapist",
@@ -10852,7 +11186,8 @@
         "definition": "a person whose job is to treat disease, injury or weakness in the joints or muscles by exercises, massage and the use of light and heat",
         "examples": []
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "phial",
@@ -10866,7 +11201,8 @@
         "definition": "a small glass container, for medicine or perfume",
         "examples": []
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "pill",
@@ -10935,7 +11271,8 @@
         "definition": "to do something that makes an unpleasant situation seem less unpleasant",
         "examples": []
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "placebo",
@@ -10962,7 +11299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "plaster",
@@ -11011,7 +11349,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "physio",
@@ -11029,7 +11368,8 @@
         "definition": "a person whose job is to give patients physiotherapy",
         "examples": []
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "plastic surgeon",
@@ -11043,7 +11383,8 @@
         "definition": "a doctor who is qualified to perform plastic surgery",
         "examples": []
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "plaster cast",
@@ -11071,7 +11412,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "POCT",
@@ -11094,7 +11436,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "physiotherapy",
@@ -11113,7 +11456,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "polyclinic",
@@ -11127,7 +11471,8 @@
         "definition": "a medical centre that is not part of a hospital, where both general doctors and specialists work",
         "examples": []
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "plastic surgery",
@@ -11146,7 +11491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "podiatrist",
@@ -11160,7 +11506,8 @@
         "definition": "a person whose job is the care and treatment of people’s feet",
         "examples": []
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "point-of-care testing",
@@ -11179,7 +11526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "post-operative",
@@ -11202,7 +11550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "primary health care",
@@ -11221,7 +11570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "PPE",
@@ -11240,7 +11590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "prescription",
@@ -11306,7 +11657,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "primary care physician",
@@ -11329,7 +11681,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "prep",
@@ -11356,7 +11709,8 @@
         "definition": "to prepare somebody for a medical operation",
         "examples": []
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "practitioner",
@@ -11388,7 +11742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "practice",
@@ -11569,7 +11924,8 @@
         "definition": "a way of encouraging people by telling them that if you do an activity regularly and try to improve your skill, you will become very good at it",
         "examples": []
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "prescribe",
@@ -11609,7 +11965,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "private",
@@ -11781,7 +12138,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "probe",
@@ -11816,7 +12174,8 @@
         "definition": "a small device put inside something and used by scientists to test something or record information",
         "examples": []
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "probe",
@@ -11856,7 +12215,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "quarantine",
@@ -11879,7 +12239,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "prognosis",
@@ -11911,7 +12272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "Prozac™",
@@ -11930,7 +12292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "quarantine",
@@ -11957,7 +12320,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "radiotherapy",
@@ -11976,7 +12340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "procedure",
@@ -12045,7 +12410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "readmit",
@@ -12068,7 +12434,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "radiography",
@@ -12082,7 +12449,8 @@
         "definition": "the process or job of taking X-ray photographs",
         "examples": []
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "R",
@@ -12114,7 +12482,8 @@
         "definition": "reading, writing and arithmetic, thought to be the most important parts of a child’s education",
         "examples": []
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "radiologist",
@@ -12128,7 +12497,8 @@
         "definition": "a doctor who is trained in radiology",
         "examples": []
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "recovery",
@@ -12194,7 +12564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "rehabilitate",
@@ -12235,7 +12606,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "reflexology",
@@ -12249,7 +12621,8 @@
         "definition": "a type of alternative treatment in which somebody’s feet are rubbed in a particular way in order to cure a health problem in other parts of their body or to make them feel mentally relaxed",
         "examples": []
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "reiki",
@@ -12263,7 +12636,8 @@
         "definition": "a method of making sick people well again based on the idea that energy can be directed into a person’s body by touch",
         "examples": []
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "rehab",
@@ -12286,7 +12660,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "remedy",
@@ -12339,7 +12714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "rest cure",
@@ -12358,7 +12734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "restorative",
@@ -12386,7 +12763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "reject",
@@ -12489,7 +12867,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "revive",
@@ -12550,7 +12929,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "registrar",
@@ -12577,7 +12957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "resident",
@@ -12613,7 +12994,8 @@
         "definition": "a doctor working in a hospital in the US who is receiving special advanced training",
         "examples": []
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "rest",
@@ -12800,7 +13182,8 @@
         "definition": "used when you are telling a story to say that you do not need to tell the end of it, because everyone knows it already",
         "examples": []
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "rest",
@@ -12934,7 +13317,8 @@
         "definition": "to feel so satisfied with what you have already achieved that you do not try to do any more",
         "examples": []
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "R number",
@@ -12953,7 +13337,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "salve",
@@ -12967,7 +13352,8 @@
         "definition": "a substance that you put on a wound or painful skin to help it to get better or to protect it",
         "examples": []
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "scalpel",
@@ -12986,7 +13372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "sanatorium",
@@ -13005,7 +13392,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "sanitarium",
@@ -13019,7 +13407,8 @@
         "definition": "a place like a hospital where patients who have a long-term illness or who are getting better after an illness are treated",
         "examples": []
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "sample",
@@ -13113,7 +13502,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "scanner",
@@ -13149,7 +13539,8 @@
         "definition": "a piece of equipment for receiving and sending radar signals",
         "examples": []
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "round",
@@ -13364,7 +13755,8 @@
         "definition": "with the people watching all around a central stage",
         "examples": []
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "scan",
@@ -13400,7 +13792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "sedative",
@@ -13419,7 +13812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "scrub",
@@ -13464,7 +13858,8 @@
         "definition": "the special clothes worn by surgeons when they are doing medical operations",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "scan",
@@ -13573,7 +13968,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "screen",
@@ -13652,7 +14048,8 @@
         "definition": "to protect somebody from something dangerous or unpleasant, especially to protect somebody who has done something illegal or dishonest",
         "examples": []
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "self-isolation",
@@ -13671,7 +14068,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "self-medicate",
@@ -13711,7 +14109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "scrub up",
@@ -13734,7 +14133,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "screen",
@@ -13953,7 +14353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "senior nursing officer",
@@ -13967,7 +14368,8 @@
         "definition": "a person in charge of a group of nurses in a hospital",
         "examples": []
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "self-quarantine",
@@ -13986,7 +14388,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "self-isolate",
@@ -14005,7 +14408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "shiatsu",
@@ -14019,7 +14423,8 @@
         "definition": "a form of medical treatment, originally from East Asia, in which pressure is applied to particular parts of the body using the fingers",
         "examples": []
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "shelter in place",
@@ -14080,7 +14485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "side effect",
@@ -14112,7 +14518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "sister",
@@ -14227,7 +14634,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "self-quarantine",
@@ -14246,7 +14654,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "socialized medicine",
@@ -14260,7 +14669,8 @@
         "definition": "medical and hospital care provided by the government for everyone by paying for it with public money",
         "examples": []
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "sleeping pill",
@@ -14274,7 +14684,8 @@
         "definition": "a pill (= tablet) containing a drug that helps you to sleep",
         "examples": []
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "soothe",
@@ -14310,7 +14721,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "sling",
@@ -14346,7 +14758,8 @@
         "definition": "(in the past) a simple weapon made from a band of leather, etc., used for throwing stones",
         "examples": []
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "skin graft",
@@ -14360,7 +14773,8 @@
         "definition": "a medical operation in which healthy skin is taken from one part of somebody’s body and placed over another part to replace skin that has been burned or damaged; a piece of skin that is moved in this way",
         "examples": []
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "specialist",
@@ -14408,7 +14822,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "shot",
@@ -14701,7 +15116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "set",
@@ -14987,7 +15403,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "speculum",
@@ -15001,7 +15418,8 @@
         "definition": "a metal instrument that is used to make a hole or tube in the body wider so it can be examined",
         "examples": []
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "specimen",
@@ -15050,7 +15468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "sticking plaster",
@@ -15064,7 +15483,8 @@
         "definition": "a piece of material that can be stuck to the skin to protect a small wound or cut; this material",
         "examples": []
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "stretcher",
@@ -15096,7 +15516,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "stitch",
@@ -15132,7 +15553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "stethoscope",
@@ -15146,7 +15568,8 @@
         "definition": "an instrument that a doctor uses to listen to somebody’s heart and breathing",
         "examples": []
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "strap",
@@ -15182,7 +15605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "support",
@@ -15349,7 +15773,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "splint",
@@ -15363,7 +15788,8 @@
         "definition": "a long piece of wood or metal that is tied to a broken arm or leg to keep it still and in the right position",
         "examples": []
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "surgeon",
@@ -15386,7 +15812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "stool",
@@ -15421,7 +15848,8 @@
         "definition": "to fail to be or to get either of two choices, both of which would have been acceptable",
         "examples": []
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "stitch",
@@ -15521,7 +15949,8 @@
         "definition": "it is better to deal with something immediately because if you wait it may become worse or more difficult and cause extra work",
         "examples": []
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "surgery",
@@ -15599,7 +16028,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "surgical",
@@ -15639,7 +16069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "surgical mask",
@@ -15658,7 +16089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "syringe",
@@ -15681,7 +16113,8 @@
         "definition": "a plastic or glass tube with a rubber part at the end, used for taking liquid in and then pushing it out",
         "examples": []
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "tablet",
@@ -15751,7 +16184,8 @@
         "definition": "a number of pieces of paper for writing or drawing on, that are fastened together at one edge",
         "examples": []
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "swab",
@@ -15778,7 +16212,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "tape",
@@ -15837,7 +16272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "swab",
@@ -15860,7 +16296,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "test",
@@ -16002,7 +16439,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "therapy",
@@ -16058,7 +16496,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "termination",
@@ -16086,7 +16525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "test",
@@ -16231,7 +16671,8 @@
         "definition": "to teach students only what is necessary in order to pass a particular test, rather than help them develop a range of skills",
         "examples": []
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "thermometer",
@@ -16250,7 +16691,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "therapist",
@@ -16277,7 +16719,8 @@
         "definition": "a person who is trained to treat somebody who has problems with their mental health by talking with them",
         "examples": []
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "traditional medicine",
@@ -16300,7 +16743,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "traction",
@@ -16336,7 +16780,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "tourniquet",
@@ -16355,7 +16800,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "tranquillize",
@@ -16374,7 +16820,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "tonic",
@@ -16428,7 +16875,8 @@
         "definition": "the syllable in a tone unit on which a change in pitch takes place",
         "examples": []
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "transplant",
@@ -16464,7 +16912,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "triage",
@@ -16478,7 +16927,8 @@
         "definition": "the process of deciding how seriously ill or injured a person is, so that the most serious cases can be treated first",
         "examples": []
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "tuck",
@@ -16515,7 +16965,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "treat",
@@ -16672,7 +17123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "transplant",
@@ -16717,7 +17169,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "ultrasound",
@@ -16748,7 +17201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "vaccinate",
@@ -16767,7 +17221,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "unit",
@@ -16991,7 +17446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "treatment",
@@ -17093,7 +17549,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "under the knife",
@@ -17175,7 +17632,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "vaccination",
@@ -17198,7 +17656,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "vaccine passport",
@@ -17217,7 +17676,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "vaccine hesitancy",
@@ -17236,7 +17696,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "vasectomy",
@@ -17255,7 +17716,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "vaccine",
@@ -17278,7 +17740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "ventilator",
@@ -17301,7 +17764,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "vax",
@@ -17324,7 +17788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "vax",
@@ -17347,7 +17812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "wheelchair",
@@ -17386,7 +17852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "ward",
@@ -17422,7 +17889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "X-ray",
@@ -17475,7 +17943,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "X-ray",
@@ -17494,6 +17963,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 470
   }
 ]

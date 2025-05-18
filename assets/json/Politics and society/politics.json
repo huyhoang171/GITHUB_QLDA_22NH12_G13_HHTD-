@@ -20,7 +20,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "arena",
@@ -60,7 +61,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "anarchy",
@@ -83,7 +85,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "abstain",
@@ -120,7 +123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "anarchist",
@@ -134,7 +138,8 @@
         "definition": "a person who believes that laws and governments are not necessary",
         "examples": []
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "absentee ballot",
@@ -148,7 +153,8 @@
         "definition": "a vote in an election that you can send when you cannot be present",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "agency",
@@ -193,7 +199,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "anarchism",
@@ -207,7 +214,8 @@
         "definition": "the political belief that laws and governments are not necessary; a political force or movement based on this belief",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "abstention",
@@ -239,7 +247,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "arms control",
@@ -253,7 +262,8 @@
         "definition": "international agreements to destroy weapons or limit the number of weapons that countries have",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "activist",
@@ -280,7 +290,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "alliance",
@@ -316,7 +327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "ambassador",
@@ -348,7 +360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "assembly",
@@ -434,7 +447,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "activism",
@@ -453,7 +467,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "alt-right",
@@ -472,7 +487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "affair",
@@ -589,7 +605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "attack ad",
@@ -608,7 +625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "act",
@@ -790,7 +808,8 @@
         "definition": "to tell somebody with force that they must not do something",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "alternative vote",
@@ -804,7 +823,8 @@
         "definition": "a system that allows people to choose candidates for an election in order of preference. All first preferences are counted, and if no candidate achieves a majority, the candidate with the fewest votes is removed from the process and each vote for that candidate is transferred to each person’s second preference. This process is repeated until one candidate achieves the majority.",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "absolutism",
@@ -822,7 +842,8 @@
         "definition": "belief in a political, religious or moral principle that is thought to be true in all circumstances",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "ally",
@@ -888,7 +909,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "autonomy",
@@ -916,7 +938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "agitprop",
@@ -930,7 +953,8 @@
         "definition": "the use of art, films, music, etc. to spread political ideas",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "apolitical",
@@ -957,7 +981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "allied",
@@ -1006,7 +1031,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "apathy",
@@ -1029,7 +1055,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "backbencher",
@@ -1043,7 +1070,8 @@
         "definition": "(in the House of Commons in the UK and in certain other parliaments) a member who sits in the rows of seats at the back, and who does not have an important position in the government or the Opposition",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "barangay",
@@ -1062,7 +1090,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "bilateral",
@@ -1094,7 +1123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "back bench",
@@ -1117,7 +1147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "ballot",
@@ -1170,7 +1201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "bench",
@@ -1237,7 +1269,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "bill",
@@ -1397,7 +1430,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "autonomous",
@@ -1437,7 +1471,8 @@
         "definition": "that has the technology to drive itself without a person in control",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "bloc",
@@ -1456,7 +1491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "axis",
@@ -1522,7 +1558,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "border",
@@ -1627,7 +1664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "bridge-building",
@@ -1641,7 +1679,8 @@
         "definition": "activities intended to make relations between two groups, countries, etc. friendlier",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "Brexit",
@@ -1664,7 +1703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "balance of power",
@@ -1704,7 +1744,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "Brexiteer",
@@ -1727,7 +1768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "broker",
@@ -1750,7 +1792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "brinkmanship",
@@ -1769,7 +1812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "ballot box",
@@ -1792,7 +1836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "bundler",
@@ -1820,7 +1865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "campaign",
@@ -1912,7 +1958,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "bipartisan",
@@ -1935,7 +1982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "bipartisanship",
@@ -1958,7 +2006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "bureau",
@@ -2011,7 +2060,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "cabinet",
@@ -2059,7 +2109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "bureaucrat",
@@ -2086,7 +2137,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "candidacy",
@@ -2105,7 +2157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "by-election",
@@ -2119,7 +2172,8 @@
         "definition": "an election of a new Member of Parliament to replace somebody who has died or left parliament",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "capitol",
@@ -2142,7 +2196,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "budget",
@@ -2234,7 +2289,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "centralism",
@@ -2248,7 +2304,8 @@
         "definition": "a way of organizing something, such as government or education, that involves one central group of people controlling the whole system",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "bureaucracy",
@@ -2284,7 +2341,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "candidature",
@@ -2298,7 +2356,8 @@
         "definition": "the fact of being a candidate in an election",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "canvass",
@@ -2321,7 +2380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "capitalism",
@@ -2340,7 +2400,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "center",
@@ -2471,7 +2532,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "centre",
@@ -2630,7 +2692,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "centralist",
@@ -2649,7 +2712,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "canvass",
@@ -2698,7 +2762,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "Chief Whip",
@@ -2712,7 +2777,8 @@
         "definition": "a member of a political party who is in charge of the other Whips in the party. The Chief Whips are among the most powerful people in Parliament, with responsibilities for keeping discipline among the party's Members of Parliament, making sure that they go to debates, and advising them how to vote.",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "centrist",
@@ -2726,7 +2792,8 @@
         "definition": "a person with political views that are not extreme",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "canvasser",
@@ -2754,7 +2821,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "centrist",
@@ -2773,7 +2841,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "colonialism",
@@ -2796,7 +2865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "chancellor",
@@ -2846,7 +2916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "chamber",
@@ -2934,7 +3005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "collectivist",
@@ -2953,7 +3025,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "civil servant",
@@ -2972,7 +3045,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "civil service",
@@ -2991,7 +3065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "coalition",
@@ -3043,7 +3118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "Commons",
@@ -3061,7 +3137,8 @@
         "definition": "the building where the members of the Commons meet",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "colonialist",
@@ -3080,7 +3157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "communiqué",
@@ -3099,7 +3177,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "communism",
@@ -3122,7 +3201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "commerce",
@@ -3141,7 +3221,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "communist",
@@ -3164,7 +3245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "Con.",
@@ -3178,7 +3260,8 @@
         "definition": "(in British politics) conservative",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "collectivism",
@@ -3192,7 +3275,8 @@
         "definition": "the political system in which all farms, businesses and industries are owned by the state or by all the people",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "common market",
@@ -3210,7 +3294,8 @@
         "definition": "a former name of the European Union",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "comrade",
@@ -3238,7 +3323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "Communist Party",
@@ -3252,7 +3338,8 @@
         "definition": "a political party that supports communism or rules in a communist country",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "commissioner",
@@ -3313,7 +3400,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "conference committee",
@@ -3332,7 +3420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "compact",
@@ -3363,7 +3452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "congresswoman",
@@ -3377,7 +3467,8 @@
         "definition": "a woman who is a member of Congress in the US, especially the House of Representatives",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "confederation",
@@ -3400,7 +3491,8 @@
         "definition": "(in Canada) the joining together of provinces and territories forming Canada, which began 1 July, 1867",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "congressional district",
@@ -3419,7 +3511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "constituent",
@@ -3455,7 +3548,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "conservative",
@@ -3512,7 +3606,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "Conservative Party",
@@ -3531,7 +3626,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "colonialist",
@@ -3550,7 +3646,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "congressional",
@@ -3573,7 +3670,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "congress",
@@ -3623,7 +3721,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "constituency",
@@ -3672,7 +3771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "conservative",
@@ -3708,7 +3808,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "constitutionalism",
@@ -3722,7 +3823,8 @@
         "definition": "a belief in constitutional government",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "contest",
@@ -3770,7 +3872,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "constitutionally",
@@ -3807,7 +3910,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "conflict",
@@ -3933,7 +4037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "contest",
@@ -4005,7 +4110,8 @@
         "definition": "used to say that one side in a competition is so much stronger or better than the other that it is sure to win easily",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "constitution",
@@ -4067,7 +4173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "constitutional",
@@ -4120,7 +4227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "conservatism",
@@ -4152,7 +4260,8 @@
         "definition": "the principles of the Conservative Party in British politics",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "coup",
@@ -4200,7 +4309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "corporation",
@@ -4241,7 +4351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "council",
@@ -4347,7 +4458,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "convention",
@@ -4413,7 +4525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "cross-border",
@@ -4436,7 +4549,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "current affairs",
@@ -4450,7 +4564,8 @@
         "definition": "events of political or social importance that are happening now",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "constitutionality",
@@ -4469,7 +4584,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "crony capitalism",
@@ -4488,7 +4604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "constitutional monarchy",
@@ -4502,7 +4619,8 @@
         "definition": "a country that is governed by a king or queen within laws which limit his or her power. Britain is governed in this way, with the Queen or King as head of state and with Parliament and the elected government holding almost all the real power. This system began to develop slowly in the 17th century, when the Bill of Rights became law, and then developed more quickly after the Reform Act of 1832.",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "crown",
@@ -4650,7 +4768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "Dem.",
@@ -4664,7 +4783,8 @@
         "definition": "(in politics in the US) democrat; democratic",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "councillor",
@@ -4687,7 +4807,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "customs union",
@@ -4701,7 +4822,8 @@
         "definition": "a group of states that agree to have the same taxes on imported goods and usually to allow free trade between themselves",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "culture war",
@@ -4720,7 +4842,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "demagogue",
@@ -4734,7 +4857,8 @@
         "definition": "a political leader who tries to win support by using arguments based on emotion rather than reason",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "debate",
@@ -4790,7 +4914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "debate",
@@ -4870,7 +4995,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "Democratic Party",
@@ -4884,7 +5010,8 @@
         "definition": "one of the two main political parties in the US, usually considered to be in favour of changing society in order to improve it",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "democracy",
@@ -4937,7 +5064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "democratic",
@@ -5011,7 +5139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "decolonize",
@@ -5043,7 +5172,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "department",
@@ -5116,7 +5246,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "democrat",
@@ -5134,7 +5265,8 @@
         "definition": "a member or supporter of the Democratic Party of the US",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "deselect",
@@ -5152,7 +5284,8 @@
         "definition": "to remove something from the list of possible choices on a computer menu",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "deputy",
@@ -5188,7 +5321,8 @@
         "definition": "(in the US) a police officer who helps the sheriff of an area",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "devolution",
@@ -5207,7 +5341,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "devolve to",
@@ -5226,7 +5361,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "devolve on",
@@ -5253,7 +5389,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "detente",
@@ -5272,7 +5409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "dictator",
@@ -5300,7 +5438,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "destabilize",
@@ -5323,7 +5462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "deposit",
@@ -5420,7 +5560,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "dialogue",
@@ -5472,7 +5613,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "diplomacy",
@@ -5504,7 +5646,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "diplomatically",
@@ -5532,7 +5675,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "diplomat",
@@ -5564,7 +5708,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "devolved",
@@ -5587,7 +5732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "dictatorship",
@@ -5623,7 +5769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "diplomatic immunity",
@@ -5642,7 +5789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "devolve upon",
@@ -5669,7 +5817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "diplomatist",
@@ -5683,7 +5832,8 @@
         "definition": "a diplomat (= a person whose job is to represent his or her country in a foreign country, for example, in an embassy)",
         "examples": []
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "diplomatic bag",
@@ -5697,7 +5847,8 @@
         "definition": "a container that is used for sending official letters and documents between a government and its representatives in another country and that cannot be opened by customs officers",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "diplomatic corps",
@@ -5720,7 +5871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "Diplomatic Service",
@@ -5734,7 +5886,8 @@
         "definition": "the government department concerned with representing a country in foreign countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "diplomatic",
@@ -5774,7 +5927,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "dissidence",
@@ -5788,7 +5942,8 @@
         "definition": "the act of strongly disagreeing with and criticizing your government, especially in a country where this kind of action is dangerous",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "despot",
@@ -5811,7 +5966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "dissident",
@@ -5830,7 +5986,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "disenfranchise",
@@ -5853,7 +6010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "dog whistle",
@@ -5885,7 +6043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "dissident",
@@ -5912,7 +6071,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "egalitarianism",
@@ -5931,7 +6091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "divine right",
@@ -5959,7 +6120,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "economy",
@@ -6084,7 +6246,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "domestic",
@@ -6178,7 +6341,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "elective",
@@ -6235,7 +6399,8 @@
         "definition": "that a student can choose",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "electioneering",
@@ -6249,7 +6414,8 @@
         "definition": "the activity of making speeches and visiting people to try to persuade them to vote for a particular politician or political party in an election",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "elector",
@@ -6276,7 +6442,8 @@
         "definition": "a member of the Electoral College",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "electoral",
@@ -6295,7 +6462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "electoral college",
@@ -6318,7 +6486,8 @@
         "definition": "a group of people who are chosen to represent the members of a political party, etc. in the election of a leader",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "dirty trick",
@@ -6346,7 +6515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "elect",
@@ -6402,7 +6572,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "embassy",
@@ -6434,7 +6605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "enfranchise",
@@ -6448,7 +6620,8 @@
         "definition": "to give somebody the right to vote in an election",
         "examples": []
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "egalitarian",
@@ -6467,7 +6640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "election",
@@ -6551,7 +6725,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "electable",
@@ -6570,7 +6745,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "electorate",
@@ -6597,7 +6773,8 @@
         "definition": "a district that elects its own representative to parliament",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "enfranchisement",
@@ -6616,7 +6793,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "European Union",
@@ -6630,7 +6808,8 @@
         "definition": "an economic and political organization, based in Brussels, that many European countries belong to",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "executive branch",
@@ -6644,7 +6823,8 @@
         "definition": "(in the US) the part of the government that is controlled by the president",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "egalitarian",
@@ -6667,7 +6847,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "executive order",
@@ -6686,7 +6867,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "EU",
@@ -6713,7 +6895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "expansionist",
@@ -6732,7 +6915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "expansionism",
@@ -6755,7 +6939,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "entente",
@@ -6774,7 +6959,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "exit poll",
@@ -6788,7 +6974,8 @@
         "definition": "in an exit poll immediately after an election, people are asked how they voted, in order to predict the result of the election",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "executive",
@@ -6845,7 +7032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "extremist",
@@ -6872,7 +7060,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "fanatic",
@@ -6904,7 +7093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "exile",
@@ -6952,7 +7142,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "extremist",
@@ -6975,7 +7166,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "fanaticism",
@@ -6998,7 +7190,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "executive privilege",
@@ -7012,7 +7205,8 @@
         "definition": "(in the US) the right of the president and the executive part of the government to keep official documents secret",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "fanatical",
@@ -7056,7 +7250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "expansionist",
@@ -7075,7 +7270,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "extremism",
@@ -7098,7 +7294,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "federal",
@@ -7130,7 +7327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "federalist",
@@ -7149,7 +7347,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "fascist",
@@ -7176,7 +7375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "fanatically",
@@ -7204,7 +7404,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "fascist",
@@ -7231,7 +7432,8 @@
         "definition": "an offensive way to describe somebody that you think is bad because they have right-wing attitudes",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "fellow traveller",
@@ -7254,7 +7456,8 @@
         "definition": "a person who agrees with the aims of a political party, especially the Communist party, but is not a member of it",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "fascism",
@@ -7277,7 +7480,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "federalist",
@@ -7291,7 +7495,8 @@
         "definition": "a supporter of a federal system of government",
         "examples": []
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "federalism",
@@ -7310,7 +7515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "feudal",
@@ -7329,7 +7535,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "feudalism",
@@ -7343,7 +7550,8 @@
         "definition": "the social system that existed during the Middle Ages in Europe in which people were given land and protection by a nobleman, and had to work and fight for him in return",
         "examples": []
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "first-past-the-post",
@@ -7357,7 +7565,8 @@
         "definition": "in which only the person who gets the most votes is elected",
         "examples": []
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "floating voter",
@@ -7371,7 +7580,8 @@
         "definition": "a person who does not always vote for the same political party or who has not decided which party to vote for in an election",
         "examples": []
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "FLOTUS",
@@ -7390,7 +7600,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "front bench",
@@ -7417,7 +7628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "free trade",
@@ -7436,7 +7648,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "foreign",
@@ -7526,7 +7739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "federally",
@@ -7554,7 +7768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "Foreign, Commonwealth and Development Office",
@@ -7573,7 +7788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "franchise",
@@ -7643,7 +7859,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "Foreign Secretary",
@@ -7657,7 +7874,8 @@
         "definition": "the British government minister in charge of the department that deals with relations with other countries (= the Foreign and Commonwealth Office)",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "Foreign Service",
@@ -7671,7 +7889,8 @@
         "definition": "the government department concerned with representing a country in foreign countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "federal government",
@@ -7685,7 +7904,8 @@
         "definition": "the system of government as defined in the Constitution which is based on the separation of powers among three branches: the executive branch, the legislative branch and the judicial branch. This system provides a series of checks and balances because each branch is able to limit the power of the others.",
         "examples": []
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "geopolitics",
@@ -7704,7 +7924,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "geopolitical",
@@ -7723,7 +7944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "globalism",
@@ -7742,7 +7964,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "globalist",
@@ -7761,7 +7984,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "globalization",
@@ -7775,7 +7999,8 @@
         "definition": "the fact that different cultures and economic systems around the world are becoming connected and similar to each other because of the influence of large multinational companies and of improved communication",
         "examples": []
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "federation",
@@ -7812,7 +8037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "good-neighbourliness",
@@ -7826,7 +8052,8 @@
         "definition": "good relations that exist between people who live in the same area or between countries that are near each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "govern",
@@ -7870,7 +8097,8 @@
         "definition": "if a word governs another word or phrase, it affects how that word or phrase is formed or used",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "general election",
@@ -7884,7 +8112,8 @@
         "definition": "an election in which all the adults of a country can vote to choose people to represent them in parliament",
         "examples": []
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "green",
@@ -7970,7 +8199,8 @@
         "definition": "the Green Party (= the party whose main aim is the protection of the environment)",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "government",
@@ -8091,7 +8321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "frontier",
@@ -8148,7 +8379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "hard power",
@@ -8167,7 +8399,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "hard right",
@@ -8190,7 +8423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "Home Office",
@@ -8209,7 +8443,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "globalist",
@@ -8228,7 +8463,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "hard left",
@@ -8251,7 +8487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "Home Secretary",
@@ -8265,7 +8502,8 @@
         "definition": "the British government minister in charge of the Home Office",
         "examples": []
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "Houses of Parliament",
@@ -8279,7 +8517,8 @@
         "definition": "the Parliament that consists of both the House of Commons and the House of Lords; the buildings in London where the British Parliament meets",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "governor",
@@ -8349,7 +8588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "identity politics",
@@ -8372,7 +8612,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "House of Lords",
@@ -8395,7 +8636,8 @@
         "definition": "the building where members of the House of Lords meet",
         "examples": []
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "ideal",
@@ -8435,7 +8677,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "green",
@@ -8535,7 +8778,8 @@
         "definition": "very jealous (= angry or unhappy because you wish you had something that somebody else has )",
         "examples": []
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "idealism",
@@ -8562,7 +8806,8 @@
         "definition": "the belief that our ideas are the only things that are real and that we can know about",
         "examples": []
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "hustings",
@@ -8590,7 +8835,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "imperialist",
@@ -8622,7 +8868,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "House of Commons",
@@ -8645,7 +8892,8 @@
         "definition": "the building where the members of the House of Commons meet",
         "examples": []
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "ideologue",
@@ -8659,7 +8907,8 @@
         "definition": "a person whose actions are influenced by belief in a set of principles (= by an ideology)",
         "examples": []
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "human right",
@@ -8702,7 +8951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "ideological",
@@ -8729,7 +8979,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "House of Representatives",
@@ -8748,7 +8999,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "ideology",
@@ -8780,7 +9032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "inaugurate",
@@ -8825,7 +9078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "ideologically",
@@ -8848,7 +9102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "inaugural",
@@ -8879,7 +9134,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "inaugural",
@@ -8898,7 +9154,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "independent",
@@ -8926,7 +9183,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "imperialism",
@@ -8954,7 +9212,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "Inauguration Day",
@@ -8968,7 +9227,8 @@
         "definition": "(in the US) 20 January, officially the first day of a new President’s period of office",
         "examples": []
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "independence",
@@ -9013,7 +9273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "inauguration",
@@ -9045,7 +9306,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "incoming",
@@ -9081,7 +9343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "independent",
@@ -9235,7 +9498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "imperialist",
@@ -9249,7 +9513,8 @@
         "definition": "a person, such as a politician, who supports imperialism",
         "examples": []
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "international law",
@@ -9276,7 +9541,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "internationally",
@@ -9307,7 +9573,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "internationalist",
@@ -9326,7 +9593,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "international",
@@ -9402,7 +9670,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "internationalism",
@@ -9416,7 +9685,8 @@
         "definition": "the belief that countries should work together in a friendly way",
         "examples": []
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "isolationism",
@@ -9430,7 +9700,8 @@
         "definition": "the policy of not becoming involved in the affairs of other countries or groups",
         "examples": []
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "interest group",
@@ -9449,7 +9720,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "interventionist",
@@ -9468,7 +9740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "interventionist",
@@ -9487,7 +9760,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "internationalist",
@@ -9510,7 +9784,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "intergovernmental",
@@ -9529,7 +9804,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "kleptocracy",
@@ -9561,7 +9837,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "isolationist",
@@ -9580,7 +9857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "interventionism",
@@ -9594,7 +9872,8 @@
         "definition": "the policy or practice of a government influencing the economy of its own country, or of becoming involved in the affairs of other countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "isolationist",
@@ -9613,7 +9892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "Labour Party",
@@ -9636,7 +9916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "labour",
@@ -9752,7 +10033,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "kleptocratic",
@@ -9771,7 +10053,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "leader",
@@ -9839,7 +10122,8 @@
         "definition": "an important article in a newspaper that expresses the editor's opinion about an item of news or an issue; in the US also a comment on radio or television that expresses the opinion of the station or network",
         "examples": []
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "lawful",
@@ -9866,7 +10150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "Lab.",
@@ -9880,7 +10165,8 @@
         "definition": "Labour",
         "examples": []
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "king",
@@ -9949,7 +10235,8 @@
         "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "Leader of the Opposition",
@@ -9963,7 +10250,8 @@
         "definition": "the leader of the largest political party opposing the government in the British House of Commons, who is also in charge of the Shadow Cabinet",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "landslide",
@@ -9999,7 +10287,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "leaver",
@@ -10027,7 +10316,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "leftist",
@@ -10046,7 +10336,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "leadership",
@@ -10119,7 +10410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "leftism",
@@ -10133,7 +10425,8 @@
         "definition": "support for left-wing political parties and their ideas",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "league",
@@ -10231,7 +10524,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "left-wing",
@@ -10250,7 +10544,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "left-winger",
@@ -10273,7 +10568,8 @@
         "definition": "a person who plays on the left side of the field in a sports game",
         "examples": []
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "judicial branch",
@@ -10292,7 +10588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "left wing",
@@ -10319,7 +10616,8 @@
         "definition": "an attacking player or position on the left side of the field in a sports game",
         "examples": []
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "legislative",
@@ -10342,7 +10640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "legislate",
@@ -10381,7 +10680,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "left",
@@ -10508,7 +10808,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "legislative branch",
@@ -10527,7 +10828,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "Leninism",
@@ -10541,7 +10843,8 @@
         "definition": "the political and economic policies of Lenin, the first leader of the Soviet Union, which were based on Marxism",
         "examples": []
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "Leader of the House",
@@ -10555,7 +10858,8 @@
         "definition": "a member of the government who is responsible for deciding what is discussed in Parliament",
         "examples": []
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "legislator",
@@ -10578,7 +10882,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "Leninist",
@@ -10592,7 +10897,8 @@
         "definition": "supporting or connected with Leninism",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "law",
@@ -10917,7 +11223,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "Leninist",
@@ -10931,7 +11238,8 @@
         "definition": "a person who supports Leninism",
         "examples": []
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "legislature",
@@ -10954,7 +11262,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "leftist",
@@ -10968,7 +11277,8 @@
         "definition": "a person who supports left-wing political parties and their ideas",
         "examples": []
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "legislation",
@@ -11008,7 +11318,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "libertarian",
@@ -11022,7 +11333,8 @@
         "definition": "a person who believes that personal and economic freedom should only be subject to a minimum level of control by the government",
         "examples": []
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "liberal",
@@ -11134,7 +11446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "liberalism",
@@ -11148,7 +11461,8 @@
         "definition": "liberal opinions and beliefs, especially in politics",
         "examples": []
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "line-item veto",
@@ -11167,7 +11481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "lobby",
@@ -11190,7 +11505,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "Liberal Democrats",
@@ -11204,7 +11520,8 @@
         "definition": "one of the main British political parties, in favour of some political and social change, but not extreme",
         "examples": []
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "lobby",
@@ -11253,7 +11570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "majority whip",
@@ -11272,7 +11590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "manifesto",
@@ -11295,7 +11614,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "mandate",
@@ -11357,7 +11677,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "libertarian",
@@ -11376,7 +11697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "Marxist",
@@ -11390,7 +11712,8 @@
         "definition": "a person who follows the political and economic theories of Karl Marx",
         "examples": []
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "mainstream",
@@ -11413,7 +11736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "mass",
@@ -11551,7 +11875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "Marxist",
@@ -11574,7 +11899,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "majority",
@@ -11672,7 +11998,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "militarist",
@@ -11691,7 +12018,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "Lib Dem",
@@ -11710,7 +12038,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "marginal",
@@ -11781,7 +12110,8 @@
         "definition": "that cannot produce enough good crops to make a profit",
         "examples": []
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "Member of Parliament",
@@ -11800,7 +12130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "Marxism",
@@ -11814,7 +12145,8 @@
         "definition": "the political and economic theories of Karl Marx (1818–83) which explain the changes and developments in society as the result of opposition between the social classes",
         "examples": []
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "militarism",
@@ -11828,7 +12160,8 @@
         "definition": "the belief that a country should have great military strength in order to be powerful",
         "examples": []
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "militaristic",
@@ -11847,7 +12180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "ministry",
@@ -11888,7 +12222,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "marginal",
@@ -11907,7 +12242,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "monarch",
@@ -11934,7 +12270,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "Member of Congress",
@@ -11953,7 +12290,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "moderate",
@@ -12010,7 +12348,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "mayor",
@@ -12037,7 +12376,8 @@
         "definition": "(in England, Wales and Northern Ireland) the head of a town, borough or county council, chosen by other members of the council to represent them at official ceremonies, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "minority government",
@@ -12051,7 +12391,8 @@
         "definition": "a government that has fewer seats in parliament than the total number held by all the other parties",
         "examples": []
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "minister",
@@ -12115,7 +12456,8 @@
         "definition": "a person, lower in rank than an ambassador, whose job is to represent their government in a foreign country",
         "examples": []
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "monarchy",
@@ -12155,7 +12497,8 @@
         "definition": "the king or queen of a country and their family",
         "examples": []
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "MP",
@@ -12190,7 +12533,8 @@
         "definition": "a member of the military police",
         "examples": []
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "ministerial",
@@ -12217,7 +12561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "municipality",
@@ -12236,7 +12581,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "movement",
@@ -12394,7 +12740,8 @@
         "definition": "an act of emptying waste material from the bowels; the waste material that is emptied",
         "examples": []
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "multilateralism",
@@ -12408,7 +12755,8 @@
         "definition": "the policy of trying to make multilateral agreements in order to achieve nuclear disarmament",
         "examples": []
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "multilateral",
@@ -12439,7 +12787,8 @@
         "definition": "having many sides or parts",
         "examples": []
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "moderate",
@@ -12453,7 +12802,8 @@
         "definition": "a person who has opinions, especially about politics, that are not extreme",
         "examples": []
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "nationalistic",
@@ -12467,7 +12817,8 @@
         "definition": "loving your country very much and being very proud of it, so that you think that it is better than any other",
         "examples": []
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "nationalist",
@@ -12495,7 +12846,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "nativism",
@@ -12514,7 +12866,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "nationalist",
@@ -12541,7 +12894,8 @@
         "definition": "a person who loves their country very much and is very proud of it; a person who feels that their country is better than any other",
         "examples": []
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "NATO",
@@ -12555,7 +12909,8 @@
         "definition": "North Atlantic Treaty Organization. NATO is an organization to which many European countries and the US and Canada belong. They agree to give each other military help if necessary.",
         "examples": []
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "neoconservative",
@@ -12569,7 +12924,8 @@
         "definition": "relating to political, economic, religious, etc. beliefs that return to traditional conservative views in a slightly changed form",
         "examples": []
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "neoconservative",
@@ -12583,7 +12939,8 @@
         "definition": "a person who has political, economic, religious, etc. beliefs that return to traditional conservative views in a slightly changed form",
         "examples": []
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "national convention",
@@ -12597,7 +12954,8 @@
         "definition": "a meeting held by a political party, especially in the US, to choose a candidate to take part in the election for President",
         "examples": []
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "nationalism",
@@ -12625,7 +12983,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "negotiate",
@@ -12686,7 +13045,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "neoliberal",
@@ -12700,7 +13060,8 @@
         "definition": "relating to a type of liberalism that believes in a global free market, without government regulation, with businesses and industry controlled and run for profit by private owners",
         "examples": []
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "neocolonialism",
@@ -12714,7 +13075,8 @@
         "definition": "the use of economic or political pressure by powerful countries to control or influence other countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "nominate",
@@ -12771,7 +13133,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "non-violence",
@@ -12794,7 +13157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "non-violent",
@@ -12826,7 +13190,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "negotiation",
@@ -12877,7 +13242,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "nomination",
@@ -12908,7 +13274,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "non-aggression",
@@ -12931,7 +13298,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "non-intervention",
@@ -12950,7 +13318,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "non-partisan",
@@ -12977,7 +13346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "non-interventionism",
@@ -12991,7 +13361,8 @@
         "definition": "the policy or practice of not becoming involved in other people's disagreements, especially those of foreign countries; the belief that this should happen",
         "examples": []
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "outgoing",
@@ -13044,7 +13415,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "neoliberalism",
@@ -13063,7 +13435,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "oligarch",
@@ -13086,7 +13459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "opposition",
@@ -13244,7 +13618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "overall majority",
@@ -13267,7 +13642,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "non-interventionist",
@@ -13286,7 +13662,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "one-party",
@@ -13309,7 +13686,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "PAC",
@@ -13323,7 +13701,8 @@
         "definition": "political action committee",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "off year",
@@ -13337,7 +13716,8 @@
         "definition": "a year in which there are no important elections, especially no election for president",
         "examples": []
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "oligarchy",
@@ -13364,7 +13744,8 @@
         "definition": "a country governed by an oligarchy",
         "examples": []
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "office",
@@ -13524,7 +13905,8 @@
         "definition": "with somebody’s help",
         "examples": []
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "pacifist",
@@ -13538,7 +13920,8 @@
         "definition": "a person who believes that war and violence are always wrong and refuses to fight in a war",
         "examples": []
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "pacifist",
@@ -13557,7 +13940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "parliamentary",
@@ -13580,7 +13964,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "pairing",
@@ -13603,7 +13988,8 @@
         "definition": "(in the British Parliament) the practice of an MP agreeing with an MP of a different party that neither of them will vote in a debate so that they do not need to attend the debate",
         "examples": []
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "parliamentarian",
@@ -13617,7 +14003,8 @@
         "definition": "a member of a parliament, especially one with a lot of skill and experience",
         "examples": []
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "party list",
@@ -13636,7 +14023,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "party",
@@ -13764,7 +14152,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "partition",
@@ -13796,7 +14185,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "parliamentary privilege",
@@ -13815,7 +14205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "party politics",
@@ -13842,7 +14233,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "pacifism",
@@ -13856,7 +14248,8 @@
         "definition": "the belief that war and violence are always wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "party political",
@@ -13875,7 +14268,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "party line",
@@ -13902,7 +14296,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "pentagon",
@@ -13925,7 +14320,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "people power",
@@ -13948,7 +14344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "parliament",
@@ -14029,7 +14426,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "party political broadcast",
@@ -14043,7 +14441,8 @@
         "definition": "a short broadcast on radio or television made by a political party to try to persuade people to vote for it, for example, in a general election",
         "examples": []
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "policymaking",
@@ -14066,7 +14465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "police state",
@@ -14085,7 +14485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "passage",
@@ -14196,7 +14597,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "policymaker",
@@ -14215,7 +14617,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "pass",
@@ -14652,7 +15055,8 @@
         "definition": "to urinate",
         "examples": []
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "policy",
@@ -14741,7 +15145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "passing",
@@ -14795,7 +15200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "political action committee",
@@ -14809,7 +15215,8 @@
         "definition": "(in the US) a group of people who collect money to support the candidates and policies that will help them achieve their political and social aims",
         "examples": []
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "political geography",
@@ -14823,7 +15230,8 @@
         "definition": "the way in which the world is divided into different countries, especially as a subject of study",
         "examples": []
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "political capital",
@@ -14846,7 +15254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "platform",
@@ -14963,7 +15372,8 @@
         "definition": "the open part at the back of a double-decker bus where you get on or off",
         "examples": []
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "politically",
@@ -14990,7 +15400,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "PM",
@@ -15018,7 +15429,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "political scientist",
@@ -15032,7 +15444,8 @@
         "definition": "an expert in political science",
         "examples": []
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "polling booth",
@@ -15046,7 +15459,8 @@
         "definition": "a small place in a polling station, separated from the surrounding area, where people vote by marking a card, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "polling station",
@@ -15065,7 +15479,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "politics",
@@ -15172,7 +15587,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "political",
@@ -15262,7 +15678,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "popular vote",
@@ -15290,7 +15707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "polling",
@@ -15313,7 +15731,8 @@
         "definition": "the act of asking questions as part of an opinion poll",
         "examples": []
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "politician",
@@ -15361,7 +15780,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "polling day",
@@ -15380,7 +15800,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "political science",
@@ -15394,7 +15815,8 @@
         "definition": "the study of government and politics",
         "examples": []
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "poll",
@@ -15455,7 +15877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "populism",
@@ -15469,7 +15892,8 @@
         "definition": "a type of politics that claims to represent the opinions and wishes of ordinary people",
         "examples": []
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "postal vote",
@@ -15483,7 +15907,8 @@
         "definition": "a vote in an election that you can send when you cannot be present",
         "examples": []
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "power grab",
@@ -15502,7 +15927,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "populist",
@@ -15521,7 +15947,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "premier",
@@ -15544,7 +15971,8 @@
         "definition": "(in Canada) the first minister of a province or territory",
         "examples": []
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "president",
@@ -15621,7 +16049,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "press gallery",
@@ -15635,7 +16064,8 @@
         "definition": "an area in a parliament building or a court for journalists to sit in",
         "examples": []
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "power politics",
@@ -15662,7 +16092,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "power",
@@ -16044,7 +16475,8 @@
         "definition": "to win an election by a large number of votes; to make somebody win an election with a large number of votes",
         "examples": []
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "populist",
@@ -16063,7 +16495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "POTUS",
@@ -16086,7 +16519,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "prorogue",
@@ -16105,7 +16539,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "pressure group",
@@ -16124,7 +16559,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "proportional representation",
@@ -16138,7 +16574,8 @@
         "definition": "a system that gives each party in an election a number of seats in relation to the number of votes its candidates receive",
         "examples": []
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "propaganda",
@@ -16161,7 +16598,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "prime minister",
@@ -16180,7 +16618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "psephologist",
@@ -16194,7 +16633,8 @@
         "definition": "a person who studies how people vote in elections",
         "examples": []
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "primary",
@@ -16225,7 +16665,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "pro-",
@@ -16244,7 +16685,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "protest vote",
@@ -16272,7 +16714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "proposition",
@@ -16335,7 +16778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "psephology",
@@ -16349,7 +16793,8 @@
         "definition": "the study of how people vote in elections",
         "examples": []
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "push poll",
@@ -16368,7 +16813,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "push polling",
@@ -16387,7 +16833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "radical",
@@ -16456,7 +16903,8 @@
         "definition": "very good",
         "examples": []
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "radicalism",
@@ -16470,7 +16918,8 @@
         "definition": "belief in radical ideas and principles, especially on political and social issues",
         "examples": []
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "ranked choice",
@@ -16489,7 +16938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "rainbow coalition",
@@ -16503,7 +16953,8 @@
         "definition": "a political group formed by different parties who agree to work together, especially one that includes one or more very small parties",
         "examples": []
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "queen",
@@ -16610,7 +17061,8 @@
         "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "rapprochement",
@@ -16633,7 +17085,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "rally",
@@ -16699,7 +17152,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "reactionary",
@@ -16722,7 +17176,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "radical",
@@ -16745,7 +17200,8 @@
         "definition": "a group of atoms that behave as a single unit in a number of compounds",
         "examples": []
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "reactionary",
@@ -16759,7 +17215,8 @@
         "definition": "a person who is opposed to political or social change",
         "examples": []
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "red",
@@ -16908,7 +17365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "red",
@@ -16986,7 +17444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "reformer",
@@ -17009,7 +17468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "reform",
@@ -17044,7 +17504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "reformist",
@@ -17067,7 +17528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "red tape",
@@ -17090,7 +17552,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "regime",
@@ -17131,7 +17594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "regime change",
@@ -17154,7 +17618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "relation",
@@ -17251,7 +17716,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "relationship",
@@ -17397,7 +17863,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "recess",
@@ -17464,7 +17931,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "reform",
@@ -17504,7 +17972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "Rep.",
@@ -17522,7 +17991,8 @@
         "definition": "Republican",
         "examples": []
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "Remoaner",
@@ -17536,7 +18006,8 @@
         "definition": "a name for a person who believed that the UK should remain in the European Union, used by people who supported Brexit",
         "examples": []
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "repeal",
@@ -17555,7 +18026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "Remainer",
@@ -17578,7 +18050,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "republic",
@@ -17601,7 +18074,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "republican",
@@ -17628,7 +18102,8 @@
         "definition": "connected with or supporting the Republicans in Northern Ireland",
         "examples": []
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "representative",
@@ -17693,7 +18168,8 @@
         "definition": "(in the US) a member of the House of Representatives, the Lower House of Congress; a member of the House of Representatives in the lower house of a state parliament",
         "examples": []
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "republican",
@@ -17715,7 +18191,8 @@
         "definition": "a person from Northern Ireland who believes that Northern Ireland should be part of the Republic of Ireland and not part of the United Kingdom",
         "examples": []
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "representative",
@@ -17772,7 +18249,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "republicanism",
@@ -17791,7 +18269,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "Republican Party",
@@ -17805,7 +18284,8 @@
         "definition": "one of the two main political parties in the US, usually considered to support conservative views, and to want to limit the power of central government",
         "examples": []
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "referendum",
@@ -17828,7 +18308,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "revisionist",
@@ -17847,7 +18328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "resolution",
@@ -17934,7 +18416,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "revolution",
@@ -18003,7 +18486,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "repeal",
@@ -18022,7 +18506,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "revolt",
@@ -18065,7 +18550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "revolt",
@@ -18118,7 +18604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "revisionist",
@@ -18137,7 +18624,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "result",
@@ -18315,7 +18803,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "revolutionary",
@@ -18363,7 +18852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "rightist",
@@ -18382,7 +18872,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "right-winger",
@@ -18405,7 +18896,8 @@
         "definition": "a person who plays on the right side of the field in a sports game",
         "examples": []
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "revolutionary",
@@ -18432,7 +18924,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "right wing",
@@ -18459,7 +18952,8 @@
         "definition": "an attacking player or a position on the right side of the field in a sports game",
         "examples": []
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "right-wing",
@@ -18478,7 +18972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "rule",
@@ -18615,7 +19110,8 @@
         "definition": "to control a person or a group of people very severely",
         "examples": []
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "rule",
@@ -18824,7 +19320,8 @@
         "definition": "to follow the rules of your job in a very strict way in order to cause delay, as a form of protest against your employer or your working conditions",
         "examples": []
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "rightist",
@@ -18847,7 +19344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "ruler",
@@ -18870,7 +19368,8 @@
         "definition": "a straight narrow piece of wood, plastic or metal, marked in centimetres or inches, used for measuring or for drawing straight lines",
         "examples": []
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "safe seat",
@@ -18884,7 +19383,8 @@
         "definition": "a constituency where a particular political party has a lot of support and their candidate is unlikely to be defeated in an election",
         "examples": []
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "ruling",
@@ -18907,7 +19407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "running mate",
@@ -18926,7 +19427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "Scottish National Party",
@@ -18940,7 +19442,8 @@
         "definition": "a Scottish political party which wants Scotland to be an independent nation",
         "examples": []
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "second chamber",
@@ -18954,7 +19457,8 @@
         "definition": "one of the parts of a parliament in countries that have a parliament that is divided into two parts. In the UK it is the House of Lords and in the US it is the Senate.",
         "examples": []
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "secretary",
@@ -19032,7 +19536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "secularist",
@@ -19051,7 +19556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "senate",
@@ -19091,7 +19597,8 @@
         "definition": "(in ancient Rome) the most important council of the government; the building where the council met",
         "examples": []
       }
-    ]
+    ],
+    "id": 507
   },
   {
     "word": "run",
@@ -19709,7 +20216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 508
   },
   {
     "word": "Schengen agreement",
@@ -19723,7 +20231,8 @@
         "definition": "an agreement between some European countries to remove controls at their borders so that, for example, people can move freely from one country to another without needing to show their passports",
         "examples": []
       }
-    ]
+    ],
+    "id": 509
   },
   {
     "word": "Secretary of State",
@@ -19750,7 +20259,8 @@
         "definition": "(in the US) the head of the government department that deals with foreign affairs",
         "examples": []
       }
-    ]
+    ],
+    "id": 510
   },
   {
     "word": "secularism",
@@ -19764,7 +20274,8 @@
         "definition": "the belief that religion should not be involved in the organization of society, education, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 511
   },
   {
     "word": "senator",
@@ -19787,7 +20298,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 512
   },
   {
     "word": "shadow",
@@ -19810,7 +20322,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 513
   },
   {
     "word": "socialist",
@@ -19842,7 +20355,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 514
   },
   {
     "word": "slogan",
@@ -19869,7 +20383,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 515
   },
   {
     "word": "session",
@@ -19973,7 +20488,8 @@
         "definition": "an occasion when people meet to play music, especially Irish music, in a pub",
         "examples": []
       }
-    ]
+    ],
+    "id": 516
   },
   {
     "word": "seat",
@@ -20194,7 +20710,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 517
   },
   {
     "word": "socialism",
@@ -20217,7 +20734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 518
   },
   {
     "word": "smear",
@@ -20279,7 +20797,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 519
   },
   {
     "word": "soft money",
@@ -20302,7 +20821,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 520
   },
   {
     "word": "sit",
@@ -20567,7 +21087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 521
   },
   {
     "word": "special interest group",
@@ -20586,7 +21107,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 522
   },
   {
     "word": "smear",
@@ -20618,7 +21140,8 @@
         "definition": "a medical test in which a very small amount of tissue from a woman’s cervix is removed and examined for cancer cells",
         "examples": []
       }
-    ]
+    ],
+    "id": 523
   },
   {
     "word": "spin",
@@ -20714,7 +21237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 524
   },
   {
     "word": "spin doctor",
@@ -20733,7 +21257,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 525
   },
   {
     "word": "soft power",
@@ -20752,7 +21277,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 526
   },
   {
     "word": "self-determination",
@@ -20788,7 +21314,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 527
   },
   {
     "word": "speech",
@@ -20879,7 +21406,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 528
   },
   {
     "word": "speaker",
@@ -20978,7 +21506,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 529
   },
   {
     "word": "spokesman",
@@ -21005,7 +21534,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 530
   },
   {
     "word": "spokeswoman",
@@ -21028,7 +21558,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 531
   },
   {
     "word": "state",
@@ -21105,7 +21636,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 532
   },
   {
     "word": "statism",
@@ -21119,7 +21651,8 @@
         "definition": "a political system in which the central government controls social and economic affairs",
         "examples": []
       }
-    ]
+    ],
+    "id": 533
   },
   {
     "word": "State of the Union Address",
@@ -21133,7 +21666,8 @@
         "definition": "(in the US) a speech about the achievements and plans of the government that the President gives to Congress once a year",
         "examples": []
       }
-    ]
+    ],
+    "id": 534
   },
   {
     "word": "statist",
@@ -21147,7 +21681,8 @@
         "definition": "a person who supports a political system in which the central government controls social and economic affairs",
         "examples": []
       }
-    ]
+    ],
+    "id": 535
   },
   {
     "word": "state house",
@@ -21161,7 +21696,8 @@
         "definition": "(in the US) a building in which a state legislature (= parliament) meets",
         "examples": []
       }
-    ]
+    ],
+    "id": 536
   },
   {
     "word": "state",
@@ -21362,7 +21898,8 @@
         "definition": "the score in a sports match, especially in cricket",
         "examples": []
       }
-    ]
+    ],
+    "id": 537
   },
   {
     "word": "statesman",
@@ -21381,7 +21918,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 538
   },
   {
     "word": "spokesperson",
@@ -21404,7 +21942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 539
   },
   {
     "word": "statute law",
@@ -21418,7 +21957,8 @@
         "definition": "all the written laws of a parliament, etc. as a group",
         "examples": []
       }
-    ]
+    ],
+    "id": 540
   },
   {
     "word": "statist",
@@ -21437,7 +21977,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 541
   },
   {
     "word": "stand",
@@ -21739,7 +22280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 542
   },
   {
     "word": "statute",
@@ -21779,7 +22321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 543
   },
   {
     "word": "straw poll",
@@ -21802,7 +22345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 544
   },
   {
     "word": "summit",
@@ -21842,7 +22386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 545
   },
   {
     "word": "swing vote",
@@ -21869,7 +22414,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 546
   },
   {
     "word": "swing state",
@@ -21892,7 +22438,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 547
   },
   {
     "word": "swing voter",
@@ -21906,7 +22453,8 @@
         "definition": "a person who does not always vote for the same political party or who has not decided which party to vote for in an election",
         "examples": []
       }
-    ]
+    ],
+    "id": 548
   },
   {
     "word": "thaw",
@@ -21942,7 +22490,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 549
   },
   {
     "word": "supporter",
@@ -21982,7 +22531,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 550
   },
   {
     "word": "Tory",
@@ -22001,7 +22551,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 551
   },
   {
     "word": "town hall",
@@ -22028,7 +22579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 552
   },
   {
     "word": "Tory",
@@ -22055,7 +22607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 553
   },
   {
     "word": "thaw",
@@ -22118,7 +22671,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 554
   },
   {
     "word": "transatlantic",
@@ -22155,7 +22709,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 555
   },
   {
     "word": "support",
@@ -22318,7 +22873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 556
   },
   {
     "word": "ticket",
@@ -22484,7 +23040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 557
   },
   {
     "word": "Toryism",
@@ -22498,7 +23055,8 @@
         "definition": "the beliefs and principles of the British Conservative party",
         "examples": []
       }
-    ]
+    ],
+    "id": 558
   },
   {
     "word": "troll farm",
@@ -22517,7 +23075,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 559
   },
   {
     "word": "troll factory",
@@ -22536,7 +23095,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 560
   },
   {
     "word": "trade",
@@ -22706,7 +23266,8 @@
         "definition": "the clever ways of doing things, known and used by people who do a particular job or activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 561
   },
   {
     "word": "transnational",
@@ -22725,7 +23286,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 562
   },
   {
     "word": "unilateralism",
@@ -22739,7 +23301,8 @@
         "definition": "belief in or support of unilateral action, especially the policy of getting rid of nuclear weapons without waiting for other countries to do the same",
         "examples": []
       }
-    ]
+    ],
+    "id": 563
   },
   {
     "word": "unelected",
@@ -22758,7 +23321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 564
   },
   {
     "word": "turnout",
@@ -22790,7 +23354,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 565
   },
   {
     "word": "upper house",
@@ -22804,7 +23369,8 @@
         "definition": "one of the parts of a parliament in countries that have a parliament that is divided into two parts. In the UK it is the House of Lords and in the US it is the Senate.",
         "examples": []
       }
-    ]
+    ],
+    "id": 566
   },
   {
     "word": "tyrant",
@@ -22827,7 +23393,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 567
   },
   {
     "word": "unilateralist",
@@ -22846,7 +23413,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 568
   },
   {
     "word": "uprising",
@@ -22873,7 +23441,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 569
   },
   {
     "word": "unrest",
@@ -22896,7 +23465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 570
   },
   {
     "word": "treaty",
@@ -22927,7 +23497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 571
   },
   {
     "word": "unilateralist",
@@ -22946,7 +23517,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 572
   },
   {
     "word": "United Nations",
@@ -22965,7 +23537,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 573
   },
   {
     "word": "utopianism",
@@ -22984,7 +23557,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 574
   },
   {
     "word": "upper chamber",
@@ -22998,7 +23572,8 @@
         "definition": "one of the parts of a parliament in countries which have a parliament that is divided into two parts. In Britain it is the House of Lords and in the US it is the Senate.",
         "examples": []
       }
-    ]
+    ],
+    "id": 575
   },
   {
     "word": "utilitarianism",
@@ -23012,7 +23587,8 @@
         "definition": "the belief that the right course of action is the one that will produce the greatest happiness of the greatest number of people",
         "examples": []
       }
-    ]
+    ],
+    "id": 576
   },
   {
     "word": "utopian",
@@ -23035,7 +23611,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 577
   },
   {
     "word": "voting",
@@ -23070,7 +23647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 578
   },
   {
     "word": "utilitarian",
@@ -23097,7 +23675,8 @@
         "definition": "based on or supporting the ideas of utilitarianism",
         "examples": []
       }
-    ]
+    ],
+    "id": 579
   },
   {
     "word": "voting machine",
@@ -23116,7 +23695,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 580
   },
   {
     "word": "voter",
@@ -23139,7 +23719,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 581
   },
   {
     "word": "Westminster",
@@ -23158,7 +23739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 582
   },
   {
     "word": "whip",
@@ -23254,7 +23836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 583
   },
   {
     "word": "voting booth",
@@ -23268,7 +23851,8 @@
         "definition": "a small place in a polling station, separated from the surrounding area, where people vote by marking a card, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 584
   },
   {
     "word": "vote",
@@ -23396,7 +23980,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 585
   },
   {
     "word": "wing",
@@ -23571,7 +24156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 586
   },
   {
     "word": "whip",
@@ -23638,7 +24224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 587
   },
   {
     "word": "witch-hunt",
@@ -23657,7 +24244,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 588
   },
   {
     "word": "vote",
@@ -23788,6 +24376,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 589
   }
 ]

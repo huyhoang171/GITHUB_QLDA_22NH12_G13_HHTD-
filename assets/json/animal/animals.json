@@ -11,7 +11,8 @@
         "definition": "any animal that can live both on land and in water. Amphibians have cold blood and skin without scales. Frogs, toads and newts are all amphibians.",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "aardvark",
@@ -25,7 +26,8 @@
         "definition": "an animal from southern Africa that has a long nose and tongue and that eats insects",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "alligator",
@@ -39,7 +41,8 @@
         "definition": "a large reptile similar to a crocodile, with a long tail, hard skin and very big jaws, that lives in rivers and lakes in North and South America and China",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "angora",
@@ -62,7 +65,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "alpaca",
@@ -85,7 +89,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "Afghan hound",
@@ -99,7 +104,8 @@
         "definition": "a tall dog with long soft hair and a pointed nose",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "anteater",
@@ -113,7 +119,8 @@
         "definition": "an animal with a long nose and tongue that eats ants",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "adder",
@@ -127,7 +134,8 @@
         "definition": "a small snake, often with marks in the shape of diamonds on its back. Adders are the only poisonous snakes in Britain.",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "anaconda",
@@ -141,7 +149,8 @@
         "definition": "a large South American snake of the boa family, that wraps itself tightly around other animals to kill them before eating them",
         "examples": []
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "amphibious",
@@ -173,7 +182,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "Alsatian",
@@ -187,7 +197,8 @@
         "definition": "a large dog, often trained to help the police, to guard buildings or (especially in the US) to help blind people find their way",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "baa",
@@ -201,7 +212,8 @@
         "definition": "to make a sound like a sheep or lamb",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "ape",
@@ -224,7 +236,8 @@
         "definition": "to become extremely angry or excited",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "attack dog",
@@ -260,7 +273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "animal",
@@ -355,7 +369,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "antelope",
@@ -369,7 +384,8 @@
         "definition": "an African or Asian animal, like a deer, that runs very fast. There are many types of antelope.",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "asp",
@@ -387,7 +403,8 @@
         "definition": "a general name for various types of small poisonous snake found in North Africa",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "armadillo",
@@ -401,7 +418,8 @@
         "definition": "an American animal with a hard shell made of pieces of bone",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "badger",
@@ -415,7 +433,8 @@
         "definition": "an animal with grey fur and wide black and white lines on its head. Badgers are nocturnal (= active mostly at night) and live in holes in the ground.",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "antler",
@@ -434,7 +453,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "assistance dog",
@@ -453,7 +473,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "beagle",
@@ -467,7 +488,8 @@
         "definition": "a type of small dog with short legs, used in hunting",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "bark",
@@ -512,7 +534,8 @@
         "definition": "used to say that somebody is not really as angry or as aggressive as they sound",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "basset",
@@ -526,7 +549,8 @@
         "definition": "a dog with short legs, a long body and long ears",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "bark",
@@ -588,7 +612,8 @@
         "definition": "if somebody can do a task for you, there is no point in doing it yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "baa",
@@ -602,7 +627,8 @@
         "definition": "the sound made by a sheep or lamb",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "baboon",
@@ -616,7 +642,8 @@
         "definition": "a large African or Asian monkey with a long face like a dog’s",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "beaver",
@@ -638,7 +665,8 @@
         "definition": "the area around a woman’s sex organs",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "bilby",
@@ -652,7 +680,8 @@
         "definition": "a small Australasian animal with a long nose, a long tail and big ears",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "beast",
@@ -702,7 +731,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "bandicoot",
@@ -720,7 +750,8 @@
         "definition": "an Asian rat",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "big cat",
@@ -734,7 +765,8 @@
         "definition": "any large wild animal of the cat family. Lions, tigers and leopards are all big cats.",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "billy goat",
@@ -748,7 +780,8 @@
         "definition": "a male goat",
         "examples": []
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "behaviour",
@@ -844,7 +877,8 @@
         "definition": "to behave in the most polite way you can",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "bat",
@@ -916,7 +950,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "bear",
@@ -952,7 +987,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "bloodhound",
@@ -966,7 +1002,8 @@
         "definition": "a large dog with a very good sense of smell, used to follow or look for people",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "blackface",
@@ -984,7 +1021,8 @@
         "definition": "a type of sheep with a black face",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "boa",
@@ -1002,7 +1040,8 @@
         "definition": "a long thin piece of clothing like a scarf, made of feathers and worn over the shoulders, especially by women in the past",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "blue whale",
@@ -1016,7 +1055,8 @@
         "definition": "a type of whale that is the largest known living animal",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "bobcat",
@@ -1030,7 +1070,8 @@
         "definition": "a North American wild cat",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "bison",
@@ -1049,7 +1090,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "boa constrictor",
@@ -1063,7 +1105,8 @@
         "definition": "a large South American snake that kills animals for food by winding its long body tightly around them",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "bird dog",
@@ -1081,7 +1124,8 @@
         "definition": "a person whose job involves searching for good players for a sports team",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "bitzer",
@@ -1099,7 +1143,8 @@
         "definition": "a dog that is a mixture of different breeds (= types)",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "Border collie",
@@ -1113,7 +1158,8 @@
         "definition": "a medium-sized black and white dog, often used as a sheepdog",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "boar",
@@ -1131,7 +1177,8 @@
         "definition": "a male pig that has not been castrated",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "bitch",
@@ -1172,7 +1219,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "brood mare",
@@ -1186,7 +1234,8 @@
         "definition": "a female horse kept for producing young",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "bulldog",
@@ -1200,7 +1249,8 @@
         "definition": "a short strong dog with a large head, a short flat nose and a short thick neck",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "boxer",
@@ -1223,7 +1273,8 @@
         "definition": "a large dog with smooth hair, a short flat nose and a tail that has often been cut very short",
         "examples": []
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "buck",
@@ -1298,7 +1349,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "bull mastiff",
@@ -1312,7 +1364,8 @@
         "definition": "a large strong dog with short smooth hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "borzoi",
@@ -1326,7 +1379,8 @@
         "definition": "a large Russian dog with soft white hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "bullfrog",
@@ -1340,7 +1394,8 @@
         "definition": "a large American frog with a loud croak",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "bullock",
@@ -1354,7 +1409,8 @@
         "definition": "a young bull (= a male cow) that has been castrated (= had part of its sex organs removed)",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "burrow",
@@ -1368,7 +1424,8 @@
         "definition": "a hole or tunnel in the ground made by animals such as rabbits for them to live in",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "bull",
@@ -1461,7 +1518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "breed",
@@ -1540,7 +1598,8 @@
         "definition": "knowing somebody/something very well may cause you to lose respect for them/it",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "breed",
@@ -1576,7 +1635,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "buffalo",
@@ -1594,7 +1654,8 @@
         "definition": "a North American bison (= a large wild animal of the cow family that is covered with hair)",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "bushmaster",
@@ -1608,7 +1669,8 @@
         "definition": "a poisonous snake from Central and South America",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "bushbaby",
@@ -1622,7 +1684,8 @@
         "definition": "a small African animal with large eyes that lives in trees",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "cage",
@@ -1650,7 +1713,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "caiman",
@@ -1664,7 +1728,8 @@
         "definition": "a North and South American reptile similar to an alligator",
         "examples": []
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "bull terrier",
@@ -1678,7 +1743,8 @@
         "definition": "a strong dog with short hair, a thick neck and a long nose",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "canine",
@@ -1696,7 +1762,8 @@
         "definition": "a dog",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "camel",
@@ -1723,7 +1790,8 @@
         "definition": "the last in a series of bad events, etc. that makes it impossible for you to accept a situation any longer",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "camouflage",
@@ -1776,7 +1844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "calico cat",
@@ -1790,7 +1859,8 @@
         "definition": "a cat with black, brown, orange and white fur",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "calf",
@@ -1834,7 +1904,8 @@
         "definition": "pregnant",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "canter",
@@ -1862,7 +1933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "bunny",
@@ -1898,7 +1970,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "calve",
@@ -1925,7 +1998,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "capybara",
@@ -1939,7 +2013,8 @@
         "definition": "an animal like a very large rabbit with thick legs and small ears, which lives near water in South America",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "carnivore",
@@ -1953,7 +2028,8 @@
         "definition": "any animal that eats meat",
         "examples": []
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "canter",
@@ -1989,7 +2065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "chestnut",
@@ -2028,7 +2105,8 @@
         "definition": "an old joke or story that has been told so many times that it is no longer funny or interesting",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "carthorse",
@@ -2042,7 +2120,8 @@
         "definition": "a large strong horse used especially in the past for heavy work on farms",
         "examples": []
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "cattle",
@@ -2073,7 +2152,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "cat",
@@ -2230,7 +2310,8 @@
         "definition": "people enjoy themselves more and behave with greater freedom when the person in charge of them is not there",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "cheetah",
@@ -2244,7 +2325,8 @@
         "definition": "a wild animal of the cat family that has black spots and that runs very fast",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "chamois",
@@ -2266,7 +2348,8 @@
         "definition": "a type of soft thick cotton cloth, used especially for making shirts",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "cayman",
@@ -2280,7 +2363,8 @@
         "definition": "a North and South American reptile similar to an alligator",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "chipmunk",
@@ -2294,7 +2378,8 @@
         "definition": "a small North American animal of the squirrel family, with light and dark marks on its back",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "chameleon",
@@ -2312,7 +2397,8 @@
         "definition": "a person who changes their behaviour or opinions according to the situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "chinchilla",
@@ -2330,7 +2416,8 @@
         "definition": "the skin and fur of the chinchilla, used for making expensive coats, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "chihuahua",
@@ -2344,7 +2431,8 @@
         "definition": "a very small dog with smooth hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "civet",
@@ -2362,7 +2450,8 @@
         "definition": "a substance with a strong smell, obtained from a civet, and used in making perfume",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "chimpanzee",
@@ -2376,7 +2465,8 @@
         "definition": "a small intelligent African ape (= an animal like a large monkey without a tail)",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "claw",
@@ -2435,7 +2525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "coati",
@@ -2449,7 +2540,8 @@
         "definition": "a small animal with a long nose and a long tail with lines across it, which lives mainly in Central and South America",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "cold-blooded",
@@ -2476,7 +2568,8 @@
         "definition": "having a body temperature that depends on the temperature of the surrounding air or water",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "class",
@@ -2678,7 +2771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "cobra",
@@ -2692,7 +2786,8 @@
         "definition": "a poisonous snake that can spread the skin at the back of its neck to make itself look bigger. Cobras live in Asia and Africa.",
         "examples": []
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "cloven hoof",
@@ -2706,7 +2801,8 @@
         "definition": "the foot of an animal such as a cow, a sheep, or a goat, that is divided into two parts",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "colony",
@@ -2772,7 +2868,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "coat",
@@ -2854,7 +2951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "collie",
@@ -2868,7 +2966,8 @@
         "definition": "a dog of which there are several types. One type has a long pointed nose and long thick hair and is popular as a pet. A smaller type of collie with shorter hair is often trained to help control sheep on a farm.",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "cocker",
@@ -2882,7 +2981,8 @@
         "definition": "a small spaniel (= type of dog) with soft hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "copperhead",
@@ -2896,7 +2996,8 @@
         "definition": "one of several types of poisonous snake that are brown in colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "cougar",
@@ -2914,7 +3015,8 @@
         "definition": "an older woman who seeks a sexual relationship with a much younger man",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "colt",
@@ -2936,7 +3038,8 @@
         "definition": "a type of small gun",
         "examples": []
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "cottonmouth",
@@ -2950,7 +3053,8 @@
         "definition": "a poisonous snake that lives near water in the US",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "corgi",
@@ -2964,7 +3068,8 @@
         "definition": "a small dog with short legs and a pointed nose",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "coral snake",
@@ -2978,7 +3083,8 @@
         "definition": "a brightly coloured poisonous snake, often with bands of red, yellow, white and black",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "coyote",
@@ -2992,7 +3098,8 @@
         "definition": "a North American wild animal of the dog family",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "croak",
@@ -3037,7 +3144,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "cross-breed",
@@ -3056,7 +3164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "coypu",
@@ -3070,7 +3179,8 @@
         "definition": "a large South American animal, like a beaver, that lives near water",
         "examples": []
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "creature",
@@ -3122,7 +3232,8 @@
         "definition": "a person or thing that depends completely on somebody else and is controlled by them",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "cub",
@@ -3154,7 +3265,8 @@
         "definition": "a member of the Cubs",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "croak",
@@ -3181,7 +3293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "cow",
@@ -3238,7 +3351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "crocodile",
@@ -3279,7 +3393,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "dachshund",
@@ -3293,7 +3408,8 @@
         "definition": "a small dog with a long body, long ears and very short legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "croc",
@@ -3307,7 +3423,8 @@
         "definition": "a crocodile (= a large reptile with a long tail, hard skin and very big jaws. Crocodiles live in rivers and lakes in hot countries.)",
         "examples": []
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "die out",
@@ -3326,7 +3443,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "den",
@@ -3396,7 +3514,8 @@
         "definition": "to go to see an important or powerful person to tell them that you disagree with them, that you want something, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "deerhound",
@@ -3410,7 +3529,8 @@
         "definition": "a large dog with rough hair, similar to a greyhound",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "deer",
@@ -3433,7 +3553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "Dalmatian",
@@ -3447,7 +3568,8 @@
         "definition": "a large dog that has short white hair with black spots",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "cull",
@@ -3461,7 +3583,8 @@
         "definition": "to kill a number of wild animals from a group, especially in order to stop the group from becoming too large",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "cur",
@@ -3475,7 +3598,8 @@
         "definition": "an aggressive dog, especially a mongrel",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "dingo",
@@ -3489,7 +3613,8 @@
         "definition": "a wild Australian dog",
         "examples": []
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "dinosaur",
@@ -3507,7 +3632,8 @@
         "definition": "a person or thing that is old-fashioned and cannot change in the changing conditions of modern life",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "dog",
@@ -3744,7 +3870,8 @@
         "definition": "if somebody can do a task for you, there is no point in doing it yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "doe",
@@ -3758,7 +3885,8 @@
         "definition": "a female deer; a female of some other animals, including rabbits and hares",
         "examples": []
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "domesticated",
@@ -3803,7 +3931,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "donkey",
@@ -3838,7 +3967,8 @@
         "definition": "to talk too much, especially about things that are boring or not important",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "dormouse",
@@ -3852,7 +3982,8 @@
         "definition": "a small animal like a mouse, with a tail covered in fur",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "domesticate",
@@ -3889,7 +4020,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "dolphin",
@@ -3908,7 +4040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "dolphinarium",
@@ -3922,7 +4055,8 @@
         "definition": "a building with a pool where people can go to see dolphins, especially ones who have been trained to do tricks",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "dogie",
@@ -3936,7 +4070,8 @@
         "definition": "a young cow that has lost its mother",
         "examples": []
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "domestic",
@@ -4030,7 +4165,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "duck-billed platypus",
@@ -4044,7 +4180,8 @@
         "definition": "an Australian animal that is covered in fur and has a beak like a duck, webbed feet (= with skin between the toes) and a flat tail. Platypuses lay eggs but give milk to their young.",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "endangered",
@@ -4071,7 +4208,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "echidna",
@@ -4085,7 +4223,8 @@
         "definition": "an Australasian insect-eating animal that has a long nose, sharp claws on its feet, and sharp spines on its body",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "elkhound",
@@ -4099,7 +4238,8 @@
         "definition": "a large dog used for hunting, with rough long grey hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "dromedary",
@@ -4113,7 +4253,8 @@
         "definition": "an animal of the camel family, with only one hump, that lives in desert countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "dugong",
@@ -4127,7 +4268,8 @@
         "definition": "a large sea animal with thick grey skin that lives mainly in the Indian Ocean and eats plants",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "elephant",
@@ -4171,7 +4313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "elk",
@@ -4193,7 +4336,8 @@
         "definition": "a member of the Benevolent and Protective Order of Elks, a US social organization that gives money to charity",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "drey",
@@ -4207,7 +4351,8 @@
         "definition": "the home of a squirrel",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "drove",
@@ -4238,7 +4383,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "extinct",
@@ -4290,7 +4436,8 @@
         "definition": "no longer active",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "ewe",
@@ -4304,7 +4451,8 @@
         "definition": "a female sheep",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "family",
@@ -4521,7 +4669,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "fang",
@@ -4544,7 +4693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "fauna",
@@ -4567,7 +4717,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "extinction",
@@ -4614,7 +4765,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "farrow",
@@ -4632,7 +4784,8 @@
         "definition": "an act of giving birth to pigs",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "fawn",
@@ -4650,7 +4803,8 @@
         "definition": "a light yellow-brown colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "endoskeleton",
@@ -4664,7 +4818,8 @@
         "definition": "the bones inside the body of an animal that give it shape and support",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "farrow",
@@ -4678,7 +4833,8 @@
         "definition": "to give birth",
         "examples": []
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "feline",
@@ -4692,7 +4848,8 @@
         "definition": "a cat; an animal of the cat family",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "fetlock",
@@ -4706,7 +4863,8 @@
         "definition": "the part at the back of a horse’s leg, just above its hoof, where long hair grows",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "feed",
@@ -4864,7 +5022,8 @@
         "definition": "to eat a lot of food or too much food",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "flipper",
@@ -4887,7 +5046,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "filly",
@@ -4901,7 +5061,8 @@
         "definition": "a young female horse, especially one that is less than 4 years old",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "ferret",
@@ -4915,7 +5076,8 @@
         "definition": "a small aggressive animal with a long thin body, kept for catching rabbits, killing rats, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "fluff",
@@ -4947,7 +5109,8 @@
         "definition": "entertainment that is not serious and is not considered to have great value",
         "examples": []
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "foal",
@@ -4965,7 +5128,8 @@
         "definition": "pregnant",
         "examples": []
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "fleece",
@@ -4992,7 +5156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "flock",
@@ -5054,7 +5219,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "flying fox",
@@ -5068,7 +5234,8 @@
         "definition": "a large bat (= an animal like a mouse with wings) that lives in hot countries and eats fruit",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "flank",
@@ -5109,7 +5276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "flying squirrel",
@@ -5123,7 +5291,8 @@
         "definition": "a small animal like a squirrel that travels through the air between trees, spreading out the skin between its front and back legs to stop itself from falling too quickly",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "foreleg",
@@ -5137,7 +5306,8 @@
         "definition": "either of the two front legs of an animal that has four legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "forefoot",
@@ -5151,7 +5321,8 @@
         "definition": "either of the two front feet of an animal that has four feet",
         "examples": []
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "fox",
@@ -5182,7 +5353,8 @@
         "definition": "a very attractive person, usually a young woman",
         "examples": []
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "four-legged friend",
@@ -5201,7 +5373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "forelock",
@@ -5223,7 +5396,8 @@
         "definition": "to show too much respect for somebody of a higher class, especially because you are anxious about what they think of you",
         "examples": []
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "fox terrier",
@@ -5237,7 +5411,8 @@
         "definition": "a small dog with short hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "frog",
@@ -5272,7 +5447,8 @@
         "definition": "to lose your voice or be unable to speak clearly for a short time",
         "examples": []
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "foxhound",
@@ -5286,7 +5462,8 @@
         "definition": "a dog with a very good sense of smell, that is trained to hunt foxes",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "forever home",
@@ -5314,7 +5491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "froglet",
@@ -5332,7 +5510,8 @@
         "definition": "a small frog that has recently changed from being a tadpole",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "frogspawn",
@@ -5346,7 +5525,8 @@
         "definition": "an almost clear substance that looks like jelly and contains the eggs of a frog",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "Friesian",
@@ -5365,7 +5545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "fur",
@@ -5442,7 +5623,8 @@
         "definition": "a grey-white layer that forms on a person’s tongue, especially when they are ill",
         "examples": []
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "fruit bat",
@@ -5456,7 +5638,8 @@
         "definition": "a bat (= an animal like a mouse with wings) that lives in hot countries and eats fruit",
         "examples": []
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "furry",
@@ -5484,7 +5667,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "garter snake",
@@ -5498,7 +5682,8 @@
         "definition": "an American snake that is not dangerous, with coloured lines along its back",
         "examples": []
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "gallop",
@@ -5551,7 +5736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "genus",
@@ -5565,7 +5751,8 @@
         "definition": "a group into which animals, plants, etc. that have similar characteristics are divided, smaller than a family and larger than a species",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "gelding",
@@ -5579,7 +5766,8 @@
         "definition": "a horse that has been castrated",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "gerbil",
@@ -5593,7 +5781,8 @@
         "definition": "a small desert animal like a mouse, one type of which is often kept as a pet",
         "examples": []
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "gallop",
@@ -5638,7 +5827,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "gecko",
@@ -5652,7 +5842,8 @@
         "definition": "a small lizard (= a type of reptile) that lives in warm countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "genet",
@@ -5666,7 +5857,8 @@
         "definition": "a wild animal similar to a cat but with a longer tail and body and a pointed head. Genets are found in Africa, southern Europe and Asia and eat insects and small animals.",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "game",
@@ -6083,7 +6275,8 @@
         "definition": "used to ask why somebody is behaving as they are",
         "examples": []
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "German shepherd",
@@ -6097,7 +6290,8 @@
         "definition": "a large dog, often trained to help the police, to guard buildings or (especially in the US) to help blind people find their way",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "goat",
@@ -6136,7 +6330,8 @@
         "definition": "to recognize the difference between people who are good at something, intelligent, etc. and those who are not",
         "examples": []
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "giraffe",
@@ -6150,7 +6345,8 @@
         "definition": "a tall African animal with a very long neck, long legs, and dark marks on its coat",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "gibbon",
@@ -6164,7 +6360,8 @@
         "definition": "a small ape (= an animal like a large monkey without a tail) with long arms that lives in South-East Asia",
         "examples": []
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "golden retriever",
@@ -6178,7 +6375,8 @@
         "definition": "a large dog with thick yellow hair, of a type used in hunting to bring back birds that have been shot",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "giant panda",
@@ -6192,7 +6390,8 @@
         "definition": "a large black and white animal like a bear that lives in China and is very rare",
         "examples": []
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "grass snake",
@@ -6206,7 +6405,8 @@
         "definition": "a small snake that is not dangerous",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "gorilla",
@@ -6224,7 +6424,8 @@
         "definition": "a large aggressive man",
         "examples": []
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "gopher",
@@ -6246,7 +6447,8 @@
         "definition": "a person whose job is to do small boring tasks for other people, especially in an office or on a film set",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "greyhound",
@@ -6260,7 +6462,8 @@
         "definition": "a large thin dog with smooth hair and long thin legs, that can run very fast and is used in the sport of greyhound racing",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "Great Dane",
@@ -6274,7 +6477,8 @@
         "definition": "a type of very large dog with short hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "growl",
@@ -6297,7 +6501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "grunt",
@@ -6324,7 +6529,8 @@
         "definition": "a soldier of low rank",
         "examples": []
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "growl",
@@ -6356,7 +6562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "guard dog",
@@ -6370,7 +6577,8 @@
         "definition": "a dog that is kept to guard a building",
         "examples": []
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "groundhog",
@@ -6384,7 +6592,8 @@
         "definition": "a small North American animal of the squirrel family",
         "examples": []
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "grunt",
@@ -6419,7 +6628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "graze",
@@ -6502,7 +6712,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "Guernsey",
@@ -6532,7 +6743,8 @@
         "definition": "to be recognized as being good (originally meaning to be chosen for a football team)",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "hamster",
@@ -6546,7 +6758,8 @@
         "definition": "an animal like a large mouse, with large cheeks (= sides of the face) for storing food. Hamsters are often kept as pets.",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "hackles",
@@ -6578,7 +6791,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "guide dog",
@@ -6597,7 +6811,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "hart",
@@ -6611,7 +6826,8 @@
         "definition": "a male deer, especially a red deer; a stag",
         "examples": []
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "guinea pig",
@@ -6634,7 +6850,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "habitat",
@@ -6661,7 +6878,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "hare",
@@ -6679,7 +6897,8 @@
         "definition": "with crazy ideas or behaviour; very silly",
         "examples": []
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "gun dog",
@@ -6693,7 +6912,8 @@
         "definition": "a dog trained to help in the sport of shooting, for example by finding birds that have been shot",
         "examples": []
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "harem",
@@ -6715,7 +6935,8 @@
         "definition": "a group of female animals that share the same male for producing young",
         "examples": []
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "hedgehog",
@@ -6729,7 +6950,8 @@
         "definition": "a small brown animal with stiff parts like needles (called spines) covering its back. Hedgehogs are nocturnal (= active mostly at night) and can roll into a ball to defend themselves when they are attacked.",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "heifer",
@@ -6743,7 +6965,8 @@
         "definition": "a young female cow that has not yet had a calf or has had only one calf",
         "examples": []
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "hearing dog",
@@ -6757,7 +6980,8 @@
         "definition": "a dog trained to help a person who cannot hear well by making them aware of sounds such as the ringing of a phone or a doorbell",
         "examples": []
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "hindlimb",
@@ -6771,7 +6995,8 @@
         "definition": "one of the legs at the back of an animal’s body",
         "examples": []
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "hind",
@@ -6794,7 +7019,8 @@
         "definition": "to talk too much, especially about things that are boring or not important",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "hind",
@@ -6808,7 +7034,8 @@
         "definition": "a female deer, especially a red deer; a doe",
         "examples": []
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "hibernate",
@@ -6822,7 +7049,8 @@
         "definition": "to spend the winter in a state like deep sleep",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "Highland cattle",
@@ -6836,7 +7064,8 @@
         "definition": "cows of a type with long rough hair and large horns. An individual animal is a Highland cow.",
         "examples": []
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "hide",
@@ -6898,7 +7127,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "hindquarters",
@@ -6912,7 +7142,8 @@
         "definition": "the back part of an animal that has four legs, including its two back legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "herd",
@@ -6969,7 +7200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "hippopotamus",
@@ -6983,7 +7215,8 @@
         "definition": "a large heavy African animal with thick dark skin and short legs that lives in rivers and lakes",
         "examples": []
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "hippo",
@@ -6997,7 +7230,8 @@
         "definition": "a hippopotamus (= a large heavy African animal with thick dark skin and short legs that lives in rivers and lakes)",
         "examples": []
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "hock",
@@ -7032,7 +7266,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "hound dog",
@@ -7046,7 +7281,8 @@
         "definition": "(especially in the southern US) a dog used in hunting",
         "examples": []
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "hound",
@@ -7073,7 +7309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "horn",
@@ -7180,7 +7417,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "hoof",
@@ -7216,7 +7454,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "house-broken",
@@ -7230,7 +7469,8 @@
         "definition": "trained to defecate and urinate outside the house or in a special box",
         "examples": []
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "hognose snake",
@@ -7244,7 +7484,8 @@
         "definition": "an American snake that is not dangerous, with a nose that is turned up",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "hog",
@@ -7266,7 +7507,8 @@
         "definition": "to do something completely or to the highest degree",
         "examples": []
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "Holstein",
@@ -7280,7 +7522,8 @@
         "definition": "a type of black and white cow that produces a lot of milk",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "horse",
@@ -7427,7 +7670,8 @@
         "definition": "you can give somebody the opportunity to do something, but you cannot force them to do it if they do not want to",
         "examples": []
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "hump",
@@ -7509,7 +7753,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "humpback whale",
@@ -7523,7 +7768,8 @@
         "definition": "a large whale (= a very large sea animal) with a back that is like a hump in shape",
         "examples": []
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "hutch",
@@ -7541,7 +7787,8 @@
         "definition": "a large piece of wooden furniture with shelves in the top part and cupboards below, used for displaying and storing cups, plates, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "hyaena",
@@ -7555,7 +7802,8 @@
         "definition": "an African wild animal like a dog that hunts in groups or eats the meat of animals that are already dead and makes a sound like a human laugh",
         "examples": []
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "hunter",
@@ -7595,7 +7843,8 @@
         "definition": "a dog used in hunting",
         "examples": []
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "husky",
@@ -7609,7 +7858,8 @@
         "definition": "a large strong dog with thick hair, used for pulling sledges across snow",
         "examples": []
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "hyena",
@@ -7623,7 +7873,8 @@
         "definition": "an African wild animal like a dog that hunts in groups or eats the meat of animals that are already dead and makes a sound like a human laugh",
         "examples": []
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "hyrax",
@@ -7637,7 +7888,8 @@
         "definition": "an animal that looks like a rabbit but is related to the elephant and lives in desert country in Africa and Arabia",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "humpback",
@@ -7651,7 +7903,8 @@
         "definition": "a large whale (= a very large sea animal) with a back that is like a hump in shape",
         "examples": []
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "house-trained",
@@ -7665,7 +7918,8 @@
         "definition": "trained to defecate and urinate outside the house or in a special box",
         "examples": []
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "iguana",
@@ -7679,7 +7933,8 @@
         "definition": "a large tropical American lizard (= a type of reptile)",
         "examples": []
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "ibex",
@@ -7693,7 +7948,8 @@
         "definition": "a mountain goat with long curved horns",
         "examples": []
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "jackal",
@@ -7707,7 +7963,8 @@
         "definition": "a wild animal like a dog, that eats the meat of animals that are already dead and lives in Africa and Asia",
         "examples": []
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "indigenous",
@@ -7751,7 +8008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "kangaroo",
@@ -7770,7 +8028,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "jackrabbit",
@@ -7784,7 +8043,8 @@
         "definition": "a large North American hare (= an animal like a large rabbit) with very long ears",
         "examples": []
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "jaguar",
@@ -7798,7 +8058,8 @@
         "definition": "a large animal of the cat family, that has yellow-brown fur with black rings and spots. Jaguars live in parts of Central and South America.",
         "examples": []
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "jersey",
@@ -7842,7 +8103,8 @@
         "definition": "(in the US) another name for the state of New Jersey",
         "examples": []
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "kid",
@@ -7949,7 +8211,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "jaw",
@@ -8028,7 +8291,8 @@
         "definition": "to win something even though it seemed up until the last moment that you would lose",
         "examples": []
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "kennel",
@@ -8055,7 +8319,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "kinkajou",
@@ -8069,7 +8334,8 @@
         "definition": "a small animal with a very strong tail, which lives in trees in Central and South America and eats mainly fruit",
         "examples": []
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "kitten",
@@ -8091,7 +8357,8 @@
         "definition": "to be very anxious, angry or upset about something",
         "examples": []
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "koala",
@@ -8105,7 +8372,8 @@
         "definition": "an Australian animal with thick grey fur, large ears and no tail. Koalas live in trees and eat leaves.",
         "examples": []
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "lapdog",
@@ -8123,7 +8391,8 @@
         "definition": "a person who is under the control of another person or group",
         "examples": []
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "leatherback",
@@ -8137,7 +8406,8 @@
         "definition": "a very large sea turtle with a shell that looks like leather",
         "examples": []
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "kitty",
@@ -8164,7 +8434,8 @@
         "definition": "a way of referring to a cat",
         "examples": []
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "krait",
@@ -8178,7 +8449,8 @@
         "definition": "a poisonous Asian snake",
         "examples": []
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "leash",
@@ -8210,7 +8482,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "lair",
@@ -8233,7 +8506,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "Labrador",
@@ -8252,7 +8526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "lamb",
@@ -8304,7 +8579,8 @@
         "definition": "an offensive way to describe a woman who you think is trying to look younger than she really is, especially by wearing clothes that are designed for young people",
         "examples": []
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "Komodo dragon",
@@ -8318,7 +8594,8 @@
         "definition": "a very large lizard from Indonesia",
         "examples": []
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "llama",
@@ -8332,7 +8609,8 @@
         "definition": "a South American animal kept for its soft wool or for carrying loads",
         "examples": []
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "lemur",
@@ -8346,7 +8624,8 @@
         "definition": "an animal like a monkey, with thick fur and a long tail, that lives in trees in Madagascar",
         "examples": []
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "leopard",
@@ -8369,7 +8648,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "longhair",
@@ -8383,7 +8663,8 @@
         "definition": "a type of cat with long hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "litter",
@@ -8457,7 +8738,8 @@
         "definition": "a kind of chair or bed that was used in the past for carrying important people",
         "examples": []
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "lion",
@@ -8504,7 +8786,8 @@
         "definition": "to go to see an important or powerful person to tell them that you disagree with them, that you want something, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "lizard",
@@ -8518,7 +8801,8 @@
         "definition": "a reptile with a long body and tail, four short legs and a rough skin. There are many different types of lizard.",
         "examples": []
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "longhorn",
@@ -8532,7 +8816,8 @@
         "definition": "a type of cow with long horns",
         "examples": []
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "lemming",
@@ -8551,7 +8836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "lodge",
@@ -8622,7 +8908,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "lurcher",
@@ -8636,7 +8923,8 @@
         "definition": "a dog that is a mixture of two different types of dog, one of which is a greyhound",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "lynx",
@@ -8650,7 +8938,8 @@
         "definition": "a wild animal of the cat family, with yellow-brown fur (sometimes with spots on it) and a very short tail",
         "examples": []
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "lop ears",
@@ -8664,7 +8953,8 @@
         "definition": "ears that hang down at the side of an animal’s head",
         "examples": []
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "mammal",
@@ -8683,7 +8973,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "Manx cat",
@@ -8697,7 +8988,8 @@
         "definition": "a breed of cat with no tail",
         "examples": []
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "marmalade cat",
@@ -8711,7 +9003,8 @@
         "definition": "a cat with orange fur with darker orange stripes (= narrow lines)",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "manatee",
@@ -8725,7 +9018,8 @@
         "definition": "a large water animal with front legs and a strong tail but no back legs that lives along the Atlantic coasts of West Africa and North and South America",
         "examples": []
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "mare",
@@ -8765,7 +9059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "marmot",
@@ -8779,7 +9074,8 @@
         "definition": "a small European or American animal that lives in holes in the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "mamba",
@@ -8793,7 +9089,8 @@
         "definition": "a black or green poisonous African snake",
         "examples": []
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "mane",
@@ -8825,7 +9122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "marten",
@@ -8844,7 +9142,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "marsupial",
@@ -8858,7 +9157,8 @@
         "definition": "any animal that carries its young in a pocket of skin (called a pouch) on the mother’s stomach. Kangaroos and koalas are marsupials.",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "mastiff",
@@ -8872,7 +9172,8 @@
         "definition": "a large, strong dog with short hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "meow",
@@ -8886,7 +9187,8 @@
         "definition": "the crying sound made by a cat",
         "examples": []
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "mate",
@@ -8929,7 +9231,8 @@
         "definition": "to defeat somebody completely",
         "examples": []
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "mate",
@@ -9017,7 +9320,8 @@
         "definition": "a situation in which somebody has been completely defeated",
         "examples": []
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "microchip",
@@ -9036,7 +9340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "meerkat",
@@ -9050,7 +9355,8 @@
         "definition": "a small southern African animal with a long tail, which often stands up on its back legs. Meerkats are a type of mongoose.",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "miaow",
@@ -9064,7 +9370,8 @@
         "definition": "to make the crying sound that cats make",
         "examples": []
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "miaow",
@@ -9078,7 +9385,8 @@
         "definition": "the crying sound made by a cat",
         "examples": []
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "mob",
@@ -9135,7 +9443,8 @@
         "definition": "a group of strong, often violent people employed to do something such as protect somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "mink",
@@ -9167,7 +9476,8 @@
         "definition": "a coat or jacket made of mink",
         "examples": []
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "moggie",
@@ -9181,7 +9491,8 @@
         "definition": "a cat, especially an ordinary one of no particular breed",
         "examples": []
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "mole",
@@ -9216,7 +9527,8 @@
         "definition": "a unit for measuring the amount of substance",
         "examples": []
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "mongrel",
@@ -9230,7 +9542,8 @@
         "definition": "a dog that is a mixture of different types",
         "examples": []
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "molt",
@@ -9262,7 +9575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "monotreme",
@@ -9276,7 +9590,8 @@
         "definition": "a class of animal including the echidna and the platypus, that lays eggs, but also gives milk to its babies",
         "examples": []
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "moo",
@@ -9290,7 +9605,8 @@
         "definition": "the long deep sound made by a cow",
         "examples": []
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "mongoose",
@@ -9304,7 +9620,8 @@
         "definition": "a small tropical animal with fur, that kills snakes, rats, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "monitor",
@@ -9399,7 +9716,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "moult",
@@ -9431,7 +9749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "mountain lion",
@@ -9445,7 +9764,8 @@
         "definition": "a large American wild animal of the cat family, with yellow-brown or grey fur",
         "examples": []
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "moo",
@@ -9459,7 +9779,8 @@
         "definition": "to make the long deep sound that cows make",
         "examples": []
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "mouse",
@@ -9532,7 +9853,8 @@
         "definition": "people enjoy themselves more and behave with greater freedom when the person in charge of them is not there",
         "examples": []
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "mouser",
@@ -9546,7 +9868,8 @@
         "definition": "a cat that catches mice",
         "examples": []
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "monkey",
@@ -9616,7 +9939,8 @@
         "definition": "to make somebody seem stupid",
         "examples": []
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "neigh",
@@ -9630,7 +9954,8 @@
         "definition": "when a horse neighs it makes a long high sound",
         "examples": []
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "mutt",
@@ -9644,7 +9969,8 @@
         "definition": "a dog, especially one that is not of a particular breed",
         "examples": []
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "nanny goat",
@@ -9658,7 +9984,8 @@
         "definition": "a female goat",
         "examples": []
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "mustang",
@@ -9672,7 +9999,8 @@
         "definition": "a small American wild horse",
         "examples": []
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "natterjack",
@@ -9686,7 +10014,8 @@
         "definition": "a small European toad with a yellow band on its back",
         "examples": []
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "mule",
@@ -9726,7 +10055,8 @@
         "definition": "a slipper (= a soft shoe for wearing indoors) or a woman's shoe that is open around the heel",
         "examples": []
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "neigh",
@@ -9740,7 +10070,8 @@
         "definition": "a long high sound made by a horse",
         "examples": []
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "muzzle",
@@ -9772,7 +10103,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "muskrat",
@@ -9786,7 +10118,8 @@
         "definition": "a North American water animal that has a strong smell and is hunted for its fur",
         "examples": []
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "musk ox",
@@ -9800,7 +10133,8 @@
         "definition": "a large animal of the cow family (but more closely related to sheep and goats) that is covered with long hair and has curved horns",
         "examples": []
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "ocelot",
@@ -9814,7 +10148,8 @@
         "definition": "a wild animal of the cat family, that has yellow fur with black lines and spots, found in Central and South America",
         "examples": []
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "neuter",
@@ -9837,7 +10172,8 @@
         "definition": "to prevent something from having the effect that it ought to have",
         "examples": []
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "orangutan",
@@ -9851,7 +10187,8 @@
         "definition": "a large ape (= an animal like a large monkey with no tail) with long arms and red-brown hair, that lives in Borneo and Sumatra",
         "examples": []
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "newt",
@@ -9869,7 +10206,8 @@
         "definition": "very drunk",
         "examples": []
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "Old English sheepdog",
@@ -9883,7 +10221,8 @@
         "definition": "a very large dog with very long grey and white hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "nuzzle",
@@ -9906,7 +10245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "otter",
@@ -9920,7 +10260,8 @@
         "definition": "a small animal that has four webbed feet (= with skin between the toes), a tail and thick brown fur. Otters live in rivers and eat fish.",
         "examples": []
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "okapi",
@@ -9934,7 +10275,8 @@
         "definition": "an African animal that belongs to the same family as the giraffe, but is smaller with a dark body and white lines across its legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "opossum",
@@ -9948,7 +10290,8 @@
         "definition": "a small American or Australian animal that lives in trees and carries its young in a pouch (= a pocket of skin on the front of the mother’s body)",
         "examples": []
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "ox",
@@ -9966,7 +10309,8 @@
         "definition": "any cow or bull on a farm",
         "examples": []
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "order",
@@ -10480,7 +10824,8 @@
         "definition": "waiting for a signal to start a race",
         "examples": []
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "pachyderm",
@@ -10494,7 +10839,8 @@
         "definition": "a type of animal with a very thick skin, for example an elephant",
         "examples": []
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "palomino",
@@ -10508,7 +10854,8 @@
         "definition": "a horse that is a cream or gold colour with a white mane and tail",
         "examples": []
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "pack rat",
@@ -10526,7 +10873,8 @@
         "definition": "a small North American animal like a mouse that collects small sticks, etc. in its hole",
         "examples": []
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "pack animal",
@@ -10540,7 +10888,8 @@
         "definition": "an animal used for carrying loads, for example a horse",
         "examples": []
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "packhorse",
@@ -10554,7 +10903,8 @@
         "definition": "a horse that is used to carry heavy loads",
         "examples": []
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "panda",
@@ -10572,7 +10922,8 @@
         "definition": "an Asian animal like a raccoon, with red-brown fur and a long thick tail",
         "examples": []
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "pack",
@@ -10731,7 +11082,8 @@
         "definition": "a person or thing that could change the way that things will happen in a way that cannot be predicted",
         "examples": []
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "pad",
@@ -10829,7 +11181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "pangolin",
@@ -10843,7 +11196,8 @@
         "definition": "a small animal from Africa or Asia that eats insects, and has a long nose, tongue and tail, and hard scales on its body",
         "examples": []
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "peccary",
@@ -10857,7 +11211,8 @@
         "definition": "an animal like a pig, which lives in the southern US, Mexico and Central and South America",
         "examples": []
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "panther",
@@ -10875,7 +11230,8 @@
         "definition": "a large American wild animal of the cat family, with yellow-brown or grey fur",
         "examples": []
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "Pekinese",
@@ -10889,7 +11245,8 @@
         "definition": "a very small dog with long soft hair, short legs and a flat nose",
         "examples": []
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "pastern",
@@ -10903,7 +11260,8 @@
         "definition": "the part of a horse’s foot between the fetlock and the hoof",
         "examples": []
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "pet sitter",
@@ -10922,7 +11280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "pedigree",
@@ -10941,7 +11300,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "paw",
@@ -10964,7 +11324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "pelt",
@@ -10987,7 +11348,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "pet",
@@ -11056,7 +11418,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "phylum",
@@ -11070,7 +11433,8 @@
         "definition": "a group into which animals, plants, etc. are divided, smaller than a kingdom and larger than a class",
         "examples": []
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "polecat",
@@ -11088,7 +11452,8 @@
         "definition": "a small black and white North American animal that can produce a strong unpleasant smell to defend itself when it is attacked",
         "examples": []
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "polar bear",
@@ -11102,7 +11467,8 @@
         "definition": "a white bear that lives near the North Pole",
         "examples": []
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "piglet",
@@ -11116,7 +11482,8 @@
         "definition": "a young pig",
         "examples": []
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "pod",
@@ -11169,7 +11536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "pig",
@@ -11269,7 +11637,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "poisonous",
@@ -11326,7 +11695,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "pine marten",
@@ -11340,7 +11710,8 @@
         "definition": "a small wild animal with a long body, short legs and sharp teeth. Pine martens live in forests and eat smaller animals.",
         "examples": []
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "pit viper",
@@ -11354,7 +11725,8 @@
         "definition": "one of several types of poisonous snake that finds its food using areas on its head that are sensitive to heat",
         "examples": []
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "platypus",
@@ -11368,7 +11740,8 @@
         "definition": "an Australian animal that is covered in fur and has a beak like a duck, webbed feet (= with skin between the toes) and a flat tail. Platypuses lay eggs but give milk to their young.",
         "examples": []
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "pointer",
@@ -11421,7 +11794,8 @@
         "definition": "a large dog used in hunting, trained to stand still with its nose pointing towards the birds that are being hunted",
         "examples": []
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "polliwog",
@@ -11435,7 +11809,8 @@
         "definition": "a small creature with a large head and a small tail, that lives in water and is the young form of a frog or toad",
         "examples": []
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "prairie wolf",
@@ -11449,7 +11824,8 @@
         "definition": "a North American wild animal of the dog family",
         "examples": []
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "prairie dog",
@@ -11463,7 +11839,8 @@
         "definition": "a small brown North American animal of the squirrel family that lives in holes on the prairies",
         "examples": []
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "potto",
@@ -11477,7 +11854,8 @@
         "definition": "an animal like a monkey with a pointed face, found in tropical West Africa",
         "examples": []
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "pouch",
@@ -11512,7 +11890,8 @@
         "definition": "a pocket of skin in the cheeks (= sides of the face below the eyes) of some animals, such as hamsters, in which they store food",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "poodle",
@@ -11535,7 +11914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "pony",
@@ -11575,7 +11955,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "porcupine",
@@ -11589,7 +11970,8 @@
         "definition": "an animal covered with long, stiff parts like needles (called quills), which it can raise to protect itself when it is attacked",
         "examples": []
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "police dog",
@@ -11603,7 +11985,8 @@
         "definition": "a dog that is trained to help police in their work, for example by finding or attacking suspected criminals",
         "examples": []
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "porpoise",
@@ -11617,7 +12000,8 @@
         "definition": "a sea animal that looks like a large fish with a pointed mouth. Porpoises are similar to dolphins but smaller.",
         "examples": []
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "puff adder",
@@ -11631,7 +12015,8 @@
         "definition": "a poisonous snake, found mainly in Africa, that can make the top part of its body appear bigger",
         "examples": []
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "predatory",
@@ -11658,7 +12043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "pug",
@@ -11672,7 +12058,8 @@
         "definition": "a small dog with short hair and a wide flat face with deep folds of skin",
         "examples": []
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "predator",
@@ -11704,7 +12091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "puppy",
@@ -11731,7 +12119,8 @@
         "definition": "a proud or rude young man",
         "examples": []
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "primate",
@@ -11754,7 +12143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "pup",
@@ -11785,7 +12175,8 @@
         "definition": "to sell somebody something/to buy something that has no value or is worth much less than the price paid",
         "examples": []
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "pride",
@@ -11910,7 +12301,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "prey",
@@ -11968,7 +12360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "puma",
@@ -11982,7 +12375,8 @@
         "definition": "a large American wild animal of the cat family, with yellow-brown or grey fur",
         "examples": []
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "pussy",
@@ -12000,7 +12394,8 @@
         "definition": "the female genitals",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "python",
@@ -12014,7 +12409,8 @@
         "definition": "a large tropical snake that kills animals for food by winding its long body tightly around them",
         "examples": []
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "purr",
@@ -12055,7 +12451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "raccoon",
@@ -12073,7 +12470,8 @@
         "definition": "the fur of the raccoon",
         "examples": []
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "racoon",
@@ -12091,7 +12489,8 @@
         "definition": "the fur of the racoon",
         "examples": []
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "rabbit",
@@ -12122,7 +12521,8 @@
         "definition": "to suddenly produce something as a solution to a problem",
         "examples": []
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "rat",
@@ -12162,7 +12562,8 @@
         "definition": "to suspect that something is wrong about a situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "rare breed",
@@ -12194,7 +12595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "race",
@@ -12370,7 +12772,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "ram",
@@ -12393,7 +12796,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "rattlesnake",
@@ -12407,7 +12811,8 @@
         "definition": "a poisonous American snake that makes a noise like a rattle with its tail when it is angry or afraid",
         "examples": []
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "reindeer",
@@ -12426,7 +12831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "red panda",
@@ -12440,7 +12846,8 @@
         "definition": "an Asian animal like a raccoon, with red-brown fur and a long thick tail",
         "examples": []
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "reptile",
@@ -12454,7 +12861,8 @@
         "definition": "any animal that has cold blood and skin covered in scales, and that lays eggs. Snakes, crocodiles and tortoises are all reptiles.",
         "examples": []
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "reptilian",
@@ -12477,7 +12885,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "roan",
@@ -12496,7 +12905,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "rescue dog",
@@ -12524,7 +12934,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "retriever",
@@ -12538,7 +12949,8 @@
         "definition": "a large dog used in hunting to bring back birds that have been shot",
         "examples": []
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "rodent",
@@ -12552,7 +12964,8 @@
         "definition": "any small animal that belongs to a group of animals with strong sharp front teeth. Mice, rats and squirrels are all rodents.",
         "examples": []
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "roar",
@@ -12588,7 +13001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "roan",
@@ -12607,7 +13021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "rhinoceros",
@@ -12621,7 +13036,8 @@
         "definition": "a large heavy animal with very thick skin and either one or two horns on its nose, that lives in Africa and Asia",
         "examples": []
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "roar",
@@ -12721,7 +13137,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "roo",
@@ -12735,7 +13152,8 @@
         "definition": "a kangaroo (= a large Australian animal with a strong tail and back legs, that moves by jumping. The female carries its young in a pocket of skin (called a pouch) on the front of its body.)",
         "examples": []
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "ruminant",
@@ -12749,7 +13167,8 @@
         "definition": "any animal that brings back food from its stomach to its mouth and chews it again. Cows and sheep are both ruminants.",
         "examples": []
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "rump",
@@ -12785,7 +13204,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "Rottweiler",
@@ -12799,7 +13219,8 @@
         "definition": "a large dog that can be very aggressive",
         "examples": []
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "sable",
@@ -12817,7 +13238,8 @@
         "definition": "the skin and fur of the sable, used for making expensive coats and artists’ brushes",
         "examples": []
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "running dog",
@@ -12835,7 +13257,8 @@
         "definition": "a dog which has been bred to run, especially for racing or for pulling a sledge across snow",
         "examples": []
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "Scottish terrier",
@@ -12849,7 +13272,8 @@
         "definition": "a small terrier (= type of dog) with rough hair and short legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "sausage dog",
@@ -12863,7 +13287,8 @@
         "definition": "a small dog with a long body, long ears and very short legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "Scottie",
@@ -12877,7 +13302,8 @@
         "definition": "a Scottish terrier (= a type of small dog with rough hair and short legs)",
         "examples": []
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "schnauzer",
@@ -12891,7 +13317,8 @@
         "definition": "a dog with short, rough and curly hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "scale",
@@ -13087,7 +13514,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "salamander",
@@ -13101,7 +13529,8 @@
         "definition": "an animal like a lizard, with short legs and a long tail, that is an amphibian (= lives on both land and in water)",
         "examples": []
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "seal",
@@ -13189,7 +13618,8 @@
         "definition": "in a sealed envelope that cannot be opened before a particular time",
         "examples": []
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "sea turtle",
@@ -13203,7 +13633,8 @@
         "definition": "a large reptile with a hard round shell that lives in the sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "serpent",
@@ -13217,7 +13648,8 @@
         "definition": "a snake, especially a large one",
         "examples": []
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "sett",
@@ -13231,7 +13663,8 @@
         "definition": "a hole in the ground where a badger lives",
         "examples": []
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "sea lion",
@@ -13245,7 +13678,8 @@
         "definition": "a large seal (= a sea animal with thick fur, that eats fish and lives around the coast) that lives by the Pacific Ocean",
         "examples": []
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "setter",
@@ -13277,7 +13711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "sheep",
@@ -13328,7 +13763,8 @@
         "definition": "a person who seems to be friendly or not likely to cause any harm but is really an enemy",
         "examples": []
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "shank",
@@ -13369,7 +13805,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "shell",
@@ -13491,7 +13928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "Seeing Eye dog™",
@@ -13505,7 +13943,8 @@
         "definition": "a dog trained to guide a blind person",
         "examples": []
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "sheepdog",
@@ -13523,7 +13962,8 @@
         "definition": "a dog of a type that is often used for controlling sheep, especially a collie",
         "examples": []
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "Shetland pony",
@@ -13537,7 +13977,8 @@
         "definition": "a very small, strong horse with a rough coat",
         "examples": []
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "shorthair",
@@ -13551,7 +13992,8 @@
         "definition": "a type of cat with short hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "sidewinder",
@@ -13565,7 +14007,8 @@
         "definition": "a poisonous North American snake that moves sideways across the desert by throwing its body in an S shape",
         "examples": []
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "sloth",
@@ -13583,7 +14026,8 @@
         "definition": "the bad habit of being lazy and unwilling to work",
         "examples": []
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "shrew",
@@ -13601,7 +14045,8 @@
         "definition": "an offensive word for an angry unpleasant woman",
         "examples": []
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "Siamese cat",
@@ -13615,7 +14060,8 @@
         "definition": "a cat with short pale fur and a brown face, ears, tail and feet",
         "examples": []
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "slider",
@@ -13655,7 +14101,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "shorthorn",
@@ -13669,7 +14116,8 @@
         "definition": "a type of cow with short horns",
         "examples": []
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "skink",
@@ -13683,7 +14131,8 @@
         "definition": "a lizard with short legs or with no legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "skunk",
@@ -13705,7 +14154,8 @@
         "definition": "very drunk",
         "examples": []
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "slither",
@@ -13737,7 +14187,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "sniffer dog",
@@ -13751,7 +14202,8 @@
         "definition": "a dog that is trained to find drugs or explosives by smell",
         "examples": []
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "spaniel",
@@ -13774,7 +14226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "snake",
@@ -13822,7 +14275,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "snarl",
@@ -13880,7 +14334,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "snort",
@@ -13920,7 +14375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "sow",
@@ -13938,7 +14394,8 @@
         "definition": "(you won't) succeed in making something good out of material that does not seem very good at all",
         "examples": []
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "snort",
@@ -13978,7 +14435,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "snout",
@@ -14009,7 +14467,8 @@
         "definition": "if you say that people have their noses in the trough, you mean that they are trying to get a lot of money for themselves",
         "examples": []
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "snarl",
@@ -14045,7 +14504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "spay",
@@ -14064,7 +14524,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "spine",
@@ -14122,7 +14583,8 @@
         "definition": "the narrow part of the cover of a book that the pages are joined to",
         "examples": []
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "species",
@@ -14169,7 +14631,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "spiny anteater",
@@ -14183,7 +14646,8 @@
         "definition": "an Australasian insect-eating animal that has a long nose, sharp claws on its feet, and sharp spines on its body",
         "examples": []
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "squeal",
@@ -14210,7 +14674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "squeak",
@@ -14233,7 +14698,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "stag",
@@ -14251,7 +14717,8 @@
         "definition": "to go to a party without a partner",
         "examples": []
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "squirrel",
@@ -14265,7 +14732,8 @@
         "definition": "a small animal with a long, thick tail and red, grey or black fur. Squirrels eat nuts and live in trees.",
         "examples": []
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "squeak",
@@ -14318,7 +14786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "stallion",
@@ -14332,7 +14801,8 @@
         "definition": "a fully grown male horse, especially one that is used for breeding (= producing young)",
         "examples": []
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "squeal",
@@ -14377,7 +14847,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "steer",
@@ -14408,7 +14879,8 @@
         "definition": "a bull (= a male cow) that has been castrated (= had part of its sex organs removed), kept for its meat",
         "examples": []
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "stoat",
@@ -14422,7 +14894,8 @@
         "definition": "a small wild animal with a long body and brown fur that, in northern areas, turns white in winter. The white fur is called ermine.",
         "examples": []
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "tadpole",
@@ -14436,7 +14909,8 @@
         "definition": "a small creature with a large head and a small tail, that lives in water and is the young form of a frog, toad, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "tapir",
@@ -14450,7 +14924,8 @@
         "definition": "an animal like a pig with a long nose, that lives in Central and South America and South-East Asia",
         "examples": []
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "tabby",
@@ -14464,7 +14939,8 @@
         "definition": "a cat with brown or grey fur marked with dark lines or spots",
         "examples": []
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "tame",
@@ -14501,7 +14977,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "stroke",
@@ -14558,7 +15035,8 @@
         "definition": "to be very nice to somebody, especially to get them to do what you want",
         "examples": []
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "teat",
@@ -14576,7 +15054,8 @@
         "definition": "one of the parts of a female animal’s body that the young animals drink milk from",
         "examples": []
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "tail",
@@ -14725,7 +15204,8 @@
         "definition": "feeling ashamed or unhappy because you have been defeated or punished",
         "examples": []
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "terrapin",
@@ -14739,7 +15219,8 @@
         "definition": "a small turtle (= a reptile with a hard round shell), that lives in warm rivers and lakes in North America",
         "examples": []
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "taipan",
@@ -14757,7 +15238,8 @@
         "definition": "an extremely poisonous Australian snake",
         "examples": []
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "terrier",
@@ -14771,7 +15253,8 @@
         "definition": "a small active dog. There are many types of terrier.",
         "examples": []
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "tortoise",
@@ -14785,7 +15268,8 @@
         "definition": "a reptile with a hard round shell, that lives on land and moves very slowly. It can pull its head and legs into its shell.",
         "examples": []
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "tomcat",
@@ -14799,7 +15283,8 @@
         "definition": "a male cat",
         "examples": []
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "tosa",
@@ -14813,7 +15298,8 @@
         "definition": "a type of large strong dog originally kept for fighting",
         "examples": []
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "toad",
@@ -14836,7 +15322,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "tracker dog",
@@ -14855,7 +15342,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "tom",
@@ -14869,7 +15357,8 @@
         "definition": "a male cat",
         "examples": []
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "tortoiseshell",
@@ -14891,7 +15380,8 @@
         "definition": "a butterfly with orange and brown marks on its wings",
         "examples": []
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "tribe",
@@ -14937,7 +15427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "trot",
@@ -14995,7 +15486,8 @@
         "definition": "to be excited in a sexual way",
         "examples": []
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "tiger",
@@ -15014,7 +15506,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "trot",
@@ -15059,7 +15552,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "trunk",
@@ -15116,7 +15610,8 @@
         "definition": "the main part of the human body apart from the head, arms and legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "trotter",
@@ -15134,7 +15629,8 @@
         "definition": "a horse that has been trained to trot fast in races",
         "examples": []
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "tusk",
@@ -15148,7 +15644,8 @@
         "definition": "either of the long, curved teeth that stick out of the mouth of elephants and some other animals",
         "examples": []
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "turtle",
@@ -15170,7 +15667,8 @@
         "definition": "to turn over completely while sailing",
         "examples": []
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "vampire bat",
@@ -15184,7 +15682,8 @@
         "definition": "a Central and South American bat (= an animal like a mouse with wings) that bites other animals and drinks their blood",
         "examples": []
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "udder",
@@ -15198,7 +15697,8 @@
         "definition": "an organ like a bag in shape that produces milk and hangs under the body of a cow, goat, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "underbelly",
@@ -15230,7 +15730,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "venom",
@@ -15283,7 +15784,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "vermin",
@@ -15315,7 +15817,8 @@
         "definition": "people who are very unpleasant or dangerous to society",
         "examples": []
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "viper",
@@ -15333,7 +15836,8 @@
         "definition": "a person who harms other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "vixen",
@@ -15351,7 +15855,8 @@
         "definition": "an offensive word for a woman who is thought to be frightening, especially one who is considered sexually attractive",
         "examples": []
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "vole",
@@ -15365,7 +15870,8 @@
         "definition": "a small animal like a mouse or rat that lives in fields or near rivers",
         "examples": []
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "wallaby",
@@ -15379,7 +15885,8 @@
         "definition": "an Australian animal like a small kangaroo, that moves by jumping on its strong back legs and keeps its young in a pouch (= a pocket of skin) on the front of the mother’s body",
         "examples": []
       }
-    ]
+    ],
+    "id": 507
   },
   {
     "word": "walrus",
@@ -15393,7 +15900,8 @@
         "definition": "an animal like a large seal (= a sea animal with thick fur, that eats fish and lives around coasts), that has two long outer teeth called tusks and lives in Arctic regions",
         "examples": []
       }
-    ]
+    ],
+    "id": 508
   },
   {
     "word": "waterbuck",
@@ -15412,7 +15920,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 509
   },
   {
     "word": "warthog",
@@ -15426,7 +15935,8 @@
         "definition": "an African wild pig with two large outer teeth called tusks and growths like warts on its face",
         "examples": []
       }
-    ]
+    ],
+    "id": 510
   },
   {
     "word": "warm-blooded",
@@ -15440,7 +15950,8 @@
         "definition": "having a warm blood temperature that does not change if the temperature around them changes",
         "examples": []
       }
-    ]
+    ],
+    "id": 511
   },
   {
     "word": "water buffalo",
@@ -15454,7 +15965,8 @@
         "definition": "a large Asian animal of the cow family, used for pulling vehicles and farm equipment in tropical countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 512
   },
   {
     "word": "water moccasin",
@@ -15468,7 +15980,8 @@
         "definition": "a poisonous snake that lives near water in the US",
         "examples": []
       }
-    ]
+    ],
+    "id": 513
   },
   {
     "word": "walk",
@@ -15791,7 +16304,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 514
   },
   {
     "word": "water rat",
@@ -15805,7 +16319,8 @@
         "definition": "an animal like a rat that swims and lives in a hole next to a river or lake",
         "examples": []
       }
-    ]
+    ],
+    "id": 515
   },
   {
     "word": "water vole",
@@ -15819,7 +16334,8 @@
         "definition": "an animal like a rat that swims and lives in a hole next to a river or lake",
         "examples": []
       }
-    ]
+    ],
+    "id": 516
   },
   {
     "word": "weasel",
@@ -15833,7 +16349,8 @@
         "definition": "a small wild animal with red-brown fur, a long thin body, and short legs. Weasels eat smaller animals.",
         "examples": []
       }
-    ]
+    ],
+    "id": 517
   },
   {
     "word": "whale",
@@ -15869,7 +16386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 518
   },
   {
     "word": "whimper",
@@ -15900,7 +16418,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 519
   },
   {
     "word": "whisker",
@@ -15940,7 +16459,8 @@
         "definition": "by a very small amount",
         "examples": []
       }
-    ]
+    ],
+    "id": 520
   },
   {
     "word": "wildcat",
@@ -15954,7 +16474,8 @@
         "definition": "a type of small wild cat that lives in mountains and forests",
         "examples": []
       }
-    ]
+    ],
+    "id": 521
   },
   {
     "word": "whippet",
@@ -15968,7 +16489,8 @@
         "definition": "a small, thin dog, similar to a greyhound, that can run very fast and is often used for racing",
         "examples": []
       }
-    ]
+    ],
+    "id": 522
   },
   {
     "word": "wildlife",
@@ -15999,7 +16521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 523
   },
   {
     "word": "whimper",
@@ -16026,7 +16549,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 524
   },
   {
     "word": "withers",
@@ -16040,7 +16564,8 @@
         "definition": "the highest part of a horse’s back, between its shoulders",
         "examples": []
       }
-    ]
+    ],
+    "id": 525
   },
   {
     "word": "wild boar",
@@ -16054,7 +16579,8 @@
         "definition": "a wild pig",
         "examples": []
       }
-    ]
+    ],
+    "id": 526
   },
   {
     "word": "wild",
@@ -16268,7 +16794,8 @@
         "definition": "used to say that nothing would persuade somebody to go somewhere or do something they do not want to do",
         "examples": []
       }
-    ]
+    ],
+    "id": 527
   },
   {
     "word": "wolfhound",
@@ -16287,7 +16814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 528
   },
   {
     "word": "wolf",
@@ -16326,7 +16854,8 @@
         "definition": "a person who seems to be friendly or not likely to cause any harm but is really an enemy",
         "examples": []
       }
-    ]
+    ],
+    "id": 529
   },
   {
     "word": "woodchuck",
@@ -16340,7 +16869,8 @@
         "definition": "a small North American animal of the squirrel family",
         "examples": []
       }
-    ]
+    ],
+    "id": 530
   },
   {
     "word": "wolverine",
@@ -16354,7 +16884,8 @@
         "definition": "a wild animal that looks similar to a small bear, with short legs, long brown hair and a long tail. Wolverines live in cold, northern areas of Europe and North America.",
         "examples": []
       }
-    ]
+    ],
+    "id": 531
   },
   {
     "word": "woof",
@@ -16368,7 +16899,8 @@
         "definition": "to make the loud noise that a dog makes",
         "examples": []
       }
-    ]
+    ],
+    "id": 532
   },
   {
     "word": "woof",
@@ -16387,7 +16919,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 533
   },
   {
     "word": "wool",
@@ -16448,7 +16981,8 @@
         "definition": "to hide your real actions or intentions from somebody by making them believe something that is not true",
         "examples": []
       }
-    ]
+    ],
+    "id": 534
   },
   {
     "word": "woof",
@@ -16471,7 +17005,8 @@
         "definition": "the threads that are twisted under and over the threads that are held on a loom (= a frame or machine for making cloth)",
         "examples": []
       }
-    ]
+    ],
+    "id": 535
   },
   {
     "word": "wombat",
@@ -16485,7 +17020,8 @@
         "definition": "an Australian animal like a small bear, that carries its young in a pouch (= a pocket of skin) on the front of the mother’s body",
         "examples": []
       }
-    ]
+    ],
+    "id": 536
   },
   {
     "word": "Yorkshire terrier",
@@ -16499,7 +17035,8 @@
         "definition": "a very small dog with long brown and grey hair",
         "examples": []
       }
-    ]
+    ],
+    "id": 537
   },
   {
     "word": "yak",
@@ -16513,7 +17050,8 @@
         "definition": "an animal of the cow family, with long horns and long hair, that lives in Central Asia",
         "examples": []
       }
-    ]
+    ],
+    "id": 538
   },
   {
     "word": "zebu",
@@ -16532,7 +17070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 539
   },
   {
     "word": "zebra",
@@ -16546,6 +17085,7 @@
         "definition": "an African wild animal like a horse with black and white stripes (= lines) on its body",
         "examples": []
       }
-    ]
+    ],
+    "id": 540
   }
 ]

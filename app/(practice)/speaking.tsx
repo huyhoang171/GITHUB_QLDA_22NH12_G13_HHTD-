@@ -1,18 +1,52 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, ScrollView, SafeAreaView, StatusBar, Image } from 'react-native';
-import { useRouter } from 'expo-router';
+import { useRouter, useFocusEffect } from 'expo-router';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import { useCallback } from 'react';
 
 // Topic data with added icon names for visual enhancement
 const topics = [
-  { id: 'greetings', title: 'Greetings', icon: '👋', color: '#4BC6B9', description: 'Learn common greetings and introductions' },
-  { id: 'introductions', title: 'Introductions', icon: '🤝', color: '#FF8484', description: 'Present yourself and meet new people' },
-  { id: 'daily-conversations', title: 'Daily Conversations', icon: '💬', color: '#90A8ED', description: 'Common phrases for everyday situations' },
-  { id: 'travel', title: 'Travel', icon: '✈️', color: '#FFB347', description: 'Essential phrases when traveling' },
-  { id: 'work', title: 'Work', icon: '💼', color: '#B19CD9', description: 'Professional vocabulary and expressions' },
+  { id: 'greetings', title: 'Greetings', icon: '👋', color: '#4BC6B9', description: 'Learn common greetings and introductions', totalWords: 57 },
+  { id: 'introductions', title: 'Introductions', icon: '🤝', color: '#FF8484', description: 'Present yourself and meet new people', totalWords: 56 },
+  { id: 'daily-conversations', title: 'Daily Conversations', icon: '💬', color: '#90A8ED', description: 'Common phrases for everyday situations', totalWords: 51 },
+  { id: 'travel', title: 'Travel', icon: '✈️', color: '#FFB347', description: 'Essential phrases when traveling', totalWords: 60 },
+  { id: 'work', title: 'Work', icon: '💼', color: '#B19CD9', description: 'Professional vocabulary and expressions', totalWords: 50 },
 ];
+
+interface ProgressData {
+  subtopicId: string;
+  progress: number; // Cho phép progress là số bất kỳ (số từ hoàn thành)
+}
 
 export default function SpeakingTopics() {
   const router = useRouter();
+  const [progressData, setProgressData] = useState<ProgressData[]>([]);
+
+  // Hàm lấy tiến trình từ AsyncStorage
+  const getProgressListSpeaking = async () => {
+    try {
+      const storedProgress = await AsyncStorage.getItem('progressListSpeaking');
+      const progressList = storedProgress ? JSON.parse(storedProgress) : [];
+      setProgressData(progressList);
+    } catch (error) {
+      console.error('Lỗi khi lấy tiến trình speaking:', error);
+      setProgressData([]);
+    }
+  };
+
+  // Làm mới tiến trình khi màn hình được focus
+  useFocusEffect(
+    useCallback(() => {
+      getProgressListSpeaking();
+    }, [])
+  );
+
+  // Tính phần trăm tiến độ cho một chủ đề
+  const getProgressPercent = (topicId: string, totalWords: number): number => {
+    const progressItem = progressData.find(item => item.subtopicId === topicId);
+    const completedWords = progressItem ? Math.min(progressItem.progress, totalWords) : 0; // Giới hạn completedWords <= totalWords
+    return Math.floor((completedWords / totalWords) * 100);
+  };
 
   const handleTopicPress = (topicId: string) => {
     console.log('Navigating to topicId:', topicId);
@@ -55,57 +89,16 @@ export default function SpeakingTopics() {
               <View style={styles.topicContent}>
                 <Text style={styles.topicTitle}>{topic.title}</Text>
                 <Text style={styles.topicDescription}>{topic.description}</Text>
+                {/* Hiển thị phần trăm tiến độ */}
+                <Text style={styles.progressText}>
+                  Progress: {getProgressPercent(topic.id, topic.totalWords)}%
+                </Text>
               </View>
               <View style={styles.arrowContainer}>
                 <Text style={styles.arrow}>→</Text>
               </View>
             </TouchableOpacity>
           ))}
-        </View>
-        
-        {/* How to Practice Section with cards layout */}
-        <View style={styles.sectionHeader}>
-          <Text style={styles.sectionTitle}>How to Practice</Text>
-          <Text style={styles.sectionSubtitle}>Follow these steps for best results</Text>
-        </View>
-        
-        <View style={styles.howToContainer}>
-          <View style={styles.stepCard}>
-            <View style={styles.stepNumber}>
-              <Text style={styles.stepNumberText}>1</Text>
-            </View>
-            <Text style={styles.stepTitle}>Listen</Text>
-            <Text style={styles.stepDescription}>Listen carefully to native pronunciation examples</Text>
-          </View>
-          
-          <View style={styles.stepCard}>
-            <View style={styles.stepNumber}>
-              <Text style={styles.stepNumberText}>2</Text>
-            </View>
-            <Text style={styles.stepTitle}>Record</Text>
-            <Text style={styles.stepDescription}>Record yourself saying the same phrase</Text>
-          </View>
-          
-          <View style={styles.stepCard}>
-            <View style={styles.stepNumber}>
-              <Text style={styles.stepNumberText}>3</Text>
-            </View>
-            <Text style={styles.stepTitle}>Compare</Text>
-            <Text style={styles.stepDescription}>Get feedback on accuracy and improve</Text>
-          </View>
-        </View>
-        
-        {/* Tips card */}
-        <View style={styles.tipsCard}>
-          <View style={styles.tipsIconContainer}>
-            <Text style={styles.tipsIcon}>💡</Text>
-          </View>
-          <View style={styles.tipsContent}>
-            <Text style={styles.tipsTitle}>Pro Tip</Text>
-            <Text style={styles.tipsDescription}>
-              Practice daily for just 10 minutes to see significant improvement in your pronunciation and fluency.
-            </Text>
-          </View>
         </View>
       </ScrollView>
     </SafeAreaView>
@@ -130,7 +123,7 @@ const styles = StyleSheet.create({
     paddingBottom: 15,
     borderBottomLeftRadius: 25,
     borderBottomRightRadius: 25,
-    shadowColor: "#6C63FF",
+    shadowColor: '#6C63FF',
     shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.3,
     shadowRadius: 5,
@@ -206,6 +199,12 @@ const styles = StyleSheet.create({
   topicDescription: {
     fontSize: 14,
     color: '#666666',
+    marginBottom: 4,
+  },
+  progressText: {
+    fontSize: 12,
+    color: '#4CAF50',
+    fontWeight: '600',
   },
   arrowContainer: {
     padding: 16,
@@ -214,82 +213,5 @@ const styles = StyleSheet.create({
     fontSize: 20,
     color: '#6C63FF',
     fontWeight: 'bold',
-  },
-  howToContainer: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    marginBottom: 24,
-  },
-  stepCard: {
-    backgroundColor: '#FFFFFF',
-    borderRadius: 16,
-    padding: 16,
-    flex: 1,
-    marginHorizontal: 4,
-    alignItems: 'center',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
-    elevation: 2,
-  },
-  stepNumber: {
-    backgroundColor: '#6C63FF',
-    width: 36,
-    height: 36,
-    borderRadius: 18,
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginBottom: 12,
-  },
-  stepNumberText: {
-    color: '#FFFFFF',
-    fontSize: 18,
-    fontWeight: 'bold',
-  },
-  stepTitle: {
-    fontSize: 16,
-    fontWeight: 'bold',
-    color: '#333333',
-    marginBottom: 8,
-    textAlign: 'center',
-  },
-  stepDescription: {
-    fontSize: 12,
-    color: '#666666',
-    textAlign: 'center',
-  },
-  tipsCard: {
-    flexDirection: 'row',
-    backgroundColor: '#FFF9E6',
-    borderRadius: 16,
-    padding: 16,
-    marginBottom: 30,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
-    elevation: 2,
-    alignItems: 'center',
-  },
-  tipsIconContainer: {
-    marginRight: 12,
-  },
-  tipsIcon: {
-    fontSize: 28,
-  },
-  tipsContent: {
-    flex: 1,
-  },
-  tipsTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
-    color: '#333333',
-    marginBottom: 4,
-  },
-  tipsDescription: {
-    fontSize: 14,
-    color: '#666666',
-    lineHeight: 20,
   },
 });

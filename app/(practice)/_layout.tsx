@@ -36,13 +36,16 @@ export default function PracticeLayout() {
     if (path === '/speakingDetail') {
       return '/speaking';
     }
+    if (path === '/change_password') {
+      return '/infor';
+    }
     const pathSegments = path.split('/').filter(segment => segment !== '');
     if (pathSegments.length > 1) {
       const parentPath = '/' + pathSegments.slice(0, -1).join('/');
       console.log('Calculated parent path:', parentPath);
       return parentPath;
     }
-    
+
     console.log('Default return to home');
     return '/';
   };
@@ -89,36 +92,36 @@ export default function PracticeLayout() {
 
   return (
     <Tabs
-    screenOptions={({ route }) => ({
-      headerShown: route.name !== 'index',
-      tabBarActiveTintColor: '#000000',
-      tabBarInactiveTintColor: '#777777',
-      tabBarStyle: {
-        backgroundColor: '#FFFFFF',
-        height: 70,
-        paddingBottom: 10,
-        paddingTop: 10,
-        borderTopWidth: 1,
-        borderTopColor: '#e0e0e0',
-        justifyContent: 'center',
-        alignItems: 'center',
-      },
-      tabBarIconStyle: {
-        justifyContent: 'center',
-        alignItems: 'center',
-      },
-      tabBarLabelStyle: {
-        fontSize: 12,
-        marginBottom: 5,
-        textAlign: 'center',
-      },
-      headerLeft: () =>
-        route.name !== 'index' && (
-          <TouchableOpacity onPress={goBack} style={{ marginLeft: 15 }}>
-            <Ionicons name="arrow-back" size={24} color="#000000" />
-          </TouchableOpacity>
-        ),
-    })}
+      screenOptions={({ route }) => ({
+        headerShown: route.name !== 'index',
+        tabBarActiveTintColor: '#000000',
+        tabBarInactiveTintColor: '#777777',
+        tabBarStyle: {
+          backgroundColor: '#FFFFFF',
+          height: 70,
+          paddingBottom: 10,
+          paddingTop: 10,
+          borderTopWidth: 1,
+          borderTopColor: '#e0e0e0',
+          justifyContent: 'center',
+          alignItems: 'center',
+        },
+        tabBarIconStyle: {
+          justifyContent: 'center',
+          alignItems: 'center',
+        },
+        tabBarLabelStyle: {
+          fontSize: 12,
+          marginBottom: 5,
+          textAlign: 'center',
+        },
+        headerLeft: () =>
+          route.name !== 'index' && (
+            <TouchableOpacity onPress={goBack} style={{ marginLeft: 15 }}>
+              <Ionicons name="arrow-back" size={24} color="#000000" />
+            </TouchableOpacity>
+          ),
+      })}
     >
       <Tabs.Screen
         name="index"
@@ -132,28 +135,24 @@ export default function PracticeLayout() {
       <Tabs.Screen
         name="vocabulary"
         options={{
-          title: 'Vocabulary',
           headerTitle: 'Vocabulary',
-          tabBarIcon: ({ color, size }) => (
-            <Ionicons name="book" size={size} color={color} />
-          ),
+          tabBarIcon: () => null,
+          href: null,
         }}
       />
       <Tabs.Screen
         name="grammar"
-        options={{
-          title: 'Grammar',
-          headerTitle: '',
-          tabBarIcon: ({ color, size }) => (
-            <FontAwesome5 name="book" size={23} color={color} />
-          ),
+         options={{
+          headerTitle: 'Grammar',
+          tabBarIcon: () => null,
+          href: null,
         }}
       />
       <Tabs.Screen
         name="quizzes"
         options={{
           title: 'Quizzes',
-          headerTitle: 'Quizzes',
+          headerShown: false,
           tabBarIcon: ({ color, size }) => (
             <Ionicons name="reader" size={size} color={color} />
           ),
@@ -163,7 +162,7 @@ export default function PracticeLayout() {
         name="ai"
         options={{
           title: 'AI',
-          headerTitle: 'AI',
+          headerShown: false,
           tabBarIcon: ({ color, size }) => (
             <Ionicons name="chatbubble-ellipses" size={size} color={color} />
           ),
@@ -171,40 +170,32 @@ export default function PracticeLayout() {
       />
       <Tabs.Screen
         name="BasicGrammarScreen"
-        options={{
+         options={{
           headerTitle: '',
-          tabBarStyle: { display: 'none' }, 
-          tabBarShowLabel: false,
           tabBarIcon: () => null,
           href: null,
         }}
       />
       <Tabs.Screen
         name="TopicDetail"
-        options={{
+         options={{
           headerTitle: '',
-          tabBarStyle: { display: 'none' }, 
-          tabBarShowLabel: false,
           tabBarIcon: () => null,
           href: null,
         }}
       />
       <Tabs.Screen
         name="vocabulary_quizzes"
-        options={{
-          headerTitle: '',
-          tabBarStyle: { display: 'none' }, 
-          tabBarShowLabel: false,
+         options={{
+          headerShown: false,
           tabBarIcon: () => null,
           href: null,
         }}
       />
       <Tabs.Screen
         name="grammar_quizzes"
-        options={{
-          headerTitle: '',
-          tabBarStyle: { display: 'none' }, 
-          tabBarShowLabel: false,
+         options={{
+          headerShown: false,
           tabBarIcon: () => null,
           href: null,
         }}
@@ -213,20 +204,34 @@ export default function PracticeLayout() {
         name="speakingDetail"
         options={{
           headerTitle: '',
-          tabBarStyle: { display: 'none' }, 
-          tabBarShowLabel: false,
           tabBarIcon: () => null,
           href: null,
         }}
       />
       <Tabs.Screen
         name="speaking"
-        options={{
-          headerTitle: '',
-          tabBarStyle: { display: 'none' }, 
-          tabBarShowLabel: false,
+         options={{
+          headerTitle: 'Speaking',
           tabBarIcon: () => null,
           href: null,
+        }}
+      />
+      <Tabs.Screen
+        name="change_password"
+         options={{
+          headerTitle: 'Change Password',
+          tabBarIcon: () => null,
+          href: null,
+        }}
+      />
+      <Tabs.Screen
+        name="infor"
+        options={{
+          title: 'Information',
+          headerShown: false,
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="person-circle" size={size} color={color} />
+          ),
         }}
       />
     </Tabs>

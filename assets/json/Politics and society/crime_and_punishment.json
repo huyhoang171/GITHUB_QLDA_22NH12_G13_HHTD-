@@ -11,7 +11,8 @@
         "definition": "a person who has been abducted",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "aggravated",
@@ -30,7 +31,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "abuse",
@@ -100,7 +102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "apprehend",
@@ -132,7 +135,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "abductor",
@@ -150,7 +154,8 @@
         "definition": "a muscle that moves a body part away from the middle of the body or from another part",
         "examples": []
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "alibi",
@@ -173,7 +178,8 @@
         "definition": "an excuse for something that you have done wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "accessory",
@@ -218,7 +224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "ABH",
@@ -232,7 +239,8 @@
         "definition": "actual bodily harm",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "abduction",
@@ -251,7 +259,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "abuse",
@@ -324,7 +333,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "accomplice",
@@ -351,7 +361,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "abduct",
@@ -370,7 +381,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "actual bodily harm",
@@ -384,7 +396,8 @@
         "definition": "the crime of causing somebody minor physical injury",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "appropriate",
@@ -416,7 +429,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "all-points bulletin",
@@ -430,7 +444,8 @@
         "definition": "a radio message sent to every officer of a police force, giving details of people who are suspected of a crime, of stolen vehicles, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "apprehension",
@@ -474,7 +489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "arrest",
@@ -544,7 +560,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "appeal",
@@ -634,7 +651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "arsonist",
@@ -648,7 +666,8 @@
         "definition": "a person who commits the crime of arson",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "arrest",
@@ -688,7 +707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "assail",
@@ -724,7 +744,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "appropriation",
@@ -765,7 +786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "appeal",
@@ -879,7 +901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "ASBO",
@@ -893,7 +916,8 @@
         "definition": "an order made by a court that said that somebody had to stop behaving in a harmful or annoying way to other people (the abbreviation for ‘antisocial behaviour order’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "alien",
@@ -921,7 +945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "a stay of execution",
@@ -965,7 +990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "assault and battery",
@@ -988,7 +1014,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "attacker",
@@ -1016,7 +1043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "assailant",
@@ -1043,7 +1071,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "arson",
@@ -1062,7 +1091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "assassin",
@@ -1089,7 +1119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "assault",
@@ -1159,7 +1190,8 @@
         "definition": "an act that threatens to harm somebody physically, whether or not actual harm is done",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "assault",
@@ -1199,7 +1231,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "attack",
@@ -1311,7 +1344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "attempted",
@@ -1334,7 +1368,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "backup",
@@ -1374,7 +1409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "attack",
@@ -1529,7 +1565,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "bandit",
@@ -1548,7 +1585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "banishment",
@@ -1571,7 +1609,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "bigamist",
@@ -1585,7 +1624,8 @@
         "definition": "a person who commits the crime of bigamy",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "autopsy",
@@ -1608,7 +1648,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "banish",
@@ -1652,7 +1693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "battered",
@@ -1714,7 +1756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "battery",
@@ -1821,7 +1864,8 @@
         "definition": "to get back your strength and energy by resting for a while",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "blackmail",
@@ -1844,7 +1888,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "blackmail",
@@ -1871,7 +1916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "bomber",
@@ -1898,7 +1944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "blood feud",
@@ -1921,7 +1968,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "blackmailer",
@@ -1935,7 +1983,8 @@
         "definition": "a person who commits blackmail",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "batter",
@@ -1970,7 +2019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "bigamous",
@@ -1989,7 +2039,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "bomb",
@@ -2043,7 +2094,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "bombing",
@@ -2066,7 +2118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "bootlegger",
@@ -2080,7 +2133,8 @@
         "definition": "a person who makes or sells goods, especially alcohol, illegally",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "boot camp",
@@ -2116,7 +2170,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "body",
@@ -2339,7 +2394,8 @@
         "definition": "to have sex with somebody in exchange for money",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "borstal",
@@ -2353,7 +2409,8 @@
         "definition": "(in the UK in the past) a type of prison for young criminals",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "breach",
@@ -2427,7 +2484,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "bootlegging",
@@ -2441,7 +2499,8 @@
         "definition": "the activity of making and selling goods, especially alcohol, illegally",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "breach",
@@ -2481,7 +2540,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "breaking and entering",
@@ -2495,7 +2555,8 @@
         "definition": "the crime of entering a building illegally and using force",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "break into",
@@ -2563,7 +2624,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "breakout",
@@ -2582,7 +2644,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "break in",
@@ -2631,7 +2694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "bribery",
@@ -2654,7 +2718,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "bribe",
@@ -2677,7 +2742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "bigamy",
@@ -2691,7 +2757,8 @@
         "definition": "the crime of marrying somebody when you are still legally married to somebody else",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "bribe",
@@ -2726,7 +2793,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "break",
@@ -3059,7 +3127,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "bootleg",
@@ -3073,7 +3142,8 @@
         "definition": "to make or sell goods, especially alcohol, illegally",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "burglar",
@@ -3092,7 +3162,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "break-in",
@@ -3111,7 +3182,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "bug",
@@ -3186,7 +3258,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "bust",
@@ -3270,7 +3343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "bug",
@@ -3327,7 +3401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "capital punishment",
@@ -3346,7 +3421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "bust",
@@ -3442,7 +3518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "burgle",
@@ -3465,7 +3542,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "bring in",
@@ -3541,7 +3619,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "burglary",
@@ -3568,7 +3647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "capital",
@@ -3613,7 +3693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "carjacker",
@@ -3627,7 +3708,8 @@
         "definition": "a person who forces the driver of a car to take them somewhere or takes their car, using threats and violence",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "carjacking",
@@ -3641,7 +3723,8 @@
         "definition": "the crime of forcing the driver of a car to take you somewhere or give you their car, using threats and violence",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "case the joint",
@@ -3655,7 +3738,8 @@
         "definition": "to look carefully around a building in order to plan how to steal things from it at a later time",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "carjack",
@@ -3669,7 +3753,8 @@
         "definition": "to force the driver of a car to take you somewhere or give you their car, using threats and violence",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "circumstantial",
@@ -3701,7 +3786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "chase",
@@ -3796,7 +3882,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "chase",
@@ -3897,7 +3984,8 @@
         "definition": "to be very busy but in fact achieve very little",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "capture",
@@ -3950,7 +4038,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "citizen’s arrest",
@@ -3964,7 +4053,8 @@
         "definition": "an arrest made by a member of the public, not by the police",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "child abuse",
@@ -3983,7 +4073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "cat burglar",
@@ -4002,7 +4093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "catch",
@@ -4463,7 +4555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "caution",
@@ -4525,7 +4618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "case",
@@ -4888,7 +4982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "coercive control",
@@ -4907,7 +5002,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "cold case",
@@ -4926,7 +5022,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "collude",
@@ -4953,7 +5050,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "collusion",
@@ -4976,7 +5074,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "closed-circuit television",
@@ -4990,7 +5089,8 @@
         "definition": "a television system that works within a limited area, for example a public building, especially to protect it from crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "cell",
@@ -5069,7 +5169,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "committal",
@@ -5097,7 +5198,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "commission",
@@ -5222,7 +5324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "commutable",
@@ -5244,7 +5347,8 @@
         "definition": "able to be exchanged",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "clue",
@@ -5323,7 +5427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "complicit",
@@ -5342,7 +5447,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "composite",
@@ -5374,7 +5480,8 @@
         "definition": "a picture of a person who is wanted by the police, made by putting together photographs of different features of faces from information that is given by somebody who has seen the person",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "con",
@@ -5401,7 +5508,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "condemn",
@@ -5472,7 +5580,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "confession",
@@ -5526,7 +5635,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "confess",
@@ -5599,7 +5709,8 @@
         "definition": "to hear somebody confess their sins (= the bad things they have done)",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "confinement",
@@ -5631,7 +5742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "commit",
@@ -5770,7 +5882,8 @@
         "definition": "to write something down",
         "examples": []
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "confiscate",
@@ -5797,7 +5910,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "community service",
@@ -5811,7 +5925,8 @@
         "definition": "work helping people in the local community that somebody does without being paid, either because they want to, or because they have been ordered to by a court as a punishment",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "conman",
@@ -5830,7 +5945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "con",
@@ -5879,7 +5995,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "complicity",
@@ -5902,7 +6019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "conspiracy",
@@ -5933,7 +6051,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "contraband",
@@ -5956,7 +6075,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "conspire",
@@ -5996,7 +6116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "confiscation",
@@ -6015,7 +6136,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "convict",
@@ -6034,7 +6156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "corruption",
@@ -6088,7 +6211,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "corrupt",
@@ -6137,7 +6261,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "conspirator",
@@ -6160,7 +6285,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "conwoman",
@@ -6179,7 +6305,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "crack",
@@ -6344,7 +6471,8 @@
         "definition": "to use more force than is necessary",
         "examples": []
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "county lines",
@@ -6367,7 +6495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "corporal punishment",
@@ -6381,7 +6510,8 @@
         "definition": "the physical punishment of people, especially by hitting them",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "crime-busting",
@@ -6400,7 +6530,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "crime lab",
@@ -6419,7 +6550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "crackdown",
@@ -6450,7 +6582,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "crime scene",
@@ -6473,7 +6606,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "copycat",
@@ -6496,7 +6630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "criminal",
@@ -6539,7 +6674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "counterterrorism",
@@ -6553,7 +6689,8 @@
         "definition": "action taken to prevent the activities of political groups who use violence to try to achieve their aims",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "crime wave",
@@ -6572,7 +6709,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "criminality",
@@ -6591,7 +6729,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "corrupt",
@@ -6644,7 +6783,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "custody",
@@ -6696,7 +6836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "cybercrime",
@@ -6710,7 +6851,8 @@
         "definition": "crime that is committed using the internet, for example by stealing somebody’s personal or bank details or by infecting their computer with a virus",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "counterterrorist",
@@ -6724,7 +6866,8 @@
         "definition": "intended to prevent the activities of political groups who use violence to try to achieve their aims",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "criminology",
@@ -6738,7 +6881,8 @@
         "definition": "the scientific study of crime and criminals",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "date rape",
@@ -6752,7 +6896,8 @@
         "definition": "the crime of raping somebody, committed by a person the victim has gone out with on a date",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "criminal damage",
@@ -6771,7 +6916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "dealing",
@@ -6820,7 +6966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "criminal",
@@ -6893,7 +7040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "death sentence",
@@ -6916,7 +7064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "death row",
@@ -6935,7 +7084,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "custodial",
@@ -6963,7 +7113,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "crime",
@@ -7076,7 +7227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "damage",
@@ -7189,7 +7341,8 @@
         "definition": "a way of asking how much something costs",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "deal",
@@ -7255,7 +7408,8 @@
         "definition": "to do a lot of complicated deals in business or politics, often in a dishonest way",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "customs",
@@ -7304,7 +7458,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "deception",
@@ -7340,7 +7495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "defame",
@@ -7359,7 +7515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "defraud",
@@ -7386,7 +7543,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "default",
@@ -7418,7 +7576,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "defamation",
@@ -7445,7 +7604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "deceive",
@@ -7499,7 +7659,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "delinquency",
@@ -7522,7 +7683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "default",
@@ -7593,7 +7755,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "dealer",
@@ -7629,7 +7792,8 @@
         "definition": "the person who gives out the cards in a card game",
         "examples": []
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "detainee",
@@ -7648,7 +7812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "despoil",
@@ -7662,7 +7827,8 @@
         "definition": "to steal something valuable from a place; to make a place less attractive by damaging or destroying it",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "delinquent",
@@ -7699,7 +7865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "desperado",
@@ -7713,7 +7880,8 @@
         "definition": "a man who does dangerous and criminal things without caring about himself or other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "defaulter",
@@ -7732,7 +7900,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "delinquent",
@@ -7760,7 +7929,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "detective work",
@@ -7779,7 +7949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "detention",
@@ -7823,7 +7994,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "disorderly conduct",
@@ -7842,7 +8014,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "defamatory",
@@ -7861,7 +8034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "detain",
@@ -7893,7 +8067,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "detective",
@@ -7928,7 +8103,8 @@
         "definition": "a person employed by somebody to find out information about somebody/something",
         "examples": []
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "drunk driving",
@@ -7942,7 +8118,8 @@
         "definition": "driving a vehicle after drinking too much alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "drink-driving",
@@ -7956,7 +8133,8 @@
         "definition": "driving a vehicle after drinking too much alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "driving under the influence",
@@ -7970,7 +8148,8 @@
         "definition": "the crime of driving a vehicle after drinking too much alcohol or taking drugs that affect your ability to drive. It is a less serious crime than ‘driving while intoxicated’.",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "driving while intoxicated",
@@ -7984,7 +8163,8 @@
         "definition": "the crime of driving a vehicle after drinking too much alcohol or taking drugs that affect your ability to drive",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "drug dealer",
@@ -7998,7 +8178,8 @@
         "definition": "a person who sells illegal drugs",
         "examples": []
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "DNA fingerprinting",
@@ -8012,7 +8193,8 @@
         "definition": "the method of finding the particular pattern of genes in an individual person, particularly to identify somebody or find out if somebody has committed a crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "drunken driving",
@@ -8026,7 +8208,8 @@
         "definition": "driving a vehicle after drinking too much alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "embezzlement",
@@ -8045,7 +8228,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "embezzle",
@@ -8064,7 +8248,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "disciplinary",
@@ -8100,7 +8285,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "endangerment",
@@ -8123,7 +8309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "E-fit™",
@@ -8137,7 +8324,8 @@
         "definition": "a picture of a person who is wanted by the police, made using a computer program that puts together and makes changes to pictures of different features of faces, based on information that is given by somebody who has seen the person",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "embezzler",
@@ -8151,7 +8339,8 @@
         "definition": "a person who steals money that they are responsible for or that belongs to their employer",
         "examples": []
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "drink-driver",
@@ -8165,7 +8354,8 @@
         "definition": "a person who drives a vehicle after drinking too much alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "execution",
@@ -8240,7 +8430,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "entrapment",
@@ -8259,7 +8450,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "exile",
@@ -8307,7 +8499,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "exhibit",
@@ -8361,7 +8554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "do time",
@@ -9621,7 +9815,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "execute",
@@ -9692,7 +9887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "extradite",
@@ -9715,7 +9911,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "false imprisonment",
@@ -9729,7 +9926,8 @@
         "definition": "the crime of illegally keeping somebody as a prisoner somewhere",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "fake",
@@ -9765,7 +9963,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "extradition",
@@ -9792,7 +9991,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "eyewitness",
@@ -9811,7 +10011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "evidence",
@@ -9917,7 +10118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "femicide",
@@ -9940,7 +10142,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "felony",
@@ -9959,7 +10162,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "felon",
@@ -9982,7 +10186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "fine",
@@ -10013,7 +10218,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "fingerprint",
@@ -10040,7 +10246,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "fingerprint",
@@ -10059,7 +10266,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "exile",
@@ -10082,7 +10290,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "fake",
@@ -10122,7 +10331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "escapee",
@@ -10136,7 +10346,8 @@
         "definition": "a person or an animal that has escaped from somewhere, especially somebody who has escaped from prison",
         "examples": []
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "fiddle",
@@ -10172,7 +10383,8 @@
         "definition": "to play music on the violin",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "first offender",
@@ -10186,7 +10398,8 @@
         "definition": "a person who has been found guilty of a crime for the first time",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "fiddle",
@@ -10239,7 +10452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "fingerprinting",
@@ -10253,7 +10467,8 @@
         "definition": "the practice of recording somebody’s fingerprints, often used by the police to identify criminals",
         "examples": []
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "fine",
@@ -10288,7 +10503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "forensic",
@@ -10328,7 +10544,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "fire starter",
@@ -10350,7 +10567,8 @@
         "definition": "a person who commits the crime of deliberately setting fire to something",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "forfeit",
@@ -10378,7 +10596,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "forge",
@@ -10448,7 +10667,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "flash",
@@ -10598,7 +10818,8 @@
         "definition": "to smile, look, etc. at somebody suddenly and quickly",
         "examples": []
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "flasher",
@@ -10625,7 +10846,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "fraudster",
@@ -10639,7 +10861,8 @@
         "definition": "a person who commits fraud",
         "examples": []
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "fixed penalty",
@@ -10662,7 +10885,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "front for",
@@ -10681,7 +10905,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "firing squad",
@@ -10708,7 +10933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "forensics",
@@ -10749,7 +10975,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "fratricide",
@@ -10771,7 +10998,8 @@
         "definition": "the act of killing by accident your own forces in war",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "fraud",
@@ -10815,7 +11043,8 @@
         "definition": "something that is not as good, useful, etc. as people claim it is",
         "examples": []
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "gangland",
@@ -10838,7 +11067,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "furlough",
@@ -10882,7 +11112,8 @@
         "definition": "a period of time during which workers are told not to come to work, usually because there is not enough money to pay them",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "gaslighting",
@@ -10901,7 +11132,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "forfeit",
@@ -10915,7 +11147,8 @@
         "definition": "something that a person has to pay, or something that is taken from them, because they have done something wrong, or as a necessary consequence of something they have done",
         "examples": []
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "gaslight",
@@ -10934,7 +11167,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "fugitive",
@@ -10957,7 +11191,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "gangster",
@@ -10976,7 +11211,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "gangmaster",
@@ -10990,7 +11226,8 @@
         "definition": "a person or company that organizes groups of workers on a temporary basis to do manual work (= physical work using their hands), especially work on farms",
         "examples": []
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "genocide",
@@ -11013,7 +11250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "GBH",
@@ -11027,7 +11265,8 @@
         "definition": "grievous bodily harm",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "frontman",
@@ -11054,7 +11293,8 @@
         "definition": "a person who presents a television programme",
         "examples": []
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "forgery",
@@ -11081,7 +11321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "getaway",
@@ -11121,7 +11362,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "genetic fingerprint",
@@ -11135,7 +11377,8 @@
         "definition": "the particular pattern of genes in an individual person, especially used to identify somebody or find out if somebody has committed a crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "genetic fingerprinting",
@@ -11149,7 +11392,8 @@
         "definition": "the method of finding the particular pattern of genes in an individual person, particularly to identify somebody or find out if somebody has committed a crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "grand larceny",
@@ -11168,7 +11412,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "grass",
@@ -11259,7 +11504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "get away with",
@@ -11309,7 +11555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "guillotine",
@@ -11336,7 +11583,8 @@
         "definition": "the setting of a time limit on a debate in Parliament",
         "examples": []
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "grass",
@@ -11363,7 +11611,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "gunrunner",
@@ -11377,7 +11626,8 @@
         "definition": "a person who secretly and illegally brings guns into a country",
         "examples": []
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "hack",
@@ -11456,7 +11706,8 @@
         "definition": "to drive a taxi",
         "examples": []
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "graft",
@@ -11506,7 +11757,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "halfway house",
@@ -11543,7 +11795,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "gunman",
@@ -11562,7 +11815,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "grievous bodily harm",
@@ -11585,7 +11839,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "guard",
@@ -11757,7 +12012,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "grand theft",
@@ -11776,7 +12032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "handcuff",
@@ -11803,7 +12060,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "gunwoman",
@@ -11822,7 +12080,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "hard labour",
@@ -11841,7 +12100,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "hang",
@@ -12131,7 +12391,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "handcuffs",
@@ -12166,7 +12427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "high-security",
@@ -12189,7 +12451,8 @@
         "definition": "kept in a prison that is very carefully locked and guarded",
         "examples": []
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "hijack",
@@ -12217,7 +12480,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "hijacking",
@@ -12249,7 +12513,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "hanging",
@@ -12281,7 +12546,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "hacker",
@@ -12304,7 +12570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "high treason",
@@ -12323,7 +12590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "heist",
@@ -12337,7 +12605,8 @@
         "definition": "to steal something valuable from a shop or bank",
         "examples": []
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "hate speech",
@@ -12356,7 +12625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "hijacker",
@@ -12370,7 +12640,8 @@
         "definition": "a person who hijacks a plane or other vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "heist",
@@ -12397,7 +12668,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "gunrunning",
@@ -12411,7 +12683,8 @@
         "definition": "the activity of bringing guns into a country secretly and illegally",
         "examples": []
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "honour killing",
@@ -12434,7 +12707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "hostage",
@@ -12477,7 +12751,8 @@
         "definition": "something that you have, or have promised to do, that could cause trouble or worry in the future",
         "examples": []
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "hitman",
@@ -12500,7 +12775,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "home confinement",
@@ -12519,7 +12795,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "hold up",
@@ -12577,7 +12854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "housebreaker",
@@ -12591,7 +12869,8 @@
         "definition": "a person who enters a house illegally by using force, in order to steal things from it",
         "examples": []
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "hoodlum",
@@ -12609,7 +12888,8 @@
         "definition": "a violent and noisy young man",
         "examples": []
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "housebreaking",
@@ -12623,7 +12903,8 @@
         "definition": "the crime of entering a house illegally by using force, in order to steal things from it",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "hold",
@@ -13099,7 +13380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "hustle",
@@ -13131,7 +13413,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "homicide",
@@ -13154,7 +13437,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "hustler",
@@ -13181,7 +13465,8 @@
         "definition": "a person who works as a prostitute",
         "examples": []
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "house arrest",
@@ -13204,7 +13489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "hold-up",
@@ -13244,7 +13530,8 @@
         "definition": "stockings that are kept up by having a band of material that can stretch at the top",
         "examples": []
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "human trafficking",
@@ -13263,7 +13550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "human smuggling",
@@ -13282,7 +13570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "Identikit™",
@@ -13296,7 +13585,8 @@
         "definition": "a picture of a person who is wanted by the police, made by putting together photographs of different features of faces from information that is given by somebody who has seen the person",
         "examples": []
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "identify",
@@ -13369,7 +13659,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "incarceration",
@@ -13388,7 +13679,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "illegal",
@@ -13435,7 +13727,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "imprison",
@@ -13458,7 +13751,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "hustle",
@@ -13515,7 +13809,8 @@
         "definition": "to work as a prostitute",
         "examples": []
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "identity theft",
@@ -13538,7 +13833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "illegally",
@@ -13561,7 +13857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "imprisonment",
@@ -13580,7 +13877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "incest",
@@ -13603,7 +13901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "identity thief",
@@ -13622,7 +13921,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "incarcerate",
@@ -13641,7 +13941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "incriminate",
@@ -13664,7 +13965,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "incrimination",
@@ -13683,7 +13985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "informant",
@@ -13715,7 +14018,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "incriminating",
@@ -13738,7 +14042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "inform",
@@ -13815,7 +14120,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "infanticide",
@@ -13842,7 +14148,8 @@
         "definition": "a person who kills a baby, especially their own child",
         "examples": []
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "inside",
@@ -13886,7 +14193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "inmate",
@@ -13909,7 +14217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "insider trading",
@@ -13928,7 +14237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "inspect",
@@ -13968,7 +14278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "inside",
@@ -14012,7 +14323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "intruder",
@@ -14044,7 +14356,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "investigator",
@@ -14067,7 +14380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "involuntary manslaughter",
@@ -14086,7 +14400,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "indecent exposure",
@@ -14100,7 +14415,8 @@
         "definition": "the crime of showing your sexual organs to other people in a public place",
         "examples": []
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "innocent",
@@ -14190,7 +14506,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "incident room",
@@ -14209,7 +14526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "jail",
@@ -14228,7 +14546,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "investigate",
@@ -14309,7 +14628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "jailer",
@@ -14323,7 +14643,8 @@
         "definition": "a person who guards prisoners in a prison",
         "examples": []
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "jailbreak",
@@ -14337,7 +14658,8 @@
         "definition": "an escape from prison, usually by several people",
         "examples": []
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "jailbird",
@@ -14351,7 +14673,8 @@
         "definition": "a person who has spent a lot of time in prison",
         "examples": []
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "investigation",
@@ -14423,7 +14746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "joyride",
@@ -14437,7 +14761,8 @@
         "definition": "an occasion when somebody steals a car and drives it for pleasure, usually in a fast and dangerous way",
         "examples": []
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "jail",
@@ -14468,7 +14793,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "inspection",
@@ -14512,7 +14838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "joyriding",
@@ -14526,7 +14853,8 @@
         "definition": "the crime of stealing a car and driving it for pleasure, usually in a fast and dangerous way",
         "examples": []
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "joyrider",
@@ -14540,7 +14868,8 @@
         "definition": "a person who steals a car and drives it for pleasure, usually in a fast and dangerous way",
         "examples": []
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "jailhouse",
@@ -14563,7 +14892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "juvenile delinquency",
@@ -14577,7 +14907,8 @@
         "definition": "the problem of young people who are not yet adults committing crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "juvenile delinquent",
@@ -14591,7 +14922,8 @@
         "definition": "a young person who is not yet an adult and who is guilty of committing a crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "kidnapper",
@@ -14610,7 +14942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "kidnap",
@@ -14633,7 +14966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "kerb-crawling",
@@ -14647,7 +14981,8 @@
         "definition": "the action of driving slowly along a road looking for somebody who will get into the car and have sex in exchange for money",
         "examples": []
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "kidnapping",
@@ -14670,7 +15005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "labour camp",
@@ -14689,7 +15025,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "kerb-crawler",
@@ -14703,7 +15040,8 @@
         "definition": "a person who drives slowly along a road looking for somebody who will have sex with them in their car in exchange for money",
         "examples": []
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "launderer",
@@ -14731,7 +15069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "job",
@@ -15087,7 +15426,8 @@
         "definition": "to stop working in order to go on strike",
         "examples": []
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "kill",
@@ -15270,7 +15610,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "jump the lights",
@@ -15660,7 +16001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "larceny",
@@ -15679,7 +16021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "lese-majesty",
@@ -15693,7 +16036,8 @@
         "definition": "the act or crime of showing lack of respect for the king, queen or other ruler",
         "examples": []
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "launder",
@@ -15721,7 +16065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "killer",
@@ -15761,7 +16106,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "libellous",
@@ -15780,7 +16126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "killing",
@@ -15824,7 +16171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "life sentence",
@@ -15843,7 +16191,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "libel",
@@ -15874,7 +16223,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "lifer",
@@ -15893,7 +16243,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "libel",
@@ -15912,7 +16263,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "lift",
@@ -16090,7 +16442,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "lock-up",
@@ -16108,7 +16461,8 @@
         "definition": "a small shop that the owner does not live in; a garage that is usually separate from other buildings and that is rented to somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "lie detector",
@@ -16122,7 +16476,8 @@
         "definition": "a piece of equipment that is used to find out if somebody is telling the truth",
         "examples": []
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "life",
@@ -17017,7 +17372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "manhunt",
@@ -17031,7 +17387,8 @@
         "definition": "an organized search by a lot of people for a criminal or a prisoner who has escaped",
         "examples": []
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "malfeasance",
@@ -17050,7 +17407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "looter",
@@ -17078,7 +17436,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "manslaughter",
@@ -17105,7 +17464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "lock up",
@@ -17150,7 +17510,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "minimum security prison",
@@ -17164,7 +17525,8 @@
         "definition": "a prison in which prisoners have more freedom than in ordinary prisons",
         "examples": []
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "looting",
@@ -17196,7 +17558,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "loot",
@@ -17245,7 +17608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "lock away",
@@ -17289,7 +17653,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "misdemeanour",
@@ -17312,7 +17677,8 @@
         "definition": "a crime that is considered to be less serious than a felony",
         "examples": []
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "money launderer",
@@ -17331,7 +17697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "modern slavery",
@@ -17350,7 +17717,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "matricide",
@@ -17364,7 +17732,8 @@
         "definition": "the crime of killing your mother; a person who is guilty of this crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "mugging",
@@ -17400,7 +17769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "money laundering",
@@ -17419,7 +17789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "mule",
@@ -17459,7 +17830,8 @@
         "definition": "a slipper (= a soft shoe for wearing indoors) or a woman's shoe that is open around the heel",
         "examples": []
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "mugshot",
@@ -17473,7 +17845,8 @@
         "definition": "a photograph of somebody’s face kept by the police in their records to identify criminals",
         "examples": []
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "mug",
@@ -17501,7 +17874,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "line-up",
@@ -17550,7 +17924,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "missing person",
@@ -17569,7 +17944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "mugger",
@@ -17583,7 +17959,8 @@
         "definition": "a person who threatens or attacks somebody in order to steal their money, jewellery, etc., especially in a public place",
         "examples": []
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "mobster",
@@ -17602,7 +17979,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "mystery",
@@ -17714,7 +18092,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "no-go area",
@@ -17737,7 +18116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "murderer",
@@ -17760,7 +18140,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "offend",
@@ -17834,7 +18215,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "murder",
@@ -17901,7 +18283,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "murder",
@@ -17982,7 +18365,8 @@
         "definition": "to scream loudly and for a long time, especially in order to protest about something",
         "examples": []
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "nick",
@@ -18032,7 +18416,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "nick",
@@ -18089,7 +18474,8 @@
         "definition": "to go somewhere quickly",
         "examples": []
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "offender",
@@ -18125,7 +18511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "murderess",
@@ -18139,7 +18526,8 @@
         "definition": "a woman who has killed somebody deliberately and illegally; a female murderer",
         "examples": []
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "open-and-shut case",
@@ -18158,7 +18546,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "offence",
@@ -18263,7 +18652,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "open prison",
@@ -18277,7 +18667,8 @@
         "definition": "a prison in which prisoners have more freedom than in ordinary prisons",
         "examples": []
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "non-citizen",
@@ -18291,7 +18682,8 @@
         "definition": "a person who is not a citizen of the country in which they live or work",
         "examples": []
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "organized crime",
@@ -18310,7 +18702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "people smuggling",
@@ -18329,7 +18722,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "patricide",
@@ -18343,7 +18737,8 @@
         "definition": "the crime of killing your father; a person who is guilty of this crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "perjury",
@@ -18366,7 +18761,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "people trafficking",
@@ -18385,7 +18781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "penalize",
@@ -18430,7 +18827,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "penalty",
@@ -18533,7 +18931,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "perjurer",
@@ -18547,7 +18946,8 @@
         "definition": "a person who tells a lie in court after they have sworn to tell the truth",
         "examples": []
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "perjure",
@@ -18561,7 +18961,8 @@
         "definition": "to tell a lie in court after you have sworn to tell the truth",
         "examples": []
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "penitentiary",
@@ -18580,7 +18981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "outlaw",
@@ -18599,7 +19001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "pervert the course of justice",
@@ -18631,7 +19034,8 @@
         "definition": "to tell a lie or to do something in order to prevent the police, etc. from finding out the truth about a crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "perpetrate",
@@ -18658,7 +19062,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "perpetration",
@@ -18672,7 +19077,8 @@
         "definition": "the act of committing a crime or doing something wrong or evil",
         "examples": []
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "perp walk",
@@ -18686,7 +19092,8 @@
         "definition": "the act of walking into or out of a police station, courthouse, etc., that the police force a person they have arrested to do, so that the media can show and report that the person has been arrested",
         "examples": []
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "photofit",
@@ -18700,7 +19107,8 @@
         "definition": "a picture of a person who is wanted by the police, made by putting together photographs of different features of faces from information that is given by somebody who has seen the person",
         "examples": []
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "perpetrator",
@@ -18723,7 +19131,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "perp",
@@ -18742,7 +19151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "petty larceny",
@@ -18761,7 +19171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "phishing",
@@ -18775,7 +19186,8 @@
         "definition": "the activity of tricking people into providing personal or financial information by sending emails, texts, etc. that seem to be from companies that the person knows, often in order to steal money from them",
         "examples": []
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "person of interest",
@@ -18917,7 +19329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "pilferer",
@@ -18936,7 +19349,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "pilfer",
@@ -18959,7 +19373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "pickpocket",
@@ -18978,7 +19393,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "pimp",
@@ -18992,7 +19408,8 @@
         "definition": "a man who controls people working as prostitutes and lives on the money that they earn",
         "examples": []
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "pimp",
@@ -19028,7 +19445,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "pilferage",
@@ -19047,7 +19465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "pilfering",
@@ -19066,7 +19485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "piracy",
@@ -19089,7 +19509,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "pirate",
@@ -19130,7 +19551,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "poacher",
@@ -19161,7 +19583,8 @@
         "definition": "a person who has changed from one situation or attitude to the opposite one, especially somebody who used to oppose people in authority but is now in a position of authority",
         "examples": []
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "pirate",
@@ -19184,7 +19607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "poach",
@@ -19241,7 +19665,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "polygraph",
@@ -19255,7 +19680,8 @@
         "definition": "a lie detector (= a piece of equipment that is used, for example by the police, to find out if somebody is telling the truth)",
         "examples": []
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "pick somebody’s pocket",
@@ -19501,7 +19927,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "pinch",
@@ -19602,7 +20029,8 @@
         "definition": "to try to spend as little money as possible",
         "examples": []
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "possession",
@@ -19721,7 +20149,8 @@
         "definition": "if you already have or control something, it is difficult for somebody else to take it away from you, even if they have the legal right to it",
         "examples": []
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "premeditated",
@@ -19744,7 +20173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "post-mortem",
@@ -19780,7 +20210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "probation officer",
@@ -19794,7 +20225,8 @@
         "definition": "a person whose job is to check on people who are on probation and help them",
         "examples": []
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "prisoner of conscience",
@@ -19813,7 +20245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "prisoner",
@@ -19869,7 +20302,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "private detective",
@@ -19888,7 +20322,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "prison visitor",
@@ -19902,7 +20337,8 @@
         "definition": "(in the UK) a person who visits people in prison in order to help them, and who does not get paid for doing so",
         "examples": []
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "punish",
@@ -19954,7 +20390,8 @@
         "definition": "to blame yourself for something that has happened",
         "examples": []
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "probation",
@@ -19994,7 +20431,8 @@
         "definition": "a fixed period of time during which a student who has behaved badly or not worked hard must improve their work or their behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "purloin",
@@ -20013,7 +20451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "prisoner of war",
@@ -20036,7 +20475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "pursue",
@@ -20145,7 +20585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "punishable",
@@ -20172,7 +20613,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "pusher",
@@ -20191,7 +20633,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "prison",
@@ -20296,7 +20739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "pursuit",
@@ -20341,7 +20785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "protection",
@@ -20452,7 +20897,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "raid",
@@ -20505,7 +20951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "raider",
@@ -20528,7 +20975,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "question",
@@ -20592,7 +21040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "questioning",
@@ -20615,7 +21064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "raid",
@@ -20664,7 +21114,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "ransom",
@@ -20716,7 +21167,8 @@
         "definition": "a very large amount of money",
         "examples": []
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "push",
@@ -21023,7 +21475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "punishment",
@@ -21100,7 +21553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "rapist",
@@ -21119,7 +21573,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "ransom",
@@ -21138,7 +21593,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "remand centre",
@@ -21152,7 +21608,8 @@
         "definition": "a place where people are sent when they are accused of a crime and are waiting for their trial",
         "examples": []
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "record",
@@ -21367,7 +21824,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "rape",
@@ -21386,7 +21844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "rape",
@@ -21434,7 +21893,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "remission",
@@ -21491,7 +21951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "reformatory",
@@ -21505,7 +21966,8 @@
         "definition": "a type of school that young criminals are sent to instead of prison",
         "examples": []
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "remit",
@@ -21541,7 +22003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "regicide",
@@ -21555,7 +22018,8 @@
         "definition": "the crime of killing a king or queen; a person who is guilty of this crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "reprieve",
@@ -21583,7 +22047,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "restraining order",
@@ -21597,7 +22062,8 @@
         "definition": "an official order given by a judge which demands that something must or must not be done. A restraining order does not require a trial in court but only lasts for a limited period of time.",
         "examples": []
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "reprieve",
@@ -21625,7 +22091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "report",
@@ -21812,7 +22279,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "ringleader",
@@ -21831,7 +22299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "restorative justice",
@@ -21850,7 +22319,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "ring",
@@ -21984,7 +22454,8 @@
         "definition": "to announce officially that you are going to compete in an election, a competition, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "retribution",
@@ -22007,7 +22478,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "rioter",
@@ -22026,7 +22498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "rifle",
@@ -22063,7 +22536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "retributive",
@@ -22082,7 +22556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "rip off",
@@ -22114,7 +22589,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "riot",
@@ -22137,7 +22613,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "riot",
@@ -22224,7 +22701,8 @@
         "definition": "to grow and spread quickly",
         "examples": []
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "rob",
@@ -22268,7 +22746,8 @@
         "definition": "to borrow money from one person to pay back what you owe to another person; to take money from one thing to use for something else",
         "examples": []
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "riotous",
@@ -22308,7 +22787,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "robber",
@@ -22327,7 +22807,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "runner",
@@ -22396,7 +22877,8 @@
         "definition": "to leave or run away from somewhere in a hurry, especially to avoid paying a bill or receiving a punishment",
         "examples": []
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "romance scam",
@@ -22415,7 +22897,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "rustle",
@@ -22446,7 +22929,8 @@
         "definition": "to steal farm animals",
         "examples": []
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "running",
@@ -22515,7 +22999,8 @@
         "definition": "to set the speed at which something is done; to take the lead in doing something",
         "examples": []
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "rustler",
@@ -22534,7 +23019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "rustling",
@@ -22562,7 +23048,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "sanction",
@@ -22611,7 +23098,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "robbery",
@@ -22642,7 +23130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "sanction",
@@ -22665,7 +23154,8 @@
         "definition": "to punish somebody/something; to impose a sanction on something",
         "examples": []
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "scalper",
@@ -22679,7 +23169,8 @@
         "definition": "a person who buys tickets for concerts, sports events, etc. and then sells them to other people at a higher price",
         "examples": []
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "scammer",
@@ -22702,7 +23193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "scam",
@@ -22721,7 +23213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "scene-of-crime",
@@ -22740,7 +23233,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "scalp",
@@ -22758,7 +23252,8 @@
         "definition": "to sell tickets for a popular event illegally, at a price that is higher than the official price, especially outside a theatre, stadium, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "security risk",
@@ -22777,7 +23272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "scot-free",
@@ -22796,7 +23292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "scam",
@@ -22827,7 +23324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "Scotland Yard",
@@ -22850,7 +23348,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "scene",
@@ -23065,7 +23564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "seize",
@@ -23169,7 +23669,8 @@
         "definition": "if a part of your body seizes, you are unable to move it easily and it is often painful",
         "examples": []
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "run",
@@ -23787,7 +24288,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "sentence",
@@ -23838,7 +24340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "serious",
@@ -24014,7 +24517,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "shooting",
@@ -24075,7 +24579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "serial killer",
@@ -24094,7 +24599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "shoplifting",
@@ -24117,7 +24623,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 507
   },
   {
     "word": "serve",
@@ -24409,7 +24916,8 @@
         "definition": "to support two different parties, principles, etc. at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 508
   },
   {
     "word": "shoplifter",
@@ -24428,7 +24936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 509
   },
   {
     "word": "shoplift",
@@ -24447,7 +24956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 510
   },
   {
     "word": "shoot",
@@ -24769,7 +25279,8 @@
         "definition": "to do or say something that will cause you a lot of trouble or harm, especially when you are trying to get an advantage for yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 511
   },
   {
     "word": "sentence",
@@ -24889,7 +25400,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 512
   },
   {
     "word": "slander",
@@ -24908,7 +25420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 513
   },
   {
     "word": "smuggler",
@@ -24927,7 +25440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 514
   },
   {
     "word": "slanderous",
@@ -24946,7 +25460,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 515
   },
   {
     "word": "smuggle",
@@ -24977,7 +25492,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 516
   },
   {
     "word": "skim",
@@ -25064,7 +25580,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 517
   },
   {
     "word": "slander",
@@ -25087,7 +25604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 518
   },
   {
     "word": "smuggling",
@@ -25106,7 +25624,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 519
   },
   {
     "word": "social engineering",
@@ -25134,7 +25653,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 520
   },
   {
     "word": "solitary confinement",
@@ -25157,7 +25677,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 521
   },
   {
     "word": "snatch",
@@ -25218,7 +25739,8 @@
         "definition": "to win something even though it seemed up until the last moment that you would lose",
         "examples": []
       }
-    ]
+    ],
+    "id": 522
   },
   {
     "word": "stake-out",
@@ -25237,7 +25759,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 523
   },
   {
     "word": "speeding",
@@ -25264,7 +25787,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 524
   },
   {
     "word": "speed",
@@ -25342,7 +25866,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 525
   },
   {
     "word": "stab",
@@ -25394,7 +25919,8 @@
         "definition": "to do or say something that harms somebody who trusts you",
         "examples": []
       }
-    ]
+    ],
+    "id": 526
   },
   {
     "word": "stabbing",
@@ -25417,7 +25943,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 527
   },
   {
     "word": "solve",
@@ -25469,7 +25996,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 528
   },
   {
     "word": "Special Branch",
@@ -25488,7 +26016,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 529
   },
   {
     "word": "stalker",
@@ -25506,7 +26035,8 @@
         "definition": "a person who follows an animal quietly and slowly, especially in order to kill or capture it",
         "examples": []
       }
-    ]
+    ],
+    "id": 530
   },
   {
     "word": "stalk",
@@ -25568,7 +26098,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 531
   },
   {
     "word": "stake out",
@@ -25600,7 +26131,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 532
   },
   {
     "word": "stalking",
@@ -25619,7 +26151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 533
   },
   {
     "word": "statutory offence",
@@ -25633,7 +26166,8 @@
         "definition": "a crime that is described by law and can be punished by a court",
         "examples": []
       }
-    ]
+    ],
+    "id": 534
   },
   {
     "word": "stick-up",
@@ -25652,7 +26186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 535
   },
   {
     "word": "statutory rape",
@@ -25666,7 +26201,8 @@
         "definition": "the crime of having sex with somebody who is not legally old enough",
         "examples": []
       }
-    ]
+    ],
+    "id": 536
   },
   {
     "word": "supermax",
@@ -25680,7 +26216,8 @@
         "definition": "a maximum security prison, intended for very dangerous prisoners",
         "examples": []
       }
-    ]
+    ],
+    "id": 537
   },
   {
     "word": "supergrass",
@@ -25694,7 +26231,8 @@
         "definition": "a criminal who informs the police about the activities of a large number of other criminals, usually in order to get a less severe punishment",
         "examples": []
       }
-    ]
+    ],
+    "id": 538
   },
   {
     "word": "surveillance",
@@ -25717,7 +26255,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 539
   },
   {
     "word": "strip-search",
@@ -25731,7 +26270,8 @@
         "definition": "to search a person for illegal drugs, weapons, etc, for example at an airport or in a prison, after they have been made to take off all their clothes",
         "examples": []
       }
-    ]
+    ],
+    "id": 540
   },
   {
     "word": "suicide",
@@ -25771,7 +26311,8 @@
         "definition": "a person who commits suicide",
         "examples": []
       }
-    ]
+    ],
+    "id": 541
   },
   {
     "word": "strip search",
@@ -25785,7 +26326,8 @@
         "definition": "an act of searching a person for illegal drugs, weapons, etc., for example at an airport or in a prison, after they have been made to take off all their clothes",
         "examples": []
       }
-    ]
+    ],
+    "id": 542
   },
   {
     "word": "suspect",
@@ -25825,7 +26367,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 543
   },
   {
     "word": "suspect",
@@ -25926,7 +26469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 544
   },
   {
     "word": "surrender",
@@ -25974,7 +26518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 545
   },
   {
     "word": "steal",
@@ -26089,7 +26634,8 @@
         "definition": "to get the attention, success, etc. that somebody else was expecting, usually by saying or doing what they had intended to say or do",
         "examples": []
       }
-    ]
+    ],
+    "id": 546
   },
   {
     "word": "swindle",
@@ -26108,7 +26654,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 547
   },
   {
     "word": "suspended sentence",
@@ -26127,7 +26674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 548
   },
   {
     "word": "suspicious",
@@ -26192,7 +26740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 549
   },
   {
     "word": "swindler",
@@ -26211,7 +26760,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 550
   },
   {
     "word": "swindle",
@@ -26234,7 +26784,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 551
   },
   {
     "word": "terrorist",
@@ -26257,7 +26808,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 552
   },
   {
     "word": "tax evasion",
@@ -26271,7 +26823,8 @@
         "definition": "the crime of deliberately not paying all the taxes that you should pay",
         "examples": []
       }
-    ]
+    ],
+    "id": 553
   },
   {
     "word": "swipe",
@@ -26317,7 +26870,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 554
   },
   {
     "word": "term",
@@ -26464,7 +27018,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 555
   },
   {
     "word": "theft",
@@ -26491,7 +27046,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 556
   },
   {
     "word": "thievery",
@@ -26510,7 +27066,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 557
   },
   {
     "word": "tip off",
@@ -26537,7 +27094,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 558
   },
   {
     "word": "thug",
@@ -26560,7 +27118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 559
   },
   {
     "word": "thief",
@@ -26603,7 +27162,8 @@
         "definition": "very friendly, especially in a way that makes other people suspect that something wrong, illegal or dishonest is involved in the situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 560
   },
   {
     "word": "tout",
@@ -26643,7 +27203,8 @@
         "definition": "to sell tickets for a popular event illegally, at a price that is higher than the official price, especially outside a theatre, stadium, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 561
   },
   {
     "word": "terrorism",
@@ -26670,7 +27231,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 562
   },
   {
     "word": "thuggery",
@@ -26689,7 +27251,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 563
   },
   {
     "word": "terror",
@@ -26771,7 +27334,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 564
   },
   {
     "word": "tout",
@@ -26785,7 +27349,8 @@
         "definition": "a person who buys tickets for concerts, sports events, etc. and then sells them to other people at a higher price",
         "examples": []
       }
-    ]
+    ],
+    "id": 565
   },
   {
     "word": "tipster",
@@ -26803,7 +27368,8 @@
         "definition": "a person who gives information to the police about a crime or criminal",
         "examples": []
       }
-    ]
+    ],
+    "id": 566
   },
   {
     "word": "tip-off",
@@ -26839,7 +27405,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 567
   },
   {
     "word": "traffic",
@@ -26896,7 +27463,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 568
   },
   {
     "word": "traitor",
@@ -26923,7 +27491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 569
   },
   {
     "word": "treason",
@@ -26946,7 +27515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 570
   },
   {
     "word": "treasonable",
@@ -26965,7 +27535,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 571
   },
   {
     "word": "trespasser",
@@ -26984,7 +27555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 572
   },
   {
     "word": "trespass",
@@ -27011,7 +27583,8 @@
         "definition": "to do something wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 573
   },
   {
     "word": "trace",
@@ -27090,7 +27663,8 @@
         "definition": "to copy a map, drawing, etc. by drawing on tracing paper (= paper that you can see through) placed over it",
         "examples": []
       }
-    ]
+    ],
+    "id": 574
   },
   {
     "word": "trafficker",
@@ -27109,7 +27683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 575
   },
   {
     "word": "trafficking",
@@ -27128,7 +27703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 576
   },
   {
     "word": "undercover",
@@ -27155,7 +27731,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 577
   },
   {
     "word": "uncover",
@@ -27191,7 +27768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 578
   },
   {
     "word": "trespass",
@@ -27209,7 +27787,8 @@
         "definition": "something that you do that is morally wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 579
   },
   {
     "word": "undercover",
@@ -27228,7 +27807,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 580
   },
   {
     "word": "underground",
@@ -27284,7 +27864,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 581
   },
   {
     "word": "unlawful killing",
@@ -27307,7 +27888,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 582
   },
   {
     "word": "vandal",
@@ -27330,7 +27912,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 583
   },
   {
     "word": "under-the-counter",
@@ -27344,7 +27927,8 @@
         "definition": "bought or made secretly and sometimes illegally",
         "examples": []
       }
-    ]
+    ],
+    "id": 584
   },
   {
     "word": "vagrancy",
@@ -27363,7 +27947,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 585
   },
   {
     "word": "vandalism",
@@ -27390,7 +27975,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 586
   },
   {
     "word": "vandalize",
@@ -27409,7 +27995,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 587
   },
   {
     "word": "violence",
@@ -27486,7 +28073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 588
   },
   {
     "word": "under the counter",
@@ -27575,7 +28163,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 589
   },
   {
     "word": "vice",
@@ -27624,7 +28213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 590
   },
   {
     "word": "vigilantism",
@@ -27638,7 +28228,8 @@
         "definition": "the activity of being a vigilante; the practice of having vigilantes in a place",
         "examples": []
       }
-    ]
+    ],
+    "id": 591
   },
   {
     "word": "vigilante",
@@ -27669,7 +28260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 592
   },
   {
     "word": "vagrant",
@@ -27688,7 +28280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 593
   },
   {
     "word": "voluntary manslaughter",
@@ -27707,7 +28300,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 594
   },
   {
     "word": "victim",
@@ -27814,7 +28408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 595
   },
   {
     "word": "violent",
@@ -27916,7 +28511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 596
   },
   {
     "word": "walk free",
@@ -28239,7 +28835,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 597
   },
   {
     "word": "war crime",
@@ -28253,7 +28850,8 @@
         "definition": "a cruel act that is committed during a war and is against the international rules of war",
         "examples": []
       }
-    ]
+    ],
+    "id": 598
   },
   {
     "word": "wanted",
@@ -28276,7 +28874,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 599
   },
   {
     "word": "watch list",
@@ -28308,7 +28907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 600
   },
   {
     "word": "warder",
@@ -28322,7 +28922,8 @@
         "definition": "a person who guards prisoners in a prison",
         "examples": []
       }
-    ]
+    ],
+    "id": 601
   },
   {
     "word": "war criminal",
@@ -28341,7 +28942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 602
   },
   {
     "word": "witness",
@@ -28461,7 +29063,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 603
   },
   {
     "word": "warden",
@@ -28501,7 +29104,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 604
   },
   {
     "word": "witness",
@@ -28604,7 +29208,8 @@
         "definition": "to speak to people about your strong religious beliefs",
         "examples": []
       }
-    ]
+    ],
+    "id": 605
   },
   {
     "word": "weapon",
@@ -28669,7 +29274,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 606
   },
   {
     "word": "wrong",
@@ -28739,7 +29345,8 @@
         "definition": "used to say that if somebody does something bad to you, the situation will not be improved by doing something bad to them",
         "examples": []
       }
-    ]
+    ],
+    "id": 607
   },
   {
     "word": "work release",
@@ -28753,7 +29360,8 @@
         "definition": "a system that allows prisoners to leave prison during the day to go to work",
         "examples": []
       }
-    ]
+    ],
+    "id": 608
   },
   {
     "word": "witness tampering",
@@ -28772,7 +29380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 609
   },
   {
     "word": "youth custody",
@@ -28795,6 +29404,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 610
   }
 ]

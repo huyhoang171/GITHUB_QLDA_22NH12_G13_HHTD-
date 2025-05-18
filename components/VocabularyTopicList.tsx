@@ -83,9 +83,9 @@ export const TopicList: React.FC<TopicListProps> = ({ topics, onSelectTopic }) =
             },
           ]}
         >
-          <Text style={styles.title}>Học từ vựng theo chủ đề</Text>
+          <Text style={styles.title}>Learn vocabulary by topic</Text>
           <Text style={styles.description}>
-            Chọn một chủ đề để bắt đầu học từ vựng một cách thú vị!
+            Choose a topic to start learning vocabulary in a fun way!
           </Text>
         </Animated.View>
 

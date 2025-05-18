@@ -11,7 +11,8 @@
         "definition": "an autism spectrum disorder (= one of a range of conditions affecting brain development and the ability to communicate or form relationships with others) that is less severe than some other forms",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "aphasia",
@@ -25,7 +26,8 @@
         "definition": "the loss of the ability to understand or produce speech, because of brain damage",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "assisted living",
@@ -48,7 +50,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "ASL",
@@ -71,7 +74,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "accessibility",
@@ -120,7 +124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "American Sign Language",
@@ -143,7 +148,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "assistance dog",
@@ -162,7 +168,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "alexia",
@@ -176,7 +183,8 @@
         "definition": "the condition of not being able to recognize written words or letters, usually because of brain damage",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "access",
@@ -252,7 +260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "ASD",
@@ -271,7 +280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "autism spectrum disorder",
@@ -294,7 +304,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "autistic",
@@ -317,7 +328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "autism",
@@ -331,7 +343,8 @@
         "definition": "a condition affecting brain development that can be severe or mild. People with autism can find it difficult to communicate and form relationships, and may show repeated or limited patterns of thought and behaviour.",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "brain damage",
@@ -345,7 +358,8 @@
         "definition": "permanent damage to the brain caused by illness or an accident",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "blindness",
@@ -373,7 +387,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "British Sign Language",
@@ -396,7 +411,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "cerebral palsy",
@@ -410,7 +426,8 @@
         "definition": "a medical condition caused by a brain injury or development problem, usually before or at birth, that causes the loss of control of movement in the arms and legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "BSL",
@@ -433,7 +450,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "blue badge",
@@ -447,7 +465,8 @@
         "definition": "a blue card with a picture of a wheelchair that can be displayed in the window of a car. It shows that somebody is recognized as having a disability and is allowed to park in certain places where other people may not park.",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "blind",
@@ -611,7 +630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "deaf",
@@ -682,7 +702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "Down syndrome",
@@ -696,7 +717,8 @@
         "definition": "a medical condition that some people are born with, caused by a fault with one chromosome, which results in learning disabilities",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "disability",
@@ -732,7 +754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "closed-captioned",
@@ -746,7 +769,8 @@
         "definition": "having captions that can only be read if you have a special machine (= a decoder)",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "deafness",
@@ -774,7 +798,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "dyslexia",
@@ -788,7 +813,8 @@
         "definition": "a condition affecting the brain that causes difficulty in reading and spelling, for example, but does not affect intelligence",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "deaf-blind",
@@ -807,7 +833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "Down’s syndrome",
@@ -830,7 +857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "disabled",
@@ -882,7 +910,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "echolalia",
@@ -896,7 +925,8 @@
         "definition": "the act of repeating everything somebody says, as a result of a mental condition",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "dysphasia",
@@ -910,7 +940,8 @@
         "definition": "a condition affecting the brain that causes difficulty in speaking and understanding",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "hearing dog",
@@ -924,7 +955,8 @@
         "definition": "a dog trained to help a person who cannot hear well by making them aware of sounds such as the ringing of a phone or a doorbell",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "guide dog",
@@ -943,7 +975,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "hard of hearing",
@@ -975,7 +1008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "learning disability",
@@ -998,7 +1032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "learning difficulty",
@@ -1025,7 +1060,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "impaired",
@@ -1073,7 +1109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "hearing aid",
@@ -1092,7 +1129,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "mobility",
@@ -1128,7 +1166,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "limb difference",
@@ -1151,7 +1190,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "on the spectrum",
@@ -1205,7 +1245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "para-",
@@ -1254,7 +1295,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "Makaton™",
@@ -1277,7 +1319,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "impairment",
@@ -1308,7 +1351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "mobility scooter",
@@ -1322,7 +1366,8 @@
         "definition": "a type of light electric vehicle with a seat, a bar for controlling the direction in which it moves and three or more wheels, designed for people who are unable to move easily from one place to another because they are elderly, disabled, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "Paralympics",
@@ -1336,7 +1381,8 @@
         "definition": "an international competition for athletes who have a disability (= a physical or mental condition that makes it difficult for somebody to do some things that most other people can do)",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "paraplegic",
@@ -1355,7 +1401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "Paralympic",
@@ -1374,7 +1421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "Paralympian",
@@ -1388,7 +1436,8 @@
         "definition": "connected with the Paralympics or with somebody who competes in it",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "para-athlete",
@@ -1407,7 +1456,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "paralysis",
@@ -1439,7 +1489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "paraplegia",
@@ -1453,7 +1504,8 @@
         "definition": "paralysis (= loss of control or feeling) in the legs and lower body",
         "examples": []
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "Paralympian",
@@ -1467,7 +1519,8 @@
         "definition": "a person who competes in the Paralympics",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "quadriplegia",
@@ -1481,7 +1534,8 @@
         "definition": "a condition in which somebody is permanently unable to use their arms and legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "partially sighted",
@@ -1500,7 +1554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "paralyse",
@@ -1540,7 +1595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "screen reader",
@@ -1559,7 +1615,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "quadriplegic",
@@ -1578,7 +1635,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "sheltered housing",
@@ -1601,7 +1659,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "savant syndrome",
@@ -1615,7 +1674,8 @@
         "definition": "a condition in which somebody has an unusually high level of ability in a particular skill, for example in art or music, or in remembering things, but who has serious learning or social difficulties in other areas",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "ramp",
@@ -1656,7 +1716,8 @@
         "definition": "the long stage that models walk on during a fashion show",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "sighted",
@@ -1692,7 +1753,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "wheelchair",
@@ -1731,7 +1793,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "walking frame",
@@ -1750,7 +1813,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "walking stick",
@@ -1764,7 +1828,8 @@
         "definition": "a stick that you carry and use as a support when you are walking",
         "examples": []
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "Zimmer frame™",
@@ -1778,7 +1843,8 @@
         "definition": "a metal frame that people use to support them when they are walking, for example people who are old or who have a problem with their legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "SEN",
@@ -1801,7 +1867,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "Seeing Eye dog™",
@@ -1815,7 +1882,8 @@
         "definition": "a dog trained to guide a blind person",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "sign language",
@@ -1834,7 +1902,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "spina bifida",
@@ -1848,7 +1917,8 @@
         "definition": "a serious medical condition that some people are born with, affecting the spine and often causing paralysis (= loss of control or feeling) in the legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "special needs",
@@ -1867,7 +1937,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "walker",
@@ -1903,6 +1974,7 @@
         "definition": "a frame with wheels and a harness that enables a baby to walk around a room, supported by the frame",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   }
 ]

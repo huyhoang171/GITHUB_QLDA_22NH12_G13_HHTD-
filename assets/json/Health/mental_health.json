@@ -11,7 +11,8 @@
         "definition": "a drug used to treat the illness depression",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "antidepressant",
@@ -30,7 +31,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "anxiety",
@@ -96,7 +98,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "bipolar",
@@ -110,7 +113,8 @@
         "definition": "affected by or connected with bipolar disorder",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "battle fatigue",
@@ -124,7 +128,8 @@
         "definition": "a mental illness caused by fighting in a war",
         "examples": []
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "art therapy",
@@ -138,7 +143,8 @@
         "definition": "a type of psychotherapy in which you are encouraged to express yourself using art materials",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "autogenic training",
@@ -152,7 +158,8 @@
         "definition": "a way of relaxing and dealing with stress using positive thoughts and mental exercises",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "amnesia",
@@ -166,7 +173,8 @@
         "definition": "a medical condition in which somebody partly or completely loses their memory",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "anorexic",
@@ -180,7 +188,8 @@
         "definition": "affected by anorexia; connected with anorexia",
         "examples": []
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "anorexic",
@@ -194,7 +203,8 @@
         "definition": "a person who has anorexia",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "attention deficit disorder",
@@ -208,7 +218,8 @@
         "definition": "a condition, usually beginning in childhood, that makes it difficult for somebody to pay attention and concentrate, and may make it difficult for them to control their behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "ADD",
@@ -222,7 +233,8 @@
         "definition": "attention deficit disorder",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "baby blues",
@@ -236,7 +248,8 @@
         "definition": "a depressed feeling that some women get after the birth of a baby",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "ADHD",
@@ -250,7 +263,8 @@
         "definition": "attention deficit hyperactivity disorder",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "anorexia",
@@ -264,7 +278,8 @@
         "definition": "a mental illness causing somebody to control the amount of food they eat in an extreme way that leads to dangerous weight loss, usually because they have an intense fear of gaining weight and believe they are overweight when they are not",
         "examples": []
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "aversion therapy",
@@ -278,7 +293,8 @@
         "definition": "a way of helping somebody to lose a bad habit, by making the habit seem to be associated with an effect that is not pleasant",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "BDD",
@@ -297,7 +313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "BPD",
@@ -311,7 +328,8 @@
         "definition": "borderline personality disorder (= a personality disorder in which somebody finds it difficult to control their emotions or form stable relationships with other people and often acts impulsively without thinking about the consequences)",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "come off",
@@ -405,7 +423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "catatonia",
@@ -419,7 +438,8 @@
         "definition": "a condition resulting from a mental illness, especially schizophrenia, in which a person does not move for long periods",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "combat fatigue",
@@ -433,7 +453,8 @@
         "definition": "a mental illness caused by fighting in a war",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "body dysmorphic disorder",
@@ -452,7 +473,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "breakdown",
@@ -539,7 +561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "detoxification",
@@ -576,7 +599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "detoxify",
@@ -612,7 +636,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "bulimia",
@@ -626,7 +651,8 @@
         "definition": "a mental illness in which somebody repeatedly eats too much and then forces themselves to vomit",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "complex",
@@ -688,7 +714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "borderline personality disorder",
@@ -711,7 +738,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "bipolar disorder",
@@ -725,7 +753,8 @@
         "definition": "a mental illness in which somebody has periods of time when they feel extremely depressed and tired and other periods when they feel extremely active and excited with a lot of energy",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "dissociative identity disorder",
@@ -739,7 +768,8 @@
         "definition": "a mental illness in which somebody feels uncertain about who they are and feels that they have more than one separate identity, each one having its own name, voice, memories, personality, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "deranged",
@@ -774,7 +804,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "DID",
@@ -788,7 +819,8 @@
         "definition": "dissociative identity disorder (= a mental illness in which somebody feels uncertain about who they are and feels that they have more than one separate identity, each one having its own name, voice, memories, personality, etc.)",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "disordered",
@@ -828,7 +860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "exhibitionism",
@@ -846,7 +879,8 @@
         "definition": "the mental condition that makes somebody want to show their sexual organs in public",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "family therapy",
@@ -865,7 +899,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "eating disorder",
@@ -879,7 +914,8 @@
         "definition": "a condition in which somebody develops eating habits that are not healthy as a way of dealing with difficult feelings or situations",
         "examples": []
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "egomania",
@@ -893,7 +929,8 @@
         "definition": "a condition in which somebody is extremely interested in or concerned about themselves, in a way that is not reasonable",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "electroshock therapy",
@@ -907,7 +944,8 @@
         "definition": "a medical treatment for some serious mental illnesses in which electricity is passed through the patient's brain",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "gender dysphoria",
@@ -921,7 +959,8 @@
         "definition": "sad or anxious feelings that somebody has because their gender identity does not match the sex they were said to have at birth",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "depressed",
@@ -995,7 +1034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "depression",
@@ -1066,7 +1106,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "group therapy",
@@ -1085,7 +1126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "hypochondriac",
@@ -1099,7 +1141,8 @@
         "definition": "worrying so much that you may be or become ill that it badly affects your life; affected by hypochondria",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "inferiority complex",
@@ -1118,7 +1161,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "hyperactivity",
@@ -1132,7 +1176,8 @@
         "definition": "a state in which a person, especially a child, is too active and only able to keep quiet and still for short periods",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "diazepam",
@@ -1146,7 +1191,8 @@
         "definition": "a drug that is used to make people feel less anxious and more relaxed",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "hypochondriac",
@@ -1160,7 +1206,8 @@
         "definition": "a person who worries so much that they may be or become ill that it badly affects their life; a person who has hypochondria",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "health anxiety",
@@ -1183,7 +1230,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "electroconvulsive therapy",
@@ -1197,7 +1245,8 @@
         "definition": "a medical treatment for some serious mental illnesses in which electricity is passed through the patient's brain",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "mental",
@@ -1278,7 +1327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "megalomania",
@@ -1296,7 +1346,8 @@
         "definition": "a mental illness in which somebody has a much greater belief in their own importance or power than is reasonable",
         "examples": []
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "mentally",
@@ -1331,7 +1382,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "mindful",
@@ -1367,7 +1419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "mindfulness",
@@ -1399,7 +1452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "maladjusted",
@@ -1413,7 +1467,8 @@
         "definition": "having mental and emotional problems that lead to unacceptable behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "manic-depressive",
@@ -1427,7 +1482,8 @@
         "definition": "bipolar (= affected by or connected with bipolar disorder)",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "mental health",
@@ -1479,7 +1535,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "music therapy",
@@ -1498,7 +1555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "instability",
@@ -1530,7 +1588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "kleptomania",
@@ -1544,7 +1603,8 @@
         "definition": "a mental illness in which somebody has a strong desire, which they cannot control, to steal things",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "monomania",
@@ -1558,7 +1618,8 @@
         "definition": "too much interest in or enthusiasm for just one thing so that it is not healthy",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "non compos mentis",
@@ -1572,7 +1633,8 @@
         "definition": "not in a normal mental state",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "paranoid",
@@ -1612,7 +1674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "obsessive compulsive disorder",
@@ -1626,7 +1689,8 @@
         "definition": "a mental illness in which somebody feels they have to repeat certain actions or activities to get rid of fears or unpleasant thoughts",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "narcissistic personality disorder",
@@ -1640,7 +1704,8 @@
         "definition": "a personality disorder in which somebody has an idea of their own importance that is not reasonable, a strong need to be admired by other people, and a lack of understanding of other people's feelings",
         "examples": []
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "orthorexia",
@@ -1659,7 +1724,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "nervous breakdown",
@@ -1682,7 +1748,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "neurosis",
@@ -1714,7 +1781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "personality disorder",
@@ -1728,7 +1796,8 @@
         "definition": "a condition in which somebody thinks, feels and behaves very differently from most other people in a way that causes them to have serious difficulties in their life and in their relationships with other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "mood swing",
@@ -1747,7 +1816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "paranoia",
@@ -1779,7 +1849,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "psychiatric",
@@ -1806,7 +1877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "postnatal depression",
@@ -1820,7 +1892,8 @@
         "definition": "a medical condition in which a woman feels very sad and anxious in the period after her baby is born, and may have negative thoughts or problems dealing with normal life",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "paranoid",
@@ -1834,7 +1907,8 @@
         "definition": "a person who is paranoid",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "persecution complex",
@@ -1848,7 +1922,8 @@
         "definition": "a strong false belief or fear that other people hate you or are trying to harm you",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "psychiatry",
@@ -1862,7 +1937,8 @@
         "definition": "the study and treatment of mental illnesses",
         "examples": []
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "OCD",
@@ -1881,7 +1957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "psychopathy",
@@ -1895,7 +1972,8 @@
         "definition": "a serious personality disorder that means somebody does not care about other people's feelings, does not feel sorry when they have done something bad, and may want to be violent or cruel towards others",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "post-traumatic stress disorder",
@@ -1918,7 +1996,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "psychopath",
@@ -1936,7 +2015,8 @@
         "definition": "an offensive word for a person who you think is strange and violent or aggressive",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "psychoanalytic",
@@ -1955,7 +2035,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "psychoanalysis",
@@ -1969,7 +2050,8 @@
         "definition": "a method of treating somebody who has problems with their mental health by encouraging them to talk about past experiences and feelings, and trying to help them understand fears and feelings that they were not conscious of",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "post-partum depression",
@@ -1983,7 +2065,8 @@
         "definition": "a medical condition in which a woman feels very sad and anxious in the period after her baby is born, and may have negative thoughts or problems dealing with normal life",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "psychiatrist",
@@ -2006,7 +2089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "PTSD",
@@ -2020,7 +2104,8 @@
         "definition": "post-traumatic stress disorder (= a mental illness following a very frightening or shocking experience, which usually involves feeling anxious and depressed and having frightening thoughts)",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "psychosis",
@@ -2034,7 +2119,8 @@
         "definition": "a serious mental health condition in which somebody sees or hears things that are not there, or believes things that are not true",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "psychosomatic",
@@ -2057,7 +2143,8 @@
         "definition": "connected with the relationship between the mind and the body",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "pyromania",
@@ -2071,7 +2158,8 @@
         "definition": "a mental illness that causes a strong desire to set fire to things",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "psychotic",
@@ -2098,7 +2186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "rebirthing",
@@ -2112,7 +2201,8 @@
         "definition": "a type of psychotherapy that involves making the experience of being born seem to happen again using controlled breathing",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "psychotic",
@@ -2126,7 +2216,8 @@
         "definition": "a person who has psychosis (= a serious mental illness in which somebody sees or hears things that are not there, or believes things that are not true)",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "quit",
@@ -2220,7 +2311,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "rehab",
@@ -2243,7 +2335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "SAD",
@@ -2257,7 +2350,8 @@
         "definition": "seasonal affective disorder (= a condition in which a person feels sad and tired during late autumn and winter when there is not much light from the sun)",
         "examples": []
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "section",
@@ -2284,7 +2378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "seasonal affective disorder",
@@ -2298,7 +2393,8 @@
         "definition": "a condition in which a person feels sad and tired during late autumn and winter when there is not much light from the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "self-harm",
@@ -2312,7 +2408,8 @@
         "definition": "the practice of deliberately injuring yourself, for example by cutting yourself, as a way to express or try to deal with feeling very unhappy or worried",
         "examples": []
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "psychotherapy",
@@ -2326,7 +2423,8 @@
         "definition": "the treatment of mental health problems by talking with a therapist (= a person trained to do this)",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "temazepam",
@@ -2340,7 +2438,8 @@
         "definition": "a drug that is used to make people feel less anxious and more relaxed",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "shell shock",
@@ -2354,7 +2453,8 @@
         "definition": "a mental illness caused by fighting in a war",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "sociopath",
@@ -2368,7 +2468,8 @@
         "definition": "a person who has a personality disorder that means they behave in an aggressive, violent or unpleasant way towards other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "shock therapy",
@@ -2382,7 +2483,8 @@
         "definition": "a way of treating a mental illness by giving electric shocks or a drug that has a similar effect",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "therapist",
@@ -2409,7 +2511,8 @@
         "definition": "a person who is trained to treat somebody who has problems with their mental health by talking with them",
         "examples": []
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "self-mutilation",
@@ -2423,7 +2526,8 @@
         "definition": "the act of deliberately injuring yourself, for example by cutting yourself, as a way to express or try to deal with feeling very unhappy or worried",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "schizophrenia",
@@ -2437,7 +2541,8 @@
         "definition": "a mental illness in which a person becomes unable to link thought, emotion and behaviour, leading to withdrawal from reality and personal relationships",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "tranquillizer",
@@ -2456,7 +2561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "Valium™",
@@ -2470,7 +2576,8 @@
         "definition": "a drug used to reduce anxiety (= feelings of fear and worry)",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "trauma",
@@ -2515,7 +2622,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "therapy",
@@ -2571,6 +2679,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   }
 ]

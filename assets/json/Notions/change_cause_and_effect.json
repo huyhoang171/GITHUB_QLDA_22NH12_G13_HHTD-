@@ -37,7 +37,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "acceleration",
@@ -82,7 +83,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "advance",
@@ -215,7 +217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "accrual",
@@ -243,7 +246,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "advance",
@@ -373,7 +377,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "account for",
@@ -457,7 +462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "accumulative",
@@ -476,7 +482,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "accumulate",
@@ -516,7 +523,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "accrue",
@@ -552,7 +560,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "accumulation",
@@ -580,7 +589,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "add up to",
@@ -608,7 +618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "aftermath",
@@ -639,7 +650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "appreciation",
@@ -714,7 +726,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "ameliorate",
@@ -741,7 +754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "amelioration",
@@ -760,7 +774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "after-effect",
@@ -774,7 +789,8 @@
         "definition": "the after-effects of a drug, an illness or an unpleasant event are the feelings that you experience later as a result of it",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "appreciate",
@@ -892,7 +908,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "because",
@@ -919,7 +936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "attributable",
@@ -938,7 +956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "arise",
@@ -1033,7 +1052,8 @@
         "definition": "to gradually start to be seen as you move towards it",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "augmentation",
@@ -1060,7 +1080,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "because of",
@@ -1087,7 +1108,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "bring about",
@@ -1106,7 +1128,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "be guaranteed to do something",
@@ -1218,7 +1241,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "backwash",
@@ -1236,7 +1260,8 @@
         "definition": "waves caused by a boat moving through water; the movement of water back into the sea after a wave has hit the beach",
         "examples": []
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "augment",
@@ -1259,7 +1284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "boost",
@@ -1298,7 +1324,8 @@
         "definition": "to steal something",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "boost",
@@ -1351,7 +1378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "booster",
@@ -1396,7 +1424,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "be/lie at the bottom of something",
@@ -1670,7 +1699,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "build up",
@@ -1745,7 +1775,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "butterfly effect",
@@ -1759,7 +1790,8 @@
         "definition": "the idea that a very small change in one part of a system can have large effects in other parts",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "build-up",
@@ -1808,7 +1840,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "by-product",
@@ -1836,7 +1869,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "causally",
@@ -1855,7 +1889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "causality",
@@ -1869,7 +1904,8 @@
         "definition": "the relationship between something that happens and the reason for it happening; the principle that nothing can happen without a cause",
         "examples": []
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "causal",
@@ -1892,7 +1928,8 @@
         "definition": "a word such as because that introduces a statement about the cause of something",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "causation",
@@ -1910,7 +1947,8 @@
         "definition": "the relationship between something that happens and the reason for it happening; the principle that nothing can happen without a cause",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "causative",
@@ -1933,7 +1971,8 @@
         "definition": "a causative verb expresses a cause, for example blacken, which means ‘to cause to become black’",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "at the hands of somebody",
@@ -2954,7 +2993,8 @@
         "definition": "to hold your hands together, and twist and press them together in a way that shows you are anxious or upset, especially when you cannot change the situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "by means of something",
@@ -3121,7 +3161,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "climb",
@@ -3183,7 +3224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "collapse",
@@ -3275,7 +3317,8 @@
         "definition": "if a lung or blood vessel collapses or is collapsed, it falls in and becomes flat and empty",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "change",
@@ -3509,7 +3552,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "climb",
@@ -3696,7 +3740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "bring",
@@ -3876,7 +3921,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "collapse",
@@ -3962,7 +4008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "consequent",
@@ -3985,7 +4032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "come into effect",
@@ -4242,7 +4290,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "consequence",
@@ -4331,7 +4380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "change",
@@ -4676,7 +4726,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "contribution",
@@ -4815,7 +4866,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "consequential",
@@ -4843,7 +4895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "contributor",
@@ -4888,7 +4941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "cos",
@@ -4907,7 +4961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "contributory",
@@ -4947,7 +5002,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "coz",
@@ -4961,7 +5017,8 @@
         "definition": "because",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "corollary",
@@ -4980,7 +5037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "cause",
@@ -5099,7 +5157,8 @@
         "definition": "to be united with somebody about something that you both agree on, believe in or wish to achieve",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "creep",
@@ -5157,7 +5216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "contribute",
@@ -5275,7 +5335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "consequently",
@@ -5298,7 +5359,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "cumulatively",
@@ -5317,7 +5379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "cumulative",
@@ -5349,7 +5412,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "cause",
@@ -5404,7 +5468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "creep up",
@@ -5423,7 +5488,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "decline",
@@ -5499,7 +5565,8 @@
         "definition": "if a noun, an adjective or a pronoun declines, it has different forms according to whether it is the subject or the object of a verb, whether it is in the singular or plural, etc. When you decline a noun, etc., you list these forms.",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "consequentially",
@@ -5517,7 +5584,8 @@
         "definition": "in a way that is important or that will have important results",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "deterioration",
@@ -5540,7 +5608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "deteriorate",
@@ -5567,7 +5636,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "domino effect",
@@ -5586,7 +5656,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "decrease",
@@ -5641,7 +5712,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "decrease",
@@ -5684,7 +5756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "dip",
@@ -5759,7 +5832,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "decline",
@@ -5802,7 +5876,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "downturn",
@@ -5833,7 +5908,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "downwardly",
@@ -5856,7 +5932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "drop away",
@@ -5875,7 +5952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "develop",
@@ -6071,7 +6149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "downswing",
@@ -6103,7 +6182,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "drop",
@@ -6527,7 +6607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "development",
@@ -6659,7 +6740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "drop off",
@@ -6687,7 +6769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "effect",
@@ -6714,7 +6797,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "downward",
@@ -6749,7 +6833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "effective",
@@ -6814,7 +6899,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "effectiveness",
@@ -6833,7 +6919,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "effectual",
@@ -6852,7 +6939,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "effectively",
@@ -6908,7 +6996,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "effectuate",
@@ -6922,7 +7011,8 @@
         "definition": "to make something happen",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "effect",
@@ -7179,7 +7269,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "due",
@@ -7338,7 +7429,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "downwards",
@@ -7382,7 +7474,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "edge",
@@ -7427,7 +7520,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "ensuing",
@@ -7450,7 +7544,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "end result",
@@ -7469,7 +7564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "expand",
@@ -7566,7 +7662,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "elevation",
@@ -7616,7 +7713,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "elevate",
@@ -7670,7 +7768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "ensue",
@@ -7693,7 +7792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "effectually",
@@ -7712,7 +7812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "expansion",
@@ -7743,7 +7844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "fall",
@@ -7989,7 +8091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "fall",
@@ -8161,7 +8264,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "factor",
@@ -8249,7 +8353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "fall back",
@@ -8277,7 +8382,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "falling-off",
@@ -8291,7 +8397,8 @@
         "definition": "a reduction in the number, amount or quality of something",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "eventuate",
@@ -8305,7 +8412,8 @@
         "definition": "to happen as a result of something",
         "examples": []
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "following",
@@ -8324,7 +8432,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "fall-off",
@@ -8343,7 +8452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "flow from",
@@ -8362,7 +8472,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "fall off",
@@ -8381,7 +8492,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "guarantee",
@@ -8460,7 +8572,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "happen",
@@ -8647,7 +8760,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "gain",
@@ -8724,7 +8838,8 @@
         "definition": "used to say that you need to suffer if you want to achieve something",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "grow",
@@ -8970,7 +9085,8 @@
         "definition": "to not delay in getting things done",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "follow",
@@ -9335,7 +9451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "hereby",
@@ -9349,7 +9466,8 @@
         "definition": "as a result of this statement, and in a way that makes something legal",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "growth",
@@ -9492,7 +9610,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "hereupon",
@@ -9506,7 +9625,8 @@
         "definition": "after this; as a direct result of this situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "improvement",
@@ -9582,7 +9702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "herein",
@@ -9601,7 +9722,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "imply",
@@ -9666,7 +9788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "implication",
@@ -9711,7 +9834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "gain",
@@ -9868,7 +9992,8 @@
         "definition": "used to say that you have to take risks if you want to achieve things and be successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "hence",
@@ -9896,7 +10021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "in consequence (of something)",
@@ -9985,7 +10111,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "growing",
@@ -10029,7 +10156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "incremental",
@@ -10052,7 +10180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "increased",
@@ -10075,7 +10204,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "improve",
@@ -10142,7 +10272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "increase",
@@ -10213,7 +10344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "induce",
@@ -10266,7 +10398,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "increment",
@@ -10294,7 +10427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "increasingly",
@@ -10333,7 +10467,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "indirectly",
@@ -10369,7 +10504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "ineffective",
@@ -10396,7 +10532,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "incrementally",
@@ -10419,7 +10556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "ineffectively",
@@ -10433,7 +10571,8 @@
         "definition": "in a way that does not produce the intended result or a successful result",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "ineffectual",
@@ -10456,7 +10595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "increase",
@@ -10523,7 +10663,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "ineffectually",
@@ -10537,7 +10678,8 @@
         "definition": "without achieving much or the intended result; in a weak way",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "indirect",
@@ -10603,7 +10745,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "instigator",
@@ -10622,7 +10765,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "ineffectiveness",
@@ -10641,7 +10785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "instigate",
@@ -10673,7 +10818,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "jump",
@@ -10987,7 +11133,8 @@
         "definition": "used to tell somebody to hurry and do something quickly",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "life-changing",
@@ -11010,7 +11157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "lower",
@@ -11130,7 +11278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "instigation",
@@ -11157,7 +11306,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "leap",
@@ -11256,7 +11406,8 @@
         "definition": "used to advise somebody to think about the possible results or dangers of something before doing it",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "jump",
@@ -11361,7 +11512,8 @@
         "definition": "to keep your advantage over somebody, especially your competitors, by taking action before they do or by making sure you know more than they do",
         "examples": []
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "lead",
@@ -11650,7 +11802,8 @@
         "definition": "you can give somebody the opportunity to do something, but you cannot force them to do it if they do not want to",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "leap",
@@ -11742,7 +11895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "mount",
@@ -11862,7 +12016,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "occasion",
@@ -12014,7 +12169,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "mean",
@@ -12327,7 +12483,8 @@
         "definition": "to have good intentions, although their effect may not be good",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "multiply",
@@ -12396,7 +12553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "network effect",
@@ -12415,7 +12573,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "nosedive",
@@ -12442,7 +12601,8 @@
         "definition": "to fall suddenly with the front part pointing towards the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "means",
@@ -12609,7 +12769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "nosedive",
@@ -12649,7 +12810,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "plunge",
@@ -12711,7 +12873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "mounting",
@@ -12738,7 +12901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "outcome",
@@ -12797,7 +12961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "occasion",
@@ -12824,7 +12989,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "on account of somebody/something",
@@ -13133,7 +13299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "proceed from",
@@ -13152,7 +13319,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "plunge",
@@ -13218,7 +13386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "provoke",
@@ -13262,7 +13431,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "product",
@@ -13393,7 +13563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "proliferate",
@@ -13416,7 +13587,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "react",
@@ -13497,7 +13669,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "reactive",
@@ -13525,7 +13698,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "raise",
@@ -13905,7 +14079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "recovery",
@@ -13971,7 +14146,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "produce",
@@ -14112,7 +14288,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "reduce",
@@ -14188,7 +14365,8 @@
         "definition": "the state of being poorer than you were before. People say ‘living in reduced circumstances’ to avoid saying ‘poor’.",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "recover",
@@ -14284,7 +14462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "reason",
@@ -14496,7 +14675,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "relatable",
@@ -14528,7 +14708,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "rally",
@@ -14589,7 +14770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "proliferation",
@@ -14612,7 +14794,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "reaction",
@@ -14753,7 +14936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "reduction",
@@ -14846,7 +15030,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "rocket",
@@ -14903,7 +15088,8 @@
         "definition": "to attack a place with rockets",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "responsible",
@@ -15023,7 +15209,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "ripple effect",
@@ -15042,7 +15229,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "rise",
@@ -15190,7 +15378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "result",
@@ -15250,7 +15439,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "repercussion",
@@ -15269,7 +15459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "shoot up",
@@ -15309,7 +15500,8 @@
         "definition": "to inject an illegal drug directly into your blood",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "root",
@@ -15477,7 +15669,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "serve",
@@ -15769,7 +15962,8 @@
         "definition": "to support two different parties, principles, etc. at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "secondary",
@@ -15842,7 +16036,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "side effect",
@@ -15874,7 +16069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "result",
@@ -16052,7 +16248,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "spawn",
@@ -16088,7 +16285,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "spike",
@@ -16141,7 +16339,8 @@
         "definition": "to cause the plans of an opponent to fail",
         "examples": []
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "spiral",
@@ -16177,7 +16376,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "significantly",
@@ -16262,7 +16462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "sink",
@@ -16506,7 +16707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "spike",
@@ -16555,7 +16757,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "rise",
@@ -16842,7 +17045,8 @@
         "definition": "usually used in orders to tell somebody to get out of bed and be active",
         "examples": []
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "set off",
@@ -16901,7 +17105,8 @@
         "definition": "to make somebody start doing something such as laughing, crying or talking",
         "examples": []
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "spiral",
@@ -16945,7 +17150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "spiral down",
@@ -16964,7 +17170,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "significant",
@@ -17061,7 +17268,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "spiral downward",
@@ -17080,7 +17288,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "spiral downwards",
@@ -17099,7 +17308,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "surge",
@@ -17173,7 +17383,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "therefore",
@@ -17196,7 +17407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "thus",
@@ -17245,7 +17457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "thereby",
@@ -17264,7 +17477,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "stem from",
@@ -17283,7 +17497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "therein lies…",
@@ -17315,7 +17530,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "surge",
@@ -17364,7 +17580,8 @@
         "definition": "to increase suddenly",
         "examples": []
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "take effect",
@@ -17621,7 +17838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "trend",
@@ -17708,7 +17926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "trigger",
@@ -17749,7 +17968,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "upshot",
@@ -17768,7 +17988,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "thereupon",
@@ -17796,7 +18017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "upswing",
@@ -17819,7 +18041,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "whereby",
@@ -17838,7 +18061,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "upsurge",
@@ -17861,7 +18085,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "upwards",
@@ -17918,7 +18143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "trigger",
@@ -17962,7 +18188,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "underlie",
@@ -17985,7 +18212,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "upturn",
@@ -18016,7 +18244,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "whereupon",
@@ -18035,7 +18264,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "upward",
@@ -18075,7 +18305,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "’cause",
@@ -18089,6 +18320,7 @@
         "definition": "because",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   }
 ]

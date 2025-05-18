@@ -92,7 +92,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "abdication",
@@ -120,7 +121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "abandonment",
@@ -148,7 +150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "agonizing",
@@ -171,7 +174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "abort",
@@ -216,7 +220,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "ambitious",
@@ -256,7 +261,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "a mug’s game",
@@ -314,7 +320,8 @@
         "definition": "an activity that is unlikely to be successful or make a profit",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "a miss is as good as a mile",
@@ -390,7 +397,8 @@
         "definition": "there is no real difference between only just failing in something and failing in it badly because the result is still the same",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "a dead duck",
@@ -765,7 +773,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "abdicate",
@@ -792,7 +801,8 @@
         "definition": "to fail or refuse to perform a duty",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "a big, huge, tough, etc. ask",
@@ -811,7 +821,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "assault",
@@ -881,7 +892,8 @@
         "definition": "an act that threatens to harm somebody physically, whether or not actual harm is done",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "a long shot",
@@ -1297,7 +1309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "a close thing",
@@ -1728,7 +1741,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "abortive",
@@ -1751,7 +1765,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "a nail in somebody’s/something’s coffin",
@@ -1835,7 +1850,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "also-ran",
@@ -1858,7 +1874,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "attempted",
@@ -1881,7 +1898,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "badly",
@@ -1994,7 +2012,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "balk",
@@ -2030,7 +2049,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "barely",
@@ -2100,7 +2120,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "banana skin",
@@ -2123,7 +2144,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "batten down the hatches",
@@ -2146,7 +2168,8 @@
         "definition": "to shut all the entrances to the lower part, especially because a storm is expected",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "backfire",
@@ -2177,7 +2200,8 @@
         "definition": "to make a sudden noise like an explosion",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "bang goes something",
@@ -2231,7 +2255,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "attempt",
@@ -2321,7 +2346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "be (all) downhill",
@@ -2362,7 +2388,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "barren",
@@ -2406,7 +2433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "baulk",
@@ -2442,7 +2470,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "back the wrong horse",
@@ -2547,7 +2576,8 @@
         "definition": "to support somebody/something that is not successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "be barking up the wrong tree",
@@ -2609,7 +2639,8 @@
         "definition": "if somebody can do a task for you, there is no point in doing it yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "at the expense of somebody/something",
@@ -2755,7 +2786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "bedevil",
@@ -2778,7 +2810,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "bear hard, heavily, severely, etc. on somebody",
@@ -3080,7 +3113,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "battle",
@@ -3250,7 +3284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "be on the skids",
@@ -3295,7 +3330,8 @@
         "definition": "to stop somebody/something from being successful or making progress",
         "examples": []
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "be no picnic",
@@ -3352,7 +3388,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "be done for",
@@ -3481,7 +3518,8 @@
         "definition": "used to say that something was, or will be, done immediately",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "bomb",
@@ -3598,7 +3636,8 @@
         "definition": "to go very fast",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "be out of the game",
@@ -4015,7 +4054,8 @@
         "definition": "used to ask why somebody is behaving as they are",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "bomb",
@@ -4069,7 +4109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "bite the dust",
@@ -4203,7 +4244,8 @@
         "definition": "after an unpleasant experience you are careful to avoid something similar",
         "examples": []
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "bite off more than you can chew",
@@ -4337,7 +4379,8 @@
         "definition": "after an unpleasant experience you are careful to avoid something similar",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "big",
@@ -4653,7 +4696,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "battle",
@@ -4708,7 +4752,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "bungle",
@@ -4731,7 +4776,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "bothersome",
@@ -4745,7 +4791,8 @@
         "definition": "causing trouble or difficulty",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "bother",
@@ -4797,7 +4844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "be up against a brick wall",
@@ -4889,7 +4937,8 @@
         "definition": "to try to work without the necessary material, money, information, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "be banging, etc. your head against a brick wall",
@@ -5690,7 +5739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "break down",
@@ -5805,7 +5855,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "burden",
@@ -5841,7 +5892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "bungling",
@@ -5860,7 +5912,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "breakdown",
@@ -5947,7 +6000,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "burden",
@@ -5982,7 +6036,8 @@
         "definition": "a heavy load that is difficult to carry",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "car crash",
@@ -6013,7 +6068,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "Canute",
@@ -6032,7 +6088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "checkered",
@@ -6050,7 +6107,8 @@
         "definition": "having a pattern of squares of different colours",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "burdensome",
@@ -6069,7 +6127,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "catch up with",
@@ -6119,7 +6178,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "chequered",
@@ -6137,7 +6197,8 @@
         "definition": "having a pattern of squares of different colours",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "chase your (own) tail",
@@ -6238,7 +6299,8 @@
         "definition": "to be very busy but in fact achieve very little",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "catch",
@@ -6318,7 +6380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "chance your arm",
@@ -6366,7 +6429,8 @@
         "definition": "to take a risk although you will probably fail",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "cockeyed",
@@ -6394,7 +6458,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "be downhill all the way",
@@ -7908,7 +7973,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "collapse",
@@ -8000,7 +8066,8 @@
         "definition": "if a lung or blood vessel collapses or is collapsed, it falls in and becomes flat and empty",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "come a cropper",
@@ -8028,7 +8095,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "come a gutser",
@@ -8046,7 +8114,8 @@
         "definition": "to fail or be defeated",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "collapse",
@@ -8132,7 +8201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "come unstuck",
@@ -8164,7 +8234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "come to grief",
@@ -8252,7 +8323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "come unglued",
@@ -8270,7 +8342,8 @@
         "definition": "if a plan, etc. comes unglued, it does not work successfully",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "choke",
@@ -8357,7 +8430,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "come off",
@@ -8451,7 +8525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "come to nothing",
@@ -8910,7 +8985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "cook somebody’s goose",
@@ -9000,7 +9076,8 @@
         "definition": "to destroy somebody’s chances of success",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "conquest",
@@ -9050,7 +9127,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "come/go down/up in the world",
@@ -9634,7 +9712,8 @@
         "definition": "a situation in which you have all the possible disadvantages at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "collapsed",
@@ -9680,7 +9759,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "crumble",
@@ -9749,7 +9829,8 @@
         "definition": "that is the situation and we cannot change it, so we must accept it",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "crestfallen",
@@ -9768,7 +9849,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "close, but no cigar",
@@ -10199,7 +10281,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "deadlock",
@@ -10230,7 +10313,8 @@
         "definition": "a type of lock on a door that needs a key to open or close it",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "crisis",
@@ -10310,7 +10394,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "cost",
@@ -10467,7 +10552,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "deadlocked",
@@ -10486,7 +10572,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "crackbrained",
@@ -10505,7 +10592,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "debacle",
@@ -10528,7 +10616,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "defeatism",
@@ -10547,7 +10636,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "damper",
@@ -10578,7 +10668,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "defeatist",
@@ -10597,7 +10688,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "defeat",
@@ -10686,7 +10778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "defeat",
@@ -10762,7 +10855,8 @@
         "definition": "to win something even though it seemed up until the last moment that you would lose",
         "examples": []
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "dead in the water",
@@ -11137,7 +11231,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "dead on arrival",
@@ -11512,7 +11607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "defeatist",
@@ -11531,7 +11627,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "deficiency",
@@ -11567,7 +11664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "desperate",
@@ -11669,7 +11767,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "cut your losses",
@@ -11853,7 +11952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "demise",
@@ -11885,7 +11985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "dead weight",
@@ -11912,7 +12013,8 @@
         "definition": "a person or thing that makes it difficult for something to succeed or change",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "die a/the death",
@@ -12108,7 +12210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "disappointingly",
@@ -12127,7 +12230,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "disadvantage",
@@ -12150,7 +12254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "disaster area",
@@ -12186,7 +12291,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "difficulty",
@@ -12295,7 +12401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "disaster",
@@ -12397,7 +12504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "disadvantage",
@@ -12460,7 +12568,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "difficult",
@@ -12570,7 +12679,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "disappointing",
@@ -12605,7 +12715,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "dismal",
@@ -12645,7 +12756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "dismally",
@@ -12677,7 +12789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "dog",
@@ -12718,7 +12831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "dog",
@@ -12955,7 +13069,8 @@
         "definition": "if somebody can do a task for you, there is no point in doing it yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "disastrously",
@@ -12974,7 +13089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "doom",
@@ -13001,7 +13117,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "dop",
@@ -13029,7 +13146,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "elusively",
@@ -13043,7 +13161,8 @@
         "definition": "in a way that is difficult to find, define or achieve",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "elusive",
@@ -13070,7 +13189,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "enemy",
@@ -13176,7 +13296,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "disastrous",
@@ -13203,7 +13324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "don’t give up the day job",
@@ -13226,7 +13348,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "elude",
@@ -13266,7 +13389,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "do something till you are blue in the face",
@@ -13387,7 +13511,8 @@
         "definition": "to scream loudly and for a long time, especially in order to protest about something",
         "examples": []
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "failure",
@@ -13535,7 +13660,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "fail",
@@ -13585,7 +13711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "faff",
@@ -13608,7 +13735,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "fall by the wayside",
@@ -13644,7 +13772,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "fail",
@@ -13844,7 +13973,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "fall flat",
@@ -13959,7 +14089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "failed",
@@ -13982,7 +14113,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "fall on stony ground",
@@ -14035,7 +14167,8 @@
         "definition": "completely broke (= without money)",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "fall between two stools",
@@ -14199,7 +14332,8 @@
         "definition": "used to talk about two ways of looking at the same situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "fall short of something",
@@ -14325,7 +14459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "false start",
@@ -14348,7 +14483,8 @@
         "definition": "a situation when somebody taking part in a race starts before the official signal has been given",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "fare",
@@ -14371,7 +14507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "fallow",
@@ -14399,7 +14536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "faint-hearted",
@@ -14418,7 +14556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "fall flat on your face",
@@ -14533,7 +14672,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "fall",
@@ -14705,7 +14845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "fiasco",
@@ -14732,7 +14873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "fizzle out",
@@ -14755,7 +14897,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "fizzer",
@@ -14774,7 +14917,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "fatally",
@@ -14802,7 +14946,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "false move",
@@ -14821,7 +14966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "fatal",
@@ -14869,7 +15015,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "fluff",
@@ -14905,7 +15052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "fool’s errand",
@@ -14924,7 +15072,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "flatline",
@@ -14952,7 +15101,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "flop",
@@ -14979,7 +15129,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "flop",
@@ -15032,7 +15183,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "(fight) a losing battle",
@@ -15202,7 +15354,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "foredoomed",
@@ -15225,7 +15378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "flounder",
@@ -15274,7 +15428,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "flunk",
@@ -15302,7 +15457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "fool’s gold",
@@ -15320,7 +15476,8 @@
         "definition": "something that you think is valuable or will earn you a lot of money, but which has no chance of succeeding",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "founder",
@@ -15356,7 +15513,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "forlorn",
@@ -15405,7 +15563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "frustrated",
@@ -15458,7 +15617,8 @@
         "definition": "not satisfied sexually",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "frustrate",
@@ -15490,7 +15650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "fray at/around the edges/seams",
@@ -15535,7 +15696,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "futilely",
@@ -15549,7 +15711,8 @@
         "definition": "in a way that has no purpose because there is no chance of success",
         "examples": []
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "frustration",
@@ -15602,7 +15765,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "get behind",
@@ -15638,7 +15802,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "get/go nowhere",
@@ -15776,7 +15941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "futile",
@@ -15807,7 +15973,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "glitchy",
@@ -15835,7 +16002,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "glitch",
@@ -15858,7 +16026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "glitch",
@@ -15894,7 +16063,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "gloomy",
@@ -15943,7 +16113,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "go down like a lead balloon",
@@ -15989,7 +16160,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "futility",
@@ -16012,7 +16184,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "go astray",
@@ -16057,7 +16230,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "give somebody/something up as a bad job",
@@ -16413,7 +16587,8 @@
         "definition": "to stop working in order to go on strike",
         "examples": []
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "go belly up",
@@ -16472,7 +16647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "give (somebody) (some, no, any, etc.) trouble",
@@ -16746,7 +16922,8 @@
         "definition": "if you talk to somebody about your problems and worries, instead of keeping them to yourself, they seem less serious",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "hare-brained",
@@ -16765,7 +16942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "goner",
@@ -16784,7 +16962,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "go up in smoke",
@@ -16895,7 +17074,8 @@
         "definition": "a decision that people describe as being made in a smoke-filled room is made by a small group of people at a private meeting, rather than in an open and democratic way",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "go down the tube/tubes",
@@ -17004,7 +17184,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "go off the rails",
@@ -17093,7 +17274,8 @@
         "definition": "to leave the track suddenly",
         "examples": []
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "hang-up",
@@ -17125,7 +17307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "has-been",
@@ -17148,7 +17331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "hard",
@@ -17317,7 +17501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "get somebody nowhere/not get somebody anywhere",
@@ -18099,7 +18284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "hassle",
@@ -18139,7 +18325,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "haunt",
@@ -18188,7 +18375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "hassle",
@@ -18211,7 +18399,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "hard",
@@ -18634,7 +18823,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "hit-and-miss",
@@ -18657,7 +18847,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "have a (hard/difficult) job doing/to do something",
@@ -19013,7 +19204,8 @@
         "definition": "to stop working in order to go on strike",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "have a thin time (of it)",
@@ -19288,7 +19480,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "have had your day",
@@ -20139,7 +20332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "hitch",
@@ -20167,7 +20361,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "hit the buffers",
@@ -20644,7 +20839,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "hit-or-miss",
@@ -20658,7 +20854,8 @@
         "definition": "not done in a careful or planned way and therefore not likely to be successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "hit/miss the mark",
@@ -21012,7 +21209,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "house of cards",
@@ -21035,7 +21233,8 @@
         "definition": "a structure built out of playing cards",
         "examples": []
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "hopelessly",
@@ -21066,7 +21265,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "hot mess",
@@ -21085,7 +21285,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "hopeless",
@@ -21151,7 +21352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "hostile",
@@ -21218,7 +21420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "have your work cut out",
@@ -21703,7 +21906,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "hurdle",
@@ -21756,7 +21960,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "ill-fated",
@@ -21779,7 +21984,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "ill-advised",
@@ -21802,7 +22008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "ill-advisedly",
@@ -21816,7 +22023,8 @@
         "definition": "in a way that is not sensible or is likely to cause difficulties in the future",
         "examples": []
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "ill-omened",
@@ -21830,7 +22038,8 @@
         "definition": "seeming likely to be unlucky or unsuccessful because there are a lot of unlucky signs relating to it",
         "examples": []
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "if the worst comes to the worst",
@@ -21938,7 +22147,8 @@
         "definition": "a situation in which you have all the possible disadvantages at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "implode",
@@ -21966,7 +22176,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "inauspicious",
@@ -21985,7 +22196,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "indaba",
@@ -22013,7 +22225,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "incommode",
@@ -22032,7 +22245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "inconvenience",
@@ -22068,7 +22282,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "ill-starred",
@@ -22087,7 +22302,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "implosion",
@@ -22110,7 +22326,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "inconvenience",
@@ -22129,7 +22346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "inauspiciously",
@@ -22143,7 +22361,8 @@
         "definition": "in a way that shows signs that the future will not be good or successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "ineffective",
@@ -22170,7 +22389,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "in/into/out of the reckoning",
@@ -22215,7 +22435,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "insuperable",
@@ -22229,7 +22450,8 @@
         "definition": "that cannot be dealt with successfully",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "instability",
@@ -22261,7 +22483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "in/out of the running (for something)",
@@ -22330,7 +22553,8 @@
         "definition": "to set the speed at which something is done; to take the lead in doing something",
         "examples": []
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "in deep water(s)",
@@ -22609,7 +22833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "ineffectively",
@@ -22623,7 +22848,8 @@
         "definition": "in a way that does not produce the intended result or a successful result",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "ineffectual",
@@ -22646,7 +22872,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "insurmountable",
@@ -22669,7 +22896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "in vain",
@@ -22735,7 +22963,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "interfere with",
@@ -22784,7 +23013,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "it’s no use (doing something)",
@@ -22992,7 +23222,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "lame duck",
@@ -23020,7 +23251,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "knock-back",
@@ -23039,7 +23271,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "in the face of something",
@@ -23623,7 +23856,8 @@
         "definition": "to destroy or remove somebody/something completely",
         "examples": []
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "leave somebody in the lurch",
@@ -23663,7 +23897,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "languish",
@@ -23691,7 +23926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "let down",
@@ -23754,7 +23990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "kill the goose that lays the golden egg/eggs",
@@ -23937,7 +24174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "lead (somebody) nowhere",
@@ -24226,7 +24464,8 @@
         "definition": "you can give somebody the opportunity to do something, but you cannot force them to do it if they do not want to",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "let something slip (through your fingers)",
@@ -24507,7 +24746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "kill or cure",
@@ -24690,7 +24930,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "knock",
@@ -24739,7 +24980,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "knock somebody off their pedestal/perch",
@@ -25021,7 +25263,8 @@
         "definition": "used to express surprise",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "lost",
@@ -25223,7 +25466,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "loss",
@@ -25407,7 +25651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "loser",
@@ -25456,7 +25701,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "lose",
@@ -25727,7 +25973,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "let the side down",
@@ -26467,7 +26714,8 @@
         "definition": "used to talk about two ways of looking at the same situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "lost cause",
@@ -26486,7 +26734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "manqué",
@@ -26505,7 +26754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "malfunction",
@@ -26528,7 +26778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "messed-up",
@@ -26556,7 +26807,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "miscarry",
@@ -26579,7 +26831,8 @@
         "definition": "to fail",
         "examples": []
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "meltdown",
@@ -26615,7 +26868,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "malfunction",
@@ -26638,7 +26892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "make a rod for your own back",
@@ -26695,7 +26950,8 @@
         "definition": "to control a person or a group of people very severely",
         "examples": []
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "miscommunication",
@@ -26718,7 +26974,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "muck up",
@@ -26750,7 +27007,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "mockery",
@@ -26795,7 +27053,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "negativity",
@@ -26809,7 +27068,8 @@
         "definition": "the fact of tending to consider only the bad side of something/somebody; a lack of enthusiasm or hope",
         "examples": []
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "misfire",
@@ -26836,7 +27096,8 @@
         "definition": "to fail to send out a bullet, etc. when fired",
         "examples": []
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "negligence",
@@ -26859,7 +27120,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "neglect",
@@ -26916,7 +27178,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "miss",
@@ -27196,7 +27459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "negligent",
@@ -27236,7 +27500,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "mistake",
@@ -27356,7 +27621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "no-hoper",
@@ -27383,7 +27649,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "nettlesome",
@@ -27397,7 +27664,8 @@
         "definition": "causing trouble or difficulty",
         "examples": []
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "nonentity",
@@ -27411,7 +27679,8 @@
         "definition": "a person without any special qualities, who has not achieved anything important",
         "examples": []
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "not get to first base (with something/somebody)",
@@ -27447,7 +27716,8 @@
         "definition": "to fail to make a successful start in a project, relationship, etc.; to fail to get through the first stage",
         "examples": []
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "(not) get/have a look-in",
@@ -27470,7 +27740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "make life difficult (for somebody)",
@@ -28365,7 +28636,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "not for (the) want of doing something",
@@ -28441,7 +28713,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "no pain, no gain",
@@ -28572,7 +28845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "obstacle",
@@ -28625,7 +28899,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "not for want/lack of trying",
@@ -28833,7 +29108,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "obstacle course",
@@ -28860,7 +29136,8 @@
         "definition": "an area of land with many objects that are difficult to climb, jump over or go through, which is used, especially by soldiers, for improving physical skills and strength",
         "examples": []
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "make or break somebody/something",
@@ -29388,7 +29665,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "on a knife-edge",
@@ -29420,7 +29698,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "overcome",
@@ -29477,7 +29756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "non-starter",
@@ -29496,7 +29776,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "odds",
@@ -29617,7 +29898,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "not come to much",
@@ -30076,7 +30358,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "over-optimistic",
@@ -30104,7 +30387,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "overreach",
@@ -30123,7 +30407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "on the rocks",
@@ -30283,7 +30568,8 @@
         "definition": "extremely steady and calm; that you can rely on",
         "examples": []
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "overambitious",
@@ -30315,7 +30601,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "overplay your hand",
@@ -30338,7 +30625,8 @@
         "definition": "to fail to achieve success by judging your position to be stronger than it really is",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "on a hiding to nothing",
@@ -30391,7 +30679,8 @@
         "definition": "having no chance of success, or not getting much advantage even if you do succeed",
         "examples": []
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "overshadow",
@@ -30432,7 +30721,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "pessimism",
@@ -30455,7 +30745,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "paper tiger",
@@ -30469,7 +30760,8 @@
         "definition": "a person, a country or a situation that seems or claims to be powerful or dangerous but is not really",
         "examples": []
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "pessimistic",
@@ -30496,7 +30788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "pathetic",
@@ -30540,7 +30833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "pathetically",
@@ -30568,7 +30862,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "pessimistically",
@@ -30582,7 +30877,8 @@
         "definition": "in a way that shows that you expect bad things to happen or something not to be successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "own goal",
@@ -30605,7 +30901,8 @@
         "definition": "something that you do that achieves the opposite of what you wanted and that brings you a disadvantage",
         "examples": []
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "play up",
@@ -30637,7 +30934,8 @@
         "definition": "to try to make something seem more important than it really is",
         "examples": []
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "pike on",
@@ -30651,7 +30949,8 @@
         "definition": "to fail to provide the help or support that somebody hoped for or expected",
         "examples": []
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "pipe dream",
@@ -30665,7 +30964,8 @@
         "definition": "a hope or plan that is impossible to achieve or not practical",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "pitfall",
@@ -30688,7 +30988,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "poor relation",
@@ -30707,7 +31008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "problematic",
@@ -30730,7 +31032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "precarious",
@@ -30774,7 +31077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "plague",
@@ -30818,7 +31122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "pious",
@@ -30863,7 +31168,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "pull down",
@@ -30899,7 +31205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "problem",
@@ -31081,7 +31388,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "pushed",
@@ -31118,7 +31426,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "put something down to experience",
@@ -31278,7 +31587,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "reversal",
@@ -31331,7 +31641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "quagmire",
@@ -31354,7 +31665,8 @@
         "definition": "a difficult or dangerous situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "put the skids under somebody/something",
@@ -31399,7 +31711,8 @@
         "definition": "to stop somebody/something from being successful or making progress",
         "examples": []
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "rearguard action",
@@ -31418,7 +31731,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "rocky",
@@ -31450,7 +31764,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "put out",
@@ -31588,7 +31903,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "put to",
@@ -31625,7 +31941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "rub",
@@ -31653,7 +31970,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "reverse",
@@ -31753,7 +32071,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "run up against",
@@ -31772,7 +32091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "run somebody/something close",
@@ -31948,7 +32268,8 @@
         "definition": "to take a risk by doing something that is dangerous or that may be illegal",
         "examples": []
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "run around like a headless chicken",
@@ -31971,7 +32292,8 @@
         "definition": "to be very busy and active trying to do something, but not very organized, with the result that you do not succeed",
         "examples": []
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "self-defeating",
@@ -31994,7 +32316,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "scupper",
@@ -32017,7 +32340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "shakily",
@@ -32049,7 +32373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "scuttle",
@@ -32089,7 +32414,8 @@
         "definition": "to sink a ship deliberately by making holes in the side or bottom of it",
         "examples": []
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "shaky",
@@ -32150,7 +32476,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "setback",
@@ -32173,7 +32500,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "shiftless",
@@ -32192,7 +32520,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "sink",
@@ -32436,7 +32765,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "small-time",
@@ -32455,7 +32785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "sink or swim",
@@ -32699,7 +33030,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "stillborn",
@@ -32727,7 +33059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "slippage",
@@ -32755,7 +33088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "spoiler",
@@ -32799,7 +33133,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "snag",
@@ -32835,7 +33170,8 @@
         "definition": "a sausage",
         "examples": []
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "strife",
@@ -32866,7 +33202,8 @@
         "definition": "trouble or difficulty of any kind",
         "examples": []
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "so near and yet so far",
@@ -32968,7 +33305,8 @@
         "definition": "used to comment on something that was almost successful but in fact failed",
         "examples": []
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "strike out",
@@ -33027,7 +33365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "so much for something",
@@ -33379,7 +33718,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "struggle",
@@ -33514,7 +33854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "struggle",
@@ -33603,7 +33944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "somebody’s/something’s days are numbered",
@@ -34454,7 +34796,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "surmount",
@@ -34490,7 +34833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "stumble",
@@ -34527,7 +34871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "take the gilt off the gingerbread",
@@ -34558,7 +34903,8 @@
         "definition": "to do or be something that makes a situation or achievement less attractive or impressive",
         "examples": []
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "take the bull by the horns",
@@ -34651,7 +34997,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "tank",
@@ -34683,7 +35030,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "talk down",
@@ -34706,7 +35054,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "the cards/odds are stacked against you",
@@ -34737,7 +35086,8 @@
         "definition": "you are likely to succeed because the conditions are good and you have an advantage",
         "examples": []
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "technical hitch",
@@ -34760,7 +35110,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "the kiss of death",
@@ -34812,7 +35163,8 @@
         "definition": "to kiss somebody suddenly or secretly",
         "examples": []
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "the tide turned",
@@ -34912,7 +35264,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "(throw) a spanner in the works",
@@ -34935,7 +35288,8 @@
         "definition": "(to cause) a delay or problem with something that somebody is planning or doing",
         "examples": []
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "the weak link (in the chain)",
@@ -35141,7 +35495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "torpedo",
@@ -35169,7 +35524,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "to little/no avail",
@@ -35201,7 +35557,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "thorny",
@@ -35237,7 +35594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "the writing is on the wall",
@@ -35359,7 +35717,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "thumbs up/down",
@@ -35461,7 +35820,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "train wreck",
@@ -35488,7 +35848,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "tortured",
@@ -35511,7 +35872,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "to no effect",
@@ -35768,7 +36130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "turkey",
@@ -35817,7 +36180,8 @@
         "definition": "to talk about something seriously",
         "examples": []
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "trouble",
@@ -36091,7 +36455,8 @@
         "definition": "if you talk to somebody about your problems and worries, instead of keeping them to yourself, they seem less serious",
         "examples": []
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "troublesome",
@@ -36110,7 +36475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "unavailing",
@@ -36129,7 +36495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "undesirable",
@@ -36160,7 +36527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "underdog",
@@ -36183,7 +36551,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "unattainable",
@@ -36206,7 +36575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "unambitious",
@@ -36229,7 +36599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "undershoot",
@@ -36247,7 +36618,8 @@
         "definition": "to land before reaching the runway",
         "examples": []
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "undo",
@@ -36304,7 +36676,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "undistinguished",
@@ -36323,7 +36696,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "throw your hand in",
@@ -37344,7 +37718,8 @@
         "definition": "to hold your hands together, and twist and press them together in a way that shows you are anxious or upset, especially when you cannot change the situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "undoing",
@@ -37363,7 +37738,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "unfulfilled",
@@ -37395,7 +37771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "underperform",
@@ -37409,7 +37786,8 @@
         "definition": "to not be as successful as was expected",
         "examples": []
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "unpromising",
@@ -37423,7 +37801,8 @@
         "definition": "not likely to be successful or show good results",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "unrealized",
@@ -37455,7 +37834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "unfancied",
@@ -37474,7 +37854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "unravel",
@@ -37506,7 +37887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "unrewarded",
@@ -37525,7 +37907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "unrecognized",
@@ -37553,7 +37936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "unsuccessful",
@@ -37580,7 +37964,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "unsuccessfully",
@@ -37599,7 +37984,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "unfeasible",
@@ -37618,7 +38004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "unviable",
@@ -37637,7 +38024,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "vainly",
@@ -37656,7 +38044,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "washed up",
@@ -37675,7 +38064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "well meant",
@@ -37698,7 +38088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "well meaning",
@@ -37721,7 +38112,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "vain",
@@ -37787,7 +38179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "washout",
@@ -37806,7 +38199,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "wasted",
@@ -37838,7 +38232,8 @@
         "definition": "strongly affected by alcohol or drugs",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "well intentioned",
@@ -37852,7 +38247,8 @@
         "definition": "intending to be helpful or useful but not always succeeding very well",
         "examples": []
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "unworkable",
@@ -37875,7 +38271,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "wipeout",
@@ -37902,7 +38299,8 @@
         "definition": "a fall from a surfboard",
         "examples": []
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "Z-list",
@@ -37921,7 +38319,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "Z-lister",
@@ -37935,7 +38334,8 @@
         "definition": "one of a group of people who are considered to be the least famous, successful or important, especially in entertainment",
         "examples": []
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "write off",
@@ -37985,7 +38385,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "write-off",
@@ -38017,7 +38418,8 @@
         "definition": "an act of cancelling a debt and accepting that it will never be paid",
         "examples": []
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "wildcat",
@@ -38044,7 +38446,8 @@
         "definition": "that has not been carefully planned and that will probably not be successful; that does not follow normal standards and methods",
         "examples": []
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "win or lose",
@@ -38189,7 +38592,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "up against something",
@@ -38633,7 +39037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "you win",
@@ -38778,7 +39183,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "when push comes to shove",
@@ -38867,6 +39273,7 @@
         "definition": "when there is no other choice; when everything else has failed",
         "examples": []
       }
-    ]
+    ],
+    "id": 407
   }
 ]

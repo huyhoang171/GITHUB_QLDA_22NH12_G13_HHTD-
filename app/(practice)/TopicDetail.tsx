@@ -146,15 +146,6 @@ const TopicDetail = () => {
           )}
         </View>
 
-        <TouchableOpacity
-          style={styles.practiceButton}
-          onPress={() => {
-            // Navigate to practice screen when implemented
-            console.log('Navigate to practice for lesson:', lesson.id);
-          }}
-        >
-          <Text style={styles.practiceButtonText}>Start Practice</Text>
-        </TouchableOpacity>
       </ScrollView>
     </View>
   );

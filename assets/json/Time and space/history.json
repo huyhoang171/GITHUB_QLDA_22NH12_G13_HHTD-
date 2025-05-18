@@ -24,7 +24,8 @@
         "definition": "to fail or refuse to perform a duty",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "accession",
@@ -68,7 +69,8 @@
         "definition": "a thing that is added to a collection of objects, paintings, etc. in a library or museum",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "abbey",
@@ -91,7 +93,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "agrarian revolution",
@@ -105,7 +108,8 @@
         "definition": "a period when farming in a country changes completely as a result of new methods or a change in who owns the land",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "accede",
@@ -150,7 +154,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "aboriginal",
@@ -182,7 +187,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "abolition",
@@ -209,7 +215,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "ahistorical",
@@ -223,7 +230,8 @@
         "definition": "not showing any knowledge of history or of what has happened before",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "AD",
@@ -250,7 +258,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "amphitheatre",
@@ -282,7 +291,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "anachronistic",
@@ -310,7 +320,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "anachronism",
@@ -346,7 +357,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "anciently",
@@ -365,7 +377,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "ancestry",
@@ -392,7 +405,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "ancestor",
@@ -429,7 +443,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "action",
@@ -687,7 +702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "Anglo-Saxon",
@@ -714,7 +730,8 @@
         "definition": "of or connected with the Old English language",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "ancient",
@@ -766,7 +783,8 @@
         "definition": "the people who lived in ancient times, especially the Egyptians, Greeks and Romans",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "archaeological",
@@ -785,7 +803,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "age",
@@ -1054,7 +1073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "archaeologist",
@@ -1073,7 +1093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "Anglo-Saxon",
@@ -1095,7 +1116,8 @@
         "definition": "the Old English language",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "annex",
@@ -1118,7 +1140,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "antiquity",
@@ -1171,7 +1194,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "aristocrat",
@@ -1190,7 +1214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "archaic",
@@ -1227,7 +1252,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "archaeology",
@@ -1241,7 +1267,8 @@
         "definition": "the study of cultures of the past, and of periods of history by examining the parts of buildings and objects found in the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "archive",
@@ -1259,7 +1286,8 @@
         "definition": "to move information that is not often needed to a different disk, tape or other computer to store it",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "archive",
@@ -1295,7 +1323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "arrow",
@@ -1335,7 +1364,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "art history",
@@ -1349,7 +1379,8 @@
         "definition": "the study of the history of painting, sculpture, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "archer",
@@ -1363,7 +1394,8 @@
         "definition": "a person who shoots with a bow and arrows",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "aristocracy",
@@ -1394,7 +1426,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "barbarian",
@@ -1417,7 +1450,8 @@
         "definition": "a person who behaves very badly and has no respect for art, education, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "archeologist",
@@ -1431,7 +1465,8 @@
         "definition": "a person who studies archeology",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "armour",
@@ -1484,7 +1519,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "baron",
@@ -1511,7 +1547,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "baroque",
@@ -1534,7 +1571,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "battlefield",
@@ -1570,7 +1608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "BC",
@@ -1593,7 +1632,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "battlements",
@@ -1607,7 +1647,8 @@
         "definition": "a low wall around the top of a castle with spaces in it that people inside could shoot through",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "bibliographical",
@@ -1635,7 +1676,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "bibliographer",
@@ -1649,7 +1691,8 @@
         "definition": "a person who studies the history of books and their production",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "behead",
@@ -1668,7 +1711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "belle époque",
@@ -1682,7 +1726,8 @@
         "definition": "the period of comfortable and peaceful life before World War I",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "bibliography",
@@ -1705,7 +1750,8 @@
         "definition": "the study of the history of books and their production",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "BCE",
@@ -1728,7 +1774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "Bronze Age",
@@ -1742,7 +1789,8 @@
         "definition": "the period in history between the Stone Age and the Iron Age when people used tools and weapons made of bronze",
         "examples": []
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "bath",
@@ -1837,7 +1885,8 @@
         "definition": "to lose money on a business agreement",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "bygone",
@@ -1864,7 +1913,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "bow",
@@ -1922,7 +1972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "battle",
@@ -2092,7 +2143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "Cambrian",
@@ -2110,7 +2162,8 @@
         "definition": "relating to Wales",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "Cambrian",
@@ -2124,7 +2177,8 @@
         "definition": "the first period of the Palaeozoic",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "c",
@@ -2169,7 +2223,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "cannon",
@@ -2197,7 +2252,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "cavalry",
@@ -2220,7 +2276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "carbon dating",
@@ -2234,7 +2291,8 @@
         "definition": "a method of calculating the age of very old objects by measuring the amounts of different forms of carbon in them",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "carboniferous",
@@ -2252,7 +2310,8 @@
         "definition": "of the period in the earth’s history when layers of coal were formed underground",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "carriage",
@@ -2315,7 +2374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "cede",
@@ -2334,7 +2394,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "CE",
@@ -2352,7 +2413,8 @@
         "definition": "Common Era (the period since the birth of Christ when the Christian calendar starts counting years). CE can be used to give dates in the same way as AD.",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "Celtic",
@@ -2371,7 +2433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "castle",
@@ -2419,7 +2482,8 @@
         "definition": "a person’s home is a place where they can be private and safe and do as they like",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "chronological",
@@ -2442,7 +2506,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "chariot",
@@ -2456,7 +2521,8 @@
         "definition": "an open vehicle with two wheels, pulled by horses, used in ancient times in battle and for racing",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "Christian era",
@@ -2470,7 +2536,8 @@
         "definition": "the period of time that begins with the birth of Christ",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "chapter",
@@ -2582,7 +2649,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "chronology",
@@ -2605,7 +2673,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "chronicle",
@@ -2628,7 +2697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "century",
@@ -2741,7 +2811,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "chaperone",
@@ -2763,7 +2834,8 @@
         "definition": "a person, such as a parent or a teacher, who goes with a group of young people on a trip or to a dance to encourage good behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "circa",
@@ -2782,7 +2854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "civilization",
@@ -2840,7 +2913,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "civil war",
@@ -2867,7 +2941,8 @@
         "definition": "the war fought in the US between the northern and the southern states in the years 1861 to 1865",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "coach",
@@ -3023,7 +3098,8 @@
         "definition": "to cause something to fail, for example a plan",
         "examples": []
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "commonwealth",
@@ -3089,7 +3165,8 @@
         "definition": "a period (1649–60) in English history when the country was governed without a king or queen. For the first four years after the death of King Charles I, the country was governed by the House of Commons. Then in 1653 the army gave power to Oliver Cromwell with the title of Lord Protector. The years 1653–9 are therefore known as the Protectorate . The Commonwealth ended with the Restoration of King Charles II.",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "classical",
@@ -3173,7 +3250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "conqueror",
@@ -3200,7 +3278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "conquest",
@@ -3250,7 +3329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "conquer",
@@ -3320,7 +3400,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "Cretaceous",
@@ -3334,7 +3415,8 @@
         "definition": "the period between around 146 to 65 million years ago, when dinosaurs lived (until they died out)",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "coronation",
@@ -3357,7 +3439,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "Cretaceous",
@@ -3371,7 +3454,8 @@
         "definition": "belonging to the period between around 146 and 65 million years ago, when dinosaurs lived (until they died out); relating to the rocks formed during this time",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "costume",
@@ -3444,7 +3528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "continental drift",
@@ -3458,7 +3543,8 @@
         "definition": "the slow movement of the continents towards and away from each other during the history of the earth",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "colony",
@@ -3524,7 +3610,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "crown",
@@ -3672,7 +3759,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "cobbles",
@@ -3691,7 +3779,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "czar",
@@ -3723,7 +3812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "dark ages",
@@ -3750,7 +3840,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "datable",
@@ -3782,7 +3873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "crown",
@@ -3849,7 +3941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "date",
@@ -4026,7 +4119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "crusade",
@@ -4057,7 +4151,8 @@
         "definition": "any of the wars fought in Palestine by European Christian countries against the Muslims in the Middle Ages",
         "examples": []
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "contemporary",
@@ -4118,7 +4213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "dig",
@@ -4163,7 +4259,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "descent",
@@ -4208,7 +4305,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "drawbridge",
@@ -4227,7 +4325,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "dungeon",
@@ -4246,7 +4345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "Egyptologist",
@@ -4260,7 +4360,8 @@
         "definition": "a person who studies the language, history and culture of ancient Egypt",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "Egyptology",
@@ -4274,7 +4375,8 @@
         "definition": "the study of the language, history and culture of ancient Egypt",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "descendant",
@@ -4306,7 +4408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "enlightenment",
@@ -4333,7 +4436,8 @@
         "definition": "the period in the 18th century in Europe when many writers and scientists began to argue that science and reason were more important than religion and tradition",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "emperor",
@@ -4369,7 +4473,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "empress",
@@ -4392,7 +4497,8 @@
         "definition": "the wife of an emperor",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "empire",
@@ -4433,7 +4539,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "epoch",
@@ -4461,7 +4568,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "epoch-making",
@@ -4480,7 +4588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "era",
@@ -4515,7 +4624,8 @@
         "definition": "a length of time that is a division of an aeon",
         "examples": []
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "etymology",
@@ -4533,7 +4643,8 @@
         "definition": "the origin and history of a particular word",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "etymological",
@@ -4552,7 +4663,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "excavate",
@@ -4588,7 +4700,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "feudalism",
@@ -4602,7 +4715,8 @@
         "definition": "the social system that existed during the Middle Ages in Europe in which people were given land and protection by a nobleman, and had to work and fight for him in return",
         "examples": []
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "former",
@@ -4684,7 +4798,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "feudal",
@@ -4703,7 +4818,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "exhibit",
@@ -4757,7 +4873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "fortification",
@@ -4785,7 +4902,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "day",
@@ -5636,7 +5754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "fortress",
@@ -5659,7 +5778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "formerly",
@@ -5686,7 +5806,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "found",
@@ -5751,7 +5872,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "gallows",
@@ -5774,7 +5896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "genealogist",
@@ -5788,7 +5911,8 @@
         "definition": "a person who studies family history",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "genealogical",
@@ -5816,7 +5940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "fort",
@@ -5853,7 +5978,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "galley",
@@ -5876,7 +6002,8 @@
         "definition": "the kitchen on a ship or plane",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "explorer",
@@ -5895,7 +6022,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "Georgian",
@@ -5914,7 +6042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "generation",
@@ -6042,7 +6171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "griot",
@@ -6056,7 +6186,8 @@
         "definition": "(in West Africa, especially in the past) a person who sings or tells stories about the history and traditions of their people and community",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "genealogy",
@@ -6074,7 +6205,8 @@
         "definition": "a particular person’s line of ancestors; a diagram that shows this",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "gladiator",
@@ -6088,7 +6220,8 @@
         "definition": "(in ancient Rome) a man trained to fight other men or animals in order to entertain the public",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "heraldic",
@@ -6102,7 +6235,8 @@
         "definition": "connected with the study of coats of arms and the history of old families",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "golden age",
@@ -6121,7 +6255,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "guy",
@@ -6193,7 +6328,8 @@
         "definition": "a rope used to keep a pole or tent in a secure position",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "Hellenistic",
@@ -6207,7 +6343,8 @@
         "definition": "of or connected with the Greek history, language and culture of the 4th–1st centuries BC",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "heraldry",
@@ -6221,7 +6358,8 @@
         "definition": "the study of the coats of arms and the history of old families",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "heritage",
@@ -6278,7 +6416,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "historian",
@@ -6325,7 +6464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "hieroglyphics",
@@ -6339,7 +6479,8 @@
         "definition": "writing that uses hieroglyphs",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "historical linguistics",
@@ -6353,7 +6494,8 @@
         "definition": "the study of the history and development of languages",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "historic",
@@ -6426,7 +6568,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "historical",
@@ -6487,7 +6630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "historicism",
@@ -6501,7 +6645,8 @@
         "definition": "the theory that cultural and social events and situations can be explained by history",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "historically",
@@ -6537,7 +6682,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "historiography",
@@ -6551,7 +6697,8 @@
         "definition": "the study of writing about history",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "historiographical",
@@ -6565,7 +6712,8 @@
         "definition": "connected with the study of writing about history (= historiography)",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "ice age",
@@ -6579,7 +6727,8 @@
         "definition": "one of the long periods of time, thousands of years ago, when much of the earth’s surface was covered in ice",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "industrialize",
@@ -6598,7 +6747,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "Jurassic",
@@ -6612,7 +6762,8 @@
         "definition": "the period between around 208 to 146 million years ago, when the largest known dinosaurs lived",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "Iron Age",
@@ -6626,7 +6777,8 @@
         "definition": "the historical period about 3 000 years ago when people first used iron tools",
         "examples": []
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "history",
@@ -6853,7 +7005,8 @@
         "definition": "used when you are telling a story to say that you do not need to tell the end of it, because everyone knows it already",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "Jurassic",
@@ -6867,7 +7020,8 @@
         "definition": "of the period between around 208 to 146 million years ago, when the largest known dinosaurs lived; of the rocks formed during this time",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "invention",
@@ -6937,7 +7091,8 @@
         "definition": "a difficult new problem forces people to think of a solution to it",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "invasion",
@@ -6990,7 +7145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "imperial",
@@ -7017,7 +7173,8 @@
         "definition": "connected with the system for measuring length, weight and volume using pounds, inches, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "Industrial Revolution",
@@ -7031,7 +7188,8 @@
         "definition": "the period in the 18th and 19th centuries in Europe and the US when machines began to be used to do work, and industry grew rapidly",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "king",
@@ -7100,7 +7258,8 @@
         "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "kingdom",
@@ -7158,7 +7317,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "majesty",
@@ -7198,7 +7358,8 @@
         "definition": "royal power",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "mediaeval",
@@ -7221,7 +7382,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "modern",
@@ -7339,7 +7501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "medieval",
@@ -7362,7 +7525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "knight",
@@ -7398,7 +7562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "moat",
@@ -7417,7 +7582,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "mummy",
@@ -7453,7 +7619,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "Middle Ages",
@@ -7467,7 +7634,8 @@
         "definition": "in European history, the period from about AD 1000 to AD 1450",
         "examples": []
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "monument",
@@ -7504,7 +7672,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "musicologist",
@@ -7518,7 +7687,8 @@
         "definition": "a person who studies the history and theory of music",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "musicology",
@@ -7532,7 +7702,8 @@
         "definition": "the study of the history and theory of music",
         "examples": []
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "make history",
@@ -7759,7 +7930,8 @@
         "definition": "used when you are telling a story to say that you do not need to tell the end of it, because everyone knows it already",
         "examples": []
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "myth",
@@ -7799,7 +7971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "mythology",
@@ -7835,7 +8008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "Neanderthal",
@@ -7871,7 +8045,8 @@
         "definition": "unpleasant, rude and not behaving in a socially acceptable way",
         "examples": []
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "Neanderthal",
@@ -7894,7 +8069,8 @@
         "definition": "a person who is unpleasant and rude, or whose behaviour or ideas are old-fashioned and not acceptable",
         "examples": []
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "noble",
@@ -7917,7 +8093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "origin",
@@ -7993,7 +8170,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "onomastics",
@@ -8007,7 +8185,8 @@
         "definition": "the study of the history and origin of names, especially names of people",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "palaeontology",
@@ -8021,7 +8200,8 @@
         "definition": "the study of fossils (= the parts of dead animals or plants in rocks) as a guide to the history of life on earth",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "Neolithic",
@@ -8044,7 +8224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "pageant",
@@ -8081,7 +8262,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "paleontology",
@@ -8095,7 +8277,8 @@
         "definition": "the study of fossils (= the parts of dead animals or plants in rocks) as a guide to the history of life on earth",
         "examples": []
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "palace",
@@ -8161,7 +8344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "page",
@@ -8313,7 +8497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "peasant",
@@ -8344,7 +8529,8 @@
         "definition": "a person who is rude, behaves badly or has little education",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "papyrus",
@@ -8366,7 +8552,8 @@
         "definition": "a document or piece of paper made of papyrus",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "past",
@@ -8460,7 +8647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "past",
@@ -8554,7 +8742,8 @@
         "definition": "to behave as though society, etc. has not changed, when in fact it has",
         "examples": []
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "period",
@@ -8573,7 +8762,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "period",
@@ -8720,7 +8910,8 @@
         "definition": "the mark ( . ) used at the end of a sentence and in some abbreviations, for example e.g.",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "post-war",
@@ -8747,7 +8938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "period piece",
@@ -8765,7 +8957,8 @@
         "definition": "an object, piece of furniture, etc. that was made during a particular period of history and is typical of that period",
         "examples": []
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "prehistoric",
@@ -8788,7 +8981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "pilgrim",
@@ -8815,7 +9009,8 @@
         "definition": "a member of the group of English people (the Pilgrim Fathers) who sailed to America on the ship The Mayflower in 1620 and started a colony in Massachusetts",
         "examples": []
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "primeval",
@@ -8847,7 +9042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "primaeval",
@@ -8865,7 +9061,8 @@
         "definition": "very strong and not based on reason, as if from the earliest period of human life",
         "examples": []
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "prehistory",
@@ -8893,7 +9090,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "primitive",
@@ -8951,7 +9149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "reformation",
@@ -8969,7 +9168,8 @@
         "definition": "new ideas in religion in 16th century Europe that led to attempts to reform (= change and improve) the Roman Catholic Church and to the forming of the Protestant Churches; the period of time when these changes were taking place",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "pyramid",
@@ -9005,7 +9205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "radiocarbon dating",
@@ -9019,7 +9220,8 @@
         "definition": "carbon dating (= a method of calculating the age of very old objects by measuring the amounts of different forms of carbon in them)",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "Regency",
@@ -9038,7 +9240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "relic",
@@ -9078,7 +9281,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "reign of terror",
@@ -9097,7 +9301,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "reign",
@@ -9133,7 +9338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "queen",
@@ -9240,7 +9446,8 @@
         "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "reign",
@@ -9293,7 +9500,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "Roman",
@@ -9333,7 +9541,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "renaissance",
@@ -9365,7 +9574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "restoration",
@@ -9419,7 +9629,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "revolution",
@@ -9488,7 +9699,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "ruin",
@@ -9592,7 +9804,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "spear",
@@ -9623,7 +9836,8 @@
         "definition": "the long pointed stem of some plants",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "Sinologist",
@@ -9637,7 +9851,8 @@
         "definition": "a person who studies Chinese language, history, customs and politics",
         "examples": []
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "shield",
@@ -9699,7 +9914,8 @@
         "definition": "a police officer’s badge",
         "examples": []
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "scaffold",
@@ -9730,7 +9946,8 @@
         "definition": "a structure made of scaffolding, for workers to stand on when they are working on a building",
         "examples": []
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "Sinology",
@@ -9744,7 +9961,8 @@
         "definition": "the study of Chinese language, history, customs and politics",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "stone-age",
@@ -9772,7 +9990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "successor",
@@ -9799,7 +10018,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "Stone Age",
@@ -9818,7 +10038,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "sword",
@@ -9871,7 +10092,8 @@
         "definition": "to stop fighting and return to peaceful activities",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "tsar",
@@ -9903,7 +10125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "tzar",
@@ -9921,7 +10144,8 @@
         "definition": "an official whose job is to advise the government on policy in a particular area",
         "examples": []
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "Victorian",
@@ -9957,7 +10181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "tsarina",
@@ -9971,7 +10196,8 @@
         "definition": "the empress of Russia in the past",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "wartime",
@@ -9994,7 +10220,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "the history books",
@@ -10221,7 +10448,8 @@
         "definition": "used when you are telling a story to say that you do not need to tell the end of it, because everyone knows it already",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "Victorian",
@@ -10235,7 +10463,8 @@
         "definition": "a British person who was alive during the period from 1837 to 1901, when Queen Victoria was queen",
         "examples": []
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "wartime",
@@ -10254,7 +10483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "zeitgeist",
@@ -10268,7 +10498,8 @@
         "definition": "the general mood or quality of a particular period of history, as shown by the ideas, beliefs, etc. common at the time",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "time",
@@ -11528,6 +11759,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   }
 ]

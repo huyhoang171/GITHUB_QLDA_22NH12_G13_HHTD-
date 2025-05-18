@@ -11,7 +11,8 @@
         "definition": "a card that you show before you get on a plane or boat",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "companionway",
@@ -25,7 +26,8 @@
         "definition": "a set of stairs on a ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "derrick",
@@ -43,7 +45,8 @@
         "definition": "a tall structure over an oil well for holding the drill (= the machine that makes the hole in the ground for getting the oil out)",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "board",
@@ -104,7 +107,8 @@
         "definition": "to live at a school during the school year",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "at sea",
@@ -271,7 +275,8 @@
         "definition": "used to comfort somebody whose romantic relationship has ended by saying that there are many other people they may have a successful relationship with in the future",
         "examples": []
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "bill of lading",
@@ -285,7 +290,8 @@
         "definition": "a list giving details of the goods that a ship, etc. is carrying",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "cruise",
@@ -347,7 +353,8 @@
         "definition": "to go around in public places looking for a sexual partner",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "coastguard",
@@ -378,7 +385,8 @@
         "definition": "a member of this organization",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "bilge",
@@ -396,7 +404,8 @@
         "definition": "dirty water that collects in a ship’s bilge",
         "examples": []
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "anchor",
@@ -450,7 +459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "admiral",
@@ -473,7 +483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "debark",
@@ -492,7 +503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "berth",
@@ -533,7 +545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "deckhouse",
@@ -547,7 +560,8 @@
         "definition": "a small shelter on the deck of a ship, used for navigation or accommodation",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "bowline",
@@ -561,7 +575,8 @@
         "definition": "a rope that attaches one side of a sail to the bow of a boat",
         "examples": []
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "anchor",
@@ -614,7 +629,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "buccaneer",
@@ -642,7 +658,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "becalmed",
@@ -656,7 +673,8 @@
         "definition": "unable to move because there is no wind",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "cruiser",
@@ -688,7 +706,8 @@
         "definition": "a police car",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "amidships",
@@ -702,7 +721,8 @@
         "definition": "in or near the middle part of a ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "deck",
@@ -811,7 +831,8 @@
         "definition": "to fall to the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "beacon",
@@ -847,7 +868,8 @@
         "definition": "(in the past) a fire lit on top of a hill as a signal",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "convoy",
@@ -879,7 +901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "battleship",
@@ -893,7 +916,8 @@
         "definition": "a very large ship used in war, with big guns and heavy armour (= metal plates that cover the ship to protect it)",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "carrier",
@@ -954,7 +978,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "battlecruiser",
@@ -968,7 +993,8 @@
         "definition": "a large fast ship used in war in the past, faster and lighter than a battleship",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "container",
@@ -1021,7 +1047,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "cutter",
@@ -1075,7 +1102,8 @@
         "definition": "a ship’s boat, used for travelling between the ship and land",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "barge",
@@ -1098,7 +1126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "aftermost",
@@ -1112,7 +1141,8 @@
         "definition": "nearest to the stern of a ship or the tail of an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "ballast",
@@ -1130,7 +1160,8 @@
         "definition": "a layer of stones that makes a strong base on which a road, railway, etc. can be built",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "corvette",
@@ -1144,7 +1175,8 @@
         "definition": "a small fast ship used in war to protect other ships from attack",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "bail out",
@@ -1202,7 +1234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "canoe",
@@ -1225,7 +1258,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "at the helm",
@@ -1270,7 +1304,8 @@
         "definition": "to begin controlling the direction in which a boat or ship moves",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "backwash",
@@ -1288,7 +1323,8 @@
         "definition": "waves caused by a boat moving through water; the movement of water back into the sea after a wave has hit the beach",
         "examples": []
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "a following wind",
@@ -1341,7 +1377,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "colour",
@@ -1584,7 +1621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "automatic pilot",
@@ -1612,7 +1650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "cruise",
@@ -1635,7 +1674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "cargo",
@@ -1658,7 +1698,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "circumnavigate",
@@ -1672,7 +1713,8 @@
         "definition": "to sail all the way around something, especially all the way around the world",
         "examples": []
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "canal boat",
@@ -1691,7 +1733,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "autopilot",
@@ -1714,7 +1757,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "caulk",
@@ -1728,7 +1772,8 @@
         "definition": "to fill the holes in something, especially a ship, with a substance that keeps out water",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "canoe",
@@ -1747,7 +1792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "craft",
@@ -1809,7 +1855,8 @@
         "definition": "an aircraft or spacecraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "captain",
@@ -1886,7 +1933,8 @@
         "definition": "an officer of high rank in a US police or fire department",
         "examples": []
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "capstan",
@@ -1900,7 +1948,8 @@
         "definition": "a thick cylinder that winds up a rope, used for lifting heavy objects such as an anchor on a ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "cable",
@@ -1964,7 +2013,8 @@
         "definition": "a message sent by electrical signals and printed out",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "current",
@@ -2034,7 +2084,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "crow’s nest",
@@ -2048,7 +2099,8 @@
         "definition": "a platform at the top of a ship’s mast (= the post that supports the sails) from which somebody can see a long way and watch for land, danger, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "cabin cruiser",
@@ -2062,7 +2114,8 @@
         "definition": "a boat with a motor and room for people to sleep, used for pleasure trips",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "astern",
@@ -2085,7 +2138,8 @@
         "definition": "if a ship or boat is moving astern, it is moving backwards",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "capsize",
@@ -2108,7 +2162,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "bridge",
@@ -2212,7 +2267,8 @@
         "definition": "used to say that something happened in the past and is now forgotten or no longer important",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "crossing",
@@ -2265,7 +2321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "anchorage",
@@ -2292,7 +2349,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "cabin",
@@ -2329,7 +2387,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "cabin boy",
@@ -2343,7 +2402,8 @@
         "definition": "a boy or young man employed to work as a servant on a ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "aground",
@@ -2362,7 +2422,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "adrift",
@@ -2428,7 +2489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "cast off",
@@ -2455,7 +2517,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "canal",
@@ -2482,7 +2545,8 @@
         "definition": "a tube inside the body through which liquid, food or air can pass",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "aground",
@@ -2505,7 +2569,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "buoy",
@@ -2519,7 +2584,8 @@
         "definition": "an object which floats on the sea or a river to mark the places where it is dangerous and where it is safe for boats to go",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "bunk",
@@ -2550,7 +2616,8 @@
         "definition": "to run away from a place without telling anyone",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "chartered",
@@ -2578,7 +2645,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "crew",
@@ -2678,7 +2746,8 @@
         "definition": "a person or team of people who sail boats in races or for pleasure (usually not including the captain)",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "channel",
@@ -2812,7 +2881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "color",
@@ -3042,7 +3112,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "catamaran",
@@ -3056,7 +3127,8 @@
         "definition": "a fast sailing boat with two hulls",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "bunker",
@@ -3097,7 +3169,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "charter",
@@ -3168,7 +3241,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "aft",
@@ -3195,7 +3269,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "bow",
@@ -3260,7 +3335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "charter",
@@ -3283,7 +3359,8 @@
         "definition": "to state officially that a new organization, town or university has been established and has special rights",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "bulkhead",
@@ -3297,7 +3374,8 @@
         "definition": "a wall that divides a ship or an aircraft into separate parts",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "aircraft carrier",
@@ -3311,7 +3389,8 @@
         "definition": "a large ship that carries aircraft that use it as a base to land on and take off from",
         "examples": []
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "bottom",
@@ -3585,7 +3664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "bosun",
@@ -3599,7 +3679,8 @@
         "definition": "an officer on a ship whose job is to take care of the equipment and the people who work on the ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "boom",
@@ -3673,7 +3754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "circumnavigation",
@@ -3692,7 +3774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "coracle",
@@ -3706,7 +3789,8 @@
         "definition": "a small round boat with a wooden frame, used especially in Wales and Ireland",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "chantey",
@@ -3720,7 +3804,8 @@
         "definition": "a song that sailors traditionally used to sing while pulling ropes, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "brig",
@@ -3738,7 +3823,8 @@
         "definition": "a prison, especially one on a warship",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "bollard",
@@ -3756,7 +3842,8 @@
         "definition": "a short thick post on a ship, or on land close to water, to which a ship’s rope may be tied",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "coaster",
@@ -3774,7 +3861,8 @@
         "definition": "a ship that sails from port to port along a coast",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "abaft",
@@ -3788,7 +3876,8 @@
         "definition": "in or behind the stern (= back end) of a ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "boiler room",
@@ -3806,7 +3895,8 @@
         "definition": "a room or office used by people using phones to sell something, especially shares, in an aggressive or a dishonest way",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "boatswain",
@@ -3820,7 +3910,8 @@
         "definition": "an officer on a ship whose job is to take care of the equipment and the people who work on the ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "cockpit",
@@ -3834,7 +3925,8 @@
         "definition": "the area in a plane, boat or racing car where the pilot or driver sits",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "clipper",
@@ -3857,7 +3949,8 @@
         "definition": "a fast sailing ship, used in the past",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "canoeist",
@@ -3876,7 +3969,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "boating",
@@ -3899,7 +3993,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "boathouse",
@@ -3913,7 +4008,8 @@
         "definition": "a building next to a river or lake for keeping a boat in",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "boat",
@@ -4009,7 +4105,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "aboard",
@@ -4044,7 +4141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "bowsprit",
@@ -4067,7 +4165,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "ashore",
@@ -4098,7 +4197,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "distress",
@@ -4168,7 +4268,8 @@
         "definition": "a young woman who needs help",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "deckhand",
@@ -4182,7 +4283,8 @@
         "definition": "a worker on a ship who does work that does not need special skills",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "dhow",
@@ -4196,7 +4298,8 @@
         "definition": "an Arab ship with one large sail in the shape of a triangle",
         "examples": []
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "dockyard",
@@ -4210,7 +4313,8 @@
         "definition": "an area with docks (= the place where ships are loaded and unloaded in a port) and equipment for building and repairing ships",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "disembark",
@@ -4241,7 +4345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "disembarkation",
@@ -4260,7 +4365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "dragon boat",
@@ -4274,7 +4380,8 @@
         "definition": "a long, narrow boat of traditional Chinese design that is used for racing and that is moved through the water by a lot of people using paddles. It is decorated to look like a dragon.",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "dinghy",
@@ -4310,7 +4417,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "dock",
@@ -4369,7 +4477,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "dock",
@@ -4440,7 +4549,8 @@
         "definition": "a piece of equipment to which a laptop, smartphone or other mobile device can be connected, to provide access to a power supply or so that it can be used with a printer, a keyboard, speakers, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "dredge",
@@ -4481,7 +4591,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "dockside",
@@ -4495,7 +4606,8 @@
         "definition": "the area around the docks (= the place where ships are loaded and unloaded) in a port",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "dockland",
@@ -4514,7 +4626,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "dry dock",
@@ -4537,7 +4650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "dredger",
@@ -4551,7 +4665,8 @@
         "definition": "a boat or machine that is used to clear mud, etc. from the bottom of a river, or to make the river wider",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "engine room",
@@ -4583,7 +4698,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "dry land",
@@ -4606,7 +4722,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "destroyer",
@@ -4629,7 +4746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "ensign",
@@ -4657,7 +4775,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "embark",
@@ -4680,7 +4799,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "ferry",
@@ -4723,7 +4843,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "drift",
@@ -4799,7 +4920,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "ferry boat",
@@ -4813,7 +4935,8 @@
         "definition": "a boat that is used as a ferry",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "factory ship",
@@ -4827,7 +4950,8 @@
         "definition": "a large ship with equipment on board for cleaning and freezing fish that have just been caught",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "ferry",
@@ -4859,7 +4983,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "engineer",
@@ -4920,7 +5045,8 @@
         "definition": "a soldier trained to design and build military structures",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "figurehead",
@@ -4943,7 +5069,8 @@
         "definition": "a large wooden statue, usually representing a woman, that used to be fixed to the front end of a ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "flagship",
@@ -4966,7 +5093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "dugout",
@@ -4988,7 +5116,8 @@
         "definition": "a canoe (= type of light narrow boat) made by cutting out the inside of a tree trunk",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "flotilla",
@@ -5002,7 +5131,8 @@
         "definition": "a group of boats or small ships sailing together",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "flotsam",
@@ -5030,7 +5160,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "first mate",
@@ -5044,7 +5175,8 @@
         "definition": "the officer on a commercial ship just below the rank of captain or master",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "fore",
@@ -5058,7 +5190,8 @@
         "definition": "located at the front of a ship, an aircraft or an animal",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "forecastle",
@@ -5072,7 +5205,8 @@
         "definition": "the front part of a ship below the deck, where the sailors live",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "foresail",
@@ -5086,7 +5220,8 @@
         "definition": "the main sail on the mast of a ship that is nearest the front (called the foremast  /ˈfɔːmɑːst/  /ˈfɔːrmæst/)",
         "examples": []
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "embarkation",
@@ -5105,7 +5240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "flight deck",
@@ -5123,7 +5259,8 @@
         "definition": "a long flat surface on top of a ship that carries aircraft (= an aircraft carrier) where they take off and land",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "float",
@@ -5258,7 +5395,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "founder",
@@ -5294,7 +5432,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "forward",
@@ -5440,7 +5579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "funnel",
@@ -5458,7 +5598,8 @@
         "definition": "a metal chimney, for example on a ship or an engine, through which smoke comes out",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "freighter",
@@ -5472,7 +5613,8 @@
         "definition": "a large ship or plane that carries goods",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "frigate",
@@ -5486,7 +5628,8 @@
         "definition": "a small fast ship in the navy that travels with other ships in order to protect them",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "galleon",
@@ -5500,7 +5643,8 @@
         "definition": "a large sailing ship, used between the 15th and the 18th centuries, especially by Spain",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "free on board",
@@ -5514,7 +5658,8 @@
         "definition": "including in the price the cost of taking goods to a ship and putting them on it",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "galley",
@@ -5537,7 +5682,8 @@
         "definition": "the kitchen on a ship or plane",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "foghorn",
@@ -5556,7 +5702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "fo’c’sle",
@@ -5570,7 +5717,8 @@
         "definition": "the front part of a ship below the deck, where the sailors live",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "gangway",
@@ -5606,7 +5754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "gangplank",
@@ -5620,7 +5769,8 @@
         "definition": "a board placed between the side of a boat and land so people can get on and off",
         "examples": []
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "gondola",
@@ -5642,7 +5792,8 @@
         "definition": "the part of a hot air balloon or airship where the passengers sit",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "grounding",
@@ -5665,7 +5816,8 @@
         "definition": "the act of keeping a plane on the ground or a ship in a port, especially because it is not in a good enough condition to travel",
         "examples": []
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "gunboat",
@@ -5679,7 +5831,8 @@
         "definition": "a small ship that is fitted with large guns",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "gunwale",
@@ -5693,7 +5846,8 @@
         "definition": "the upper edge of the side of a boat or small ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "guard rail",
@@ -5711,7 +5865,8 @@
         "definition": "a strong low fence or wall at the side of a road or between the two halves of a major road such as a motorway or interstate",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "gunnel",
@@ -5725,7 +5880,8 @@
         "definition": "the upper edge of the side of a boat or small ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "ground",
@@ -5779,7 +5935,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "gyroscope",
@@ -5793,7 +5950,8 @@
         "definition": "a device consisting of a wheel that turns rapidly inside a frame and does not change position when the frame is moved. Gyroscopes are often used to keep ships and aircraft steady.",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "harbour",
@@ -5824,7 +5982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "helm",
@@ -5869,7 +6028,8 @@
         "definition": "to begin controlling the direction in which a boat or ship moves",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "hatch",
@@ -5927,7 +6087,8 @@
         "definition": "used before drinking something, especially to express good wishes before drinking alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "hatchway",
@@ -5941,7 +6102,8 @@
         "definition": "an opening or a door in a ship, aircraft or spacecraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "hawser",
@@ -5955,7 +6117,8 @@
         "definition": "a thick rope or steel cable used on a ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "helmsman",
@@ -5969,7 +6132,8 @@
         "definition": "a person who controls the direction in which a boat or ship moves",
         "examples": []
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "high tide",
@@ -5992,7 +6156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "high seas",
@@ -6015,7 +6180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "high-water mark",
@@ -6038,7 +6204,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "heave into sight/view",
@@ -6125,7 +6292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "high water",
@@ -6153,7 +6321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "helmswoman",
@@ -6167,7 +6336,8 @@
         "definition": "a woman who controls the direction in which a boat or ship moves",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "helm",
@@ -6204,7 +6374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "houseboat",
@@ -6218,7 +6389,8 @@
         "definition": "a boat that people can live in, usually kept at a particular place on a river or canal",
         "examples": []
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "hulk",
@@ -6263,7 +6435,8 @@
         "definition": "a very large object, especially one that causes you to feel nervous or afraid",
         "examples": []
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "hovercraft",
@@ -6282,7 +6455,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "hydrofoil",
@@ -6296,7 +6470,8 @@
         "definition": "a boat which rises above the surface of the water when it is travelling fast",
         "examples": []
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "icebreaker",
@@ -6314,7 +6489,8 @@
         "definition": "a thing that you do or say, such as a game or a joke, to make people feel more relaxed, especially at the beginning of a meeting, party, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "inshore",
@@ -6333,7 +6509,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "jetfoil",
@@ -6347,7 +6524,8 @@
         "definition": "a passenger boat that rises above the surface of the water when it is travelling fast and has jet engines",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "inflatable",
@@ -6365,7 +6543,8 @@
         "definition": "a large object made of plastic or rubber and filled with air or gas, used for children to play on, or as an advertisement for something",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "inshore",
@@ -6388,7 +6567,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "hand",
@@ -7409,7 +7589,8 @@
         "definition": "to hold your hands together, and twist and press them together in a way that shows you are anxious or upset, especially when you cannot change the situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "jetsam",
@@ -7423,7 +7604,8 @@
         "definition": "things that are thrown away from a ship at sea and that float towards land",
         "examples": []
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "heavy",
@@ -7794,7 +7976,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "hold",
@@ -7991,7 +8174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "hull",
@@ -8014,7 +8198,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "kayak",
@@ -8028,7 +8213,8 @@
         "definition": "a light canoe in which the part where you sit is covered over",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "jettison",
@@ -8060,7 +8246,8 @@
         "definition": "to reject an idea, a belief, a plan, etc. that you no longer think is useful or likely to be successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "jib",
@@ -8078,7 +8265,8 @@
         "definition": "the arm of a crane that lifts things",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "jetty",
@@ -8092,7 +8280,8 @@
         "definition": "a wall or platform built out into the sea, a river, etc., where boats can be tied and where people can get on and off boats",
         "examples": []
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "landing craft",
@@ -8106,7 +8295,8 @@
         "definition": "a boat with a flat bottom, carried on a ship. Landing craft open at one end so soldiers and equipment can be brought to land.",
         "examples": []
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "in convoy",
@@ -8138,7 +8328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "landward",
@@ -8157,7 +8348,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "landlubber",
@@ -8171,7 +8363,8 @@
         "definition": "a person with not much knowledge or experience of the sea or sailing",
         "examples": []
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "landing stage",
@@ -8185,7 +8378,8 @@
         "definition": "a flat wooden platform on the water where boats let people get on and off, and load and unload goods",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "keel",
@@ -8212,7 +8406,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "landfall",
@@ -8243,7 +8438,8 @@
         "definition": "a mass of earth, rock, etc. that falls down the slope of a mountain or a cliff",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "lifeboat",
@@ -8279,7 +8475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "junk",
@@ -8314,7 +8511,8 @@
         "definition": "a Chinese boat with a square sail and a flat bottom",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "landward",
@@ -8333,7 +8531,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "lifebelt",
@@ -8351,7 +8550,8 @@
         "definition": "a special belt worn to help somebody float in water",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "jump ship",
@@ -8665,7 +8865,8 @@
         "definition": "used to tell somebody to hurry and do something quickly",
         "examples": []
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "life raft",
@@ -8679,7 +8880,8 @@
         "definition": "an open boat made of plastic or rubber that is filled with air, used for rescuing people from sinking ships or planes",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "life jacket",
@@ -8693,7 +8895,8 @@
         "definition": "a jacket without arms that can be filled with air, designed to help you float if you fall in water",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "launch",
@@ -8754,7 +8957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "lighter",
@@ -8781,7 +8985,8 @@
         "definition": "a boat with a flat bottom used for carrying goods to and from ships in harbour",
         "examples": []
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "lighthouse",
@@ -8795,7 +9000,8 @@
         "definition": "a tower or other building that contains a strong light to warn and guide ships near the coast",
         "examples": []
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "launch",
@@ -8916,7 +9122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "list",
@@ -8993,7 +9200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "land",
@@ -9154,7 +9362,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "longboat",
@@ -9172,7 +9381,8 @@
         "definition": "a long narrow ship used by the Vikings",
         "examples": []
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "lightship",
@@ -9186,7 +9396,8 @@
         "definition": "a small ship that stays at a particular place at sea and that has a powerful light on it to warn and guide other ships",
         "examples": []
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "longship",
@@ -9200,7 +9411,8 @@
         "definition": "a long narrow ship used by the Vikings",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "life vest",
@@ -9214,7 +9426,8 @@
         "definition": "a jacket without arms that can be filled with air, designed to help you float if you fall in water",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "load line",
@@ -9228,7 +9441,8 @@
         "definition": "a line on the side of a ship showing the highest point that the water can safely reach when the ship is loaded",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "log",
@@ -9299,7 +9513,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "maneuver",
@@ -9339,7 +9554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "low-water mark",
@@ -9353,7 +9569,8 @@
         "definition": "a line or mark showing the lowest point that the sea reaches at low tide",
         "examples": []
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "marine",
@@ -9380,7 +9597,8 @@
         "definition": "connected with ships or trade at sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "liner",
@@ -9416,7 +9634,8 @@
         "definition": "make-up that is put around the edge of the eyes or lips",
         "examples": []
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "mariner",
@@ -9430,7 +9649,8 @@
         "definition": "a sailor",
         "examples": []
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "low tide",
@@ -9449,7 +9669,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "maritime",
@@ -9481,7 +9702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "mast",
@@ -9507,7 +9729,8 @@
         "definition": "to say publicly and clearly what you believe or who you support",
         "examples": []
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "manoeuvre",
@@ -9547,7 +9770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "manifest",
@@ -9561,7 +9785,8 @@
         "definition": "a list of goods or passengers on a ship or an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "mainsail",
@@ -9575,7 +9800,8 @@
         "definition": "the largest and most important sail on a boat or ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "Mayday",
@@ -9589,7 +9815,8 @@
         "definition": "an international radio signal used by ships and aircraft needing help when they are in danger",
         "examples": []
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "masthead",
@@ -9611,7 +9838,8 @@
         "definition": "the part of a newspaper or a news website that gives details of the people who work on it and other information about it",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "maroon",
@@ -9634,7 +9862,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "mate",
@@ -9722,7 +9951,8 @@
         "definition": "a situation in which somebody has been completely defeated",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "merchantman",
@@ -9736,7 +9966,8 @@
         "definition": "a ship used for carrying goods for trade rather than a military ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "minehunter",
@@ -9750,7 +9981,8 @@
         "definition": "a military ship for finding and destroying mines (= bombs that explode when they are touched)",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "mooring",
@@ -9790,7 +10022,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "motorboat",
@@ -9804,7 +10037,8 @@
         "definition": "a small fast boat driven by an engine",
         "examples": []
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "nautical mile",
@@ -9818,7 +10052,8 @@
         "definition": "a unit for measuring distance at sea; 1 852 metres",
         "examples": []
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "mizzen",
@@ -9836,7 +10071,8 @@
         "definition": "a sail on the mizzen of a ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "moor",
@@ -9859,7 +10095,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "narrowboat",
@@ -9878,7 +10115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "navigability",
@@ -9892,7 +10130,8 @@
         "definition": "the degree to which a river, lake, etc. is wide enough for ships and boats to sail on",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "minesweeper",
@@ -9906,7 +10145,8 @@
         "definition": "a ship used for finding and clearing away mines (= bombs that explode when they are touched)",
         "examples": []
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "mutiny",
@@ -9933,7 +10173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "navigator",
@@ -9947,7 +10188,8 @@
         "definition": "a person who navigates, for example on a ship or an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "navigate",
@@ -10013,7 +10255,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "navigation",
@@ -10058,7 +10301,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "navigable",
@@ -10094,7 +10338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "oarswoman",
@@ -10108,7 +10353,8 @@
         "definition": "a woman who rows a boat, especially as a member of a crew (= team)",
         "examples": []
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "oarlock",
@@ -10122,7 +10368,8 @@
         "definition": "a device fixed to the side of a boat for holding an oar",
         "examples": []
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "oarsman",
@@ -10136,7 +10383,8 @@
         "definition": "a man who rows a boat, especially as a member of a crew (= team)",
         "examples": []
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "oil tanker",
@@ -10150,7 +10398,8 @@
         "definition": "a large ship with containers for carrying oil",
         "examples": []
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "nautical",
@@ -10169,7 +10418,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "oar",
@@ -10201,7 +10451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "navy",
@@ -10244,7 +10495,8 @@
         "definition": "a very dark blue colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "onshore",
@@ -10267,7 +10519,8 @@
         "definition": "if the wind is blowing onshore, it is blowing from the sea towards the land",
         "examples": []
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "on board",
@@ -10486,7 +10739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "offshore",
@@ -10527,7 +10781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "ocean-going",
@@ -10541,7 +10796,8 @@
         "definition": "made for crossing the sea or ocean, not for journeys along the coast or up rivers",
         "examples": []
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "onshore",
@@ -10569,7 +10825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "on-board",
@@ -10597,7 +10854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "outboard motor",
@@ -10616,7 +10874,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "paddle steamer",
@@ -10630,7 +10889,8 @@
         "definition": "an old-fashioned type of boat moved forward by a large wheel or wheels driven by steam",
         "examples": []
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "outboard",
@@ -10649,7 +10909,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "outrigger",
@@ -10663,7 +10924,8 @@
         "definition": "a wooden structure that is fixed to the side of a boat or ship in order to keep it steady in the water; a boat fitted with such a structure",
         "examples": []
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "paddle",
@@ -10707,7 +10969,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "overboard",
@@ -10748,7 +11011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "paddle",
@@ -10788,7 +11052,8 @@
         "definition": "to hit a child with a flat piece of wood as a punishment",
         "examples": []
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "passenger",
@@ -10828,7 +11093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "passage",
@@ -10939,7 +11205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "periscope",
@@ -10953,7 +11220,8 @@
         "definition": "a device consisting of a long tube containing mirrors that enable the user to see over the top of something, used especially in a submarine (= a ship that can operate underwater) to see above the surface of the sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "pennant",
@@ -10976,7 +11244,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "pier",
@@ -11016,7 +11285,8 @@
         "definition": "a large strong piece of wood, metal or stone that is used to support a roof, wall, bridge, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "pedalo",
@@ -11030,7 +11300,8 @@
         "definition": "a small pleasure boat that you move through the water by pushing pedals with your feet",
         "examples": []
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "Plimsoll line",
@@ -11044,7 +11315,8 @@
         "definition": "a line on the side of a ship showing the highest point that the water can safely reach when the ship is loaded",
         "examples": []
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "pleasure boat",
@@ -11058,7 +11330,8 @@
         "definition": "a boat used for short pleasure trips",
         "examples": []
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "pirate",
@@ -11099,7 +11372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "poop",
@@ -11131,7 +11405,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "pilot",
@@ -11178,7 +11453,8 @@
         "definition": "a small flame that burns all the time, for example on a gas boiler, and lights a larger flame when the gas is turned on",
         "examples": []
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "pitch",
@@ -11326,7 +11602,8 @@
         "definition": "to tell somebody a story or make an excuse that is not true",
         "examples": []
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "piracy",
@@ -11349,7 +11626,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "porthole",
@@ -11363,7 +11641,8 @@
         "definition": "a round window in the side of a ship or an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "port of call",
@@ -11391,7 +11670,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "port",
@@ -11481,7 +11761,8 @@
         "definition": "if you are in great trouble, you take any help that is offered",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "ply",
@@ -11547,7 +11828,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "punt",
@@ -11579,7 +11861,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "propeller",
@@ -11598,7 +11881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "radar",
@@ -11647,7 +11931,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "purser",
@@ -11661,7 +11946,8 @@
         "definition": "an officer on a ship who is responsible for taking care of the passengers, and for the accounts",
         "examples": []
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "powerboat",
@@ -11675,7 +11961,8 @@
         "definition": "a fast boat with a powerful engine that is used especially for racing",
         "examples": []
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "punt",
@@ -11728,7 +12015,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "prow",
@@ -11742,7 +12030,8 @@
         "definition": "the pointed front part of a ship or boat",
         "examples": []
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "put into",
@@ -11778,7 +12067,8 @@
         "definition": "to use or give money",
         "examples": []
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "put in",
@@ -11872,7 +12162,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "put (out) to sea",
@@ -12039,7 +12330,8 @@
         "definition": "used to comfort somebody whose romantic relationship has ended by saying that there are many other people they may have a successful relationship with in the future",
         "examples": []
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "quarterdeck",
@@ -12053,7 +12345,8 @@
         "definition": "a part of the upper level of a ship, at the back, that is used mainly by officers",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "rigging",
@@ -12076,7 +12369,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "refloat",
@@ -12095,7 +12389,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "raft",
@@ -12131,7 +12426,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "rig",
@@ -12196,7 +12492,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "rating",
@@ -12277,7 +12574,8 @@
         "definition": "a sailor in the navy who is not an officer",
         "examples": []
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "rig",
@@ -12317,7 +12615,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "rower",
@@ -12331,7 +12630,8 @@
         "definition": "a person who rows a boat",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "rough",
@@ -12561,7 +12861,8 @@
         "definition": "a situation in which somebody is treated badly or unfairly",
         "examples": []
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "roll",
@@ -12932,7 +13233,8 @@
         "definition": "to adapt yourself to a difficult situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "roll-on roll-off",
@@ -12951,7 +13253,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "radio",
@@ -13077,7 +13380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "rowing boat",
@@ -13091,7 +13395,8 @@
         "definition": "a small open boat that you move using oars",
         "examples": []
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "row",
@@ -13123,7 +13428,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "rowing",
@@ -13142,7 +13448,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "rowboat",
@@ -13156,7 +13463,8 @@
         "definition": "a small open boat that you move using oars",
         "examples": []
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "rubber dinghy",
@@ -13170,7 +13478,8 @@
         "definition": "a small boat made of rubber that is filled with air",
         "examples": []
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "sailing boat",
@@ -13184,7 +13493,8 @@
         "definition": "a boat with sails",
         "examples": []
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "sail",
@@ -13294,7 +13604,8 @@
         "definition": "to take a risk by doing something that is dangerous or that may be illegal",
         "examples": []
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "sampan",
@@ -13308,7 +13619,8 @@
         "definition": "a small boat with a flat bottom used along the coast and rivers of China",
         "examples": []
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "sailor",
@@ -13356,7 +13668,8 @@
         "definition": "a person who rarely/often becomes sick at sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "sail",
@@ -13442,7 +13755,8 @@
         "definition": "to reduce your costs",
         "examples": []
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "screw",
@@ -13502,7 +13816,8 @@
         "definition": "an extra amount of pressure, cruelty, etc. added to a situation that is already difficult to bear or understand",
         "examples": []
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "sailing",
@@ -13550,7 +13865,8 @@
         "definition": "to be simple and free from trouble",
         "examples": []
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "sailing ship",
@@ -13564,7 +13880,8 @@
         "definition": "a ship with sails",
         "examples": []
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "sailboat",
@@ -13578,7 +13895,8 @@
         "definition": "a boat with sails",
         "examples": []
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "run",
@@ -13833,7 +14151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "scuttle",
@@ -13873,7 +14192,8 @@
         "definition": "to sink a ship deliberately by making holes in the side or bottom of it",
         "examples": []
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "schooner",
@@ -13891,7 +14211,8 @@
         "definition": "a tall glass for beer",
         "examples": []
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "scull",
@@ -13918,7 +14239,8 @@
         "definition": "a small light boat used in sculls races",
         "examples": []
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "sea dog",
@@ -13932,7 +14254,8 @@
         "definition": "a sailor who is old or who has a lot of experience",
         "examples": []
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "seaborne",
@@ -13951,7 +14274,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "SeaCat™",
@@ -13965,7 +14289,8 @@
         "definition": "a type of large fast boat that is used to transport passengers and cars on short sea journeys",
         "examples": []
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "sea legs",
@@ -13984,7 +14309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "seagoing",
@@ -14003,7 +14329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "seafarer",
@@ -14017,7 +14344,8 @@
         "definition": "a sailor",
         "examples": []
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "sea lane",
@@ -14031,7 +14359,8 @@
         "definition": "an official route at sea that is regularly used by ships",
         "examples": []
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "seaport",
@@ -14050,7 +14379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "seasick",
@@ -14069,7 +14399,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "sea mile",
@@ -14083,7 +14414,8 @@
         "definition": "a unit for measuring distance at sea, equal to the distance covered by one minute of arc (= curve) along the line of a north-south meridian. The length of a sea mile varies between approximately 1842 metres at the equator and 1 861 metres at the North and South Poles.",
         "examples": []
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "seamanship",
@@ -14097,7 +14429,8 @@
         "definition": "skill in sailing a boat or ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "sealift",
@@ -14111,7 +14444,8 @@
         "definition": "an operation to take people, soldiers, food, etc. to or from an area by ship, especially in an emergency",
         "examples": []
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "seaman",
@@ -14134,7 +14468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "seaworthiness",
@@ -14148,7 +14483,8 @@
         "definition": "the quality in a ship of being in a suitable condition to sail",
         "examples": []
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "sea",
@@ -14315,7 +14651,8 @@
         "definition": "used to comfort somebody whose romantic relationship has ended by saying that there are many other people they may have a successful relationship with in the future",
         "examples": []
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "shipload",
@@ -14334,7 +14671,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "shipboard",
@@ -14353,7 +14691,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "shipmate",
@@ -14372,7 +14711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "ship",
@@ -14459,7 +14799,8 @@
         "definition": "to cause something good to fail because you did not spend a small but necessary amount of money or time on a small but essential part of it",
         "examples": []
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "seaworthy",
@@ -14473,7 +14814,8 @@
         "definition": "in a suitable condition to sail",
         "examples": []
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "shipowner",
@@ -14487,7 +14829,8 @@
         "definition": "a person or company that owns a ship or ships",
         "examples": []
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "second-class",
@@ -14546,7 +14889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "shell",
@@ -14668,7 +15012,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "seaway",
@@ -14687,7 +15032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "shipper",
@@ -14701,7 +15047,8 @@
         "definition": "a person or company that arranges for goods to be sent from one place to another, especially by ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "seasickness",
@@ -14720,7 +15067,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "shipping forecast",
@@ -14734,7 +15082,8 @@
         "definition": "a radio broadcast giving a report for ships on the weather conditions at sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "sickbay",
@@ -14748,7 +15097,8 @@
         "definition": "a room or rooms, for example on a ship or in a school, with beds for people who are ill",
         "examples": []
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "showboat",
@@ -14762,7 +15112,8 @@
         "definition": "a boat on which musical shows are performed",
         "examples": []
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "shoreline",
@@ -14789,7 +15140,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "ship-to-shore",
@@ -14808,7 +15160,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "shipping",
@@ -14857,7 +15210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "sloop",
@@ -14871,7 +15225,8 @@
         "definition": "a small sailing ship with one mast (= a post to support the sails)",
         "examples": []
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "skipper",
@@ -14902,7 +15257,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "skiff",
@@ -14916,7 +15272,8 @@
         "definition": "a small light boat for rowing or sailing, usually for one person",
         "examples": []
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "slipway",
@@ -14930,7 +15287,8 @@
         "definition": "a sloping track leading down to water, on which ships are built or pulled up out of the water for repairs, or from which they are launched",
         "examples": []
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "shipyard",
@@ -14949,7 +15307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "shoot the rapids",
@@ -15271,7 +15630,8 @@
         "definition": "to do or say something that will cause you a lot of trouble or harm, especially when you are trying to get an advantage for yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "shipwreck",
@@ -15290,7 +15650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "starboard",
@@ -15304,7 +15665,8 @@
         "definition": "the side of a ship or an aircraft that is on the right when you are facing forward",
         "examples": []
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "spar",
@@ -15322,7 +15684,8 @@
         "definition": "a structure that supports the wing of an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "stateroom",
@@ -15340,7 +15703,8 @@
         "definition": "a room used by important government members, members of a royal family, etc. on formal occasions",
         "examples": []
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "smokestack",
@@ -15358,7 +15722,8 @@
         "definition": "a metal chimney, for example on a ship or an engine, through which smoke comes out",
         "examples": []
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "smack",
@@ -15425,7 +15790,8 @@
         "definition": "a small fishing boat",
         "examples": []
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "SOS",
@@ -15457,7 +15823,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "shipwreck",
@@ -15489,7 +15856,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "speedboat",
@@ -15503,7 +15871,8 @@
         "definition": "a boat with a motor that can travel very fast",
         "examples": []
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "steamboat",
@@ -15517,7 +15886,8 @@
         "definition": "a boat driven by steam, used especially in the past on rivers and along coasts",
         "examples": []
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "skipper",
@@ -15535,7 +15905,8 @@
         "definition": "the captain of a sports team",
         "examples": []
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "stabilizer",
@@ -15562,7 +15933,8 @@
         "definition": "a chemical that is sometimes added to food or paint to stop the various substances in it from becoming separate",
         "examples": []
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "steer",
@@ -15632,7 +16004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "steerage",
@@ -15651,7 +16024,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "steamer",
@@ -15674,7 +16048,8 @@
         "definition": "a metal container with small holes in it, that is placed over a pan of boiling water in order to cook food in the steam",
         "examples": []
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "steward",
@@ -15732,7 +16107,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "stowage",
@@ -15746,7 +16122,8 @@
         "definition": "space provided for stowing things away, in a boat or a plane",
         "examples": []
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "strand",
@@ -15774,7 +16151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "steamship",
@@ -15788,7 +16166,8 @@
         "definition": "a ship driven by steam",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "stow away",
@@ -15807,7 +16186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "stern",
@@ -15825,7 +16205,8 @@
         "definition": "all the way from the front of a ship to the back",
         "examples": []
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "stowaway",
@@ -15839,7 +16220,8 @@
         "definition": "a person who hides in a ship or plane before it leaves, in order to travel without paying or being seen",
         "examples": []
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "submariner",
@@ -15853,7 +16235,8 @@
         "definition": "a sailor who works on a submarine",
         "examples": []
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "submarine",
@@ -15888,7 +16271,8 @@
         "definition": "a long bread roll split open along its length and filled with various types of food",
         "examples": []
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "swing bridge",
@@ -15902,7 +16286,8 @@
         "definition": "a bridge that can be moved to one side to allow tall ships to pass",
         "examples": []
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "tanker",
@@ -15921,7 +16306,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "take (over) the helm",
@@ -15966,7 +16352,8 @@
         "definition": "to begin controlling the direction in which a boat or ship moves",
         "examples": []
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "supertanker",
@@ -15980,7 +16367,8 @@
         "definition": "a very large ship for carrying oil, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "submersible",
@@ -15994,7 +16382,8 @@
         "definition": "a submarine (= a ship that can travel underwater) that goes underwater for short periods",
         "examples": []
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "tall ship",
@@ -16013,7 +16402,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "sun deck",
@@ -16027,7 +16417,8 @@
         "definition": "the part of a ship where passengers can sit to enjoy the sun, or a similar area next to a restaurant or swimming pool",
         "examples": []
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "tack",
@@ -16105,7 +16496,8 @@
         "definition": "(to start to consider) the basic facts or practical details of something",
         "examples": []
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "stroke",
@@ -16266,7 +16658,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "tidemark",
@@ -16284,7 +16677,8 @@
         "definition": "a line that is left around the inside of a bath by dirty water",
         "examples": []
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "third class",
@@ -16306,7 +16700,8 @@
         "definition": "the lowest standard of honours degree given by a British university",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "tiller",
@@ -16320,7 +16715,8 @@
         "definition": "a bar that is used to turn the rudder of a small boat in order to control the direction in which it moves",
         "examples": []
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "tideline",
@@ -16334,7 +16730,8 @@
         "definition": "a line left or reached by the sea when the tide is at its highest point",
         "examples": []
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "terminal",
@@ -16384,7 +16781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "tidal",
@@ -16407,7 +16805,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "timber",
@@ -16456,7 +16855,8 @@
         "definition": "used to warn people that a tree that has been cut is about to fall",
         "examples": []
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "tender",
@@ -16495,7 +16895,8 @@
         "definition": "a small boat, used for carrying people or goods between a larger boat and land",
         "examples": []
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "tide",
@@ -16595,7 +16996,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "third-class",
@@ -16626,7 +17028,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "tonnage",
@@ -16649,7 +17052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "trawl",
@@ -16672,7 +17076,8 @@
         "definition": "a large net with a wide opening, that is dragged along the bottom of the sea by a boat in order to catch fish",
         "examples": []
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "topsail",
@@ -16686,7 +17091,8 @@
         "definition": "the sail attached to the upper part of the mast of a ship",
         "examples": []
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "trimaran",
@@ -16700,7 +17106,8 @@
         "definition": "a fast sailing boat like a catamaran, but with three hulls instead of two",
         "examples": []
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "transport",
@@ -16794,7 +17201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "turnaround",
@@ -16840,7 +17248,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "tow",
@@ -16872,7 +17281,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "trawler",
@@ -16886,7 +17296,8 @@
         "definition": "a fishing boat that uses large nets that it drags through the sea behind it",
         "examples": []
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "trim your sails",
@@ -16951,7 +17362,8 @@
         "definition": "to reduce your costs",
         "examples": []
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "troopship",
@@ -16965,7 +17377,8 @@
         "definition": "a ship used for transporting soldiers",
         "examples": []
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "tug",
@@ -17001,7 +17414,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "trade route",
@@ -17015,7 +17429,8 @@
         "definition": "(in the past) the route that people buying and selling goods used to take across land or sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "U-boat",
@@ -17029,7 +17444,8 @@
         "definition": "a German submarine (= a ship that can travel underwater)",
         "examples": []
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "voyager",
@@ -17048,7 +17464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "warship",
@@ -17075,7 +17492,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "vessel",
@@ -17120,7 +17538,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "unload",
@@ -17174,7 +17593,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "voyage",
@@ -17209,7 +17629,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "wake",
@@ -17244,7 +17665,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "up-anchor",
@@ -17258,7 +17680,8 @@
         "definition": "to raise the anchor from the water in order to be ready to sail",
         "examples": []
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "turnround",
@@ -17294,7 +17717,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "wardroom",
@@ -17308,7 +17732,8 @@
         "definition": "a room in a ship, especially a warship, where the officers live and eat",
         "examples": []
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "wash",
@@ -17399,7 +17824,8 @@
         "definition": "used to make somebody less anxious by telling them that any problems or difficulties will be solved in the future",
         "examples": []
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "whaler",
@@ -17417,7 +17843,8 @@
         "definition": "a person who hunts whales",
         "examples": []
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "wharf",
@@ -17431,7 +17858,8 @@
         "definition": "a flat structure built next to the sea or a river where boats can be tied up and goods unloaded",
         "examples": []
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "waterline",
@@ -17454,7 +17882,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "wheelhouse",
@@ -17486,7 +17915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "wet dock",
@@ -17500,7 +17930,8 @@
         "definition": "a place for ships to stay in order to be repaired, have goods put onto them, etc., in which there is enough water for the ship to float",
         "examples": []
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "yacht",
@@ -17536,7 +17967,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "yard",
@@ -17615,7 +18047,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "wheel",
@@ -17788,7 +18221,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "yaw",
@@ -17802,7 +18236,8 @@
         "definition": "the action of a ship or plane turning to one side, away from a straight course, in an unsteady way",
         "examples": []
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "water",
@@ -18118,7 +18553,8 @@
         "definition": "you can give somebody the opportunity to do something, but you cannot force them to do it if they do not want to",
         "examples": []
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "yaw",
@@ -18132,7 +18568,8 @@
         "definition": "to turn to one side, away from a straight course, in an unsteady way",
         "examples": []
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "wreck",
@@ -18203,6 +18640,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   }
 ]

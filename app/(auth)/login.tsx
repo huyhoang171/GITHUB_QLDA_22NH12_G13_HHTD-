@@ -16,13 +16,14 @@ import {
   TouchableWithoutFeedback,
 } from 'react-native';
 import { useRouter, useNavigation } from 'expo-router';
-import { checkLogin } from '../../services/api.service';
+import { checkLogin, getStudyCalendarApi } from '../../services/api.service';
 import { StatusBar } from 'expo-status-bar';
 import { LinearGradient } from 'expo-linear-gradient';
 import { BlurView } from 'expo-blur';
 import { useFonts, Poppins_400Regular, Poppins_500Medium, Poppins_600SemiBold, Poppins_700Bold } from '@expo-google-fonts/poppins';
 import { Ionicons, FontAwesome } from '@expo/vector-icons';
 import { CommonActions } from '@react-navigation/native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const { width, height } = Dimensions.get('window');
 
@@ -33,6 +34,7 @@ const LoginScreen = () => {
   const [isKeyboardVisible, setKeyboardVisible] = useState(false);
   const [emailFocused, setEmailFocused] = useState(false);
   const [passwordFocused, setPasswordFocused] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
   const fadeAnim = useState(new Animated.Value(0))[0];
   const slideAnim = useState(new Animated.Value(30))[0];
   const emailInputRef = useRef(null);
@@ -40,7 +42,7 @@ const LoginScreen = () => {
 
   const router = useRouter();
   const navigation = useNavigation();
-  const scrollViewRef = useRef<ScrollView>(null);
+  const scrollViewRef = useRef(null);
   const formContainerRef = useRef(null);
 
   // Load custom fonts
@@ -73,14 +75,12 @@ const LoginScreen = () => {
       Platform.OS === 'ios' ? 'keyboardWillShow' : 'keyboardDidShow',
       () => {
         setKeyboardVisible(true);
-        console.log('Keyboard shown');
       }
     );
     const keyboardDidHideListener = Keyboard.addListener(
       Platform.OS === 'ios' ? 'keyboardWillHide' : 'keyboardDidHide',
       () => {
         setKeyboardVisible(false);
-        console.log('Keyboard hidden');
       }
     );
 
@@ -90,7 +90,7 @@ const LoginScreen = () => {
     };
   }, [fadeAnim, slideAnim, navigation]);
 
-  const scrollToInput = (ref: React.RefObject<TextInput>) => {
+  const scrollToInput = (ref) => {
     setTimeout(() => {
       ref.current?.measure((fx, fy, width, height, px, py) => {
         if (scrollViewRef.current) {
@@ -100,37 +100,125 @@ const LoginScreen = () => {
           });
         }
       });
-    }, 300); // đợi bàn phím hiện ra
+    }, 300); // wait for keyboard to appear
   };
 
   const handleLogin = async () => {
     Keyboard.dismiss();
 
-      if (email === 'root' && password === '123456789') {
-    navigation.dispatch(
-      CommonActions.reset({
-        index: 0,
-        routes: [{ name: '(practice)' }],
-      })
-    );
-    return;
-  }
+    // Input validation
+    if (!email || !password) {
+      alert('Please enter both email and password.');
+      return;
+    }
+
+    if (password.length < 6) {
+      alert('Password must be at least 6 characters.');
+      return;
+    }
+
+    setIsLoading(true);
+
     try {
       const response = await checkLogin(email, password);
-      if (response.success) {
-        const targetRoute = response.role === 'Admin' ? 'admin-dashboard' : '(practice)';
 
+      // Validate API response
+      if (!response || typeof response !== 'object') {
+        throw new Error('Invalid API response.');
+      }
+
+      if (response.success) {
+        // Check for required fields
+        const { username, email: responseEmail, userid, createAt, message, progress } = response;
+
+        if (!username || !responseEmail || !userid || !createAt || !message) {
+          throw new Error('Incomplete user data.');
+        }
+
+        // Save user data to AsyncStorage
+        try {
+          await Promise.all([
+            AsyncStorage.setItem('username', username),
+            AsyncStorage.setItem('email', responseEmail),
+            AsyncStorage.setItem('userid', JSON.stringify(userid)),
+            AsyncStorage.setItem('createAt', createAt),
+            AsyncStorage.setItem('message', message),
+          ]);
+        } catch (storageError) {
+          console.error('Error saving to AsyncStorage:', storageError);
+          throw new Error('Unable to save user data.');
+        }
+
+        // Get and save study calendar to AsyncStorage
+        try {
+          const calendarResponse = await getStudyCalendarApi(userid);
+          if (calendarResponse.success && Array.isArray(calendarResponse.data)) {
+            await AsyncStorage.setItem('studyCalendar', JSON.stringify(calendarResponse.data));
+            console.log('Study calendar saved to AsyncStorage:', calendarResponse.data);
+          } else {
+            console.warn('Invalid study calendar data:', calendarResponse);
+          }
+        } catch (calendarError) {
+          console.error('Error fetching or saving study calendar:', calendarError);
+          // Don't interrupt login process for calendar issues
+        }
+
+        // Handle progress data if exists
+        if (progress && typeof progress === 'object') {
+          try {
+            // Topic progress
+            const progressList = Array.isArray(progress.topicProgress)
+              ? progress.topicProgress.map(item => ({
+                  subtopicId: item.topicName || '',
+                  progress: item.learnedWords || 0,
+                }))
+              : [];
+
+            // Grammar progress
+            const progressListGrammar = Array.isArray(progress.grammarLessonProgress)
+              ? progress.grammarLessonProgress.map(item => ({
+                  subtopicId: item.id ? item.id.toString() : '',
+                  progress: item.status || '',
+                }))
+              : [];
+
+            // Speaking progress
+            const progressListSpeaking = Array.isArray(progress.speakingProgress)
+              ? progress.speakingProgress.map(item => ({
+                  subtopicId: item.title || '',
+                  progress: item.learnedWords || 0,
+                }))
+              : [];
+
+            // Save progress to AsyncStorage
+            await Promise.all([
+              AsyncStorage.setItem('progressList', JSON.stringify(progressList)),
+              AsyncStorage.setItem('progressListGrammar', JSON.stringify(progressListGrammar)),
+              AsyncStorage.setItem('progressListSpeaking', JSON.stringify(progressListSpeaking)),
+            ]);
+          } catch (storageError) {
+            console.error('Error saving progress:', storageError);
+            throw new Error('Unable to save progress data.');
+          }
+        } else {
+          console.warn('No progress data from API.');
+        }
+
+        // Navigate to practice screen
         navigation.dispatch(
           CommonActions.reset({
             index: 0,
-            routes: [{ name: targetRoute }],
+            routes: [{ name: '(practice)' }],
           })
         );
       } else {
-        alert('Đăng nhập không thành công. Vui lòng thử lại.');
+        alert(response.message || 'Login failed. Please check your email or password.');
       }
     } catch (error) {
-      alert('Đã xảy ra lỗi. Vui lòng thử lại sau.');
+      console.error('Login error:', error);
+      alert('An error occurred. Please try again later.');
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -141,7 +229,6 @@ const LoginScreen = () => {
   if (!fontsLoaded) {
     return <View style={styles.loadingContainer}><Text>Loading...</Text></View>;
   }
-
 
   return (
     <SafeAreaView style={styles.container}>
@@ -162,7 +249,7 @@ const LoginScreen = () => {
       </View>
 
       <KeyboardAvoidingView
-        behavior={Platform.OS === 'ios' ? 'padding' : 'padding'} // Sử dụng padding cho cả hai
+        behavior={Platform.OS === 'ios' ? 'padding' : 'padding'}
         style={styles.keyboardAvoidView}
         enabled
       >
@@ -175,8 +262,9 @@ const LoginScreen = () => {
             keyboardDismissMode="interactive"
           >
             <View ref={formContainerRef} style={{ flex: 1 }}>
-              {/* Nội dung ScrollView */}
+              {/* ScrollView content */}
             </View>
+            
             {/* Header with logo and welcome text */}
             <Animated.View
               style={[
@@ -201,8 +289,8 @@ const LoginScreen = () => {
                   />
                 </LinearGradient>
               </View>
-              <Text style={styles.welcomeText}>Chào mừng trở lại</Text>
-              <Text style={styles.appTitle}>Đăng nhập vào Ezylearn</Text>
+              <Text style={styles.welcomeText}>Welcome Back</Text>
+              <Text style={styles.appTitle}>Sign in to Ezylearn</Text>
             </Animated.View>
 
             {/* Form container */}
@@ -215,13 +303,13 @@ const LoginScreen = () => {
                 },
               ]}
             >
-              {/* Email input */}
+              {/* Email/Username input */}
               <View
                 style={[
                   styles.inputContainer,
                   emailFocused && styles.inputContainerFocused,
                 ]}
-                onStartShouldSetResponder={() => true} // Ngăn sự kiện chạm lan tỏa
+                onStartShouldSetResponder={() => true}
               >
                 <Ionicons
                   name="mail-outline"
@@ -232,7 +320,7 @@ const LoginScreen = () => {
                 <TextInput
                   ref={emailInputRef}
                   style={styles.input}
-                  placeholder="Email"
+                  placeholder="Username"
                   placeholderTextColor="#999"
                   value={email}
                   onChangeText={setEmail}
@@ -240,12 +328,10 @@ const LoginScreen = () => {
                   autoCapitalize="none"
                   onFocus={() => {
                     setEmailFocused(true);
-                    console.log('Email input focused');
                     scrollToInput(emailInputRef);
                   }}
                   onBlur={() => {
                     setEmailFocused(false);
-                    console.log('Email input blurred');
                   }}
                 />
               </View>
@@ -256,7 +342,7 @@ const LoginScreen = () => {
                   styles.inputContainer,
                   passwordFocused && styles.inputContainerFocused,
                 ]}
-                onStartShouldSetResponder={() => true} // Ngăn sự kiện chạm lan tỏa
+                onStartShouldSetResponder={() => true}
               >
                 <Ionicons
                   name="lock-closed-outline"
@@ -267,19 +353,17 @@ const LoginScreen = () => {
                 <TextInput
                   ref={passwordInputRef}
                   style={styles.input}
-                  placeholder="Mật khẩu"
+                  placeholder="Password"
                   placeholderTextColor="#999"
                   value={password}
                   onChangeText={setPassword}
                   secureTextEntry={!showPassword}
                   onFocus={() => {
                     setPasswordFocused(true);
-                    console.log('Password input focused');
                     scrollToInput(passwordInputRef);
                   }}
                   onBlur={() => {
                     setPasswordFocused(false);
-                    console.log('Password input blurred');
                   }}
                 />
                 <TouchableOpacity
@@ -297,7 +381,7 @@ const LoginScreen = () => {
               {/* Forgot password link */}
               <View style={styles.forgotPasswordContainer}>
                 <TouchableOpacity onPress={() => router.push('/forgot-password')}>
-                  <Text style={styles.forgotPasswordText}>Quên mật khẩu?</Text>
+                  <Text style={styles.forgotPasswordText}>Forgot Password?</Text>
                 </TouchableOpacity>
               </View>
 
@@ -306,6 +390,7 @@ const LoginScreen = () => {
                 style={styles.loginButton}
                 onPress={handleLogin}
                 activeOpacity={0.8}
+                disabled={isLoading}
               >
                 <LinearGradient
                   colors={['#20b584', '#18a070']}
@@ -313,7 +398,9 @@ const LoginScreen = () => {
                   start={{ x: 0, y: 0 }}
                   end={{ x: 1, y: 0 }}
                 >
-                  <Text style={styles.loginButtonText}>Đăng nhập</Text>
+                  <Text style={styles.loginButtonText}>
+                    {isLoading ? 'Signing in...' : 'Sign In'}
+                  </Text>
                 </LinearGradient>
               </TouchableOpacity>
 
@@ -322,42 +409,22 @@ const LoginScreen = () => {
                 style={styles.registerButton}
                 onPress={handleRegister}
                 activeOpacity={0.7}
+                disabled={isLoading}
               >
-                <Text style={styles.registerButtonText}>Tạo tài khoản mới</Text>
+                <Text style={styles.registerButtonText}>Create New Account</Text>
               </TouchableOpacity>
-
-              {/* Social login */}
-              <View style={styles.socialLoginContainer}>
-                <View style={styles.dividerContainer}>
-                  <View style={styles.divider} />
-                  <Text style={styles.orText}>Hoặc đăng nhập với</Text>
-                  <View style={styles.divider} />
-                </View>
-
-                <View style={styles.socialButtonsRow}>
-                  <TouchableOpacity style={styles.socialButton}>
-                    <FontAwesome name="google" size={20} color="#DB4437" />
-                  </TouchableOpacity>
-                  <TouchableOpacity style={styles.socialButton}>
-                    <FontAwesome name="facebook" size={20} color="#4267B2" />
-                  </TouchableOpacity>
-                  <TouchableOpacity style={styles.socialButton}>
-                    <FontAwesome name="apple" size={20} color="#000" />
-                  </TouchableOpacity>
-                </View>
-              </View>
             </Animated.View>
           </ScrollView>
         </TouchableWithoutFeedback>
       </KeyboardAvoidingView>
 
-      {/* Footer với policy text */}
+      {/* Footer with policy text */}
       {!isKeyboardVisible && (
         <BlurView intensity={20} tint="light" style={styles.footerContainer}>
           <Text style={styles.policyText}>
-            Bằng cách đăng nhập, bạn đồng ý với{' '}
-            <Text style={styles.policyLink}>Điều khoản dịch vụ</Text> và{' '}
-            <Text style={styles.policyLink}>Chính sách bảo mật</Text> của chúng tôi
+            By signing in, you agree to our{' '}
+            <Text style={styles.policyLink}>Terms of Service</Text> and{' '}
+            <Text style={styles.policyLink}>Privacy Policy</Text>
           </Text>
         </BlurView>
       )}
@@ -531,46 +598,6 @@ const styles = StyleSheet.create({
     color: '#333',
     fontSize: 18,
     fontFamily: 'Poppins_500Medium',
-  },
-  socialLoginContainer: {
-    alignItems: 'center',
-  },
-  dividerContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    marginBottom: 16,
-    width: '100%',
-  },
-  divider: {
-    flex: 1,
-    height: 1,
-    backgroundColor: '#e0e0e0',
-  },
-  orText: {
-    paddingHorizontal: 16,
-    color: '#666',
-    fontSize: 14,
-    fontFamily: 'Poppins_400Regular',
-  },
-  socialButtonsRow: {
-    flexDirection: 'row',
-    justifyContent: 'center',
-  },
-  socialButton: {
-    width: 54,
-    height: 54,
-    borderRadius: 16,
-    backgroundColor: '#fff',
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginHorizontal: 12,
-    borderWidth: 1,
-    borderColor: '#e0e0e0',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.1,
-    shadowRadius: 4,
-    elevation: 2,
   },
   footerContainer: {
     paddingVertical: 16,

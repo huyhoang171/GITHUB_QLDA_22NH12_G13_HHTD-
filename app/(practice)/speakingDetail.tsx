@@ -1,19 +1,37 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, TouchableOpacity, StyleSheet, ActivityIndicator, Platform, Alert, ScrollView } from 'react-native';
+import {
+  View,
+  Text,
+  TouchableOpacity,
+  StyleSheet,
+  ActivityIndicator,
+  Platform,
+  Alert,
+  ScrollView,
+} from 'react-native';
 import { useLocalSearchParams } from 'expo-router';
 import { Audio, InterruptionModeIOS, InterruptionModeAndroid } from 'expo-av';
 import { LinearGradient } from 'expo-linear-gradient';
 import Animated, { useSharedValue, useAnimatedStyle, withSpring } from 'react-native-reanimated';
 import { Ionicons } from '@expo/vector-icons';
 import axios from 'axios';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import { saveProgressSpeakingApi } from '@/services/api.service';
 
-const BACKEND_TRANSCRIPTION_URL = 'http://172.20.10.7:5000/transcribe';
+const BACKEND_TRANSCRIPTION_URL = 'http://192.168.110.116:5000/transcribe';
 
 interface Dialogue {
   english: string;
   phonetic: string;
   vietnamese: string;
   audio: string;
+}
+
+type SpeakingTopicId = 'daily-conversations' | 'greetings' | 'introductions' | 'travel' | 'work';
+
+interface ProgressData {
+  subtopicId: SpeakingTopicId;
+  progress: number;
 }
 
 const topicFiles: Record<string, any> = {
@@ -25,7 +43,7 @@ const topicFiles: Record<string, any> = {
 };
 
 const audioFiles: Record<string, any> = {
-  // Greetings
+  // Greetings (as provided in your code)
   'hello_how_are_you.mp3': require('../../assets/audio/greetings/hello_how_are_you.mp3'),
   'good_morning.mp3': require('../../assets/audio/greetings/good_morning.mp3'),
   'good_afternoon.mp3': require('../../assets/audio/greetings/good_afternoon.mp3'),
@@ -141,7 +159,6 @@ const audioFiles: Record<string, any> = {
   'this_is_my_friend_john.mp3': require('../../assets/audio/introductions/this_is_my_friend_john.mp3'),
   'nice_to_meet_you1.mp3': require('../../assets/audio/introductions/nice_to_meet_you1.mp3'),
   'whats_your_name.mp3': require('../../assets/audio/introductions/whats_your_name.mp3'),
- // 'i_am_a_student.mp3': require('../../assets/audio/introductions/i_am_a_student.mp3'),
   'how_old_are_you.mp3': require('../../assets/audio/introductions/how_old_are_you.mp3'),
   'where_do_you_live.mp3': require('../../assets/audio/introductions/where_do_you_live.mp3'),
   'i_work_as_a_teacher.mp3': require('../../assets/audio/introductions/i_work_as_a_teacher.mp3'),
@@ -160,7 +177,6 @@ const audioFiles: Record<string, any> = {
   'i_have_a_pet_cat.mp3': require('../../assets/audio/introductions/i_have_a_pet_cat.mp3'),
   'i_am_married.mp3': require('../../assets/audio/introductions/i_am_married.mp3'),
   'i_enjoy_cooking.mp3': require('../../assets/audio/introductions/i_enjoy_cooking.mp3'),
- // 'i_am_learning_english.mp3': require('../../assets/audio/introductions/i_am_learning_english.mp3'),
   'i_like_traveling.mp3': require('../../assets/audio/introductions/i_like_traveling.mp3'),
   'i_am_the_youngest_in_my_family.mp3': require('../../assets/audio/introductions/i_am_the_youngest_in_my_family.mp3'),
   'i_work_in_a_hospital.mp3': require('../../assets/audio/introductions/i_work_in_a_hospital.mp3'),
@@ -258,7 +274,6 @@ const audioFiles: Record<string, any> = {
   'please_send_me_the_report.mp3': require('../../assets/audio/work/please_send_me_the_report.mp3'),
   'i_am_working_on_a_project.mp3': require('../../assets/audio/work/i_am_working_on_a_project.mp3'),
   'i_need_more_time.mp3': require('../../assets/audio/work/i_need_more_time.mp3'),
-  // 'lets_take_a_break.mp3': require('../../assets/audio/work/lets_take_a_break.mp3'), // Đã có ở daily-conversations, tránh trùng key
   'can_we_talk_later.mp3': require('../../assets/audio/work/can_we_talk_later.mp3'),
   'whats_the_deadline.mp3': require('../../assets/audio/work/whats_the_deadline.mp3'),
   'the_client_is_waiting.mp3': require('../../assets/audio/work/the_client_is_waiting.mp3'),
@@ -314,7 +329,11 @@ export default function SpeakingDetail() {
   const [playbackUri, setPlaybackUri] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [isTranscribing, setIsTranscribing] = useState(false);
-  const [transcriptionResult, setTranscriptionResult] = useState<{ text: string; accuracy: number | null } | null>(null);
+  const [transcriptionResult, setTranscriptionResult] = useState<{
+    text: string;
+    accuracy: number | null;
+  } | null>(null);
+  const [cachedProgress, setCachedProgress] = useState<number>(0);
 
   // Animation values for buttons
   const buttonScale = useSharedValue(1);
@@ -322,6 +341,7 @@ export default function SpeakingDetail() {
     transform: [{ scale: buttonScale.value }],
   }));
 
+  // Load dialogues and progress
   useEffect(() => {
     if (!topicId || typeof topicId !== 'string') {
       console.error('Invalid or missing topicId param');
@@ -329,20 +349,84 @@ export default function SpeakingDetail() {
       return;
     }
 
-    try {
-      const dialoguesData = topicFiles[topicId];
-      if (dialoguesData && Array.isArray(dialoguesData)) {
-        setDialogues(dialoguesData);
-      } else {
+    const loadData = async () => {
+      try {
+        // Load dialogues
+        const dialoguesData = topicFiles[topicId];
+        if (dialoguesData && Array.isArray(dialoguesData)) {
+          setDialogues(dialoguesData);
+        } else {
+          setDialogues([]);
+        }
+
+        // Load progress from AsyncStorage
+        const storedProgress = await AsyncStorage.getItem('progressListSpeaking');
+        let progressList: ProgressData[] = storedProgress ? JSON.parse(storedProgress) : [];
+        
+        // Initialize progress for all topics if not present
+        const allTopics: SpeakingTopicId[] = [
+          'daily-conversations',
+          'greetings',
+          'introductions',
+          'travel',
+          'work',
+        ];
+        const defaultProgress: ProgressData[] = allTopics.map((id) => ({
+          subtopicId: id,
+          progress: 0,
+        }));
+        progressList = defaultProgress.map((defaultItem) => {
+          const existing = progressList.find((item) => item.subtopicId === defaultItem.subtopicId);
+          return existing || defaultItem;
+        });
+
+        // Save initialized progress
+        await AsyncStorage.setItem('progressListSpeaking', JSON.stringify(progressList));
+
+        // Find progress for current topic
+        const progressItem = progressList.find((item) => item.subtopicId === topicId);
+        const progress = progressItem ? Math.min(progressItem.progress, dialoguesData.length) : 0;
+        setCachedProgress(progress);
+        setCurrentDialogueIndex(progress); // Start at the next dialogue
+      } catch (error) {
+        console.error('Error loading dialogues or progress:', error);
         setDialogues([]);
+      } finally {
+        setIsLoading(false);
       }
-    } catch (error) {
-      console.error('Error loading dialogues JSON for topic:', topicId, error);
-      setDialogues([]);
-    } finally {
-      setIsLoading(false);
-    }
+    };
+
+    loadData();
   }, [topicId]);
+
+  // Update progress in AsyncStorage
+  const updateProgress = async (newProgress: number) => {
+    try {
+      const storedProgress = await AsyncStorage.getItem('progressListSpeaking');
+      let progressList: ProgressData[] = storedProgress ? JSON.parse(storedProgress) : [];
+
+      // Update or add progress for the current topic
+      const updatedList = progressList.map((item) =>
+        item.subtopicId === topicId ? { ...item, progress: newProgress } : item
+      );
+      if (!updatedList.some((item) => item.subtopicId === topicId)) {
+        updatedList.push({ subtopicId: topicId as SpeakingTopicId, progress: newProgress });
+      }
+
+      await AsyncStorage.setItem('progressListSpeaking', JSON.stringify(updatedList));
+      setCachedProgress(newProgress);
+
+       // Gửi tiến trình đến server
+      const result = await saveProgressSpeakingApi(topicId, newProgress);
+      if (!result.success) {
+      throw new Error('Gửi tiến trình đến server thất bại');
+      }
+
+    } catch (error) {
+      console.error('Error updating progress:', error);
+      Alert.alert('Error', 'Failed to save progress.');
+    }
+  };
 
   const startRecording = async () => {
     setPlaybackUri(null);
@@ -478,9 +562,15 @@ export default function SpeakingDetail() {
 
   const handleNext = () => {
     if (currentDialogueIndex < dialogues.length - 1) {
-      setCurrentDialogueIndex(currentDialogueIndex + 1);
+      const newIndex = currentDialogueIndex + 1;
+      setCurrentDialogueIndex(newIndex);
       setPlaybackUri(null);
       setTranscriptionResult(null);
+
+      // Update progress if newIndex exceeds cached progress
+      if (newIndex > cachedProgress) {
+        updateProgress(newIndex);
+      }
     }
   };
 
@@ -593,9 +683,9 @@ export default function SpeakingDetail() {
               disabled={isTranscribing}
             >
               <Animated.View style={[styles.actionButtonContent, buttonAnimatedStyle]}>
-                <Ionicons name={recording ? "stop-circle" : "mic-circle"} size={24} color="#FFFFFF" />
+                <Ionicons name={recording ? 'stop-circle' : 'mic-circle'} size={24} color="#FFFFFF" />
                 <Text style={styles.actionButtonText}>
-                  {recording ? "Stop Recording" : "Start Recording"}
+                  {recording ? 'Stop Recording' : 'Start Recording'}
                 </Text>
               </Animated.View>
             </TouchableOpacity>
@@ -629,24 +719,21 @@ export default function SpeakingDetail() {
               <Animated.View style={[styles.actionButtonContent, buttonAnimatedStyle]}>
                 <Ionicons name="checkmark-circle" size={24} color="#FFFFFF" />
                 <Text style={styles.actionButtonText}>
-                  {isTranscribing ? "Processing..." : "Check Speech"}
+                  {isTranscribing ? 'Processing...' : 'Check Speech'}
                 </Text>
               </Animated.View>
             </TouchableOpacity>
             {isTranscribing && <ActivityIndicator style={styles.loader} color="#6C63FF" />}
             {transcriptionResult && !isTranscribing && (
-              <LinearGradient
-                colors={['#FFFFFF', '#F8F9FA']}
-                style={styles.resultCard}
-              >
+              <LinearGradient colors={['#FFFFFF', '#F8F9FA']} style={styles.resultCard}>
                 <Text style={styles.resultLabel}>Your Speech:</Text>
                 <Text
                   style={[
                     styles.resultText,
-                    transcriptionResult.text === "Transcription failed" && { color: '#FF4D4F' },
+                    transcriptionResult.text === 'Transcription failed' && { color: '#FF4D4F' },
                   ]}
                 >
-                  {transcriptionResult.text || "(Not recognized)"}
+                  {transcriptionResult.text || '(Not recognized)'}
                 </Text>
                 {transcriptionResult.accuracy !== null && (
                   <>
@@ -683,7 +770,7 @@ const styles = StyleSheet.create({
     paddingBottom: 15,
     borderBottomLeftRadius: 25,
     borderBottomRightRadius: 25,
-    shadowColor: "#6C63FF",
+    shadowColor: '#6C63FF',
     shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.3,
     shadowRadius: 5,

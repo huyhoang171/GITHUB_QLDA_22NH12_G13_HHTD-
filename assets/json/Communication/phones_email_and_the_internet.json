@@ -11,7 +11,8 @@
         "definition": "a line near the top of a page on an internet browser where you can type in the address of a website or where the website address is displayed",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "AFAIK",
@@ -25,7 +26,8 @@
         "definition": "as far as I know (= used in text messages, on social media, etc.)",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "ad blocker",
@@ -44,7 +46,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "access provider",
@@ -58,7 +61,8 @@
         "definition": "a business company that provides a service to customers, especially one that connects customers to the internet",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "ADSL",
@@ -72,7 +76,8 @@
         "definition": "asymmetric digital subscriber line (a system for connecting a computer to the internet using a phone line)",
         "examples": []
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "address book",
@@ -95,7 +100,8 @@
         "definition": "a computer file where you store email and internet addresses",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "affiliate marketing",
@@ -114,7 +120,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "AFAIC",
@@ -133,7 +140,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "anonymize",
@@ -151,7 +159,8 @@
         "definition": "if you anonymize data that is sent or received over the internet, you remove any information that identifies which particular computer that data originally came from",
         "examples": []
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "answerphone",
@@ -170,7 +179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "answering machine",
@@ -189,7 +199,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "alert",
@@ -234,7 +245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "address",
@@ -311,7 +323,8 @@
         "definition": "the correct title, etc. to use when you talk to somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "airplane mode",
@@ -330,7 +343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "area code",
@@ -349,7 +363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "alarm call",
@@ -372,7 +387,8 @@
         "definition": "a sound of warning made by a bird or animal",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "account",
@@ -681,7 +697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "attachment",
@@ -761,7 +778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "banner",
@@ -815,7 +833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "be on the telephone",
@@ -901,7 +920,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "banner ad",
@@ -915,7 +935,8 @@
         "definition": "an advertisement across the top or bottom or down the side of a page on the internet",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "be on the phone",
@@ -1056,7 +1077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "beep",
@@ -1092,7 +1114,8 @@
         "definition": "to call somebody on their beeper",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "at",
@@ -1363,7 +1386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "bandwidth",
@@ -1400,7 +1424,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "BF",
@@ -1414,7 +1439,8 @@
         "definition": "(especially in text messages, on social media, etc.) boyfriend; best friend",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "attach",
@@ -1501,7 +1527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "blog",
@@ -1532,7 +1559,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "blogging",
@@ -1546,7 +1574,8 @@
         "definition": "the activity of writing a blog",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "bleeper",
@@ -1565,7 +1594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "bleep",
@@ -1601,7 +1631,8 @@
         "definition": "to broadcast a short high electronic sound in place of a swear word on a television or radio show, so that people will not be offended",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "battery",
@@ -1708,7 +1739,8 @@
         "definition": "to get back your strength and energy by resting for a while",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "blog",
@@ -1739,7 +1771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "beeper",
@@ -1753,7 +1786,8 @@
         "definition": "a small electronic device that you carry around with you and that lets you know when somebody is trying to contact you, by making a sound",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "blogosphere",
@@ -1784,7 +1818,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "blogger",
@@ -1798,7 +1833,8 @@
         "definition": "a person who writes a blog",
         "examples": []
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "BFF",
@@ -1817,7 +1853,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "bookmark",
@@ -1835,7 +1872,8 @@
         "definition": "a record of the address of a file, a page on the internet, etc. that enables you to find it quickly",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "blogroll",
@@ -1858,7 +1896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "BRB",
@@ -1872,7 +1911,8 @@
         "definition": "(especially in emails, messages sent using an instant messaging service, etc.) be right back (when you have to leave your computer, etc. for a short time)",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "blue pages",
@@ -1891,7 +1931,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "breakout room",
@@ -1910,7 +1951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "bookmark",
@@ -1929,7 +1971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "broadband",
@@ -1952,7 +1995,8 @@
         "definition": "signals that use a wide range of frequencies",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "bounce",
@@ -2089,7 +2133,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "blog post",
@@ -2112,7 +2157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "bulletin board",
@@ -2135,7 +2181,8 @@
         "definition": "a place on a computer network where any user can write or read messages",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "browser",
@@ -2163,7 +2210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "call back",
@@ -2186,7 +2234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "callback",
@@ -2208,7 +2257,8 @@
         "definition": "an occasion when you are asked to return somewhere, for example for a second interview when you are trying to get a job",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "browse",
@@ -2256,7 +2306,8 @@
         "definition": "to eat leaves, etc. that are growing high up",
         "examples": []
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "call",
@@ -2718,7 +2769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "caller",
@@ -2754,7 +2806,8 @@
         "definition": "a person who shouts out the steps for people performing a square dance or country dance",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "call",
@@ -3005,7 +3058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "burner",
@@ -3054,7 +3108,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "call box",
@@ -3072,7 +3127,8 @@
         "definition": "a small box next to a road, with a phone in it, to call for help after an accident, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "caller ID",
@@ -3086,7 +3142,8 @@
         "definition": "a system that uses a device on your phone to identify and display the phone number of the person who is calling you",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "call in",
@@ -3123,7 +3180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "careline",
@@ -3142,7 +3200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "call waiting",
@@ -3156,7 +3215,8 @@
         "definition": "a phone service that tells you if somebody is trying to call you when you are using the phone",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "call-in",
@@ -3170,7 +3230,8 @@
         "definition": "a radio or television programme in which people can phone and make comments or ask questions about a particular subject",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "cell phone",
@@ -3197,7 +3258,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "call up",
@@ -3241,7 +3303,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "cc",
@@ -3264,7 +3327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "car phone",
@@ -3278,7 +3342,8 @@
         "definition": "a radio phone for use in a car",
         "examples": []
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "carrier",
@@ -3339,7 +3404,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "chat",
@@ -3420,7 +3486,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "cellular",
@@ -3461,7 +3528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "cardphone",
@@ -3475,7 +3543,8 @@
         "definition": "a public phone in which you used a plastic card (= a phonecard) instead of money",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "chat",
@@ -3527,7 +3596,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "cc",
@@ -3555,7 +3625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "chat room",
@@ -3574,7 +3645,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "chatline",
@@ -3597,7 +3669,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "carpet-bomb",
@@ -3620,7 +3693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "CMC",
@@ -3634,7 +3708,8 @@
         "definition": "computer-mediated communication’ (= communication by email, instant messaging, social media sites, etc.)",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "citizen journalism",
@@ -3661,7 +3736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "clickstream",
@@ -3680,7 +3756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "cold-calling",
@@ -3694,7 +3771,8 @@
         "definition": "the practice of phoning somebody that you do not know, in order to sell them something",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "communication",
@@ -3767,7 +3845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "contact",
@@ -3810,7 +3889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "conference call",
@@ -3824,7 +3904,8 @@
         "definition": "a phone call in which three or more people take part",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "clickjacking",
@@ -3843,7 +3924,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "courtesy call",
@@ -3861,7 +3943,8 @@
         "definition": "a phone call from a company to one of its customers, for example to see if they are satisfied with the company’s service",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "copy in",
@@ -3880,7 +3963,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "connect",
@@ -4018,7 +4102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "cradle",
@@ -4062,7 +4147,8 @@
         "definition": "to have a sexual relationship with a much younger person",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "connection",
@@ -4196,7 +4282,8 @@
         "definition": "for reasons connected with something recently mentioned",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "cookie",
@@ -4240,7 +4327,8 @@
         "definition": "that is the situation and we cannot change it, so we must accept it",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "cybernaut",
@@ -4258,7 +4346,8 @@
         "definition": "a regular or expert user of the internet",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "cyber-",
@@ -4281,7 +4370,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "cybercafe",
@@ -4295,7 +4385,8 @@
         "definition": "a cafe with computers on which customers can use the internet, send emails, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "DD",
@@ -4314,7 +4405,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "deepfake",
@@ -4337,7 +4429,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "crawl",
@@ -4422,7 +4515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "dial in",
@@ -4467,7 +4561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "dial",
@@ -4490,7 +4585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "cybersex",
@@ -4504,7 +4600,8 @@
         "definition": "communication between people using the internet that makes them sexually excited",
         "examples": []
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "dialling code",
@@ -4523,7 +4620,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "crawler",
@@ -4554,7 +4652,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "digital well-being",
@@ -4573,7 +4672,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "digital detox",
@@ -4596,7 +4696,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "delete",
@@ -4627,7 +4728,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "cut off",
@@ -4728,7 +4830,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "dial up",
@@ -4778,7 +4881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "direct dialling",
@@ -4797,7 +4901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "dial-up",
@@ -4811,7 +4916,8 @@
         "definition": "using a phone line and a modem to connect your computer to the internet",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "digital media",
@@ -4838,7 +4944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "discussion forum",
@@ -4866,7 +4973,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "distance learning",
@@ -4893,7 +5001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "direct marketing",
@@ -4912,7 +5021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "directory enquiries",
@@ -4931,7 +5041,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "DM",
@@ -4945,7 +5056,8 @@
         "definition": "a private message that you send on social media that will only be seen by the person you send it to (the abbreviation for ‘direct message’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "dial into",
@@ -4990,7 +5102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "directory",
@@ -5026,7 +5139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "disconnect",
@@ -5094,7 +5208,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "DM",
@@ -5121,7 +5236,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "doomscrolling",
@@ -5140,7 +5256,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "domain name",
@@ -5159,7 +5276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "earpiece",
@@ -5173,7 +5291,8 @@
         "definition": "the part of a phone or piece of electrical equipment that you hold next to or put into your ear so that you can listen",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "DOI",
@@ -5191,7 +5310,8 @@
         "definition": "Department of the Interior (the US government department responsible for protecting the country’s environment)",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "dot-com",
@@ -5214,7 +5334,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "draft",
@@ -5310,7 +5431,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "e-banking",
@@ -5329,7 +5451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "eBay",
@@ -5343,7 +5466,8 @@
         "definition": "to buy or sell goods on the website called eBay",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "eBay™",
@@ -5362,7 +5486,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "DW",
@@ -5380,7 +5505,8 @@
         "definition": "(especially in text messages, on social media, etc.) don't worry",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "ego-surfing",
@@ -5394,7 +5520,8 @@
         "definition": "the activity of searching the internet to find places where your own name has been mentioned",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "domain",
@@ -5443,7 +5570,8 @@
         "definition": "the range of possible values of a particular variable",
         "examples": []
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "emoji",
@@ -5466,7 +5594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "email",
@@ -5542,7 +5671,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "emoticon",
@@ -5556,7 +5686,8 @@
         "definition": "a short set of keyboard symbols that represents the expression on somebody’s face, used in email, etc. to show the feelings of the person sending the message. For example :-) represents a smiling face (when you look at it with your head on one side).",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "draft",
@@ -5605,7 +5736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "ex-directory",
@@ -5628,7 +5760,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "engaged",
@@ -5717,7 +5850,8 @@
         "definition": "being used",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "Facebook™",
@@ -5744,7 +5878,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "fax",
@@ -5781,7 +5916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "favourite",
@@ -5888,7 +6024,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "EMS",
@@ -5910,7 +6047,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "e-zine",
@@ -5924,7 +6062,8 @@
         "definition": "a magazine published in electronic form on the internet",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "feed reader",
@@ -5938,7 +6077,8 @@
         "definition": "a piece of software that you use to see new information that has been added on a blog, news website, social media site, etc. without having to visit the website",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "extension",
@@ -6082,7 +6222,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "fax",
@@ -6109,7 +6250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "feed",
@@ -6193,7 +6335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "filter",
@@ -6260,7 +6403,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "fixed-line",
@@ -6279,7 +6423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "followee",
@@ -6298,7 +6443,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "follower",
@@ -6352,7 +6498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "flash mob",
@@ -6366,7 +6513,8 @@
         "definition": "a large group of people who arrange (by mobile phone or email) to gather together in a public place at exactly the same time, spend a short time doing something there and then quickly all leave at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "forum",
@@ -6406,7 +6554,8 @@
         "definition": "(in ancient Rome) a public place where meetings were held",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "flame",
@@ -6442,7 +6591,8 @@
         "definition": "to send somebody an angry or offensive message by email or on the internet",
         "examples": []
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "flame",
@@ -6528,7 +6678,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "follow request",
@@ -6547,7 +6698,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "forward",
@@ -6608,7 +6760,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "flash mobbing",
@@ -6622,7 +6775,8 @@
         "definition": "an activity in which a large group of people arrange (by mobile phone or email) to gather together in a public place at exactly the same time, spend a short time doing something there and then quickly all leave at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "Freephone",
@@ -6641,7 +6795,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "follow",
@@ -7006,7 +7161,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "friend",
@@ -7025,7 +7181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "friend request",
@@ -7044,7 +7201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "GF",
@@ -7058,7 +7216,8 @@
         "definition": "(especially in text messages, on social media, etc.) girlfriend",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "google",
@@ -7081,7 +7240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "Google™",
@@ -7095,7 +7255,8 @@
         "definition": "a very popular internet search engine (= a website that helps you to search for information on the internet)",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "get through",
@@ -7172,7 +7333,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "give somebody a buzz",
@@ -7255,7 +7417,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "give somebody a ring",
@@ -7317,7 +7480,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "give somebody a bell",
@@ -7440,7 +7604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "groom",
@@ -7489,7 +7654,8 @@
         "definition": "to prepare a child for a meeting, especially using social media, with the intention of performing an illegal sexual act",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "get hold of somebody",
@@ -7686,7 +7852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "friend",
@@ -7869,6 +8036,7 @@
         "definition": "a way of describing a dog",
         "examples": []
       }
-    ]
+    ],
+    "id": 168
   }
 ]

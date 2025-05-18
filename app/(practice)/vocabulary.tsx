@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, TouchableOpacity, BackHandler } from 'react-native';
 import { Audio } from 'expo-av';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useFocusEffect } from 'expo-router';
 import { Topic, VocabularyItem } from '../types/vocabularyType';
 import { topics, vocabularyFiles } from '../../constants/Topic';
@@ -9,6 +10,8 @@ import { SubtopicList } from '../../components/VocabularySubtopicList';
 import { VocabularyCard } from '../../components/vocabularyCard';
 import { playSound, translateSenses } from '../../hooks/useVocabulary';
 import { styles } from '../styles/vocabularyStyle';
+// Import hàm API
+import { saveProgressApi } from '../../services/api.service';
 
 export default function VocabularyScreen() {
   const [selectedTopic, setSelectedTopic] = useState<string | null>(null);
@@ -76,17 +79,57 @@ export default function VocabularyScreen() {
     };
   }, [selectedTopic, selectedSubtopic]);
 
+  const saveProgress = async (subtopicId: string, index: number) => {
+    try {
+      const progressListJson = await AsyncStorage.getItem('progressList');
+      let progressList = progressListJson ? JSON.parse(progressListJson) : [];
+      const progressIndex = progressList.findIndex(
+        (item: { subtopicId: string }) => item.subtopicId === subtopicId
+      );
+      const currentProgress = progressIndex !== -1 ? progressList[progressIndex].progress : 0;
+
+      if (index > currentProgress) {
+        if (progressIndex !== -1) {
+          progressList[progressIndex].progress = index;
+        } else {
+          progressList.push({ subtopicId, progress: index });
+        }
+        await AsyncStorage.setItem('progressList', JSON.stringify(progressList));
+
+        // Gửi tiến trình đến server
+        const result = await saveProgressApi(subtopicId, index);
+        if (!result.success) {
+          throw new Error('Gửi tiến trình đến server thất bại');
+        }
+      }
+    } catch (error) {
+      console.error("Lỗi khi lưu tiến trình:", error);
+    }
+  };
+
+  const loadProgress = async (subtopicId: string) => {
+    try {
+      const progressListJson = await AsyncStorage.getItem('progressList');
+      const progressList = progressListJson ? JSON.parse(progressListJson) : [];
+      const progressItem = progressList.find(
+        (item: { subtopicId: string }) => item.subtopicId === subtopicId
+      );
+      return progressItem ? progressItem.progress : 0;
+    } catch (error) {
+      console.error("Error loading progress:", error);
+      return 0;
+    }
+  };
+
   const loadVocabularyData = async (topicId: string, subtopicId: string) => {
     try {
-      setCurrentIndex(0);
       setShowAnswer(false);
       const data = vocabularyFiles[topicId]?.[subtopicId] || [];
       setVocabularyItems(data);
-      if (data.length) {
-        console.log(`Total words in topic '${topicId}/${subtopicId}': ${data.length}`);
-      }
+      const savedIndex = await loadProgress(subtopicId);
+      setCurrentIndex(Math.min(savedIndex, data.length - 1));
     } catch (error) {
-      console.error(`Error loading vocabulary data for topic ${topicId}/${subtopicId}:`, error);
+      console.error(`Error loading vocabulary data for ${topicId}/${subtopicId}:`, error);
       setVocabularyItems([]);
     }
   };
@@ -107,6 +150,25 @@ export default function VocabularyScreen() {
       />
     );
   }
+
+  const handleNext = () => {
+    const nextIndex = (currentIndex + 1) % vocabularyItems.length;
+    setCurrentIndex(nextIndex);
+    setShowAnswer(false);
+    if (selectedSubtopic) {
+      saveProgress(selectedSubtopic, nextIndex);
+    }
+  };
+
+  const handlePrevious = () => {
+    if (currentIndex === 0) return;
+    const prevIndex = (currentIndex - 1 + vocabularyItems.length) % vocabularyItems.length;
+    setCurrentIndex(prevIndex);
+    setShowAnswer(false);
+    if (selectedSubtopic) {
+      saveProgress(selectedSubtopic, prevIndex);
+    }
+  };
 
   return (
     <View style={styles.container}>
@@ -130,6 +192,7 @@ export default function VocabularyScreen() {
           {currentTopic?.subtopics?.find((s) => s.id === selectedSubtopic)?.title}
         </Text>
       </View>
+
       {currentItem ? (
         <VocabularyCard
           item={currentItem}
@@ -139,14 +202,8 @@ export default function VocabularyScreen() {
           translatedSenses={translatedSenses}
           translationError={translationError}
           onShowAnswer={() => setShowAnswer(true)}
-          onPrevious={() => {
-            setShowAnswer(false);
-            setCurrentIndex((prev) => (prev - 1 + vocabularyItems.length) % vocabularyItems.length);
-          }}
-          onNext={() => {
-            setShowAnswer(false);
-            setCurrentIndex((prev) => (prev + 1) % vocabularyItems.length);
-          }}
+          onPrevious={handlePrevious}
+          onNext={handleNext}
           onPlaySound={(url) => playSound(url, setSound, sound)}
           onTranslate={() => translateSenses(
             currentItem.word,
@@ -169,6 +226,8 @@ export default function VocabularyScreen() {
             setTranslatedSenses
           )}
           currentTopic={selectedTopic || ''}
+          isPreviousDisabled={currentIndex === 0}
+          wordIndex={currentIndex + 1}
           setShowAnswer={setShowAnswer}
           setTranslationError={setTranslationError}
           setIsTranslating={setIsTranslating}

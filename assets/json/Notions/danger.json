@@ -115,7 +115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "acutely",
@@ -152,7 +153,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "alarm",
@@ -243,7 +245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "adventure",
@@ -303,7 +306,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "adventurous",
@@ -356,7 +360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "alarmed",
@@ -384,7 +389,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "a leap in the dark",
@@ -476,7 +482,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "antics",
@@ -503,7 +510,8 @@
         "definition": "behaviour which is unreasonable or dangerous",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "alert",
@@ -539,7 +547,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "alert",
@@ -584,7 +593,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "avert",
@@ -624,7 +634,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "alert",
@@ -672,7 +683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "an accident/a disaster waiting to happen",
@@ -996,7 +1008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "a marked man/woman",
@@ -1040,7 +1053,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "at risk",
@@ -1235,7 +1249,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "be on the razor’s edge",
@@ -1263,7 +1278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "at-risk",
@@ -1290,7 +1306,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "boil up",
@@ -1318,7 +1335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "beware",
@@ -1345,7 +1363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "be on your guard",
@@ -1517,7 +1536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "be on the watch (for somebody/something)",
@@ -1609,7 +1629,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "breakneck",
@@ -1632,7 +1653,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "brink",
@@ -1685,7 +1707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "be on the lookout (for somebody/something)",
@@ -1735,7 +1758,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "caution",
@@ -1797,7 +1821,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "boil over",
@@ -1833,7 +1858,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "cancer",
@@ -1897,7 +1923,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "canker",
@@ -1937,7 +1964,8 @@
         "definition": "an evil or dangerous influence that spreads and affects people’s behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "caper",
@@ -1982,7 +2010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "compromise",
@@ -2052,7 +2081,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "caution",
@@ -2105,7 +2135,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "close",
@@ -2536,7 +2567,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "dare",
@@ -2623,7 +2655,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "critically",
@@ -2678,7 +2711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "dangerously",
@@ -2705,7 +2739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "dare",
@@ -2728,7 +2763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "critical",
@@ -2835,7 +2871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "danger",
@@ -2937,7 +2974,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "chance",
@@ -3294,7 +3332,8 @@
         "definition": "with the hope of using a particular situation in order to gain some advantage for yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "daringly",
@@ -3313,7 +3352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "dangerous",
@@ -3399,7 +3439,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "daredevil",
@@ -3418,7 +3459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "desperate",
@@ -3520,7 +3562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "discretion is the better part of valour",
@@ -3577,7 +3620,8 @@
         "definition": "you should avoid danger and not take unnecessary risks",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "dicey",
@@ -3596,7 +3640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "deadly",
@@ -3686,7 +3731,8 @@
         "definition": "like a dead person; suggesting death",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "daring",
@@ -3717,7 +3763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "death trap",
@@ -3740,7 +3787,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "distress",
@@ -3810,7 +3858,8 @@
         "definition": "a young woman who needs help",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "daredevil",
@@ -3829,7 +3878,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "dice with death",
@@ -3852,7 +3902,8 @@
         "definition": "to risk your life by doing something that you know is dangerous",
         "examples": []
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "dodgy",
@@ -3905,7 +3956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "evacuation",
@@ -3933,7 +3985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "early warning",
@@ -3960,7 +4013,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "escapade",
@@ -3983,7 +4037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "emergency",
@@ -4038,7 +4093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "do something at your (own) peril",
@@ -4095,7 +4151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "evacuate",
@@ -4139,7 +4196,8 @@
         "definition": "to empty your bowels",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "escape",
@@ -4270,7 +4328,8 @@
         "definition": "to try to prevent or avoid loss or damage when it is already too late to do so",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "evacuee",
@@ -4293,7 +4352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "do something at your own risk",
@@ -4488,7 +4548,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "foreboding",
@@ -4507,7 +4568,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "foghorn",
@@ -4526,7 +4588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "flirt with",
@@ -4558,7 +4621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "flight",
@@ -4767,7 +4831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "explode",
@@ -4872,7 +4937,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "escape",
@@ -4955,7 +5021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "foreboding",
@@ -4982,7 +5049,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "eventful",
@@ -5005,7 +5073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "flee",
@@ -5040,7 +5109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "for fear of something/of doing something",
@@ -5176,7 +5246,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "Frankenstein",
@@ -5203,7 +5274,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "gambler",
@@ -5231,7 +5303,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "gamble on doing",
@@ -5250,7 +5323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "gamble",
@@ -5277,7 +5351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "hairy",
@@ -5321,7 +5396,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "forewarned is forearmed",
@@ -5348,7 +5424,8 @@
         "definition": "if you know about problems, dangers, etc. before they happen, you can be better prepared for them",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "game",
@@ -5371,7 +5448,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "harmlessly",
@@ -5403,7 +5481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "guard",
@@ -5575,7 +5654,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "guard",
@@ -5628,7 +5708,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "God/Heaven help somebody",
@@ -5813,7 +5894,8 @@
         "definition": "used to swear that what you are saying is true, especially in a court of law",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "hang by a hair/thread",
@@ -6103,7 +6185,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "hazardous",
@@ -6134,7 +6217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "harmless",
@@ -6162,7 +6246,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "gamble",
@@ -6206,7 +6291,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "hazard",
@@ -6237,7 +6323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "gamble on",
@@ -6256,7 +6343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "hazard",
@@ -6292,7 +6380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "hold on",
@@ -6363,7 +6452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "if the worst comes to the worst",
@@ -6471,7 +6561,8 @@
         "definition": "a situation in which you have all the possible disadvantages at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "high-risk",
@@ -6502,7 +6593,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "imperil",
@@ -6521,7 +6613,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "help",
@@ -6707,7 +6800,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "in a (tight) spot",
@@ -6948,7 +7042,8 @@
         "definition": "to organize something in a very efficient way, controlling other people very closely",
         "examples": []
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "hot",
@@ -7320,7 +7415,8 @@
         "definition": "to make use of an opportunity immediately",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "hold out",
@@ -7370,7 +7466,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "in a (tight) corner/spot",
@@ -7652,7 +7749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "in jeopardy",
@@ -7679,7 +7777,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "insanity",
@@ -7719,7 +7818,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "jungle",
@@ -7772,7 +7872,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "insane",
@@ -7843,7 +7944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "(like) a lamb/lambs to the slaughter",
@@ -7895,7 +7997,8 @@
         "definition": "an offensive way to describe a woman who you think is trying to look younger than she really is, especially by wearing clothes that are designed for young people",
         "examples": []
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "madcap",
@@ -7918,7 +8021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "in the face of something",
@@ -8502,7 +8606,8 @@
         "definition": "to destroy or remove somebody/something completely",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "live, etc. to tell the tale",
@@ -8924,7 +9029,8 @@
         "definition": "I completely agree with you",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "look before you leap",
@@ -9023,7 +9129,8 @@
         "definition": "used to advise somebody to think about the possible results or dangers of something before doing it",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "low-risk",
@@ -9046,7 +9153,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "lurk",
@@ -9082,7 +9190,8 @@
         "definition": "to read a discussion in a chat room, etc. on the internet, without taking part in it yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "maniac",
@@ -9101,7 +9210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "look out",
@@ -9129,7 +9239,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "menacing",
@@ -9152,7 +9263,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "menace",
@@ -9202,7 +9314,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "maniac",
@@ -9247,7 +9360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "madness",
@@ -9291,7 +9405,8 @@
         "definition": "there is a reason for somebody’s behaviour and it is not as strange or as stupid as it seems",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "in a (tight) spot/corner",
@@ -9584,7 +9699,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "minefield",
@@ -9615,7 +9731,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "nothing ventured, nothing gained",
@@ -9676,7 +9793,8 @@
         "definition": "used to say that you have to take risks if you want to achieve things and be successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "lunatic",
@@ -9699,7 +9817,8 @@
         "definition": "a person who has a severe mental illness",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "perilous",
@@ -9718,7 +9837,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "mind out",
@@ -9746,7 +9866,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "mind",
@@ -10114,7 +10235,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "menace",
@@ -10137,7 +10259,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "nasty",
@@ -10287,7 +10410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "precarious",
@@ -10331,7 +10455,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "powder keg",
@@ -10350,7 +10475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "parlous",
@@ -10369,7 +10495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "presence of mind",
@@ -10388,7 +10515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "precaution",
@@ -10428,7 +10556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "precariously",
@@ -10456,7 +10585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "pressure cooker",
@@ -10483,7 +10613,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "peril",
@@ -10540,7 +10671,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "play with fire",
@@ -10826,7 +10958,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "pitfall",
@@ -10849,7 +10982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "perilously",
@@ -10872,7 +11006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "off (your) guard",
@@ -11044,7 +11179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "quagmire",
@@ -11067,7 +11203,8 @@
         "definition": "a difficult or dangerous situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "precautionary",
@@ -11086,7 +11223,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "quicksand",
@@ -11104,7 +11242,8 @@
         "definition": "a situation that is dangerous or difficult to escape from",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "recklessly",
@@ -11127,7 +11266,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "rescuer",
@@ -11146,7 +11286,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "rescue",
@@ -11198,7 +11339,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "rescue",
@@ -11245,7 +11387,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "red flag",
@@ -11277,7 +11420,8 @@
         "definition": "a red flag as a symbol of revolution or communism",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "red alert",
@@ -11300,7 +11444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "refuge",
@@ -11361,7 +11506,8 @@
         "definition": "an area in the middle of a road where you can stand and wait for cars to go past until it is safe for you to cross",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "reckless",
@@ -11396,7 +11542,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "rescue worker",
@@ -11415,7 +11562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "push your luck",
@@ -11722,7 +11870,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "rescue dog",
@@ -11750,7 +11899,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "risk-taking",
@@ -11764,7 +11914,8 @@
         "definition": "the practice of doing things that involve risks in order to achieve something",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "risk",
@@ -11846,7 +11997,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "risk-averse",
@@ -11869,7 +12021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "push things/it",
@@ -12683,7 +12836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "sail close to the wind",
@@ -12793,7 +12947,8 @@
         "definition": "to take a risk by doing something that is dangerous or that may be illegal",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "safeguard",
@@ -12816,7 +12971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "risk",
@@ -13011,7 +13167,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "safety measure",
@@ -13025,6 +13182,7 @@
         "definition": "something that you do in order to prevent something bad or dangerous from happening",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   }
 ]

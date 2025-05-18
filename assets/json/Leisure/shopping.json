@@ -24,7 +24,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "back order",
@@ -47,7 +48,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "afford",
@@ -148,7 +150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "accessory",
@@ -193,7 +196,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "appliance",
@@ -224,7 +228,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "article",
@@ -294,7 +299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "aisle",
@@ -347,7 +353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "back-order",
@@ -366,7 +373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "account",
@@ -675,7 +683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "assistant",
@@ -723,7 +732,8 @@
         "definition": "a student at university or college who spends time in a foreign country teaching his or her own language in a school",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "bakery",
@@ -737,7 +747,8 @@
         "definition": "a place where bread and cakes are made and/or sold",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "barcode",
@@ -751,7 +762,8 @@
         "definition": "a pattern of thick and thin lines that is printed on things you buy. It contains information that a computer can read.",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "baker",
@@ -774,7 +786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "bargain basement",
@@ -793,7 +806,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "bargain",
@@ -816,7 +830,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "banknote",
@@ -835,7 +850,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "bargain",
@@ -917,7 +933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "bakeshop",
@@ -931,7 +948,8 @@
         "definition": "a place where bread and cakes are made and/or sold",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "bag",
@@ -1110,7 +1128,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "barber",
@@ -1128,7 +1147,8 @@
         "definition": "a shop where men can have their hair cut",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "barter",
@@ -1151,7 +1171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "be a steal",
@@ -1187,7 +1208,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "be sold out",
@@ -1223,7 +1245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "bill",
@@ -1383,7 +1406,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "barter",
@@ -1402,7 +1426,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "basket",
@@ -1486,7 +1511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "bedding",
@@ -1504,7 +1530,8 @@
         "definition": "straw, etc. for animals to sleep on",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "betting shop",
@@ -1518,7 +1545,8 @@
         "definition": "a shop where you can bet on horse races and other competitions",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "best-before date",
@@ -1537,7 +1565,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "bid",
@@ -1608,7 +1637,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "bid",
@@ -1665,7 +1695,8 @@
         "definition": "a statement of the number of points a player thinks they will win",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "BOGOF",
@@ -1692,7 +1723,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "billing",
@@ -1728,7 +1760,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "bookie",
@@ -1742,7 +1775,8 @@
         "definition": "a bookmaker (= a person whose job is to take bets on the result of horse races, etc. and pay out money to people who win)",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "bookmaking",
@@ -1756,7 +1790,8 @@
         "definition": "the job or activity of taking bets on the result of horse races, etc. and paying out money to people who win",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "bookshop",
@@ -1779,7 +1814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "butcher",
@@ -1810,7 +1846,8 @@
         "definition": "to have a look at something",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "bookstall",
@@ -1824,7 +1861,8 @@
         "definition": "a small shop that is open at the front, where you can buy books, newspapers or magazines, for example at a station or an airport",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "boutique",
@@ -1838,7 +1876,8 @@
         "definition": "a small shop that sells fashionable clothes or expensive gifts",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "book",
@@ -2092,7 +2131,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "browse",
@@ -2140,7 +2180,8 @@
         "definition": "to eat leaves, etc. that are growing high up",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "buyer",
@@ -2177,7 +2218,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "carrier bag",
@@ -2196,7 +2238,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "cashback",
@@ -2232,7 +2275,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "cash and carry",
@@ -2246,7 +2290,8 @@
         "definition": "a large wholesale shop that sells goods in large quantities at low prices to customers from other businesses who pay in cash and take the goods away themselves; the system of buying and selling goods in this way",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "cash desk",
@@ -2265,7 +2310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "business",
@@ -2648,7 +2694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "buy",
@@ -2808,7 +2855,8 @@
         "definition": "to sell somebody something/to buy something that has no value or is worth much less than the price paid",
         "examples": []
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "cash",
@@ -2890,7 +2938,8 @@
         "definition": "a system of paying for goods when they are delivered",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "cashier",
@@ -2904,7 +2953,8 @@
         "definition": "a person whose job is to receive and pay out money in a bank, shop, hotel, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "center",
@@ -3035,7 +3085,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "chain store",
@@ -3054,7 +3105,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "check card",
@@ -3068,7 +3120,8 @@
         "definition": "a plastic card that can be used to take money directly from your bank account when you pay for something",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "cheap",
@@ -3246,7 +3299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "CCTV",
@@ -3269,7 +3323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "chain",
@@ -3386,7 +3441,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "change",
@@ -3620,7 +3676,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "centre",
@@ -3779,7 +3836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "charge",
@@ -3976,7 +4034,8 @@
         "definition": "to load a gun",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "cash register",
@@ -3999,7 +4058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "cheque",
@@ -4038,7 +4098,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "checkout",
@@ -4091,7 +4152,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "cleaner",
@@ -4149,7 +4211,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "city centre",
@@ -4172,7 +4235,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "coin",
@@ -4224,7 +4288,8 @@
         "definition": "used to talk about two ways of looking at the same situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "clothing",
@@ -4291,7 +4356,8 @@
         "definition": "a person who seems to be friendly or not likely to cause any harm but is really an enemy",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "chemist",
@@ -4335,7 +4401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "clerk",
@@ -4385,7 +4452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "close",
@@ -4678,7 +4746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "comparison shopping",
@@ -4697,7 +4766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "click and collect",
@@ -4716,7 +4786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "comparison-shop",
@@ -4739,7 +4810,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "confectioner",
@@ -4753,7 +4825,8 @@
         "definition": "a person or a business that makes or sells cakes and sweets",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "comparison site",
@@ -4772,7 +4845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "condition",
@@ -5012,7 +5086,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "cost",
@@ -5169,7 +5244,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "corner shop",
@@ -5188,7 +5264,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "couponing",
@@ -5207,7 +5284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "craft",
@@ -5269,7 +5347,8 @@
         "definition": "an aircraft or spacecraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "convenience store",
@@ -5288,7 +5367,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "credit card",
@@ -5315,7 +5395,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "counter",
@@ -5404,7 +5485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "crockery",
@@ -5427,7 +5509,8 @@
         "definition": "dishes, etc. that you use in the oven",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "cookware",
@@ -5441,7 +5524,8 @@
         "definition": "pots and containers used in cooking",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "customer",
@@ -5505,7 +5589,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "cosmetic",
@@ -5540,7 +5625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "credit note",
@@ -5559,7 +5645,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "delicatessen",
@@ -5573,7 +5660,8 @@
         "definition": "a shop or part of one that sells cooked meats and cheeses, and special or unusual foods that come from other countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "debit card",
@@ -5587,7 +5675,8 @@
         "definition": "a plastic card that can be used to take money directly from your bank account when you pay for something",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "deliver",
@@ -5771,7 +5860,8 @@
         "definition": "definite, because all the legal documents have been signed",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "cutlery",
@@ -5806,7 +5896,8 @@
         "definition": "knives, etc. that are sharp",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "credit",
@@ -6077,7 +6168,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "deli",
@@ -6096,7 +6188,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "currency",
@@ -6136,7 +6229,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "department store",
@@ -6150,7 +6244,8 @@
         "definition": "a large shop that is divided into several parts, each part selling a different type of goods",
         "examples": []
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "department",
@@ -6223,7 +6318,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "debt",
@@ -6317,7 +6413,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "delivery",
@@ -6416,7 +6513,8 @@
         "definition": "a system of paying for goods when they are delivered",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "digital wallet",
@@ -6439,7 +6537,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "display bin",
@@ -6453,7 +6552,8 @@
         "definition": "a box in a shop for displaying goods, especially goods whose prices have been reduced",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "dot-com",
@@ -6476,7 +6576,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "denomination",
@@ -6513,7 +6614,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "display",
@@ -6630,7 +6732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "discount",
@@ -6678,7 +6781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "drugstore",
@@ -6701,7 +6805,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "dry-cleaner’s",
@@ -6715,7 +6820,8 @@
         "definition": "a shop where clothes, curtains, etc. are cleaned, especially with chemicals",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "downtown",
@@ -6734,7 +6840,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "downtown",
@@ -6753,7 +6860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "downtown",
@@ -6772,7 +6880,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "discount",
@@ -6843,7 +6952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "dressing room",
@@ -6865,7 +6975,8 @@
         "definition": "a room or cubicle in a shop where you can put on clothes to see how they look",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "draper",
@@ -6883,7 +6994,8 @@
         "definition": "a shop that sells cloth, curtains, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "download",
@@ -6930,7 +7042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "duty-free",
@@ -6949,7 +7062,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "e-cash",
@@ -6963,7 +7077,8 @@
         "definition": "a system for sending and receiving payments using the internet",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "duty-free",
@@ -6982,7 +7097,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "electronic payment",
@@ -7005,7 +7121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "dump bin",
@@ -7019,7 +7136,8 @@
         "definition": "a box in a shop for displaying goods, especially goods whose prices have been reduced",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "electrical",
@@ -7046,7 +7164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "escalator",
@@ -7081,7 +7200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "e-tailing",
@@ -7104,7 +7224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "dummy",
@@ -7162,7 +7283,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "e-payment",
@@ -7185,7 +7307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "estate agent",
@@ -7199,7 +7322,8 @@
         "definition": "a person whose job is to sell houses and land for people",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "duty-free",
@@ -7218,7 +7342,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "e-wallet",
@@ -7237,7 +7362,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "expensive",
@@ -7288,7 +7414,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "fabric",
@@ -7329,7 +7456,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "fitting room",
@@ -7343,7 +7471,8 @@
         "definition": "a room or cubicle in a shop where you can put on clothes to see how they look",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "fishmonger",
@@ -7361,7 +7490,8 @@
         "definition": "a shop that sells fish",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "farm shop",
@@ -7380,7 +7510,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "florist",
@@ -7403,7 +7534,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "food hall",
@@ -7422,7 +7554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "factory shop",
@@ -7436,7 +7569,8 @@
         "definition": "a shop in which goods are sold directly by the company that produces them at a cheaper price than normal",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "farmers’ market",
@@ -7450,7 +7584,8 @@
         "definition": "a place where farmers and growers sell food directly to the public",
         "examples": []
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "fragrance",
@@ -7486,7 +7621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "furniture",
@@ -7526,7 +7662,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "garden centre",
@@ -7540,7 +7677,8 @@
         "definition": "a place that sells plants, seeds, garden equipment, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "gadget",
@@ -7559,7 +7697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "furnishings",
@@ -7582,7 +7721,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "glassware",
@@ -7596,7 +7736,8 @@
         "definition": "objects made of glass",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "gift card",
@@ -7615,7 +7756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "gift",
@@ -7744,7 +7886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "haberdashery",
@@ -7766,7 +7909,8 @@
         "definition": "a shop or part of a shop where haberdashery is sold",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "grocer",
@@ -7784,7 +7928,8 @@
         "definition": "a shop that sells these things",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "goods",
@@ -7874,7 +8019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "greengrocer",
@@ -7892,7 +8038,8 @@
         "definition": "a shop that sells fruit and vegetables",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "game",
@@ -8309,7 +8456,8 @@
         "definition": "used to ask why somebody is behaving as they are",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "gift certificate",
@@ -8323,7 +8471,8 @@
         "definition": "a piece of paper that is worth a particular amount of money and that can be exchanged for goods in a store",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "grocery",
@@ -8355,7 +8504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "free",
@@ -8712,7 +8862,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "haggle",
@@ -8743,7 +8894,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "helpful",
@@ -8815,7 +8967,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "health food",
@@ -8834,7 +8987,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "hardware",
@@ -8871,7 +9025,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "hairdresser",
@@ -8907,7 +9062,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "impulse buying",
@@ -8921,7 +9077,8 @@
         "definition": "buying goods without planning to do so in advance, and without thinking about it carefully",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "internet",
@@ -8976,7 +9133,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "jeweller",
@@ -8999,7 +9157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "impulse buy",
@@ -9022,7 +9181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "high street",
@@ -9070,7 +9230,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "jewellery",
@@ -9113,7 +9274,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "ironmonger",
@@ -9131,7 +9293,8 @@
         "definition": "a shop that sells tools and equipment for the house and garden",
         "examples": []
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "hypermarket",
@@ -9150,7 +9313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "item",
@@ -9248,7 +9412,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "kiosk",
@@ -9288,7 +9453,8 @@
         "definition": "a public phone box",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "launderette",
@@ -9302,7 +9468,8 @@
         "definition": "a place where you can wash and dry your clothes in machines that you pay to use",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "loyalty card",
@@ -9316,7 +9483,8 @@
         "definition": "a card given to customers by a shop to encourage them to shop there regularly. Each time they buy something they collect points that will allow them to have an amount of money taken off goods they buy in the future.",
         "examples": []
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "main street",
@@ -9339,7 +9507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "mall rat",
@@ -9353,7 +9522,8 @@
         "definition": "a young person who spends a lot of time in shopping malls, often in a large group of friends",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "luggage",
@@ -9393,7 +9563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "list",
@@ -9470,7 +9641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "liquor store",
@@ -9484,7 +9656,8 @@
         "definition": "a shop that sells alcoholic drinks in bottles and cans to take away",
         "examples": []
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "knock-off",
@@ -9507,7 +9680,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "linen",
@@ -9551,7 +9725,8 @@
         "definition": "to discuss your personal affairs in public, especially something embarrassing",
         "examples": []
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "mall",
@@ -9582,7 +9757,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "markup",
@@ -9618,7 +9794,8 @@
         "definition": "the process or result of marking or correcting a text, etc., for example for printing",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "manager",
@@ -9700,7 +9877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "mannequin",
@@ -9718,7 +9896,8 @@
         "definition": "a person whose job is to wear and display new styles of clothes",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "MFA",
@@ -9737,7 +9916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "mystery shopper",
@@ -9760,7 +9940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "megastore",
@@ -9774,7 +9955,8 @@
         "definition": "a very large shop, especially one that sells one type of product, for example computers or furniture",
         "examples": []
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "mystery shopping",
@@ -9793,7 +9975,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "offer",
@@ -9917,7 +10100,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "multi-factor authentication",
@@ -9936,7 +10120,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "music",
@@ -10066,7 +10251,8 @@
         "definition": "news or information that you are very pleased to hear",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "note",
@@ -10333,7 +10519,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "newsagent",
@@ -10356,7 +10543,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "online",
@@ -10408,7 +10596,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "market",
@@ -10627,7 +10816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "optician",
@@ -10658,7 +10848,8 @@
         "definition": "a person who makes lenses, glasses, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "outlet",
@@ -10725,7 +10916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "packaging",
@@ -10753,7 +10945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "p. and h.",
@@ -10767,7 +10960,8 @@
         "definition": "postage and handling",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "package store",
@@ -10781,7 +10975,8 @@
         "definition": "a shop that sells alcoholic drinks in bottles and cans to take away",
         "examples": []
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "off the peg",
@@ -10864,7 +11059,8 @@
         "definition": "a person who does not feel happy or comfortable in a particular situation, or who is not suitable for it",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "off-licence",
@@ -10878,7 +11074,8 @@
         "definition": "a shop that sells alcoholic drinks in bottles and cans to take away",
         "examples": []
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "on sale",
@@ -11065,7 +11262,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "over the counter",
@@ -11154,7 +11352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "order",
@@ -11284,7 +11483,8 @@
         "definition": "exactly what somebody wants or needs",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "order",
@@ -11798,7 +11998,8 @@
         "definition": "waiting for a signal to start a race",
         "examples": []
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "paper shop",
@@ -11812,7 +12013,8 @@
         "definition": "a shop that sells newspapers, magazines, sweets, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "panic buying",
@@ -11831,7 +12033,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "perfume",
@@ -11875,7 +12078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "payment",
@@ -11973,7 +12177,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "p. and p.",
@@ -11992,7 +12197,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "pharmacist",
@@ -12020,7 +12226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "pedestrian precinct",
@@ -12034,7 +12241,8 @@
         "definition": "a part of a town, especially a shopping area, that vehicles are not allowed to enter",
         "examples": []
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "pharmacy",
@@ -12065,7 +12273,8 @@
         "definition": "the study of how to prepare medicines and drugs",
         "examples": []
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "plaza",
@@ -12102,7 +12311,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "precinct",
@@ -12156,7 +12366,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "postage",
@@ -12187,7 +12398,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "portal",
@@ -12215,7 +12427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "pay",
@@ -12545,7 +12758,8 @@
         "definition": "used for saying that there is very little difference between two or more things that you can choose",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "pre-order",
@@ -12564,7 +12778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "price tag",
@@ -12587,7 +12802,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "profit margin",
@@ -12610,7 +12826,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "pre-order",
@@ -12633,7 +12850,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "pull date",
@@ -12647,7 +12865,8 @@
         "definition": "the date printed on food packages, etc. after which the food must not be sold",
         "examples": []
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "promotion",
@@ -12713,7 +12932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "purchase",
@@ -12786,7 +13006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "queue",
@@ -12853,7 +13074,8 @@
         "definition": "to go to the front of a line of people without waiting for your turn",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "price",
@@ -13108,7 +13330,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "product",
@@ -13239,7 +13462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "queue",
@@ -13283,7 +13507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "rack",
@@ -13348,7 +13573,8 @@
         "definition": "feeling extreme pressure, worry or pain",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "purchase",
@@ -13395,7 +13621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "range",
@@ -13618,7 +13845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "retail",
@@ -13637,7 +13865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "retail",
@@ -13664,7 +13893,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "reduce",
@@ -13740,7 +13970,8 @@
         "definition": "the state of being poorer than you were before. People say ‘living in reduced circumstances’ to avoid saying ‘poor’.",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "register",
@@ -13817,7 +14048,8 @@
         "definition": "a machine used in shops, restaurants, etc. for keeping money in, and that shows and records the amount of money received for each thing that is sold",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "retail",
@@ -13845,7 +14077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "rate",
@@ -14012,7 +14245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "receipt",
@@ -14081,7 +14315,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "refund",
@@ -14108,7 +14343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "reduction",
@@ -14201,7 +14437,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "retail therapy",
@@ -14220,7 +14457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "safe",
@@ -14234,7 +14472,8 @@
         "definition": "a strong metal box or cupboard with a complicated lock, used for storing valuable things in, for example, money or jewellery",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "return",
@@ -14446,7 +14685,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "sales clerk",
@@ -14460,7 +14700,8 @@
         "definition": "a person whose job is to serve customers in a shop",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "sales slip",
@@ -14474,7 +14715,8 @@
         "definition": "a piece of paper that shows that goods or services have been paid for",
         "examples": []
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "saleswoman",
@@ -14488,7 +14730,8 @@
         "definition": "a woman whose job is to sell goods, for example, in a shop",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "sample",
@@ -14582,7 +14825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "salesman",
@@ -14601,7 +14845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "sari-sari store",
@@ -14620,7 +14865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "salon",
@@ -14656,7 +14902,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "sale",
@@ -14843,7 +15090,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "saving",
@@ -14916,7 +15164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "self-service",
@@ -14930,7 +15179,8 @@
         "definition": "a self-service shop, restaurant, etc. is one in which customers serve themselves and then pay for the goods",
         "examples": []
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "sell-by date",
@@ -14953,7 +15203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "self-checkout",
@@ -14976,7 +15227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "shelf",
@@ -15061,7 +15313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "sell",
@@ -15254,7 +15507,8 @@
         "definition": "to do anything, even something really bad or dishonest, in return for money, success or power",
         "examples": []
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "sell out",
@@ -15308,7 +15562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "seller",
@@ -15349,7 +15604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "serve",
@@ -15641,7 +15897,8 @@
         "definition": "to support two different parties, principles, etc. at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "service",
@@ -16003,7 +16260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "shoe",
@@ -16121,7 +16379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "shipping",
@@ -16170,7 +16429,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "shop assistant",
@@ -16184,7 +16444,8 @@
         "definition": "a person whose job is to serve customers in a shop",
         "examples": []
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "shoplifting",
@@ -16207,7 +16468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "shopaholic",
@@ -16221,7 +16483,8 @@
         "definition": "a person who enjoys shopping very much and spends too much time or money doing it",
         "examples": []
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "shoplifter",
@@ -16240,7 +16503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "shopper",
@@ -16263,7 +16527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "shoplift",
@@ -16282,7 +16547,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "shop",
@@ -16376,7 +16642,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "shopping bag",
@@ -16394,7 +16661,8 @@
         "definition": "a paper or plastic bag for carrying shopping",
         "examples": []
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "shop",
@@ -16554,7 +16822,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "shopping",
@@ -16618,7 +16887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "shopping centre",
@@ -16637,7 +16907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "short-change",
@@ -16665,7 +16936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "showrooming",
@@ -16684,7 +16956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "shopping mall",
@@ -16698,7 +16971,8 @@
         "definition": "a large building or covered area that has many shops, restaurants, etc. inside it",
         "examples": []
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "special",
@@ -16743,7 +17017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "skincare",
@@ -16757,7 +17032,8 @@
         "definition": "the use of creams and special products to look after your skin",
         "examples": []
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "spendthrift",
@@ -16776,7 +17052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "showroom",
@@ -16795,7 +17072,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "shop window",
@@ -16814,7 +17092,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "spend",
@@ -16920,7 +17199,8 @@
         "definition": "people say ‘spend a penny’ to avoid saying ‘use the toilet’",
         "examples": []
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "special offer",
@@ -16947,7 +17227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "spendthrift",
@@ -16961,7 +17242,8 @@
         "definition": "a person who spends too much money or who wastes money",
         "examples": []
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "splurge",
@@ -16975,7 +17257,8 @@
         "definition": "an act of spending a lot of money on something that you do not really need",
         "examples": []
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "splurge",
@@ -16998,7 +17281,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "spree",
@@ -17030,7 +17314,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "stockist",
@@ -17049,7 +17334,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "stocktaking",
@@ -17081,7 +17367,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "stationery",
@@ -17108,7 +17395,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "stationer",
@@ -17131,7 +17419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "stock",
@@ -17171,7 +17460,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "stall",
@@ -17242,7 +17532,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "stand",
@@ -17374,7 +17665,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "stock up",
@@ -17402,7 +17694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "stock",
@@ -17580,7 +17873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "superstore",
@@ -17599,7 +17893,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "store window",
@@ -17613,7 +17908,8 @@
         "definition": "the glass at the front of a shop and the area behind it where goods are shown to the public",
         "examples": []
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "store card",
@@ -17627,7 +17923,8 @@
         "definition": "a card that a particular shop provides for regular customers so that they can use it to buy goods that they will pay for later",
         "examples": []
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "thrift shop",
@@ -17641,7 +17938,8 @@
         "definition": "a shop that sells clothes and other goods given by people to raise money for a charity",
         "examples": []
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "takings",
@@ -17660,7 +17958,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "supermarket",
@@ -17695,7 +17994,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "store",
@@ -17830,7 +18130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "technology",
@@ -17894,7 +18195,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "tester",
@@ -17917,7 +18219,8 @@
         "definition": "a small container of a product, such as perfume, that you can try in a shop to see if you like it",
         "examples": []
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "tax",
@@ -17964,7 +18267,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "tobacconist",
@@ -17987,7 +18291,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "till",
@@ -18026,7 +18331,8 @@
         "definition": "to be stealing money from the place where you work",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "toiletries",
@@ -18040,7 +18346,8 @@
         "definition": "things such as soap or toothpaste that you use for washing, cleaning your teeth, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "token",
@@ -18099,7 +18406,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "total",
@@ -18146,7 +18454,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "town centre",
@@ -18169,7 +18478,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "trolley",
@@ -18214,7 +18524,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "try on",
@@ -18233,7 +18544,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "travel agency",
@@ -18252,7 +18564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "unhelpful",
@@ -18275,7 +18588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "transaction",
@@ -18307,7 +18621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "traveller’s cheque",
@@ -18321,7 +18636,8 @@
         "definition": "a cheque for a fixed amount, sold by a bank or travel agent, that can be exchanged for cash in foreign countries (more common in the past than now)",
         "examples": []
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "toy",
@@ -18365,7 +18681,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "use-by date",
@@ -18384,7 +18701,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "trade",
@@ -18554,7 +18872,8 @@
         "definition": "the clever ways of doing things, known and used by people who do a particular job or activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "voucher",
@@ -18581,7 +18900,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "wet market",
@@ -18600,7 +18920,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "white goods",
@@ -18614,7 +18935,8 @@
         "definition": "large pieces of electrical equipment in the house, such as washing machines, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "wholesale",
@@ -18642,7 +18964,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "value",
@@ -18793,7 +19116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "window shopping",
@@ -18812,7 +19136,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "window",
@@ -18925,6 +19250,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   }
 ]

@@ -80,4 +80,35 @@ export const styles = StyleSheet.create({
     borderRadius: 40,
     overflow: 'hidden', 
   },
+  completionIcon: {
+    width: 24,
+    height: 24,
+    position: 'absolute',
+    top: 10,
+    right: 10,
+  },
+  loadingText: {
+    fontSize: 16,
+    color: '#666',
+    textAlign: 'center',
+    marginTop: 20,
+  },
+  noLessonsText: {
+    fontSize: 16,
+    color: '#666',
+    textAlign: 'center',
+    marginTop: 20,
+  },
+  resetButton: {
+    backgroundColor: '#FF5733',
+    padding: 10,
+    borderRadius: 5,
+    margin: 20,
+    alignItems: 'center',
+  },
+  resetButtonText: {
+    color: '#FFF',
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
 });

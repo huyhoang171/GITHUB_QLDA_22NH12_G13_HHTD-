@@ -20,7 +20,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "absentee",
@@ -34,7 +35,8 @@
         "definition": "a person who is not at a place where they were expected to be",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "academic freedom",
@@ -57,7 +59,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "absenteeism",
@@ -71,7 +74,8 @@
         "definition": "the fact of being frequently away from work or school, especially without good reasons",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "academic",
@@ -157,7 +161,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "academic year",
@@ -176,7 +181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "ace",
@@ -199,7 +205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "algebra",
@@ -213,7 +220,8 @@
         "definition": "a type of mathematics in which letters and symbols are used to represent quantities",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "adult education",
@@ -232,7 +240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "alumna",
@@ -246,7 +255,8 @@
         "definition": "a former female student of a school, college or university",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "academy",
@@ -295,7 +305,8 @@
         "definition": "a school in England that is independent of local authority control",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "A level",
@@ -326,7 +337,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "after-school",
@@ -349,7 +361,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "admit",
@@ -505,7 +518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "alma mater",
@@ -524,7 +538,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "admission",
@@ -609,7 +624,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "application",
@@ -717,7 +733,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "arithmetic",
@@ -757,7 +774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "applicant",
@@ -780,7 +798,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "ACT",
@@ -798,7 +817,8 @@
         "definition": "Australian Capital Territory",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "access course",
@@ -821,7 +841,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "assembly",
@@ -907,7 +928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "alumnus",
@@ -921,7 +943,8 @@
         "definition": "a former student of a school, college or university",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "art school",
@@ -940,7 +963,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "assessor",
@@ -977,7 +1001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "AS (level)",
@@ -1004,7 +1029,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "alumni",
@@ -1023,7 +1049,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "assess",
@@ -1091,7 +1118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "attend",
@@ -1182,7 +1210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "bachelor",
@@ -1226,7 +1255,8 @@
         "definition": "a small apartment suitable for a person living alone",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "award",
@@ -1320,7 +1350,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "answer",
@@ -1464,7 +1495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "art",
@@ -1602,7 +1634,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "assessment",
@@ -1668,7 +1701,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "biology",
@@ -1712,7 +1746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "blazer",
@@ -1735,7 +1770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "assistant",
@@ -1783,7 +1819,8 @@
         "definition": "a student at university or college who spends time in a foreign country teaching his or her own language in a school",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "BA",
@@ -1810,7 +1847,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "assignment",
@@ -1858,7 +1896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "BSc",
@@ -1881,7 +1920,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "board",
@@ -2100,7 +2140,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "attendance",
@@ -2175,7 +2216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "blended learning",
@@ -2198,7 +2240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "bunk off",
@@ -2221,7 +2264,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "boarder",
@@ -2249,7 +2293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "BTEC",
@@ -2268,7 +2313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "bell",
@@ -2391,7 +2437,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "boarding school",
@@ -2405,7 +2452,8 @@
         "definition": "a school where children can live during the school year",
         "examples": []
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "book",
@@ -2659,7 +2707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "business studies",
@@ -2678,7 +2727,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "blackboard",
@@ -2701,7 +2751,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "bursary",
@@ -2715,7 +2766,8 @@
         "definition": "an amount of money that is given to somebody so that they can study, usually at a college or university",
         "examples": []
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "calculator",
@@ -2742,7 +2794,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "capstone project",
@@ -2761,7 +2814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "catchment area",
@@ -2779,7 +2833,8 @@
         "definition": "the area from which rain flows into a particular river or lake",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "bunk off school",
@@ -2802,7 +2857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "canteen",
@@ -2824,7 +2880,8 @@
         "definition": "a box containing a set of knives, forks and spoons",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "caretaker",
@@ -2851,7 +2908,8 @@
         "definition": "a person such as a teacher, parent, nurse, etc., who takes care of other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "campus",
@@ -2898,7 +2956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "bunk off work",
@@ -2921,7 +2980,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "business school",
@@ -2935,7 +2995,8 @@
         "definition": "a part of a college or university that teaches business, often to graduates (= people who already have a first degree)",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "certificate",
@@ -2971,7 +3032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "candidate",
@@ -3052,7 +3114,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "chalk",
@@ -3110,7 +3173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "chancellor",
@@ -3160,7 +3224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "chair",
@@ -3265,7 +3330,8 @@
         "definition": "(especially in the US) a chair in which criminals are killed by having a powerful electric current passed through their bodies; the method of execution that uses this chair",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "chapel",
@@ -3328,7 +3394,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "classic",
@@ -3406,7 +3473,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "classroom",
@@ -3433,7 +3501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "classmate",
@@ -3452,7 +3521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "classwork",
@@ -3479,7 +3549,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "clearing",
@@ -3523,7 +3594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "co-education",
@@ -3537,7 +3609,8 @@
         "definition": "the practice of teaching girls and boys together in a school",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "coach",
@@ -3693,7 +3766,8 @@
         "definition": "to cause something to fail, for example a plan",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "chalkboard",
@@ -3707,7 +3781,8 @@
         "definition": "a large board with a smooth black or dark green surface that teachers write on with a piece of chalk",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "colloquium",
@@ -3721,7 +3796,8 @@
         "definition": "a formal academic seminar or conference",
         "examples": []
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "co-educational",
@@ -3740,7 +3816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "class",
@@ -3942,7 +4019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "chemistry",
@@ -4011,7 +4089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "college",
@@ -4160,7 +4239,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "coach",
@@ -4212,7 +4292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "community college",
@@ -4230,7 +4311,8 @@
         "definition": "a secondary school where adults from the local community can attend classes, use the sports facilities, etc. in the evening",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "comprehension",
@@ -4270,7 +4352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "commit",
@@ -4409,7 +4492,8 @@
         "definition": "to write something down",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "collegiate",
@@ -4437,7 +4521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "comprehensive",
@@ -4477,7 +4562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "comprehensive",
@@ -4491,7 +4577,8 @@
         "definition": "(in the UK) a secondary school for young people of all levels of ability",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "Common Core",
@@ -4510,7 +4597,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "commencement",
@@ -4537,7 +4625,8 @@
         "definition": "a ceremony at which students receive their academic degrees or diplomas",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "common room",
@@ -4555,7 +4644,8 @@
         "definition": "a room shared by people who live together in a house or apartment, such as a living room",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "compulsory",
@@ -4586,7 +4676,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "continuing education",
@@ -4605,7 +4696,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "confer",
@@ -4633,7 +4725,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "composition",
@@ -4699,7 +4792,8 @@
         "definition": "the arrangement of people or objects in a painting or photograph",
         "examples": []
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "co-curricular",
@@ -4718,7 +4812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "convocation",
@@ -4755,7 +4850,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "coursebook",
@@ -4769,7 +4865,8 @@
         "definition": "a book for studying from, used regularly on a particular course of study",
         "examples": []
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "conservatory",
@@ -4787,7 +4884,8 @@
         "definition": "a school or college at which people are trained in music and theatre",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "crammer",
@@ -4801,7 +4899,8 @@
         "definition": "a school or book that prepares people quickly for exams",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "core competency",
@@ -4833,7 +4932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "corridor",
@@ -4887,7 +4987,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "corporal punishment",
@@ -4901,7 +5002,8 @@
         "definition": "the physical punishment of people, especially by hitting them",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "cross-disciplinary",
@@ -4924,7 +5026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "crib",
@@ -4955,7 +5058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "CTC",
@@ -4969,7 +5073,8 @@
         "definition": "(in the UK) City Technology College (a school in a town or city for students aged 11 to 18 that places a strong emphasis on teaching science and technology)",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "custodian",
@@ -4996,7 +5101,8 @@
         "definition": "a person whose job is to take care of a building such as a school or a block of flats or an apartment building",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "coursework",
@@ -5015,7 +5121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "course",
@@ -5455,7 +5562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "crib",
@@ -5494,7 +5602,8 @@
         "definition": "the house, flat, etc. where somebody lives",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "curriculum",
@@ -5521,7 +5630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "decolonize",
@@ -5553,7 +5663,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "dean",
@@ -5592,7 +5703,8 @@
         "definition": "the most respected or most experienced member of a group or profession",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "cum laude",
@@ -5611,7 +5723,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "curricular",
@@ -5625,7 +5738,8 @@
         "definition": "connected with the curriculum of a school, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "degree",
@@ -5763,7 +5877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "deputy",
@@ -5799,7 +5914,8 @@
         "definition": "(in the US) a police officer who helps the sheriff of an area",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "day school",
@@ -5822,7 +5938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "diploma",
@@ -5854,7 +5971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "credit",
@@ -6125,7 +6243,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "department",
@@ -6198,7 +6317,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "dictionary",
@@ -6246,7 +6366,8 @@
         "definition": "a list of words in electronic form, for example stored in a computer’s spellchecker",
         "examples": []
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "desk",
@@ -6303,7 +6424,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "distance learning",
@@ -6330,7 +6452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "demerit",
@@ -6358,7 +6481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "disciplinary",
@@ -6394,7 +6518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "ditch",
@@ -6425,7 +6550,8 @@
         "definition": "to stay away from school without permission",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "dormitory",
@@ -6443,7 +6569,8 @@
         "definition": "a building for university or college students to live in",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "dissertation",
@@ -6466,7 +6593,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "dorm",
@@ -6489,7 +6617,8 @@
         "definition": "a dormitory (= a room for several people to sleep in, especially in a school or other institution)",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "don",
@@ -6525,7 +6654,8 @@
         "definition": "the leader of a group of criminals involved with the Mafia",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "doctor",
@@ -6602,7 +6732,8 @@
         "definition": "exactly what somebody wants or needs",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "detention",
@@ -6646,7 +6777,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "discipline",
@@ -6720,7 +6852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "drama",
@@ -6798,7 +6931,8 @@
         "definition": "to make a small problem or event seem more important or serious than it really is",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "doctorate",
@@ -6817,7 +6951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "dropout",
@@ -6849,7 +6984,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "discipline",
@@ -6890,7 +7026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "drop out",
@@ -6930,7 +7067,8 @@
         "definition": "to reject the ideas and ways of behaving that are accepted by the rest of society",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "DT",
@@ -6944,7 +7082,8 @@
         "definition": "a school subject in which students learn about the role of technology in modern life and also design and make things for themselves (the abbreviation for ‘design and technology’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "educated",
@@ -7013,7 +7152,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "Dr",
@@ -7036,7 +7176,8 @@
         "definition": "(in street names) drive",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "drop",
@@ -7460,7 +7601,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "EdTech",
@@ -7479,7 +7621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "economics",
@@ -7519,7 +7662,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "drill",
@@ -7594,7 +7738,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "educator",
@@ -7617,7 +7762,8 @@
         "definition": "a person who is an expert in the theories and methods of education",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "education",
@@ -7768,7 +7914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "educate",
@@ -7820,7 +7967,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "ELL",
@@ -7839,7 +7987,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "educational",
@@ -7891,7 +8040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "eleven-plus",
@@ -7905,7 +8055,8 @@
         "definition": "an exam that all children used to take in the UK at the age of eleven to decide which type of secondary school they should go to. It is still taken in a few areas.",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "endowment",
@@ -7928,7 +8079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "enrol",
@@ -7959,7 +8111,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "English",
@@ -8020,7 +8173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "entrance",
@@ -8135,7 +8289,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "ESOL",
@@ -8149,7 +8304,8 @@
         "definition": "English for speakers of other languages (used especially in the UK and Ireland to refer to the teaching of English as a foreign language to people who are living in a country in which English is either the first or second language)",
         "examples": []
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "entrant",
@@ -8206,7 +8362,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "enrolment",
@@ -8233,7 +8390,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "essay",
@@ -8294,7 +8452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "elective",
@@ -8313,7 +8472,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "elementary school",
@@ -8332,7 +8492,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "engineering",
@@ -8372,7 +8533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "examination",
@@ -8469,7 +8631,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "elective",
@@ -8526,7 +8689,8 @@
         "definition": "that a student can choose",
         "examples": []
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "exclude",
@@ -8587,7 +8751,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "evening class",
@@ -8610,7 +8775,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "exercise book",
@@ -8628,7 +8794,8 @@
         "definition": "a book with exercises in it, often with spaces for students to write answers in, to help them practise what they have learnt",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "exclusion",
@@ -8690,7 +8857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "examinee",
@@ -8704,7 +8872,8 @@
         "definition": "a person who is being tested to see how much they know about a subject or what they can do; a person who is taking an exam",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "exeat",
@@ -8718,7 +8887,8 @@
         "definition": "permission from an institution such as a boarding school to be away from it for a period of time",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "expulsion",
@@ -8763,7 +8933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "exercise",
@@ -8920,7 +9091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "exchange",
@@ -9023,7 +9195,8 @@
         "definition": "a place where phone calls are connected so that people can speak to each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "extramural",
@@ -9051,7 +9224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "faculty",
@@ -9150,7 +9324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "fee",
@@ -9218,7 +9393,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "extension",
@@ -9362,7 +9538,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "F",
@@ -9394,7 +9571,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "expel",
@@ -9439,7 +9617,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "field day",
@@ -9466,7 +9645,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "exam",
@@ -9542,7 +9722,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "fieldwork",
@@ -9565,7 +9746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "final",
@@ -9634,7 +9816,8 @@
         "definition": "an exam taken by school, university or college students at the end of a semester or quarter, usually in a topic that they will not study again",
         "examples": []
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "first",
@@ -9749,7 +9932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "fellow",
@@ -9824,7 +10008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "flipped classroom",
@@ -9838,7 +10023,8 @@
         "definition": "a method of teaching in which students study new material at home, for example with videos over the internet, and then discuss and practise it with teachers in class, instead of the usual method where teachers present new material in school and students practise at home",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "fail",
@@ -10038,7 +10224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "flunk",
@@ -10066,7 +10253,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "foundation course",
@@ -10085,7 +10273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "form",
@@ -10365,7 +10554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "field trip",
@@ -10388,7 +10578,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "first class",
@@ -10424,7 +10615,8 @@
         "definition": "the highest standard of degree given by a British university",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "fresher",
@@ -10443,7 +10635,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "frat",
@@ -10462,7 +10655,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "freshman",
@@ -10494,7 +10688,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "gap year",
@@ -10517,7 +10712,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "GCSE",
@@ -10540,7 +10736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "free period",
@@ -10554,7 +10751,8 @@
         "definition": "a period of time in a school day when a student or teacher does not have a class",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "extracurricular",
@@ -10573,7 +10771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "fraternity",
@@ -10609,7 +10808,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "GED",
@@ -10627,7 +10827,8 @@
         "definition": "the test that people take in order to get the GED certificate (the abbreviation for ‘General Educational Development’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "funding",
@@ -10666,7 +10867,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "further education",
@@ -10685,7 +10887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "full professor",
@@ -10699,7 +10902,8 @@
         "definition": "a university teacher of the highest rank",
         "examples": []
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "geometry",
@@ -10727,7 +10931,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "gender studies",
@@ -10746,7 +10951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "freshwoman",
@@ -10764,7 +10970,8 @@
         "definition": "a female first-year student at high school or junior high school",
         "examples": []
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "geography",
@@ -10830,7 +11037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "grade inflation",
@@ -10849,7 +11057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "grade",
@@ -10956,7 +11165,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "gown",
@@ -11001,7 +11211,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "grade point average",
@@ -11024,7 +11235,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "grad",
@@ -11056,7 +11268,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "GMAT",
@@ -11070,7 +11283,8 @@
         "definition": "a test taken by graduate students in the US who want to study for a degree in Business (the abbreviation for ‘Graduate Management Admissions Test’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "grade school",
@@ -11084,7 +11298,8 @@
         "definition": "(in the US) a school for children between the ages of about 6 and 12",
         "examples": []
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "geology",
@@ -11107,7 +11322,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "grad school",
@@ -11121,7 +11337,8 @@
         "definition": "a part of a college or university where you can study for a second or further degree",
         "examples": []
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "grade",
@@ -11169,7 +11386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "grant",
@@ -11224,7 +11442,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "grant-maintained",
@@ -11238,7 +11457,8 @@
         "definition": "receiving financial support from central government rather than local government",
         "examples": []
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "graduation",
@@ -11283,7 +11503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "graduate",
@@ -11343,7 +11564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "guidance counselor",
@@ -11362,7 +11584,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "gym",
@@ -11411,7 +11634,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "hall of residence",
@@ -11430,7 +11654,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "gymslip",
@@ -11444,7 +11669,8 @@
         "definition": "a dress without arms worn over a shirt as a school uniform for girls",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "half-term",
@@ -11475,7 +11701,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "gymnasium",
@@ -11489,7 +11716,8 @@
         "definition": "a gym",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "head boy",
@@ -11503,7 +11731,8 @@
         "definition": "(in some British schools) the boy who is chosen each year to represent his school",
         "examples": []
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "head girl",
@@ -11517,7 +11746,8 @@
         "definition": "(in some British schools) the girl who is chosen each year to represent her school",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "gymnastics",
@@ -11544,7 +11774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "graduate",
@@ -11618,7 +11849,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "grammar school",
@@ -11636,7 +11868,8 @@
         "definition": "elementary school (= in the US, a school for children between the ages of about 6 and 12)",
         "examples": []
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "headmaster",
@@ -11655,7 +11888,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "hall",
@@ -11746,7 +11980,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "higher education",
@@ -11773,7 +12008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "graduate school",
@@ -11787,7 +12023,8 @@
         "definition": "a part of a college or university where you can study for a second or further degree",
         "examples": []
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "history",
@@ -12014,7 +12251,8 @@
         "definition": "used when you are telling a story to say that you do not need to tell the end of it, because everyone knows it already",
         "examples": []
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "headship",
@@ -12046,7 +12284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "headmistress",
@@ -12060,7 +12299,8 @@
         "definition": "a female head teacher, especially of a private school",
         "examples": []
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "honor",
@@ -12293,7 +12533,8 @@
         "definition": "a thing that somebody considers to be very important for their honour or reputation",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "homework",
@@ -12341,7 +12582,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "holiday",
@@ -12455,7 +12697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "high school",
@@ -12491,7 +12734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "Hons",
@@ -12510,7 +12754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "human geography",
@@ -12533,7 +12778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "home economics",
@@ -12547,7 +12793,8 @@
         "definition": "cooking and other skills needed at home, taught as a subject in school",
         "examples": []
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "humanity",
@@ -12605,7 +12852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "ICT",
@@ -12619,7 +12867,8 @@
         "definition": "the study of the use of computers, the internet, video, and other technology as a subject at school (the abbreviation for ‘information and communications technology’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "housemaster",
@@ -12633,7 +12882,8 @@
         "definition": "a male teacher in charge of a group of children (called a house) in a school, especially a private school",
         "examples": []
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "inclusive education",
@@ -12652,7 +12902,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "IGCSE",
@@ -12666,7 +12917,8 @@
         "definition": "an international exam in different subjects that students can take when they are between 14 and 16 (the abbreviation for ‘International General Certificate of Secondary Education’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "infant school",
@@ -12680,7 +12932,8 @@
         "definition": "a type of school for children from the age of four or five (when children are required by law to start school) until the age of seven. Often an infant school forms, together with a junior school, part of a primary school.",
         "examples": []
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "independent school",
@@ -12694,7 +12947,8 @@
         "definition": "a school that receives no money from the government and where the education of the students is paid for by their parents",
         "examples": []
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "infirmary",
@@ -12730,7 +12984,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "information technology",
@@ -12749,7 +13004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "head",
@@ -13550,7 +13806,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "institution",
@@ -13629,7 +13886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "intake",
@@ -13691,7 +13949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "inspector",
@@ -13727,7 +13986,8 @@
         "definition": "(in the UK) a person whose job is to check tickets on a bus or train",
         "examples": []
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "invigilation",
@@ -13741,7 +14001,8 @@
         "definition": "the act of watching people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "house",
@@ -14025,7 +14286,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "interactive whiteboard",
@@ -14044,7 +14306,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "invigilator",
@@ -14063,7 +14326,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "Ivy League",
@@ -14077,7 +14341,8 @@
         "definition": "a group of eight traditional universities in the eastern US with high academic standards and a high social status",
         "examples": []
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "Ivy League",
@@ -14096,7 +14361,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "instructor",
@@ -14127,7 +14393,8 @@
         "definition": "a teacher below the rank of assistant professor at a college or university",
         "examples": []
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "invigilate",
@@ -14146,7 +14413,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "interdisciplinarity",
@@ -14165,7 +14433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "janitor",
@@ -14179,7 +14448,8 @@
         "definition": "a person whose job is to take care of a building such as a school or a block of flats or an apartment building",
         "examples": []
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "junior",
@@ -14237,7 +14507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "interdisciplinary",
@@ -14260,7 +14531,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "J.D.",
@@ -14279,7 +14551,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "honour",
@@ -14541,7 +14814,8 @@
         "definition": "a thing that somebody considers to be very important for their honour or reputation",
         "examples": []
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "junior school",
@@ -14555,7 +14829,8 @@
         "definition": "(in England and Wales) a school for children between the ages of 7 and 11",
         "examples": []
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "junior",
@@ -14622,7 +14897,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "knowledge",
@@ -14771,7 +15047,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "language laboratory",
@@ -14785,7 +15062,8 @@
         "definition": "a room in a school or college that contains special equipment to help students learn foreign languages by listening to recordings, watching videos, recording themselves, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "junior high school",
@@ -14799,7 +15077,8 @@
         "definition": "a school for young people between the ages of 12 and 14",
         "examples": []
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "laboratory",
@@ -14834,7 +15113,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "K-12",
@@ -14848,7 +15128,8 @@
         "definition": "(in the US) relating to education from kindergarten (= the class that prepares children for school) to 12th grade",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "learning difficulty",
@@ -14875,7 +15156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "learner",
@@ -14919,7 +15201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "learning disability",
@@ -14942,7 +15225,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "learn",
@@ -15109,7 +15393,8 @@
         "definition": "used to express surprise at something new or unexpected you have been told",
         "examples": []
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "law",
@@ -15434,7 +15719,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "lecture",
@@ -15502,7 +15788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "learning",
@@ -15567,7 +15854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "lecture hall",
@@ -15581,7 +15869,8 @@
         "definition": "a large room with rows of seats on a slope, where lectures are given",
         "examples": []
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "liberal arts",
@@ -15600,7 +15889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "lectureship",
@@ -15619,7 +15909,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "lecturer",
@@ -15651,7 +15942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "linguistics",
@@ -15665,7 +15957,8 @@
         "definition": "the scientific study of language or of particular languages",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "lecture",
@@ -15713,7 +16006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "kindergarten",
@@ -15736,7 +16030,8 @@
         "definition": "nursery school (= a school for children between the ages of about two and five)",
         "examples": []
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "lifelong learning",
@@ -15759,7 +16054,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "literate",
@@ -15791,7 +16087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "lecture theatre",
@@ -15810,7 +16107,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "lollipop lady",
@@ -15824,7 +16122,8 @@
         "definition": "a woman whose job is to help children cross a busy road on their way to and from school by holding up a sign on a stick telling traffic to stop",
         "examples": []
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "lesson",
@@ -15950,7 +16249,8 @@
         "definition": "to learn what to do or not to do in the future because you have had a bad experience in the past",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "locker",
@@ -15969,7 +16269,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "loan",
@@ -16033,7 +16334,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "lollipop man",
@@ -16047,7 +16349,8 @@
         "definition": "a man whose job is to help children cross a busy road on their way to and from school by holding up a sign on a stick telling traffic to stop",
         "examples": []
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "library",
@@ -16137,7 +16440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "magnet school",
@@ -16151,7 +16455,8 @@
         "definition": "a school in a large city that offers extra courses in some subjects in order to attract students from other areas of the city",
         "examples": []
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "lector",
@@ -16165,7 +16470,8 @@
         "definition": "a person who teaches in a university, especially somebody who teaches their own language in a foreign country",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "major",
@@ -16223,7 +16529,8 @@
         "definition": "the major leagues",
         "examples": []
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "locker room",
@@ -16237,7 +16544,8 @@
         "definition": "a room with lockers in it, at a school, gym, etc., where people can change their clothes",
         "examples": []
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "magna cum laude",
@@ -16256,7 +16564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "literacy",
@@ -16296,7 +16605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "lower school",
@@ -16310,7 +16620,8 @@
         "definition": "a school, or the classes in a school, for younger students, usually between the ages of 11 and 14",
         "examples": []
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "Makaton™",
@@ -16333,7 +16644,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "major in",
@@ -16352,7 +16664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "mark down",
@@ -16389,7 +16702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "make-up",
@@ -16470,7 +16784,8 @@
         "definition": "a special exam taken by students who missed or failed an earlier one",
         "examples": []
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "mark",
@@ -16667,7 +16982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "matriculate",
@@ -16690,7 +17006,8 @@
         "definition": "to successfully complete the final year of school",
         "examples": []
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "mark",
@@ -17044,7 +17361,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "matron",
@@ -17066,7 +17384,8 @@
         "definition": "an older married woman",
         "examples": []
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "mature student",
@@ -17080,7 +17399,8 @@
         "definition": "an adult student who goes to college or university some years after leaving school",
         "examples": []
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "matriculation",
@@ -17098,7 +17418,8 @@
         "definition": "the successful completion of the final year of school",
         "examples": []
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "mathematics",
@@ -17138,7 +17459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "marker",
@@ -17195,7 +17517,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "matric exemption",
@@ -17214,7 +17537,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "med school",
@@ -17228,7 +17552,8 @@
         "definition": "medical school (= a college where students study to obtain a degree in medicine)",
         "examples": []
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "merit",
@@ -17285,7 +17610,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "medical school",
@@ -17299,7 +17625,8 @@
         "definition": "a college or a department of a university where students study to obtain a degree in medicine",
         "examples": []
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "middle school",
@@ -17317,7 +17644,8 @@
         "definition": "(in the US and Canada) a school for children between the ages of about 11 and 14",
         "examples": []
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "master",
@@ -17486,7 +17814,8 @@
         "definition": "to support two different parties, principles, etc. at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "memorize",
@@ -17505,7 +17834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "moderate",
@@ -17562,7 +17892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "mock",
@@ -17594,7 +17925,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "minor",
@@ -17617,7 +17949,8 @@
         "definition": "a subject that you study at university in addition to your major",
         "examples": []
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "mock",
@@ -17640,7 +17973,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "mistress",
@@ -17702,7 +18036,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "media studies",
@@ -17716,7 +18051,8 @@
         "definition": "the study of newspapers, television, radio, the internet, etc. as a subject at school, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "mess around",
@@ -17757,7 +18093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "mixed",
@@ -17872,7 +18209,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "modular",
@@ -17895,7 +18233,8 @@
         "definition": "consisting of separate parts or units that can be joined together",
         "examples": []
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "moderator",
@@ -17938,7 +18277,8 @@
         "definition": "a religious leader in the Presbyterian Church who is in charge of the Church council",
         "examples": []
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "mortar board",
@@ -17952,7 +18292,8 @@
         "definition": "a black hat with a stiff square top, worn by some university teachers and students at special ceremonies",
         "examples": []
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "monitor",
@@ -18047,7 +18388,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "minus",
@@ -18088,7 +18430,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "module",
@@ -18142,7 +18485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "MSc",
@@ -18165,7 +18509,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "nursery school",
@@ -18184,7 +18529,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "Ofsted",
@@ -18198,7 +18544,8 @@
         "definition": "the Office for Standards in Education (a British government department that is responsible for checking that standards in schools are acceptable)",
         "examples": []
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "night school",
@@ -18212,7 +18559,8 @@
         "definition": "classes for adults, held in the evening",
         "examples": []
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "multidisciplinary",
@@ -18231,7 +18579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "optional",
@@ -18258,7 +18607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "non-attendance",
@@ -18277,7 +18627,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "pass",
@@ -18714,7 +19065,8 @@
         "definition": "to urinate",
         "examples": []
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "music",
@@ -18844,7 +19196,8 @@
         "definition": "news or information that you are very pleased to hear",
         "examples": []
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "pass-fail",
@@ -18863,7 +19216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "paraprofessional",
@@ -18886,7 +19240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "Oxbridge",
@@ -18905,7 +19260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "multiple-choice",
@@ -18924,7 +19280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "paraprofessional",
@@ -18943,7 +19300,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "pass-fail",
@@ -18957,7 +19315,8 @@
         "definition": "connected with a grading system for school classes, etc. in which a student passes or fails rather than receiving a grade as a letter (for example, A or B)",
         "examples": []
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "oral",
@@ -18984,7 +19343,8 @@
         "definition": "a spoken exam in a university",
         "examples": []
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "passing",
@@ -19041,7 +19401,8 @@
         "definition": "a mark that achieves the required standard in an exam, a test, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "PE",
@@ -19064,7 +19425,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "notebook",
@@ -19095,7 +19457,8 @@
         "definition": "a small computer that can work with a battery and be easily carried",
         "examples": []
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "period",
@@ -19242,7 +19605,8 @@
         "definition": "the mark ( . ) used at the end of a sentence and in some abbreviations, for example e.g.",
         "examples": []
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "performing arts",
@@ -19256,7 +19620,8 @@
         "definition": "arts such as music, dance and drama which are performed for an audience",
         "examples": []
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "pass",
@@ -19391,7 +19756,8 @@
         "definition": "to try to start a sexual relationship with somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "Phi Beta Kappa",
@@ -19405,7 +19771,8 @@
         "definition": "(in the US) a society for college and university students who are very successful in their studies",
         "examples": []
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "physics",
@@ -19444,7 +19811,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "personal statement",
@@ -19463,7 +19831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "PhD",
@@ -19486,7 +19855,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "physical education",
@@ -19500,7 +19870,8 @@
         "definition": "sport and exercise that is taught in schools",
         "examples": []
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "philosophy",
@@ -19557,7 +19928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "pigeonhole",
@@ -19576,7 +19948,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "phonics",
@@ -19590,7 +19963,8 @@
         "definition": "a method of teaching people to read based on the sounds that letters represent",
         "examples": []
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "playground",
@@ -19626,7 +20000,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "playing field",
@@ -19661,7 +20036,8 @@
         "definition": "to create a situation where everyone has the same opportunities",
         "examples": []
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "playtime",
@@ -19689,7 +20065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "play hookey",
@@ -19703,7 +20080,8 @@
         "definition": "to stay away from school without permission",
         "examples": []
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "play truant",
@@ -19721,7 +20099,8 @@
         "definition": "to stay away from school without permission",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "plus",
@@ -19779,7 +20158,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "play hooky",
@@ -19793,7 +20173,8 @@
         "definition": "to stay away from school without permission",
         "examples": []
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "polytechnic",
@@ -19807,7 +20188,8 @@
         "definition": "(in England, Wales and Northern Ireland in the past) a college for higher education, especially in scientific and technical subjects. Most polytechnics are now called, and have the same status as, universities.",
         "examples": []
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "prefect",
@@ -19825,7 +20207,8 @@
         "definition": "an officer responsible for an area of local government in some countries, for example France, Italy and Japan",
         "examples": []
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "preparatory school",
@@ -19843,7 +20226,8 @@
         "definition": "(in the US) a school, usually a private one, that prepares students for college",
         "examples": []
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "place",
@@ -20472,7 +20856,8 @@
         "definition": "to take or accept the status in society that is correct or that you deserve",
         "examples": []
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "practise",
@@ -20553,7 +20938,8 @@
         "definition": "to do the things yourself that you tell other people to do",
         "examples": []
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "politics",
@@ -20660,7 +21046,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "postdoctoral",
@@ -20683,7 +21070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "primary",
@@ -20748,7 +21136,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "practical",
@@ -20779,7 +21168,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "principal",
@@ -20838,7 +21228,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "private school",
@@ -20852,7 +21243,8 @@
         "definition": "a school that receives no money from the government and where the education of the students is paid for by their parents",
         "examples": []
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "professor",
@@ -20900,7 +21292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "postgraduate",
@@ -20923,7 +21316,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "programmed learning",
@@ -20937,7 +21331,8 @@
         "definition": "a method of study in which a subject is divided into very small parts and the student must be successful in one part before they can go on to the next",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "president",
@@ -21014,7 +21409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "prize-giving",
@@ -21028,7 +21424,8 @@
         "definition": "a ceremony at which prizes are given to people who have done very good work",
         "examples": []
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "primary school",
@@ -21046,7 +21443,8 @@
         "definition": "an elementary school (= in the US, a school for children between the ages of about 6 and 12)",
         "examples": []
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "prof",
@@ -21065,7 +21463,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "programme",
@@ -21201,7 +21600,8 @@
         "definition": "used to tell somebody that they should change their attitude and do what they are supposed to be doing",
         "examples": []
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "prospectus",
@@ -21219,7 +21619,8 @@
         "definition": "a document that gives information about a company’s shares before they are offered for sale",
         "examples": []
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "prom",
@@ -21256,7 +21657,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "PTA",
@@ -21270,7 +21672,8 @@
         "definition": "parent-teacher association (a group run by parents and teachers in a school that organizes social events and helps the school in different ways)",
         "examples": []
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "provost",
@@ -21296,7 +21699,8 @@
         "definition": "the head of a group of priests belonging to a particular cathedral",
         "examples": []
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "PSHE",
@@ -21310,7 +21714,8 @@
         "definition": "a subject taught in British schools that deals with a person’s emotional and social development and discusses such issues as health, sex, drugs, relationships with other people, work and finance (the abbreviation for ‘personal, social, health and economic education’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "pupil",
@@ -21367,7 +21772,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "quadrangle",
@@ -21386,7 +21792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "qualified",
@@ -21467,7 +21874,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "qualification",
@@ -21549,7 +21957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "quad",
@@ -21572,7 +21981,8 @@
         "definition": "one of four children born at the same time to the same mother",
         "examples": []
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "public school",
@@ -21595,7 +22005,8 @@
         "definition": "(in the US, Australia, New Zealand and other countries) a free local school paid for by the government",
         "examples": []
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "psychology",
@@ -21652,7 +22063,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "project",
@@ -21742,7 +22154,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "qualify",
@@ -21855,7 +22268,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "readership",
@@ -21895,7 +22309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "reading list",
@@ -21914,7 +22329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "reception class",
@@ -21928,7 +22344,8 @@
         "definition": "(in England and Wales) the first class at school for children aged 4 or 5",
         "examples": []
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "RE",
@@ -21947,7 +22364,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "reception",
@@ -22084,7 +22502,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "recess",
@@ -22151,7 +22570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "reader",
@@ -22253,7 +22673,8 @@
         "definition": "a machine that produces on a screen a large image of a text stored on a microfiche or microfilm",
         "examples": []
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "remote learning",
@@ -22272,7 +22693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "read",
@@ -22550,7 +22972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "registration",
@@ -22611,7 +23034,8 @@
         "definition": "the time when a teacher looks at the list of students on the class register and checks that the students are present",
         "examples": []
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "red-brick",
@@ -22634,7 +23058,8 @@
         "definition": "built in the late nineteenth or early twentieth century, in contrast to older universities, such as Oxford and Cambridge",
         "examples": []
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "register",
@@ -22711,7 +23136,8 @@
         "definition": "a machine used in shops, restaurants, etc. for keeping money in, and that shows and records the amount of money received for each thing that is sold",
         "examples": []
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "registrar",
@@ -22738,7 +23164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "report",
@@ -22875,7 +23302,8 @@
         "definition": "talked about by people in a bad/good way",
         "examples": []
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "resit",
@@ -22889,7 +23317,8 @@
         "definition": "to take an exam or a test again, usually after failing it the first time",
         "examples": []
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "resit",
@@ -22908,7 +23337,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "residential",
@@ -22944,7 +23374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "residence hall",
@@ -22958,7 +23389,8 @@
         "definition": "a building for university or college students to live in",
         "examples": []
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "research",
@@ -23025,7 +23457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "retake",
@@ -23048,7 +23481,8 @@
         "definition": "the act of taking an exam or a test again, usually after failing it the first time",
         "examples": []
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "result",
@@ -23226,7 +23660,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "research",
@@ -23265,7 +23700,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "review",
@@ -23387,7 +23823,8 @@
         "definition": "a ceremony that involves an official inspection of soldiers, etc. by an important visitor",
         "examples": []
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "revision",
@@ -23436,7 +23873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "rubber",
@@ -23496,7 +23934,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "ruler",
@@ -23519,7 +23958,8 @@
         "definition": "a straight narrow piece of wood, plastic or metal, marked in centimetres or inches, used for measuring or for drawing straight lines",
         "examples": []
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "review",
@@ -23648,7 +24088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "room-mate",
@@ -23666,7 +24107,8 @@
         "definition": "a person who shares an apartment with one or more others",
         "examples": []
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "SCE",
@@ -23680,7 +24122,8 @@
         "definition": "Scottish Certificate of Education (exams that were taken by Scottish school students at two different levels at the ages of 16 and 17–18 until the 1990s)",
         "examples": []
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "rubric",
@@ -23694,7 +24137,8 @@
         "definition": "a title or set of instructions written in a book, an exam paper, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "schedule",
@@ -23813,7 +24257,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "satchel",
@@ -23827,7 +24272,8 @@
         "definition": "a bag with a long strap, that you hang over your shoulder or wear on your back, used especially for carrying school books",
         "examples": []
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "revise",
@@ -23904,7 +24350,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "SAT",
@@ -23935,7 +24382,8 @@
         "definition": "(in England) a test taken by children at the ages of 7 and 11, now officially called NCT (the abbreviation for ‘Standard Assessment Task’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "scholar",
@@ -23976,7 +24424,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "scholarship",
@@ -24008,7 +24457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "school",
@@ -24253,7 +24703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "school council",
@@ -24276,7 +24727,8 @@
         "definition": "a group of people, including parents and teachers, elected or chosen to advise on the management of a school",
         "examples": []
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "scholastic",
@@ -24299,7 +24751,8 @@
         "definition": "connected with scholasticism",
         "examples": []
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "school district",
@@ -24313,7 +24766,8 @@
         "definition": "(in the US) an area that contains several schools that are governed together",
         "examples": []
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "school day",
@@ -24358,7 +24812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "schoolmistress",
@@ -24372,7 +24827,8 @@
         "definition": "a female teacher in a school, especially a private school",
         "examples": []
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "school run",
@@ -24391,7 +24847,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "schooling",
@@ -24418,7 +24875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "schoolchild",
@@ -24437,7 +24895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "school-leaver",
@@ -24456,7 +24915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "schoolkid",
@@ -24470,7 +24930,8 @@
         "definition": "a schoolchild (= a child who attends school)",
         "examples": []
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "schoolyard",
@@ -24484,7 +24945,8 @@
         "definition": "an outdoor area of a school for children to play in",
         "examples": []
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "science",
@@ -24558,7 +25020,8 @@
         "definition": "to confuse somebody by using technical or complicated language that they do not understand",
         "examples": []
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "script",
@@ -24624,7 +25087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "secondary education",
@@ -24643,7 +25107,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "second",
@@ -24810,7 +25275,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "second class",
@@ -24841,7 +25307,8 @@
         "definition": "the second highest standard of degree given by a British university, often divided into upper second class and lower second class",
         "examples": []
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "secondary modern",
@@ -24855,7 +25322,8 @@
         "definition": "(in England, Wales and Northern Ireland until the 1970s) a school for young people between the ages of 11 and 16 who did not go to a grammar school",
         "examples": []
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "score",
@@ -25022,7 +25490,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "seminar",
@@ -25058,7 +25527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "score",
@@ -25222,7 +25692,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "secondary school",
@@ -25236,7 +25707,8 @@
         "definition": "a school for young people between the ages of 11 and 16 or 18",
         "examples": []
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "semester",
@@ -25255,7 +25727,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "SEN",
@@ -25278,7 +25751,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "senior high school",
@@ -25292,7 +25766,8 @@
         "definition": "a school for young people between the ages of 14 and 18",
         "examples": []
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "senior",
@@ -25406,7 +25881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "sixth-form college",
@@ -25420,7 +25896,8 @@
         "definition": "(in England, Wales and Northern Ireland) a school for students over the age of 16",
         "examples": []
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "sixth form",
@@ -25439,7 +25916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "sickbay",
@@ -25453,7 +25931,8 @@
         "definition": "a room or rooms, for example on a ship or in a school, with beds for people who are ill",
         "examples": []
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "sit",
@@ -25718,7 +26197,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "set",
@@ -26004,7 +26484,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "setter",
@@ -26036,7 +26517,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "senior",
@@ -26099,7 +26581,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "session",
@@ -26203,7 +26686,8 @@
         "definition": "an occasion when people meet to play music, especially Irish music, in a pub",
         "examples": []
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "social science",
@@ -26221,7 +26705,8 @@
         "definition": "a particular subject connected with the study of people in society, for example geography, economics or sociology",
         "examples": []
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "special education",
@@ -26235,7 +26720,8 @@
         "definition": "the education of children who have physical or learning problems",
         "examples": []
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "social studies",
@@ -26249,7 +26735,8 @@
         "definition": "the study of people in society",
         "examples": []
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "sorority",
@@ -26263,7 +26750,8 @@
         "definition": "a club for a group of women students at an American college or university",
         "examples": []
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "sociological",
@@ -26282,7 +26770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "skive",
@@ -26313,7 +26802,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "special school",
@@ -26327,7 +26817,8 @@
         "definition": "a school for children who have physical or learning problems",
         "examples": []
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "sociology",
@@ -26341,7 +26832,8 @@
         "definition": "the scientific study of the nature and development of society and social behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "skip",
@@ -26469,7 +26961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "sponsor",
@@ -26565,7 +27058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "sophomore",
@@ -26583,7 +27077,8 @@
         "definition": "a high school student in the 10th grade",
         "examples": []
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "stream",
@@ -26682,7 +27177,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "stream",
@@ -26787,7 +27283,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "state school",
@@ -26814,7 +27311,8 @@
         "definition": "a university that is managed by a state of the US",
         "examples": []
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "staffroom",
@@ -26828,7 +27326,8 @@
         "definition": "a room in a school where teachers can go when they are not teaching",
         "examples": []
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "state university",
@@ -26842,7 +27341,8 @@
         "definition": "a university that is managed by a state of the US",
         "examples": []
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "staff",
@@ -26931,7 +27431,8 @@
         "definition": "a basic food, especially bread",
         "examples": []
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "sponsor",
@@ -27022,7 +27523,8 @@
         "definition": "a person who presents a candidate for Christian baptism or confirmation",
         "examples": []
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "streaming",
@@ -27058,7 +27560,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "STEAM",
@@ -27077,7 +27580,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "study",
@@ -27253,7 +27757,8 @@
         "definition": "thinking deeply so that you do not notice what is happening around you",
         "examples": []
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "studious",
@@ -27280,7 +27785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "study hall",
@@ -27294,7 +27800,8 @@
         "definition": "a period of time during the school day when students study quietly on their own, usually with a teacher present",
         "examples": []
       }
-    ]
+    ],
+    "id": 507
   },
   {
     "word": "summa cum laude",
@@ -27313,7 +27820,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 508
   },
   {
     "word": "summer school",
@@ -27327,7 +27835,8 @@
         "definition": "courses that are held in the summer at a university or college or, in the US, at a school",
         "examples": []
       }
-    ]
+    ],
+    "id": 509
   },
   {
     "word": "student",
@@ -27420,7 +27929,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 510
   },
   {
     "word": "study",
@@ -27509,7 +28019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 511
   },
   {
     "word": "subject",
@@ -27628,7 +28139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 512
   },
   {
     "word": "swot up",
@@ -27647,7 +28159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 513
   },
   {
     "word": "suspend",
@@ -27726,7 +28239,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 514
   },
   {
     "word": "suspension",
@@ -27788,7 +28302,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 515
   },
   {
     "word": "swot",
@@ -27802,7 +28317,8 @@
         "definition": "to study very hard, especially in order to prepare for an exam",
         "examples": []
       }
-    ]
+    ],
+    "id": 516
   },
   {
     "word": "swot",
@@ -27816,7 +28332,8 @@
         "definition": "a person who spends too much time studying",
         "examples": []
       }
-    ]
+    ],
+    "id": 517
   },
   {
     "word": "swot up on",
@@ -27835,7 +28352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 518
   },
   {
     "word": "syllabus",
@@ -27854,7 +28372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 519
   },
   {
     "word": "taunt",
@@ -27881,7 +28400,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 520
   },
   {
     "word": "taunt",
@@ -27900,7 +28420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 521
   },
   {
     "word": "task",
@@ -27981,7 +28502,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 522
   },
   {
     "word": "teach",
@@ -28099,7 +28621,8 @@
         "definition": "to teach students only what is necessary in order to pass a particular test, rather than help them develop a range of skills",
         "examples": []
       }
-    ]
+    ],
+    "id": 523
   },
   {
     "word": "STEM",
@@ -28118,7 +28641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 524
   },
   {
     "word": "teacher trainer",
@@ -28137,7 +28661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 525
   },
   {
     "word": "teacher training",
@@ -28151,7 +28676,8 @@
         "definition": "the process of teaching or learning the skills you need to be a teacher in a school",
         "examples": []
       }
-    ]
+    ],
+    "id": 526
   },
   {
     "word": "sports day",
@@ -28165,7 +28691,8 @@
         "definition": "a special day at school when there are no classes and children compete in sports events",
         "examples": []
       }
-    ]
+    ],
+    "id": 527
   },
   {
     "word": "teacher",
@@ -28192,7 +28719,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 528
   },
   {
     "word": "teaching",
@@ -28252,7 +28780,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 529
   },
   {
     "word": "teaching assistant",
@@ -28270,7 +28799,8 @@
         "definition": "a graduate student who teaches undergraduate classes at a university or college, takes discussion or practical classes, marks written work, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 530
   },
   {
     "word": "tell on",
@@ -28289,7 +28819,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 531
   },
   {
     "word": "take",
@@ -29164,7 +29695,8 @@
         "definition": "used as an exclamation when you are hitting somebody or attacking them in some other way",
         "examples": []
       }
-    ]
+    ],
+    "id": 532
   },
   {
     "word": "tell off",
@@ -29187,7 +29719,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 533
   },
   {
     "word": "telling-off",
@@ -29206,7 +29739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 534
   },
   {
     "word": "tertiary",
@@ -29225,7 +29759,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 535
   },
   {
     "word": "term time",
@@ -29244,7 +29779,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 536
   },
   {
     "word": "tertiary college",
@@ -29258,7 +29794,8 @@
         "definition": "a college that provides education for people aged 16 and older, but that is not a university",
         "examples": []
       }
-    ]
+    ],
+    "id": 537
   },
   {
     "word": "term",
@@ -29405,7 +29942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 538
   },
   {
     "word": "tenure",
@@ -29450,7 +29988,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 539
   },
   {
     "word": "thesis",
@@ -29482,7 +30021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 540
   },
   {
     "word": "textbook",
@@ -29501,7 +30041,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 541
   },
   {
     "word": "theology",
@@ -29537,7 +30078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 542
   },
   {
     "word": "third class",
@@ -29559,7 +30101,8 @@
         "definition": "the lowest standard of honours degree given by a British university",
         "examples": []
       }
-    ]
+    ],
+    "id": 543
   },
   {
     "word": "third-class",
@@ -29590,7 +30133,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 544
   },
   {
     "word": "timetable",
@@ -29643,7 +30187,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 545
   },
   {
     "word": "third",
@@ -29674,7 +30219,8 @@
         "definition": "the lowest standard of degree given by a British university",
         "examples": []
       }
-    ]
+    ],
+    "id": 546
   },
   {
     "word": "test",
@@ -29819,7 +30365,8 @@
         "definition": "to teach students only what is necessary in order to pass a particular test, rather than help them develop a range of skills",
         "examples": []
       }
-    ]
+    ],
+    "id": 547
   },
   {
     "word": "test",
@@ -29961,7 +30508,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 548
   },
   {
     "word": "text",
@@ -30062,7 +30610,8 @@
         "definition": "a sentence or short passage from the Bible that is read out and discussed by somebody, especially during a religious service",
         "examples": []
       }
-    ]
+    ],
+    "id": 549
   },
   {
     "word": "training",
@@ -30118,7 +30667,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 550
   },
   {
     "word": "train",
@@ -30237,7 +30787,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 551
   },
   {
     "word": "truant",
@@ -30255,7 +30806,8 @@
         "definition": "to stay away from school without permission",
         "examples": []
       }
-    ]
+    ],
+    "id": 552
   },
   {
     "word": "trainee",
@@ -30282,7 +30834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 553
   },
   {
     "word": "transcript",
@@ -30309,7 +30862,8 @@
         "definition": "an official record of a student’s work that shows the courses they have taken and the grades they have achieved",
         "examples": []
       }
-    ]
+    ],
+    "id": 554
   },
   {
     "word": "trade school",
@@ -30323,7 +30877,8 @@
         "definition": "a school where students go to learn a trade",
         "examples": []
       }
-    ]
+    ],
+    "id": 555
   },
   {
     "word": "truant",
@@ -30342,7 +30897,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 556
   },
   {
     "word": "tuition",
@@ -30382,7 +30938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 557
   },
   {
     "word": "uniform",
@@ -30467,7 +31024,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 558
   },
   {
     "word": "tutor",
@@ -30529,7 +31087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 559
   },
   {
     "word": "upper school",
@@ -30543,7 +31102,8 @@
         "definition": "a school, or the classes in a school, for older students, usually between the ages of 14 and 18",
         "examples": []
       }
-    ]
+    ],
+    "id": 560
   },
   {
     "word": "vacation",
@@ -30607,7 +31167,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 561
   },
   {
     "word": "tutorial",
@@ -30639,7 +31200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 562
   },
   {
     "word": "undergraduate",
@@ -30674,7 +31236,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 563
   },
   {
     "word": "tutor",
@@ -30702,7 +31265,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 564
   },
   {
     "word": "varsity",
@@ -30730,7 +31294,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 565
   },
   {
     "word": "university",
@@ -30794,7 +31359,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 566
   },
   {
     "word": "vocational",
@@ -30813,7 +31379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 567
   },
   {
     "word": "VLE",
@@ -30836,7 +31403,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 568
   },
   {
     "word": "vice chancellor",
@@ -30850,7 +31418,8 @@
         "definition": "the head of a university in England, Wales and Northern Ireland, who is in charge of the work of running the university. (Compare the chancellor, who is the official head of a university but only has duties at various ceremonies.)",
         "examples": []
       }
-    ]
+    ],
+    "id": 569
   },
   {
     "word": "viva voce",
@@ -30864,7 +31433,8 @@
         "definition": "a spoken exam, especially in a British university",
         "examples": []
       }
-    ]
+    ],
+    "id": 570
   },
   {
     "word": "vocational school",
@@ -30878,7 +31448,8 @@
         "definition": "(in the US) a school that teaches skills that are necessary for particular jobs",
         "examples": []
       }
-    ]
+    ],
+    "id": 571
   },
   {
     "word": "visiting",
@@ -30892,7 +31463,8 @@
         "definition": "a visiting professor or lecturer is one who is teaching for a fixed period at a particular university or college, but who normally teaches at another one",
         "examples": []
       }
-    ]
+    ],
+    "id": 572
   },
   {
     "word": "vice principal",
@@ -30924,7 +31496,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 573
   },
   {
     "word": "weighting",
@@ -30956,7 +31529,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 574
   },
   {
     "word": "viva",
@@ -30970,7 +31544,8 @@
         "definition": "a spoken exam, especially in a British university",
         "examples": []
       }
-    ]
+    ],
+    "id": 575
   },
   {
     "word": "workbook",
@@ -30984,7 +31559,8 @@
         "definition": "a book with exercises in it, often with spaces for students to write answers in, to help them practise what they have learnt",
         "examples": []
       }
-    ]
+    ],
+    "id": 576
   },
   {
     "word": "yearbook",
@@ -31007,7 +31583,8 @@
         "definition": "a book that is produced by the senior class in a school or college, containing photographs of students and details of school activities",
         "examples": []
       }
-    ]
+    ],
+    "id": 577
   },
   {
     "word": "worksheet",
@@ -31025,7 +31602,8 @@
         "definition": "a piece of paper or an electronic document on which work that has been done or has to be done is recorded",
         "examples": []
       }
-    ]
+    ],
+    "id": 578
   },
   {
     "word": "zoology",
@@ -31039,7 +31617,8 @@
         "definition": "the scientific study of animals and their behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 579
   },
   {
     "word": "yeshiva",
@@ -31053,7 +31632,8 @@
         "definition": "an Orthodox Jewish college or school",
         "examples": []
       }
-    ]
+    ],
+    "id": 580
   },
   {
     "word": "written",
@@ -31131,7 +31711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 581
   },
   {
     "word": "year",
@@ -31483,7 +32064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 582
   },
   {
     "word": "whiteboard",
@@ -31501,6 +32083,7 @@
         "definition": "a piece of classroom equipment using a computer connected to a large screen that you can write on or use to control the computer by touching it with your finger or a pen",
         "examples": []
       }
-    ]
+    ],
+    "id": 583
   }
 ]
