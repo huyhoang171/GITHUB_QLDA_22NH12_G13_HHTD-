@@ -16,7 +16,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "ache",
@@ -56,7 +57,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "after-effect",
@@ -70,7 +72,8 @@
         "definition": "the after-effects of a drug, an illness or an unpleasant event are the feelings that you experience later as a result of it",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "addictive",
@@ -110,7 +113,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "ache",
@@ -137,7 +141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "achy",
@@ -160,7 +165,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "affliction",
@@ -179,7 +185,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "abnormality",
@@ -202,7 +209,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "accident",
@@ -337,7 +345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "addicted",
@@ -364,7 +373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "aggressive",
@@ -430,7 +440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "acute",
@@ -517,7 +528,8 @@
         "definition": "less than 90°",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "addict",
@@ -548,7 +560,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "addiction",
@@ -575,7 +588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "alcoholic",
@@ -598,7 +612,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "aggravate",
@@ -625,7 +640,8 @@
         "definition": "to annoy somebody, especially deliberately",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "agony",
@@ -673,7 +689,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "ailing",
@@ -705,7 +722,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "alcoholic",
@@ -746,7 +764,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "-aholic",
@@ -769,7 +788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "ail",
@@ -797,7 +817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "Alcoholics Anonymous™",
@@ -820,7 +841,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "allergen",
@@ -834,7 +856,8 @@
         "definition": "a substance that causes an allergy",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "allergenic",
@@ -853,7 +876,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "all-clear",
@@ -890,7 +914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "ailment",
@@ -917,7 +942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "AIDS",
@@ -952,7 +978,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "allergy",
@@ -983,7 +1010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "anaemic",
@@ -1011,7 +1039,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "ALS",
@@ -1030,7 +1059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "anaemia",
@@ -1044,7 +1074,8 @@
         "definition": "a medical condition in which somebody has too few red cells or too little haemoglobin in their blood, making them look pale and feel weak",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "Alzheimer’s",
@@ -1058,7 +1089,8 @@
         "definition": "a serious disease, especially affecting older people, that prevents the brain from functioning normally and causes loss of memory, loss of ability to speak clearly, etc. Alzheimer's is a form of dementia.",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "alcoholism",
@@ -1077,7 +1109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "anaphylactic shock",
@@ -1096,7 +1129,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "amyotrophic lateral sclerosis",
@@ -1115,7 +1149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "appendicitis",
@@ -1129,7 +1164,8 @@
         "definition": "a serious medical condition in which the appendix becomes painful and larger than normal",
         "examples": []
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "arrhythmia",
@@ -1148,7 +1184,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "anemia",
@@ -1162,7 +1199,8 @@
         "definition": "a medical condition in which somebody has too few red cells or too little hemoglobin in their blood, making them look pale and feel weak",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "allergic",
@@ -1199,7 +1237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "anthrax",
@@ -1213,7 +1252,8 @@
         "definition": "a serious disease that affects sheep and cows and sometimes people, and can cause death",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "asthma",
@@ -1240,7 +1280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "arthritis",
@@ -1259,7 +1300,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "attack",
@@ -1414,7 +1456,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "avian flu",
@@ -1428,7 +1471,8 @@
         "definition": "a serious illness that affects birds, especially chickens, that can be spread from birds to humans and that can cause death",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "asthmatic",
@@ -1442,7 +1486,8 @@
         "definition": "a person who has asthma",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "anosmia",
@@ -1461,7 +1506,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "battered",
@@ -1523,7 +1569,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "bad",
@@ -1812,7 +1859,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "bedsore",
@@ -1826,7 +1874,8 @@
         "definition": "a painful place on a person’s skin, caused by lying in bed for a long time",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "bedridden",
@@ -1840,7 +1889,8 @@
         "definition": "having to stay in bed all the time because you are sick, injured or old",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "at death’s door",
@@ -2118,7 +2168,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "benign",
@@ -2163,7 +2214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "bang",
@@ -2258,7 +2310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "black eye",
@@ -2272,7 +2325,8 @@
         "definition": "an area of dark skin (called a bruise), that can form around somebody’s eye when they receive a hit on it",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "bird flu",
@@ -2291,7 +2345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "banged up",
@@ -2314,7 +2369,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "bounce back",
@@ -2342,7 +2398,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "better",
@@ -2507,7 +2564,8 @@
         "definition": "used to say that two people can achieve more than one person working alone",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "bleed",
@@ -2582,7 +2640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "blister",
@@ -2613,7 +2672,8 @@
         "definition": "a similar swelling, filled with air or liquid, on metal, painted wood or another surface",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "bite",
@@ -2749,7 +2809,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "be sick",
@@ -2999,7 +3060,8 @@
         "definition": "feeling that you want to vomit",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "breathless",
@@ -3052,7 +3114,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "broken",
@@ -3158,7 +3221,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "breathlessness",
@@ -3186,7 +3250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "bout",
@@ -3251,7 +3316,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "break",
@@ -3584,7 +3650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "bronchitis",
@@ -3603,7 +3670,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "be/go down with something",
@@ -3899,7 +3967,8 @@
         "definition": "a person who is determined or wants something very much will succeed",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "bug",
@@ -3974,7 +4043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "bump",
@@ -4058,7 +4128,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "burnout",
@@ -4076,7 +4147,8 @@
         "definition": "the point at which a rocket has used all of its fuel and has no more power",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "BSE",
@@ -4090,7 +4162,8 @@
         "definition": "a brain disease of cows that causes death (the abbreviation for ‘bovine spongiform encephalopathy’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "break",
@@ -4346,7 +4419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "bruise",
@@ -4378,7 +4452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "bump",
@@ -4444,7 +4519,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "bend",
@@ -4492,7 +4568,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "C-19",
@@ -4511,7 +4588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "cancer",
@@ -4575,7 +4653,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "bruise",
@@ -4606,7 +4685,8 @@
         "definition": "a mark on a fruit or vegetable where it is damaged",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "carrier",
@@ -4667,7 +4747,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "carpal tunnel syndrome",
@@ -4681,7 +4762,8 @@
         "definition": "a painful condition of the hand and fingers caused by pressure on a nerve because of repeated movements over a long period",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "cataract",
@@ -4704,7 +4786,8 @@
         "definition": "a large, steep waterfall",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "catching",
@@ -4727,7 +4810,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "cardiac",
@@ -4750,7 +4834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "burn",
@@ -4818,7 +4903,8 @@
         "definition": "to slowly get angry",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "catarrh",
@@ -4832,7 +4918,8 @@
         "definition": "thick liquid (called phlegm) that you have in your nose and throat because, for example, you have a cold",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "burnt",
@@ -4855,7 +4942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "chicken flu",
@@ -4869,7 +4957,8 @@
         "definition": "a serious illness that affects birds, especially chickens, that can be spread from birds to humans and that can cause death",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "cancerous",
@@ -4892,7 +4981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "catch",
@@ -5353,7 +5443,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "celiac",
@@ -5372,7 +5463,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "chickenpox",
@@ -5391,7 +5483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "celiac disease",
@@ -5405,7 +5498,8 @@
         "definition": "a disease in which somebody cannot digest food (= break it down in their body) because their body is very sensitive to gluten (= a protein that is found in wheat)",
         "examples": []
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "chronic",
@@ -5455,7 +5549,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "chronic fatigue syndrome",
@@ -5469,7 +5564,8 @@
         "definition": "an illness that makes people feel extremely weak and tired and that can last a long time",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "cirrhosis",
@@ -5483,7 +5579,8 @@
         "definition": "a serious disease of the liver, caused especially by drinking too much alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "cholera",
@@ -5502,7 +5599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "celiac",
@@ -5521,7 +5619,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "coeliac",
@@ -5540,7 +5639,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "cold turkey",
@@ -5554,7 +5654,8 @@
         "definition": "the unpleasant state that drug addicts experience when they suddenly stop taking a drug; a way of treating drug addicts that makes them experience this state",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "cold turkey",
@@ -5573,7 +5674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "coeliac",
@@ -5592,7 +5694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "CJD",
@@ -5606,7 +5709,8 @@
         "definition": "Creutzfeldt-Jakob disease",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "coeliac disease",
@@ -5620,7 +5724,8 @@
         "definition": "a disease in which somebody cannot digest some types of food (= break them down in their body) because their body is very sensitive to gluten (= a substance that is found in flour, especially wheat flour)",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "collapse",
@@ -5712,7 +5817,8 @@
         "definition": "if a lung or blood vessel collapses or is collapsed, it falls in and becomes flat and empty",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "colic",
@@ -5726,7 +5832,8 @@
         "definition": "severe pain in the stomach and bowels, suffered especially by babies",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "chill",
@@ -5775,7 +5882,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "coma",
@@ -5794,7 +5902,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "come down with",
@@ -5813,7 +5922,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "comatose",
@@ -5831,7 +5941,8 @@
         "definition": "extremely tired and having no energy; sleeping deeply",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "community spread",
@@ -5850,7 +5961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "collapse",
@@ -5936,7 +6048,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "cold",
@@ -6034,7 +6147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "comorbid",
@@ -6057,7 +6171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "common cold",
@@ -6071,7 +6186,8 @@
         "definition": "a common illness that affects the nose and/or throat, making you cough, sneeze, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "complaint",
@@ -6172,7 +6288,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "complication",
@@ -6204,7 +6321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "concuss",
@@ -6218,7 +6336,8 @@
         "definition": "to hit somebody on the head, making them become unconscious or confused for a short time",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "comorbidity",
@@ -6246,7 +6365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "concussion",
@@ -6273,7 +6393,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "concussed",
@@ -6292,7 +6413,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "community transmission",
@@ -6311,7 +6433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "complain of",
@@ -6330,7 +6453,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "congenital",
@@ -6375,7 +6499,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "contagious",
@@ -6410,7 +6535,8 @@
         "definition": "if a person is contagious, they have a disease that can be spread by close contact with other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "contusion",
@@ -6429,7 +6555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "condition",
@@ -6669,7 +6796,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "constipation",
@@ -6683,7 +6811,8 @@
         "definition": "the condition of being unable to get rid of waste material from the bowels easily (= being constipated)",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "contract",
@@ -6765,7 +6894,8 @@
         "definition": "to formally agree to marry somebody/form an alliance with somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "contagion",
@@ -6797,7 +6927,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "corona",
@@ -6820,7 +6951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "convalescence",
@@ -6839,7 +6971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "convalesce",
@@ -6858,7 +6991,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "coronary thrombosis",
@@ -6877,7 +7011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "coronavirus",
@@ -6896,7 +7031,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "coronary",
@@ -6919,7 +7055,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "cough",
@@ -6955,7 +7092,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "cough",
@@ -6996,7 +7134,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "cramp",
@@ -7023,7 +7162,8 @@
         "definition": "severe pain in the stomach",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "Creutzfeldt-Jakob disease",
@@ -7037,7 +7177,8 @@
         "definition": "a brain disease that causes slow loss of control of the mind and body and, finally, death. It is believed to be caused by prions and is linked to BSE in cows.",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "Covid",
@@ -7060,7 +7201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "Covid-19",
@@ -7079,7 +7221,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "crippling",
@@ -7107,7 +7250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "cripple",
@@ -7143,7 +7287,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "curable",
@@ -7162,7 +7307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "cytokine storm",
@@ -7181,7 +7327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "croup",
@@ -7195,7 +7342,8 @@
         "definition": "a disease of children that makes them cough (= force air through the throat noisily) a lot and have difficulty breathing",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "cyst",
@@ -7209,7 +7357,8 @@
         "definition": "a growth containing liquid that forms in or on a person’s or an animal’s body and may need to be removed",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "debility",
@@ -7228,7 +7377,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "crisis",
@@ -7308,7 +7458,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "cut",
@@ -7500,7 +7651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "dead leg",
@@ -7523,7 +7675,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "dehydrate",
@@ -7550,7 +7703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "cut",
@@ -7883,7 +8037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "dehydrated",
@@ -7911,7 +8066,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "dementia",
@@ -7946,7 +8102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "dehydration",
@@ -7974,7 +8131,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "demented",
@@ -8005,7 +8163,8 @@
         "definition": "having dementia",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "delta",
@@ -8037,7 +8196,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "delicate",
@@ -8133,7 +8293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "dependent",
@@ -8191,7 +8352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "delirium",
@@ -8214,7 +8376,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "deep vein thrombosis",
@@ -8233,7 +8396,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "dependence",
@@ -8286,7 +8450,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "develop",
@@ -8482,7 +8647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "diabetic",
@@ -8496,7 +8662,8 @@
         "definition": "a person who has diabetes",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "diabetic",
@@ -8532,7 +8699,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "diarrhoea",
@@ -8551,7 +8719,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "diabetes",
@@ -8565,7 +8734,8 @@
         "definition": "a medical condition in which the body cannot produce enough insulin to control the amount of sugar in the blood",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "diphtheria",
@@ -8584,7 +8754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "diseased",
@@ -8607,7 +8778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "distressed",
@@ -8661,7 +8833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "discomfort",
@@ -8706,7 +8879,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "disease",
@@ -8786,7 +8960,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "disorder",
@@ -8847,7 +9022,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "dislocate",
@@ -8874,7 +9050,8 @@
         "definition": "to stop a system, plan etc. from working or continuing in the normal way",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "dizzy",
@@ -8932,7 +9109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "dyspepsia",
@@ -8946,7 +9124,8 @@
         "definition": "pain caused by difficulty in digesting food",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "dysentery",
@@ -8960,7 +9139,8 @@
         "definition": "an infection of the bowels that causes severe diarrhoea with loss of blood",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "electric shock",
@@ -8979,7 +9159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "eczema",
@@ -8998,7 +9179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "drawn",
@@ -9021,7 +9203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "eclampsia",
@@ -9035,7 +9218,8 @@
         "definition": "a condition in which a pregnant woman has high blood pressure and convulsions, which can be dangerous to the woman and the baby",
         "examples": []
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "doddering",
@@ -9054,7 +9238,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "Ebola",
@@ -9068,7 +9253,8 @@
         "definition": "a very serious disease, caused by a virus, that causes internal parts of the body to lose blood and usually ends in death",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "emaciated",
@@ -9087,7 +9273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "earache",
@@ -9106,7 +9293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "epidemic",
@@ -9142,7 +9330,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "emaciation",
@@ -9161,7 +9350,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "epileptic",
@@ -9175,7 +9365,8 @@
         "definition": "a person who has epilepsy",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "episode",
@@ -9244,7 +9435,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "epilepsy",
@@ -9258,7 +9450,8 @@
         "definition": "a condition affecting the nervous system that causes a person to become unconscious suddenly, often with violent movements of the body",
         "examples": []
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "exacerbate",
@@ -9281,7 +9474,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "exacerbation",
@@ -9304,7 +9498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "erectile dysfunction",
@@ -9323,7 +9518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "fade away",
@@ -9342,7 +9538,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "exposure",
@@ -9443,7 +9640,8 @@
         "definition": "the act of showing something that is usually hidden",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "faint",
@@ -9534,7 +9732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "faint",
@@ -9565,7 +9764,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "feverish",
@@ -9609,7 +9809,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "fatally",
@@ -9637,7 +9838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "fibroid",
@@ -9651,7 +9853,8 @@
         "definition": "a mass of cells that form a round shape, usually found in the wall of the uterus",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "fatigue",
@@ -9718,7 +9921,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "first-degree",
@@ -9736,7 +9940,8 @@
         "definition": "burns of the least serious of three kinds, affecting only the surface of the skin",
         "examples": []
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "fetal alcohol syndrome",
@@ -9750,7 +9955,8 @@
         "definition": "a condition in which a child’s mental and physical development is damaged because the mother drank too much alcohol while she was pregnant",
         "examples": []
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "faint",
@@ -9769,7 +9975,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "fever",
@@ -9827,7 +10034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "fatal",
@@ -9875,7 +10083,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "fight for (your) life",
@@ -10220,7 +10429,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "flare-up",
@@ -10252,7 +10462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "flatulent",
@@ -10270,7 +10481,8 @@
         "definition": "suffering from too much gas in the stomach",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "flare",
@@ -10329,7 +10541,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "food poisoning",
@@ -10343,7 +10556,8 @@
         "definition": "an illness of the stomach caused by eating food that contains harmful bacteria",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "flu",
@@ -10390,7 +10604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "fit",
@@ -10479,7 +10694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "flutter",
@@ -10540,7 +10756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "fracture",
@@ -10580,7 +10797,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "flatulence",
@@ -10599,7 +10817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "flutter",
@@ -10673,7 +10892,8 @@
         "definition": "rapid changes in the pitch or volume of recorded sound",
         "examples": []
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "fracture",
@@ -10717,7 +10937,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "frostbite",
@@ -10736,7 +10957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "frail",
@@ -10768,7 +10990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "fragile",
@@ -10838,7 +11061,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "gastric",
@@ -10861,7 +11085,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "ganglion",
@@ -10879,7 +11104,8 @@
         "definition": "a swelling (= an area that is larger and rounder than normal) in a tendon, often at the back of the hand",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "gastric flu",
@@ -10893,7 +11119,8 @@
         "definition": "an illness affecting the stomach, which does not last long and is thought to be caused by a virus",
         "examples": []
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "genetic",
@@ -10924,7 +11151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "germ",
@@ -10969,7 +11197,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "gangrene",
@@ -10988,7 +11217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "funny",
@@ -11129,7 +11359,8 @@
         "definition": "used to show that ‘funny’ is being used with the meaning of ‘strange’",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "German measles",
@@ -11143,7 +11374,8 @@
         "definition": "a mild disease that causes a sore throat (= a painful throat because of an infection) and red spots all over the body. It can seriously affect babies born to women who catch it soon after they become pregnant.",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "glue-sniffing",
@@ -11157,7 +11389,8 @@
         "definition": "the habit of breathing in the gases from some kinds of glue (= a sticky substance used for joining things together) in order to produce a state of excitement",
         "examples": []
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "groggy",
@@ -11180,7 +11413,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "ghastly",
@@ -11263,7 +11497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "haemophilia",
@@ -11277,7 +11512,8 @@
         "definition": "a medical condition that causes severe loss of blood from even a slight injury because the blood fails to clot normally. It usually affects only men although it can be passed on by women.",
         "examples": []
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "haemorrhage",
@@ -11317,7 +11553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "haemophiliac",
@@ -11331,7 +11568,8 @@
         "definition": "a person who has haemophilia",
         "examples": []
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "grim",
@@ -11447,7 +11685,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "graze",
@@ -11530,7 +11769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "get over",
@@ -11584,7 +11824,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "haemorrhoids",
@@ -11598,7 +11839,8 @@
         "definition": "veins at or near the anus that have become painful and swollen (= larger than normal)",
         "examples": []
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "give",
@@ -12071,7 +12313,8 @@
         "definition": "what is happening?; what is the news?",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "hangover",
@@ -12103,7 +12346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "heat stress",
@@ -12126,7 +12370,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "hay fever",
@@ -12140,7 +12385,8 @@
         "definition": "an illness that affects the nose, eyes and throat and is caused by pollen from plants that is breathed in from the air",
         "examples": []
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "headache",
@@ -12192,7 +12438,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "harm",
@@ -12239,7 +12486,8 @@
         "definition": "to not hurt somebody physically in any way",
         "examples": []
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "heatstroke",
@@ -12253,7 +12501,8 @@
         "definition": "an illness with a high temperature and often loss of consciousness, caused by being in too great a heat for too long",
         "examples": []
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "heart attack",
@@ -12284,7 +12533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "heal",
@@ -12341,7 +12591,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "have one foot in the grave",
@@ -12898,7 +13149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "get",
@@ -13680,7 +13932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "hemophilia",
@@ -13694,7 +13947,8 @@
         "definition": "a medical condition that causes severe loss of blood from even a slight injury because the blood fails to clot normally. It usually affects only men although it can be passed on by women.",
         "examples": []
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "herniated disc",
@@ -13708,7 +13962,8 @@
         "definition": "a slipped disc (= a painful condition caused when one of the discs between the bones of the spine in a person's back moves out of place)",
         "examples": []
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "hepatitis",
@@ -13727,7 +13982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "have",
@@ -14278,7 +14534,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "hereditary",
@@ -14331,7 +14588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "hernia",
@@ -14345,7 +14603,8 @@
         "definition": "a medical condition in which part of an organ is pushed through a weak part in the muscle or tissue around it",
         "examples": []
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "HIV",
@@ -14372,7 +14631,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "hobble",
@@ -14413,7 +14673,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "hot zone",
@@ -14432,7 +14693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "housebound",
@@ -14450,7 +14712,8 @@
         "definition": "people who are housebound",
         "examples": []
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "hungover",
@@ -14464,7 +14727,8 @@
         "definition": "a person who is hungover is feeling ill because they drank too much alcohol the night before",
         "examples": []
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "hooked",
@@ -14513,7 +14777,8 @@
         "definition": "having one or more hooks",
         "examples": []
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "hurt",
@@ -14561,7 +14826,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "hypertension",
@@ -14575,7 +14841,8 @@
         "definition": "blood pressure that is higher than is normal",
         "examples": []
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "hydrocephalus",
@@ -14594,7 +14861,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "hurt",
@@ -14743,7 +15011,8 @@
         "definition": "to be kind and gentle and unwilling to cause unhappiness",
         "examples": []
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "hit",
@@ -15220,7 +15489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "hypotension",
@@ -15239,7 +15509,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "hypertensive",
@@ -15258,7 +15529,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "immunocompromised",
@@ -15277,7 +15549,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "idiopathic",
@@ -15296,7 +15569,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "hypotensive",
@@ -15324,7 +15598,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "immunosuppressed",
@@ -15343,7 +15618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "illness",
@@ -15395,7 +15671,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "incurable",
@@ -15423,7 +15700,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "infected",
@@ -15455,7 +15733,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "indigestion",
@@ -15474,7 +15753,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "infectious",
@@ -15506,7 +15786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "incubation",
@@ -15538,7 +15819,8 @@
         "definition": "the development and growth of bacteria, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "incubate",
@@ -15574,7 +15856,8 @@
         "definition": "to develop slowly without showing any signs",
         "examples": []
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "infection",
@@ -15654,7 +15937,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "ill",
@@ -15774,7 +16058,8 @@
         "definition": "no problem is so bad that it does not bring some advantage to somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "infect",
@@ -15823,7 +16108,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "incapacity",
@@ -15851,7 +16137,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "infirm",
@@ -15883,7 +16170,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "inflamed",
@@ -15915,7 +16203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "inflammation",
@@ -15938,7 +16227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "infirmity",
@@ -15961,7 +16251,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "irritable bowel syndrome",
@@ -15975,7 +16266,8 @@
         "definition": "a condition of the bowels that causes pain and diarrhoea or constipation, often caused by stress or worry",
         "examples": []
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "injured",
@@ -16040,7 +16332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "invalid",
@@ -16067,7 +16360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "injure",
@@ -16123,7 +16417,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "injury",
@@ -16220,7 +16515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "irritation",
@@ -16248,7 +16544,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "invasive",
@@ -16302,7 +16599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "irritate",
@@ -16330,7 +16628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "ischaemia",
@@ -16344,7 +16643,8 @@
         "definition": "the situation when the supply of blood to an organ or part of the body, especially the heart muscles, is less than is needed",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "keel over",
@@ -16363,7 +16663,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "Kawasaki disease",
@@ -16382,7 +16683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "ischaemic",
@@ -16401,7 +16703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "kwashiorkor",
@@ -16415,7 +16718,8 @@
         "definition": "a dangerous health condition that is caused by not eating enough protein and mainly affects young children in tropical countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "leprosy",
@@ -16429,7 +16733,8 @@
         "definition": "a disease that causes painful white areas on the skin and can destroy nerves, muscles, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "jaundice",
@@ -16443,7 +16748,8 @@
         "definition": "a medical condition in which the skin and the white parts of the eyes become yellow, caused by disease of the liver or blood",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "laryngitis",
@@ -16457,7 +16763,8 @@
         "definition": "a medical condition in which the larynx becomes swollen and painful, making speaking difficult",
         "examples": []
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "knock out",
@@ -16529,7 +16836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "lay up",
@@ -16569,7 +16877,8 @@
         "definition": "to stop using a ship or other vehicle while it is being repaired",
         "examples": []
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "leukaemia",
@@ -16588,7 +16897,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "life-limiting",
@@ -16611,7 +16921,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "lifestyle disease",
@@ -16630,7 +16941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "limp",
@@ -16653,7 +16965,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "listeriosis",
@@ -16672,7 +16985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "Lou Gehrig's disease",
@@ -16691,7 +17005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "knock",
@@ -16973,7 +17288,8 @@
         "definition": "used to express surprise",
         "examples": []
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "long Covid",
@@ -16992,7 +17308,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "limp",
@@ -17028,7 +17345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "macular degeneration",
@@ -17047,7 +17365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "lump",
@@ -17114,7 +17433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "mad cow disease",
@@ -17128,7 +17448,8 @@
         "definition": "BSE (= a brain disease of cows that causes death, the abbreviation for ‘bovine spongiform encephalopathy’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "malady",
@@ -17151,7 +17472,8 @@
         "definition": "an illness",
         "examples": []
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "malaria",
@@ -17174,7 +17496,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "malignant",
@@ -17197,7 +17520,8 @@
         "definition": "having or showing a strong desire to harm somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "malnutrition",
@@ -17211,7 +17535,8 @@
         "definition": "a poor condition of health caused by a lack of food or a lack of the right type of food",
         "examples": []
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "measles",
@@ -17230,7 +17555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "meningitis",
@@ -17249,7 +17575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "malarial",
@@ -17268,7 +17595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "malnourished",
@@ -17287,7 +17615,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "malaise",
@@ -17314,7 +17643,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "MERS",
@@ -17333,7 +17663,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "miscarriage",
@@ -17368,7 +17699,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "multiple sclerosis",
@@ -17382,7 +17714,8 @@
         "definition": "a disease of the nervous system that gets worse over a period of time with loss of feeling in the body and loss of control of movement and speech",
         "examples": []
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "motor neurone disease",
@@ -17396,7 +17729,8 @@
         "definition": "a disease in which the nerves and muscles become gradually weaker until the person dies",
         "examples": []
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "MND",
@@ -17415,7 +17749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "mumps",
@@ -17429,7 +17764,8 @@
         "definition": "a disease, especially of children, that causes painful swellings at the sides of the face and under the ears",
         "examples": []
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "nauseous",
@@ -17457,7 +17793,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "make it",
@@ -17985,7 +18322,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "nCoV",
@@ -18004,7 +18342,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "migraine",
@@ -18031,7 +18370,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "niggle",
@@ -18076,7 +18416,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "Nipah virus",
@@ -18090,7 +18431,8 @@
         "definition": "a virus carried by fruit bats, which can cause a serious disease in humans and pigs",
         "examples": []
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "omicron",
@@ -18113,7 +18455,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "nephritis",
@@ -18127,7 +18470,8 @@
         "definition": "a condition in which the kidneys become swollen (= larger than normal) and painful",
         "examples": []
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "obesity",
@@ -18146,7 +18490,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "OD",
@@ -18160,7 +18505,8 @@
         "definition": "to overdose (= to take too much of a drug at one time, so that it is dangerous)",
         "examples": []
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "on the mend",
@@ -18187,7 +18533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "nausea",
@@ -18210,7 +18557,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "obese",
@@ -18233,7 +18581,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "notifiable",
@@ -18256,7 +18605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "night sweat",
@@ -18275,7 +18625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "non-malignant",
@@ -18289,7 +18640,8 @@
         "definition": "not caused by cancer and not likely to be dangerous",
         "examples": []
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "on your feet",
@@ -18846,7 +19198,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "overeating",
@@ -18865,7 +19218,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "outbreak",
@@ -18900,7 +19254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "overeat",
@@ -18914,7 +19269,8 @@
         "definition": "to eat more than you need or more than is healthy",
         "examples": []
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "overdose",
@@ -18937,7 +19293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "pain",
@@ -19068,7 +19425,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "painfully",
@@ -19117,7 +19475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "painful",
@@ -19198,7 +19557,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "out of breath",
@@ -19465,7 +19825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "overweight",
@@ -19501,7 +19862,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "pallor",
@@ -19528,7 +19890,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "pass out",
@@ -19551,7 +19914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "pandemic",
@@ -19570,7 +19934,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "pallid",
@@ -19602,7 +19967,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "paralysis",
@@ -19634,7 +20000,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "pandemic",
@@ -19653,7 +20020,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "pathogen",
@@ -19672,7 +20040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "parasite",
@@ -19704,7 +20073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "pathological",
@@ -19740,7 +20110,8 @@
         "definition": "connected with pathology",
         "examples": []
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "paralyse",
@@ -19780,7 +20151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "patient zero",
@@ -19799,7 +20171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "pale",
@@ -19872,7 +20245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "peculiar",
@@ -19949,7 +20323,8 @@
         "definition": "used to show that ‘funny’ is being used with the meaning of ‘strange’",
         "examples": []
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "peaked",
@@ -19967,7 +20342,8 @@
         "definition": "ill or pale",
         "examples": []
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "phlegm",
@@ -19990,7 +20366,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "pertussis",
@@ -20004,7 +20381,8 @@
         "definition": "whooping cough (= a disease, especially of children, that makes them cough and have difficulty breathing)",
         "examples": []
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "peaky",
@@ -20023,7 +20401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "pellagra",
@@ -20037,7 +20416,8 @@
         "definition": "a disease caused by eating food that lacks certain nutrients (= substances important for health) that leads to problems with the skin, digestive system and brain",
         "examples": []
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "pneumonia",
@@ -20056,7 +20436,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "polio",
@@ -20070,7 +20451,8 @@
         "definition": "a disease that affects the central nervous system and can cause temporary or permanent paralysis (= loss of control or feeling in part or most of the body)",
         "examples": []
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "post-operative",
@@ -20093,7 +20475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "plague",
@@ -20143,7 +20526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "prolapse",
@@ -20157,7 +20541,8 @@
         "definition": "a condition in which an organ of the body has slipped forward or down from its normal position",
         "examples": []
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "poorly",
@@ -20184,7 +20569,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "poor",
@@ -20341,7 +20727,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "pull through",
@@ -20382,7 +20769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "rabies",
@@ -20396,7 +20784,8 @@
         "definition": "a disease of dogs and other animals that causes madness and death. Animals with the disease can pass it to humans by biting them.",
         "examples": []
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "queasy",
@@ -20428,7 +20817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "present",
@@ -20666,7 +21056,8 @@
         "definition": "to hold a rifle straight upwards in front of the body as a mark of respect",
         "examples": []
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "pull",
@@ -20763,7 +21154,8 @@
         "definition": "trying to find a sexual partner",
         "examples": []
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "rash",
@@ -20811,7 +21203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "rally",
@@ -20872,7 +21265,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "pull",
@@ -21307,7 +21701,8 @@
         "definition": "to hide your real actions or intentions from somebody by making them believe something that is not true",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "rebound",
@@ -21365,7 +21760,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "react",
@@ -21446,7 +21842,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "reaction",
@@ -21587,7 +21984,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "recuperate",
@@ -21619,7 +22017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "recovery",
@@ -21685,7 +22084,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "red zone",
@@ -21708,7 +22108,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "rebound",
@@ -21757,7 +22158,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "recuperative",
@@ -21776,7 +22178,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "reject",
@@ -21879,7 +22282,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "recover",
@@ -21975,7 +22379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "rickets",
@@ -21989,7 +22394,8 @@
         "definition": "a disease of children caused by a lack of good food that makes the bones become soft and badly formed, especially in the legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "relapse",
@@ -22012,7 +22418,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "rosacea",
@@ -22031,7 +22438,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "remission",
@@ -22088,7 +22496,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "RSI",
@@ -22107,7 +22516,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "rejection",
@@ -22166,7 +22576,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "ropy",
@@ -22194,7 +22605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "rheumatism",
@@ -22213,7 +22625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "relapse",
@@ -22240,7 +22653,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "rotten",
@@ -22336,7 +22750,8 @@
         "definition": "one bad person who has a bad effect on others in a group",
         "examples": []
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "rubella",
@@ -22350,7 +22765,8 @@
         "definition": "a mild disease that causes a sore throat (= a painful throat because of an infection) and red spots all over the body. It can seriously affect babies born to women who catch it soon after they become pregnant.",
         "examples": []
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "rupture",
@@ -22400,7 +22816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "rupture",
@@ -22449,7 +22866,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "SARS",
@@ -22468,7 +22886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "salmonella",
@@ -22491,7 +22910,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "scab",
@@ -22517,7 +22937,8 @@
         "definition": "a disease of plants, especially apples and potatoes, that causes a rough surface",
         "examples": []
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "SARS-CoV-2",
@@ -22536,7 +22957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "scald",
@@ -22559,7 +22981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "scald",
@@ -22578,7 +23001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "scar",
@@ -22623,7 +23047,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "scar",
@@ -22689,7 +23114,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "scratch",
@@ -22840,7 +23266,8 @@
         "definition": "used to say that if somebody helps you, you will help them, even if this is unfair to others",
         "examples": []
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "scratch",
@@ -22919,7 +23346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "scrapie",
@@ -22933,7 +23361,8 @@
         "definition": "a serious disease that affects the nervous system of sheep",
         "examples": []
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "run-down",
@@ -22978,7 +23407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "scrape",
@@ -23116,7 +23546,8 @@
         "definition": "to have to use things or people that are not the best or most suitable because the ones that were the best or most suitable are no longer available",
         "examples": []
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "seasickness",
@@ -23135,7 +23566,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "second-degree",
@@ -23153,7 +23585,8 @@
         "definition": "burns of the second most serious of three kinds, causing blisters but no permanent marks",
         "examples": []
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "seasick",
@@ -23172,7 +23605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "seizure",
@@ -23225,7 +23659,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "severely",
@@ -23296,7 +23731,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "severe",
@@ -23423,7 +23859,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "septic",
@@ -23446,7 +23883,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "shaky",
@@ -23507,7 +23945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "shake",
@@ -23578,7 +24017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "shiver",
@@ -23618,7 +24058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "shield",
@@ -23662,7 +24103,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "shiver",
@@ -23689,7 +24131,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "serious",
@@ -23865,7 +24308,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "shivery",
@@ -23884,7 +24328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "shock",
@@ -24040,7 +24485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "shortness",
@@ -24072,7 +24518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "shut-in",
@@ -24091,7 +24538,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "short-winded",
@@ -24105,7 +24553,8 @@
         "definition": "having difficulty breathing after exercise or physical effort",
         "examples": []
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "sickly",
@@ -24159,7 +24608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "slipped disc",
@@ -24173,7 +24623,8 @@
         "definition": "a painful condition caused when one of the discs between the bones of the spine in a person’s back moves out of place",
         "examples": []
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "smallpox",
@@ -24192,7 +24643,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "snow-blind",
@@ -24206,7 +24658,8 @@
         "definition": "unable to see because of the light reflected from a large area of snow",
         "examples": []
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "sicken",
@@ -24242,7 +24695,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "snow-blindness",
@@ -24256,7 +24710,8 @@
         "definition": "the condition of being unable to see because of the light reflected from a large area of snow",
         "examples": []
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "sneeze",
@@ -24279,7 +24734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "sickness",
@@ -24341,7 +24797,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "sick",
@@ -24591,7 +25048,8 @@
         "definition": "feeling that you want to vomit",
         "examples": []
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "sneeze",
@@ -24619,7 +25077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "sobriety",
@@ -24660,7 +25119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "Spanish flu",
@@ -24679,7 +25139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "splitting",
@@ -24693,7 +25154,8 @@
         "definition": "if you have a splitting headache, you have a very bad pain in your head",
         "examples": []
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "sober",
@@ -24755,7 +25217,8 @@
         "definition": "having drunk no alcohol at all",
         "examples": []
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "sore throat",
@@ -24774,7 +25237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "sore",
@@ -24849,7 +25313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "spasm",
@@ -24881,7 +25346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "sprain",
@@ -24900,7 +25366,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "sore",
@@ -24923,7 +25390,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "sprain",
@@ -24942,7 +25410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "spot",
@@ -25235,7 +25704,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "sting",
@@ -25317,7 +25787,8 @@
         "definition": "an unpleasant feature that comes at the end of a story, an event, etc. and makes it less good, successful, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "spread",
@@ -25598,7 +26069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "sting",
@@ -25681,7 +26153,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "stiffness",
@@ -25727,7 +26200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "stomach ache",
@@ -25741,7 +26215,8 @@
         "definition": "pain in or near your stomach",
         "examples": []
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "stricken",
@@ -25781,7 +26256,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "strain",
@@ -25910,7 +26386,8 @@
         "definition": "if a system or service creaks under the strain, it cannot deal effectively with all the things it is expected to do or provide",
         "examples": []
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "substance use disorder",
@@ -25933,7 +26410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "stroke",
@@ -26094,7 +26572,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "succumb",
@@ -26138,7 +26617,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "sufferer",
@@ -26161,7 +26641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "suffering",
@@ -26193,7 +26674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "suffer",
@@ -26299,7 +26781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "sunburn",
@@ -26322,7 +26805,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "sunburned",
@@ -26350,7 +26834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "sunstroke",
@@ -26364,7 +26849,8 @@
         "definition": "an illness with a high temperature, weakness, headache, etc. caused by too much direct sun, especially on the head",
         "examples": []
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "superspreader",
@@ -26383,7 +26869,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "swell",
@@ -26470,7 +26957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "superspreader event",
@@ -26489,7 +26977,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "sustain",
@@ -26589,7 +27078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "swine flu",
@@ -26607,7 +27097,8 @@
         "definition": "a serious illness spread between humans, that is genetically similar to swine flu in pigs, and that in some cases causes death",
         "examples": []
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "swollen",
@@ -26634,7 +27125,8 @@
         "definition": "containing more water than normal",
         "examples": []
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "swelling",
@@ -26670,7 +27162,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "symptomatic",
@@ -26693,7 +27186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "symptom",
@@ -26741,7 +27235,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "syndrome",
@@ -26781,7 +27276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "TB",
@@ -26800,7 +27296,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "temperature",
@@ -26893,7 +27390,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "tetanus",
@@ -26907,7 +27405,8 @@
         "definition": "a disease in which the muscles, especially the jaw muscles, become stiff, caused by bacteria entering the body through cuts or wounds",
         "examples": []
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "third-degree",
@@ -26925,7 +27424,8 @@
         "definition": "murder, etc. of the least serious of three kinds",
         "examples": []
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "tachycardia",
@@ -26944,7 +27444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "tonsillitis",
@@ -26958,7 +27459,8 @@
         "definition": "an infection of the tonsils in which they become swollen (= larger than normal) and painful",
         "examples": []
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "toothache",
@@ -26981,7 +27483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "thrombosis",
@@ -26995,7 +27498,8 @@
         "definition": "a serious condition caused by a blood clot (= a thick mass of blood) forming in a blood vessel (= tube) or in the heart",
         "examples": []
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "terminal",
@@ -27053,7 +27557,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "tender",
@@ -27128,7 +27633,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "tear",
@@ -27333,7 +27839,8 @@
         "definition": "used to say that something has happened to cause your plans to fail",
         "examples": []
       }
-    ]
+    ],
+    "id": 507
   },
   {
     "word": "terrible",
@@ -27464,7 +27971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 508
   },
   {
     "word": "toxoplasmosis",
@@ -27478,7 +27986,8 @@
         "definition": "a disease that can be dangerous to a baby while it is still in its mother’s body, caught from bacteria in meat, soil or animal faeces",
         "examples": []
       }
-    ]
+    ],
+    "id": 509
   },
   {
     "word": "tuberculosis",
@@ -27492,7 +28001,8 @@
         "definition": "a serious disease, caused by bacteria, in which swellings appear on the lungs and other parts of the body",
         "examples": []
       }
-    ]
+    ],
+    "id": 510
   },
   {
     "word": "transfer",
@@ -27682,7 +28192,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 511
   },
   {
     "word": "tubercular",
@@ -27705,7 +28216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 512
   },
   {
     "word": "tumour",
@@ -27728,7 +28240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 513
   },
   {
     "word": "typhoid",
@@ -27747,7 +28260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 514
   },
   {
     "word": "typhus",
@@ -27761,7 +28275,8 @@
         "definition": "a serious disease that causes a high temperature, headaches, purple marks on the body and often death",
         "examples": []
       }
-    ]
+    ],
+    "id": 515
   },
   {
     "word": "trauma",
@@ -27806,7 +28321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 516
   },
   {
     "word": "unconscious",
@@ -27879,7 +28395,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 517
   },
   {
     "word": "twist",
@@ -28058,7 +28575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 518
   },
   {
     "word": "ulcer",
@@ -28081,7 +28599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 519
   },
   {
     "word": "trouble",
@@ -28355,7 +28874,8 @@
         "definition": "if you talk to somebody about your problems and worries, instead of keeping them to yourself, they seem less serious",
         "examples": []
       }
-    ]
+    ],
+    "id": 520
   },
   {
     "word": "undernourished",
@@ -28374,7 +28894,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 521
   },
   {
     "word": "turn",
@@ -28669,7 +29190,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 522
   },
   {
     "word": "underfed",
@@ -28683,7 +29205,8 @@
         "definition": "having had too little food to eat",
         "examples": []
       }
-    ]
+    ],
+    "id": 523
   },
   {
     "word": "unconsciousness",
@@ -28702,7 +29225,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 524
   },
   {
     "word": "unfit",
@@ -28775,7 +29299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 525
   },
   {
     "word": "undernourishment",
@@ -28789,7 +29314,8 @@
         "definition": "the condition of being in bad health because of a lack of food or a lack of the right type of food",
         "examples": []
       }
-    ]
+    ],
+    "id": 526
   },
   {
     "word": "underweight",
@@ -28816,7 +29342,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 527
   },
   {
     "word": "unwell",
@@ -28843,7 +29370,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 528
   },
   {
     "word": "upset",
@@ -28891,7 +29419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 529
   },
   {
     "word": "unhealthy",
@@ -28940,7 +29469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 530
   },
   {
     "word": "upset",
@@ -29005,7 +29535,8 @@
         "definition": "to cause problems for somebody or cause their plans, arrangements, etc. to fail",
         "examples": []
       }
-    ]
+    ],
+    "id": 531
   },
   {
     "word": "under the weather",
@@ -29164,7 +29695,8 @@
         "definition": "if you are or feel under the weather, you feel slightly ill and not as well as usual",
         "examples": []
       }
-    ]
+    ],
+    "id": 532
   },
   {
     "word": "upset",
@@ -29214,7 +29746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 533
   },
   {
     "word": "vascular dementia",
@@ -29233,7 +29766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 534
   },
   {
     "word": "varicose vein",
@@ -29247,7 +29781,8 @@
         "definition": "a vein, especially one in the leg, that has become swollen (= larger than normal) and painful",
         "examples": []
       }
-    ]
+    ],
+    "id": 535
   },
   {
     "word": "viral",
@@ -29279,7 +29814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 536
   },
   {
     "word": "vitiligo",
@@ -29298,7 +29834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 537
   },
   {
     "word": "vector",
@@ -29330,7 +29867,8 @@
         "definition": "a course taken by an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 538
   },
   {
     "word": "virulent",
@@ -29366,7 +29904,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 539
   },
   {
     "word": "virulence",
@@ -29394,7 +29933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 540
   },
   {
     "word": "vomit",
@@ -29421,7 +29961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 541
   },
   {
     "word": "virus",
@@ -29502,7 +30043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 542
   },
   {
     "word": "victim",
@@ -29609,7 +30151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 543
   },
   {
     "word": "wart",
@@ -29640,7 +30183,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 544
   },
   {
     "word": "walking wounded",
@@ -29659,7 +30203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 545
   },
   {
     "word": "waste away",
@@ -29673,7 +30218,8 @@
         "definition": "to become thin and weak, especially because of illness",
         "examples": []
       }
-    ]
+    ],
+    "id": 546
   },
   {
     "word": "wasted",
@@ -29705,7 +30251,8 @@
         "definition": "strongly affected by alcohol or drugs",
         "examples": []
       }
-    ]
+    ],
+    "id": 547
   },
   {
     "word": "weaken",
@@ -29788,7 +30335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 548
   },
   {
     "word": "whiplash injury",
@@ -29807,7 +30355,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 549
   },
   {
     "word": "wheeze",
@@ -29834,7 +30383,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 550
   },
   {
     "word": "wound",
@@ -29894,7 +30444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 551
   },
   {
     "word": "wrench",
@@ -29959,7 +30510,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 552
   },
   {
     "word": "weak",
@@ -30165,7 +30717,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 553
   },
   {
     "word": "whooping cough",
@@ -30179,7 +30732,8 @@
         "definition": "a disease, especially of children, that makes them cough (= force air noisily through the throat) and have difficulty breathing",
         "examples": []
       }
-    ]
+    ],
+    "id": 554
   },
   {
     "word": "yellow fever",
@@ -30193,7 +30747,8 @@
         "definition": "a tropical disease that makes the skin turn yellow and often causes death",
         "examples": []
       }
-    ]
+    ],
+    "id": 555
   },
   {
     "word": "wound",
@@ -30287,7 +30842,8 @@
         "definition": "to make a difficult experience even more difficult for somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 556
   },
   {
     "word": "withdrawal",
@@ -30371,7 +30927,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 557
   },
   {
     "word": "zoonosis",
@@ -30390,7 +30947,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 558
   },
   {
     "word": "zoonotic",
@@ -30409,6 +30967,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 559
   }
 ]

@@ -54,7 +54,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "budget",
@@ -77,7 +78,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "bellboy",
@@ -91,7 +93,8 @@
         "definition": "a person whose job is to carry people’s cases to their rooms in a hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "bank holiday",
@@ -118,7 +121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "cancellation",
@@ -167,7 +171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "book",
@@ -253,7 +258,8 @@
         "definition": "to write down in an official book the name of a player who has broken the rules of the game",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "B and B",
@@ -267,7 +273,8 @@
         "definition": "bed and breakfast",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "bureau",
@@ -320,7 +327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "deckchair",
@@ -334,7 +342,8 @@
         "definition": "a folding chair with a seat made from a long piece of material on a wooden or metal frame, used for example on a beach",
         "examples": []
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "cruise",
@@ -357,7 +366,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "apartment hotel",
@@ -371,7 +381,8 @@
         "definition": "a hotel that has apartments which you can rent for long or short periods of time",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "camper",
@@ -402,7 +413,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "canal",
@@ -429,7 +441,8 @@
         "definition": "a tube inside the body through which liquid, food or air can pass",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "cot",
@@ -452,7 +465,8 @@
         "definition": "a light narrow bed that you can fold up and carry easily",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "bushwhack",
@@ -483,7 +497,8 @@
         "definition": "to fight as a guerrilla",
         "examples": []
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "backpack",
@@ -502,7 +517,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "break",
@@ -758,7 +774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "day tripper",
@@ -772,7 +789,8 @@
         "definition": "a person making a trip or visit for pleasure that is completed in one day",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "bucket shop",
@@ -786,7 +804,8 @@
         "definition": "a place or website that sells cheap plane tickets",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "double room",
@@ -800,7 +819,8 @@
         "definition": "a bedroom for two people",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "backpack",
@@ -832,7 +852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "double",
@@ -903,7 +924,8 @@
         "definition": "a risk in which you could win twice the amount you pay, or you could lose all your money",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "aparthotel",
@@ -917,7 +939,8 @@
         "definition": "a type of hotel that has apartments where you can cook your own meals as well as ordinary hotel rooms",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "camping",
@@ -952,7 +975,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "camp",
@@ -998,7 +1022,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "bellhop",
@@ -1012,7 +1037,8 @@
         "definition": "a person whose job is to carry people’s cases to their rooms in a hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "all-inclusive",
@@ -1031,7 +1057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "day out",
@@ -1054,7 +1081,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "customs",
@@ -1103,7 +1131,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "check in",
@@ -1135,7 +1164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "concierge",
@@ -1153,7 +1183,8 @@
         "definition": "a person in a hotel whose job is to help guests by giving them information, arranging theatre tickets, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "courier",
@@ -1184,7 +1215,8 @@
         "definition": "a person who is employed by a travel company to give advice and help to a group of tourists on holiday",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "American plan",
@@ -1198,7 +1230,8 @@
         "definition": "a type of accommodation in a hotel, etc. that includes all meals",
         "examples": []
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "cottage",
@@ -1225,7 +1258,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "check-in",
@@ -1274,7 +1308,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "caravan",
@@ -1315,7 +1350,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "apartment",
@@ -1384,7 +1420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "agritourism",
@@ -1398,7 +1435,8 @@
         "definition": "holidays in which tourists visiting a country stay with local people who live in the countryside",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "campsite",
@@ -1416,7 +1454,8 @@
         "definition": "a place in a campground where you can put up one tent or park one camper, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "checkout",
@@ -1469,7 +1508,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "doorman",
@@ -1483,7 +1523,8 @@
         "definition": "a man, often in uniform, whose job is to stand at the entrance to a large building such as a hotel or a theatre, and open the door for visitors, find them taxis, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "chalet",
@@ -1501,7 +1542,8 @@
         "definition": "a small house or hut, especially one used by people on holiday at the sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "amusement park",
@@ -1515,7 +1557,8 @@
         "definition": "a large park that has a lot of things that you can ride and play on and many different activities to enjoy",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "campfire",
@@ -1538,7 +1581,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "booking",
@@ -1581,7 +1625,8 @@
         "definition": "an act of the referee writing a player’s name in a book, as a punishment because an offence has been committed",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "clerk",
@@ -1631,7 +1676,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "brochure",
@@ -1654,7 +1700,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "destination wedding",
@@ -1673,7 +1720,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "accommodation",
@@ -1746,7 +1794,8 @@
         "definition": "the way in which the lens (= a part of the eye) becomes flatter or thicker in order to create a clear image of the object that you want to look at",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "day trip",
@@ -1765,7 +1814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "bed and breakfast",
@@ -1805,7 +1855,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "adventure",
@@ -1865,7 +1916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "destination",
@@ -1892,7 +1944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "duty-free",
@@ -1911,7 +1964,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "board",
@@ -2130,7 +2184,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "booze cruise",
@@ -2153,7 +2208,8 @@
         "definition": "a social occasion when people travel on a ship or boat and enjoy themselves by drinking alcohol, eating and dancing",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "abroad",
@@ -2201,7 +2257,8 @@
         "definition": "outside; outdoors",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "card key",
@@ -2215,7 +2272,8 @@
         "definition": "a special plastic card with information recorded on it that can be read by an electronic device, which can be used instead of a door key",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "daypack",
@@ -2238,7 +2296,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "commissionaire",
@@ -2252,7 +2311,8 @@
         "definition": "a person in uniform whose job is to stand at the entrance to a hotel, etc. and open the door for visitors, find them taxis, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "currency",
@@ -2292,7 +2352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "beach",
@@ -2335,7 +2396,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "desk clerk",
@@ -2349,7 +2411,8 @@
         "definition": "a person whose job is dealing with people arriving at or leaving a hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "caravanning",
@@ -2368,7 +2431,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "adventure tourism",
@@ -2387,7 +2451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "ecotourism",
@@ -2406,7 +2471,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "excursion",
@@ -2442,7 +2508,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "fleabag",
@@ -2469,7 +2536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "en suite",
@@ -2496,7 +2564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "doorwoman",
@@ -2510,7 +2579,8 @@
         "definition": "a woman, often in uniform, whose job is to stand at the entrance to a large building such as a hotel or a theatre, and open the door for visitors, find them taxis, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "family room",
@@ -2532,7 +2602,8 @@
         "definition": "(in the UK) a room in a pub where children are allowed to sit",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "duty-free",
@@ -2551,7 +2622,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "en-suite",
@@ -2574,7 +2646,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "floor",
@@ -2733,7 +2806,8 @@
         "definition": "to defeat somebody completely in an argument or a competition",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "forecourt",
@@ -2747,7 +2821,8 @@
         "definition": "a large open space in front of a building, for example a petrol station or hotel, often used for parking cars on",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "front desk",
@@ -2770,7 +2845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "full board",
@@ -2789,7 +2865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "fly-drive",
@@ -2808,7 +2885,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "getaway",
@@ -2848,7 +2926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "get away",
@@ -2889,7 +2968,8 @@
         "definition": "to escape from somebody or a place",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "glamping",
@@ -2903,7 +2983,8 @@
         "definition": "a type of camping, using tents and other kinds of accommodation, facilities, etc. that are more comfortable and expensive than those usually used for camping",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "explore",
@@ -2984,7 +3065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "guest house",
@@ -3011,7 +3093,8 @@
         "definition": "a small house built near a large house, for guests to stay in",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "foyer",
@@ -3039,7 +3122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "exchange",
@@ -3142,7 +3226,8 @@
         "definition": "a place where phone calls are connected so that people can speak to each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "guest",
@@ -3250,7 +3335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "guide",
@@ -3345,7 +3431,8 @@
         "definition": "a member of an organization (called the Guides or the Girl Scouts) that is similar to the Scouts and that trains girls in practical skills and does a lot of activities with them, for example camping",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "hillwalking",
@@ -3359,7 +3446,8 @@
         "definition": "the activity of walking on or up hills in the countryside for pleasure",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "guy",
@@ -3431,7 +3519,8 @@
         "definition": "a rope used to keep a pole or tent in a secure position",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "foreign",
@@ -3521,7 +3610,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "holiday club",
@@ -3549,7 +3639,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "holiday camp",
@@ -3563,7 +3654,8 @@
         "definition": "a place that provides accommodation and entertainment for large numbers of people who are on holiday",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "homestay",
@@ -3599,7 +3691,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "high season",
@@ -3618,7 +3711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "hiking",
@@ -3641,7 +3735,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "hotelier",
@@ -3655,7 +3750,8 @@
         "definition": "a person who owns or manages a hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "holiday",
@@ -3769,7 +3865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "honeymoon",
@@ -3805,7 +3902,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "hostelry",
@@ -3819,7 +3917,8 @@
         "definition": "a pub or hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "hotel",
@@ -3866,7 +3965,8 @@
         "definition": "a restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "holidaymaker",
@@ -3885,7 +3985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "half board",
@@ -3899,7 +4000,8 @@
         "definition": "a type of accommodation at a hotel, etc. that includes breakfast and an evening meal",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "housekeeping",
@@ -3944,7 +4046,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "hostel",
@@ -3976,7 +4079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "island-hopping",
@@ -3990,7 +4094,8 @@
         "definition": "the activity of travelling from one island to another in an area that has lots of islands, especially as a tourist",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "housekeeper",
@@ -4017,7 +4122,8 @@
         "definition": "a person whose job is to manage the cleaning of rooms in a hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "hotspot",
@@ -4066,7 +4172,8 @@
         "definition": "a place in a hotel, restaurant, airport, etc. that is fitted with a special device that enables you to connect a computer to the internet without using wires",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "jaunt",
@@ -4080,7 +4187,8 @@
         "definition": "a short journey that you make for pleasure",
         "examples": []
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "lobby",
@@ -4129,7 +4237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "inn",
@@ -4174,7 +4283,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "lounge bar",
@@ -4188,7 +4298,8 @@
         "definition": "a bar in a pub, hotel, etc. that is more comfortable than the other bars and where the drinks are usually more expensive",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "lounge",
@@ -4228,7 +4339,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "itinerary",
@@ -4255,7 +4367,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "lounger",
@@ -4269,7 +4382,8 @@
         "definition": "a long comfortable chair that supports your legs, used for sitting or lying on, especially outdoors",
         "examples": []
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "luggage",
@@ -4309,7 +4423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "maid",
@@ -4344,7 +4459,8 @@
         "definition": "a young woman who is not married",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "luxurious",
@@ -4371,7 +4487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "key card",
@@ -4385,7 +4502,8 @@
         "definition": "a special plastic card with information recorded on it that can be read by an electronic device, which can be used instead of a door key",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "low season",
@@ -4404,7 +4522,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "minibar",
@@ -4418,7 +4537,8 @@
         "definition": "a small fridge in a hotel room, with drinks in it, which are added to the guests' hotel bill if they drink them",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "mosquito net",
@@ -4432,7 +4552,8 @@
         "definition": "a net that you hang over a bed, etc. to keep mosquitoes away from you",
         "examples": []
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "non-resident",
@@ -4460,7 +4581,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "motel",
@@ -4483,7 +4605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "motorhome",
@@ -4497,7 +4620,8 @@
         "definition": "a large vehicle designed for people to live and sleep in when they are travelling",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "journey",
@@ -4581,7 +4705,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "manageress",
@@ -4595,7 +4720,8 @@
         "definition": "a woman who is in charge of a small business, for example, a shop, restaurant or hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "operator",
@@ -4653,7 +4779,8 @@
         "definition": "a symbol or function which represents an operation in mathematics",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "overbook",
@@ -4672,7 +4799,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "package tour",
@@ -4686,7 +4814,8 @@
         "definition": "a holiday that is organized by a company at a fixed price and that includes the cost of travel, hotels, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "motor lodge",
@@ -4700,7 +4829,8 @@
         "definition": "a hotel for people who are travelling by car, with space for parking cars near the rooms",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "parasol",
@@ -4718,7 +4848,8 @@
         "definition": "a large umbrella that is used for example on beaches or outside restaurants to protect people from hot sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "non-resident",
@@ -4763,7 +4894,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "outing",
@@ -4798,7 +4930,8 @@
         "definition": "the practice of naming people as gay or lesbian in public, when they would prefer to keep this information private",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "overtourism",
@@ -4817,7 +4950,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "Nordic walking",
@@ -4840,7 +4974,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "peg",
@@ -4923,7 +5058,8 @@
         "definition": "a person who does not feel happy or comfortable in a particular situation, or who is not suitable for it",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "pension",
@@ -4937,7 +5073,8 @@
         "definition": "a small, usually cheap, hotel in some European countries, especially France",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "pack",
@@ -5101,7 +5238,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "pool",
@@ -5214,7 +5352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "rack rate",
@@ -5228,7 +5367,8 @@
         "definition": "the standard price of a hotel room",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "passport",
@@ -5284,7 +5424,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "postcard",
@@ -5311,7 +5452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "porter",
@@ -5351,7 +5493,8 @@
         "definition": "a person whose job is helping passengers on a train, especially in a sleeping car",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "pitch",
@@ -5499,7 +5642,8 @@
         "definition": "to tell somebody a story or make an excuse that is not true",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "Primus™",
@@ -5513,7 +5657,8 @@
         "definition": "a small cooker that you can move around that burns oil. It is used especially by people who are camping.",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "receptionist",
@@ -5527,7 +5672,8 @@
         "definition": "a person whose job is to deal with people arriving at or phoning a hotel, an office building, a doctor’s surgery, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "resident",
@@ -5563,7 +5709,8 @@
         "definition": "a doctor working in a hospital in the US who is receiving special advanced training",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "rest house",
@@ -5577,7 +5724,8 @@
         "definition": "(in parts of Asia and Africa) a house or hut that you can pay to stay in like a hotel room, especially in the countryside",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "room service",
@@ -5596,7 +5744,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "rucksack",
@@ -5615,7 +5764,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "sandy",
@@ -5642,7 +5792,8 @@
         "definition": "having a light colour, between yellow and red",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "resort",
@@ -5703,7 +5854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "safari",
@@ -5735,7 +5887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "reception",
@@ -5872,7 +6025,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "road trip",
@@ -5886,7 +6040,8 @@
         "definition": "a trip made in a car over a long distance",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "sand",
@@ -5963,7 +6118,8 @@
         "definition": "used to describe a situation that changes so often that it is difficult to understand or deal with it",
         "examples": []
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "seafront",
@@ -5986,7 +6142,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "room",
@@ -6165,7 +6322,8 @@
         "definition": "a decision that people describe as being made in a smoke-filled room is made by a small group of people at a private meeting, rather than in an open and democratic way",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "sandcastle",
@@ -6179,7 +6337,8 @@
         "definition": "a pile of sand made to look like a castle, usually by a child on a beach",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "reservation",
@@ -6227,7 +6386,8 @@
         "definition": "(in India) the policy of keeping a fixed number of jobs or places in schools, colleges, etc. for people who are members of scheduled castes, scheduled tribes or other backward classes",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "sea",
@@ -6394,7 +6554,8 @@
         "definition": "used to comfort somebody whose romantic relationship has ended by saying that there are many other people they may have a successful relationship with in the future",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "rough it",
@@ -6413,7 +6574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "seaside",
@@ -6440,7 +6602,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "self-catering",
@@ -6459,7 +6622,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "self-catering",
@@ -6478,7 +6642,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "seaside",
@@ -6501,7 +6666,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "self-drive",
@@ -6519,7 +6685,8 @@
         "definition": "a self-drive holiday is one on which you use your own car or a car you hire to travel to the holiday area",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "sightseer",
@@ -6538,7 +6705,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "sightseeing",
@@ -6565,7 +6733,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "sleeping bag",
@@ -6579,7 +6748,8 @@
         "definition": "a thick warm bag that you use for sleeping in, for example when you are camping",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "snap",
@@ -6628,7 +6798,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "star",
@@ -6811,7 +6982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "souvenir",
@@ -6838,7 +7010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "single",
@@ -6941,7 +7114,8 @@
         "definition": "a hit that only allows the player to run to first base",
         "examples": []
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "stay",
@@ -7204,7 +7378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "sight",
@@ -7610,7 +7785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "sightsee",
@@ -7629,7 +7805,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "staycation",
@@ -7652,7 +7829,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "sunblock",
@@ -7666,7 +7844,8 @@
         "definition": "a cream that you put on your skin to protect it from the harmful effects of the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "suitcase",
@@ -7685,7 +7864,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "stay",
@@ -7729,7 +7909,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "suite",
@@ -7783,7 +7964,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "sitting",
@@ -7833,7 +8015,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "sunscreen",
@@ -7852,7 +8035,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "sunbathe",
@@ -7871,7 +8055,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "suntan",
@@ -7898,7 +8083,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "sun cream",
@@ -7912,7 +8098,8 @@
         "definition": "cream that you put on your skin to protect it from the harmful effects of the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "tan",
@@ -7947,7 +8134,8 @@
         "definition": "to punish somebody severely",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "sunburn",
@@ -7970,7 +8158,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "tariff",
@@ -8002,7 +8191,8 @@
         "definition": "a level of punishment for somebody who has been found guilty of a crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "tan",
@@ -8037,7 +8227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "tent peg",
@@ -8051,7 +8242,8 @@
         "definition": "a small pointed piece of wood or metal that you attach to the ropes of a tent and push into the ground in order to hold the tent in place",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "timeshare",
@@ -8079,7 +8271,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "sunlounger",
@@ -8093,7 +8286,8 @@
         "definition": "a chair with a long seat that supports your legs, used for sitting or lying on in the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "touristy",
@@ -8116,7 +8310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "tourist",
@@ -8163,7 +8358,8 @@
         "definition": "a member of a sports team that is playing a series of official games in a foreign country",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "tent",
@@ -8194,7 +8390,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "tourist trap",
@@ -8208,7 +8405,8 @@
         "definition": "a place that attracts a lot of tourists and where food, drink, entertainment, etc. is more expensive than normal",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "theme park",
@@ -8227,7 +8425,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "tourist class",
@@ -8241,7 +8440,8 @@
         "definition": "the cheapest type of ticket or accommodation that is available on a plane or ship or in a hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "trek",
@@ -8281,7 +8481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "travel agency",
@@ -8300,7 +8501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "tourism",
@@ -8327,7 +8529,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "travel agent",
@@ -8350,7 +8553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "traveller",
@@ -8386,7 +8590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "traveller’s cheque",
@@ -8400,7 +8605,8 @@
         "definition": "a cheque for a fixed amount, sold by a bank or travel agent, that can be exchanged for cash in foreign countries (more common in the past than now)",
         "examples": []
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "tour",
@@ -8527,7 +8733,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "twin",
@@ -8563,7 +8770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "unpack",
@@ -8599,7 +8807,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "twin bedroom",
@@ -8613,7 +8822,8 @@
         "definition": "a room in a hotel, etc. that has two single beds",
         "examples": []
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "trip",
@@ -8719,7 +8929,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "upgrade",
@@ -8772,7 +8983,8 @@
         "definition": "to give somebody a more important job",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "tour",
@@ -8811,7 +9023,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "Victoria Day",
@@ -8825,7 +9038,8 @@
         "definition": "a public holiday on the Monday before May 25",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "upmarket",
@@ -8844,7 +9058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "vacationer",
@@ -8867,7 +9082,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "villa",
@@ -8908,7 +9124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "upmarket",
@@ -8927,7 +9144,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "visitor",
@@ -8979,7 +9197,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "valet",
@@ -9006,7 +9225,8 @@
         "definition": "a person who parks your car for you at a hotel or restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "visa",
@@ -9029,7 +9249,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "vacancy",
@@ -9091,7 +9312,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "vacation",
@@ -9155,7 +9377,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "voyage",
@@ -9190,7 +9413,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "visitors’ book",
@@ -9204,7 +9428,8 @@
         "definition": "a book in which visitors write their names, addresses and sometimes comments, for example, at a hotel or place of public interest",
         "examples": []
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "wake-up call",
@@ -9232,7 +9457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "walking",
@@ -9271,7 +9497,8 @@
         "definition": "the sport of walking a long distance as fast as possible without running",
         "examples": []
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "youth hostel",
@@ -9294,6 +9521,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   }
 ]

@@ -16,7 +16,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "Chicana",
@@ -30,7 +31,8 @@
         "definition": "a girl or woman living in the US whose family came from Mexico",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "African-Caribbean",
@@ -44,7 +46,8 @@
         "definition": "of or connected with people from the Caribbean, or whose families come from the Caribbean, who have dark skin and whose ancestors came from Africa",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "anti-racist",
@@ -67,7 +70,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "baroness",
@@ -90,7 +94,8 @@
         "definition": "the wife of a baron",
         "examples": []
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "captain",
@@ -121,7 +126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "asexuality",
@@ -153,7 +159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "biracial",
@@ -172,7 +179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "anti-racism",
@@ -195,7 +203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "baron",
@@ -222,7 +231,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "AFAB",
@@ -241,7 +251,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "African",
@@ -255,7 +266,8 @@
         "definition": "a person from Africa, especially a black person",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "Afro-Caribbean",
@@ -269,7 +281,8 @@
         "definition": "a person who comes, or whose family comes, from the Caribbean and who is a member of a group of people who have dark skin and whose ancestors came from Africa",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "chav",
@@ -283,7 +296,8 @@
         "definition": "an offensive word for somebody, usually a young person, who you think behaves, dresses or speaks in a way that shows their low social class and lack of education",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "asexual",
@@ -328,7 +342,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "African American",
@@ -347,7 +362,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "caste",
@@ -383,7 +399,8 @@
         "definition": "the system of dividing society into classes based on differences in family origin, rank or wealth",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "anthropology",
@@ -410,7 +427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "BAME",
@@ -429,7 +447,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "captain",
@@ -506,7 +525,8 @@
         "definition": "an officer of high rank in a US police or fire department",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "bisexual",
@@ -524,7 +544,8 @@
         "definition": "having both male and female sexual organs",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "aristocrat",
@@ -543,7 +564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "boss",
@@ -603,7 +625,8 @@
         "definition": "to make it clear to somebody that you have more power and authority than they have",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "bourgeoisie",
@@ -635,7 +658,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "anthropologist",
@@ -649,7 +673,8 @@
         "definition": "a person who studies the human race, especially its origins, development, customs and beliefs",
         "examples": []
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "background",
@@ -797,7 +822,8 @@
         "definition": "to behave quietly when you are with a group of people so that they do not notice you",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "active citizen",
@@ -811,7 +837,8 @@
         "definition": "a person who is actively involved in trying to improve things in their local community",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "BLM",
@@ -825,7 +852,8 @@
         "definition": "Black Lives Matter (= a group formed to campaign against racism and violence against black people)",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "African American",
@@ -848,7 +876,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "BIPOC",
@@ -867,7 +896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "aristocracy",
@@ -898,7 +928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "African Caribbean",
@@ -912,7 +943,8 @@
         "definition": "a person who comes, or whose family comes, from the Caribbean and who is a member of a group of people who have dark skin and whose ancestors came from Africa",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "belonging",
@@ -931,7 +963,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "ancestry",
@@ -958,7 +991,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "ally",
@@ -1024,7 +1058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "anthropological",
@@ -1043,7 +1078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "assign",
@@ -1139,7 +1175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "Black Lives Matter",
@@ -1153,7 +1190,8 @@
         "definition": "a movement formed to campaign against racism and violence, especially police violence, against black people",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "Arab",
@@ -1172,7 +1210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "BME",
@@ -1191,7 +1230,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "binary",
@@ -1219,7 +1259,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "Asian-American",
@@ -1238,7 +1279,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "black",
@@ -1309,7 +1351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "Arab",
@@ -1327,7 +1370,8 @@
         "definition": "a type of horse originally from Arabia",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "African",
@@ -1341,7 +1385,8 @@
         "definition": "of or connected with Africa",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "black",
@@ -1472,7 +1517,8 @@
         "definition": "used to say that you should not criticize somebody for a fault that you have yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "Asian American",
@@ -1486,7 +1532,8 @@
         "definition": "a person from America whose family come from Asia, especially East Asia",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "acculturation",
@@ -1509,7 +1556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "acculturate",
@@ -1532,7 +1580,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "apartheid",
@@ -1551,7 +1600,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "AMAB",
@@ -1570,7 +1620,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "allyship",
@@ -1589,7 +1640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "Caucasian",
@@ -1603,7 +1655,8 @@
         "definition": "a member of any of the groups of people who have pale skin",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "Asian",
@@ -1622,7 +1675,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "anti-racist",
@@ -1641,7 +1695,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "bisexual",
@@ -1655,7 +1710,8 @@
         "definition": "a person who is bisexual",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "Chicano",
@@ -1669,7 +1725,8 @@
         "definition": "a person living in the US whose family came from Mexico",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "chief",
@@ -1721,7 +1778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "cis",
@@ -1740,7 +1798,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "citizen",
@@ -1816,7 +1875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "Caucasian",
@@ -1835,7 +1895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "class-consciousness",
@@ -1849,7 +1910,8 @@
         "definition": "the fact of being very aware of belonging to a particular social class and of the differences between social classes",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "closeted",
@@ -1872,7 +1934,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "class",
@@ -1899,7 +1962,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "civic",
@@ -1939,7 +2003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "class-conscious",
@@ -1953,7 +2018,8 @@
         "definition": "very aware of belonging to a particular social class and of the differences between social classes",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "Celt",
@@ -1971,7 +2037,8 @@
         "definition": "a person whose ancestors were Celts, especially one from Ireland, Wales, Scotland, Cornwall or Brittany",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "civics",
@@ -1985,7 +2052,8 @@
         "definition": "the school subject that studies the way government works and deals with the rights and duties that you have as a citizen and a member of a particular society",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "color-blind",
@@ -2008,7 +2076,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "color",
@@ -2238,7 +2307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "collective",
@@ -2270,7 +2340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "colour bar",
@@ -2289,7 +2360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "colour",
@@ -2532,7 +2604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "color bar",
@@ -2546,7 +2619,8 @@
         "definition": "a social system that does not allow black people the same rights as white people",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "colour-blind",
@@ -2569,7 +2643,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "committee",
@@ -2660,7 +2735,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "class",
@@ -2862,7 +2938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "citizenship",
@@ -2894,7 +2971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "colorism",
@@ -2913,7 +2991,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "count",
@@ -3052,7 +3131,8 @@
         "definition": "in a deep sleep",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "community",
@@ -3167,7 +3247,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "czar",
@@ -3199,7 +3280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "countess",
@@ -3222,7 +3304,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "colourism",
@@ -3241,7 +3324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "come out",
@@ -3375,7 +3459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "demographic",
@@ -3398,7 +3483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "commoner",
@@ -3417,7 +3503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "demographic",
@@ -3453,7 +3540,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "cross-dresser",
@@ -3467,7 +3555,8 @@
         "definition": "a person who often wears clothes usually worn by people of the opposite sex",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "denizen",
@@ -3498,7 +3587,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "cisgender",
@@ -3517,7 +3607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "diversity",
@@ -3562,7 +3653,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "earl",
@@ -3581,7 +3673,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "deadname",
@@ -3600,7 +3693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "duke",
@@ -3623,7 +3717,8 @@
         "definition": "(in some parts of Europe, especially in the past) a male ruler of a small independent state",
         "examples": []
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "empress",
@@ -3646,7 +3741,8 @@
         "definition": "the wife of an emperor",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "disadvantaged",
@@ -3677,7 +3773,8 @@
         "definition": "people who are disadvantaged",
         "examples": []
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "duchess",
@@ -3700,7 +3797,8 @@
         "definition": "a woman who has the rank of a duke",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "cross-dressing",
@@ -3714,7 +3812,8 @@
         "definition": "the practice of wearing clothes usually worn by a person of the opposite sex",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "ethnic group",
@@ -3741,7 +3840,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "Eurasian",
@@ -3760,7 +3860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "Eurasian",
@@ -3787,7 +3888,8 @@
         "definition": "having one Asian parent and one parent who is white or from Europe",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "ethnic",
@@ -3831,7 +3933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "dual heritage",
@@ -3866,7 +3969,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "decolonize",
@@ -3898,7 +4002,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "ethnicity",
@@ -3921,7 +4026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "ethnic minority",
@@ -3940,7 +4046,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "European",
@@ -3963,7 +4070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "gay",
@@ -3977,7 +4085,8 @@
         "definition": "a person who is gay, especially a man",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "European",
@@ -4005,7 +4114,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "female",
@@ -4083,7 +4193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "gender",
@@ -4131,7 +4242,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "gendered",
@@ -4154,7 +4266,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "emperor",
@@ -4190,7 +4303,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "gender expression",
@@ -4209,7 +4323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "gender binary",
@@ -4228,7 +4343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "gay",
@@ -4302,7 +4418,8 @@
         "definition": "without thinking about the results or effects of a particular action",
         "examples": []
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "gender gap",
@@ -4329,7 +4446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "gender-fluid",
@@ -4352,7 +4470,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "genderless",
@@ -4379,7 +4498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "gender-neutral",
@@ -4411,7 +4531,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "gender identity",
@@ -4434,7 +4555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "femininity",
@@ -4448,7 +4570,8 @@
         "definition": "the fact of being a woman; the qualities that are considered to be typical of women",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "Generation Xer",
@@ -4467,7 +4590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "genderqueer",
@@ -4486,7 +4610,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "Generation Yer",
@@ -4505,7 +4630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "Generation Y",
@@ -4524,7 +4650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "gender-nonconforming",
@@ -4543,7 +4670,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "Generation Zer",
@@ -4562,7 +4690,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "Gen Y",
@@ -4581,7 +4710,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "feminine",
@@ -4626,7 +4756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "gender-specific",
@@ -4645,7 +4776,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "generation",
@@ -4773,7 +4905,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "Gen Xer",
@@ -4792,7 +4925,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "Gen Yer",
@@ -4811,7 +4945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "Gen Z",
@@ -4830,7 +4965,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "Gen Zer",
@@ -4849,7 +4985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "grassroots",
@@ -4872,7 +5009,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "Generation Z",
@@ -4895,7 +5033,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "global",
@@ -4964,7 +5103,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "heteronormative",
@@ -4983,7 +5123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "globe",
@@ -5032,7 +5173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "Generation X",
@@ -5051,7 +5193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "group",
@@ -5177,7 +5320,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "heterosexual",
@@ -5191,7 +5335,8 @@
         "definition": "a person who is sexually or romantically attracted to people of the other sex",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "heterosexual",
@@ -5210,7 +5355,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "global village",
@@ -5233,7 +5379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "Gen X",
@@ -5252,7 +5399,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "head",
@@ -6053,7 +6201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "Hispanic",
@@ -6067,7 +6216,8 @@
         "definition": "a person whose first language is Spanish, especially one from a Latin American country living in the US or Canada",
         "examples": []
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "Hispanic",
@@ -6081,7 +6231,8 @@
         "definition": "of or connected with Spain or Spanish-speaking countries, especially those of Latin America",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "homeless",
@@ -6117,7 +6268,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "hetero",
@@ -6140,7 +6292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "inclusionary",
@@ -6159,7 +6312,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "homosexual",
@@ -6178,7 +6332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "inferior",
@@ -6197,7 +6352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "homosexuality",
@@ -6211,7 +6367,8 @@
         "definition": "the state of being sexually or romantically attracted to people of the same sex",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "head",
@@ -6334,7 +6491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "incel",
@@ -6357,7 +6515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "homosexual",
@@ -6371,7 +6530,8 @@
         "definition": "a person, usually a man, who is sexually or romantically attracted to people of the same sex",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "inferior",
@@ -6411,7 +6571,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "indigenous",
@@ -6455,7 +6616,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "intersex",
@@ -6478,7 +6640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "integrate",
@@ -6514,7 +6677,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "hijra",
@@ -6536,7 +6700,8 @@
         "definition": "a person who was said to be male at birth but is considered to be feminine",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "intersectionality",
@@ -6555,7 +6720,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "intersectional",
@@ -6578,7 +6744,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "Ku Klux Klan",
@@ -6592,7 +6759,8 @@
         "definition": "a secret organization of white men in the southern states of the US who use violence to oppose social change and equal rights for black people",
         "examples": []
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "laird",
@@ -6606,7 +6774,8 @@
         "definition": "(in Scotland) a person who owns a large area of land",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "Latina",
@@ -6620,7 +6789,8 @@
         "definition": "a woman or girl, especially one who is living in the US, who comes from Latin America, or whose family came from there",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "Latina",
@@ -6634,7 +6804,8 @@
         "definition": "describing or connected with a Latina or with Latinas",
         "examples": []
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "lady",
@@ -6776,7 +6947,8 @@
         "definition": "used for saying that a situation may still change, for example that a contest, election, etc. is not finished yet, and somebody still has a chance to win it",
         "examples": []
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "Latino",
@@ -6790,7 +6962,8 @@
         "definition": "a person, especially one who is living in the US, who comes from Latin America, or whose family came from there",
         "examples": []
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "Latinx",
@@ -6809,7 +6982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "king",
@@ -6878,7 +7052,8 @@
         "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "lesbian",
@@ -6901,7 +7076,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "Latino",
@@ -6915,7 +7091,8 @@
         "definition": "describing or connected with a Latino or with Latinos",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "integration",
@@ -6955,7 +7132,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "leadership",
@@ -7028,7 +7206,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "Latinx",
@@ -7047,7 +7226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "lesbianism",
@@ -7061,7 +7241,8 @@
         "definition": "the fact of being a lesbian",
         "examples": []
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "LGBTI",
@@ -7080,7 +7261,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "LGBTQIA+",
@@ -7099,7 +7281,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "lived experience",
@@ -7122,7 +7305,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "knight",
@@ -7158,7 +7342,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "lord",
@@ -7289,7 +7474,8 @@
         "definition": "any particular year after the birth of Christ",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "LGBT",
@@ -7303,7 +7489,8 @@
         "definition": "lesbian, gay, bisexual and transgender",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "lesbian",
@@ -7334,7 +7521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "lower classes",
@@ -7348,7 +7536,8 @@
         "definition": "the groups of people who are considered to have the lowest social status and who have less money and/or power than other people in society",
         "examples": []
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "LGBTQI",
@@ -7367,7 +7556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "lynch mob",
@@ -7381,7 +7571,8 @@
         "definition": "a crowd of people who gather to lynch somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "lower middle class",
@@ -7400,7 +7591,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "leader",
@@ -7468,7 +7660,8 @@
         "definition": "an important article in a newspaper that expresses the editor's opinion about an item of news or an issue; in the US also a comment on radio or television that expresses the opinion of the station or network",
         "examples": []
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "lynching",
@@ -7482,7 +7675,8 @@
         "definition": "the illegal killing of somebody, usually by hanging, by a crowd of people and without a trial",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "lower orders",
@@ -7496,7 +7690,8 @@
         "definition": "an offensive term for people who are considered to be less important because they belong to groups with a lower social status",
         "examples": []
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "LGBTQ",
@@ -7515,7 +7710,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "marginalized",
@@ -7534,7 +7730,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "LGBTQIA",
@@ -7553,7 +7750,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "marquess",
@@ -7572,7 +7770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "lynch",
@@ -7586,7 +7785,8 @@
         "definition": "if a crowd of people lynch somebody they consider guilty of a crime, they capture them, do not allow them to have a trial in court, and kill them illegally, usually by hanging",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "lower class",
@@ -7609,7 +7809,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "male",
@@ -7708,7 +7909,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "marquise",
@@ -7726,7 +7928,8 @@
         "definition": "a woman who has the rank of a marquis",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "marquis",
@@ -7744,7 +7947,8 @@
         "definition": "(in the UK) a nobleman of high rank between an earl and a duke",
         "examples": []
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "masculine",
@@ -7785,7 +7989,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "microaggression",
@@ -7808,7 +8013,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "middle-class",
@@ -7844,7 +8050,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "masculinity",
@@ -7867,7 +8074,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "marchioness",
@@ -7890,7 +8098,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "man of colour",
@@ -7909,7 +8118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "military service",
@@ -7941,7 +8151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "misgender",
@@ -7960,7 +8171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "man",
@@ -8445,7 +8657,8 @@
         "definition": "a person who is determined or wants something very much will succeed",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "monarch",
@@ -8472,7 +8685,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "multicultural",
@@ -8495,7 +8709,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "multi-ethnic",
@@ -8514,7 +8729,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "multiculturalism",
@@ -8541,7 +8757,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "minority",
@@ -8643,7 +8860,8 @@
         "definition": "to be the only person to have a particular opinion or to vote a particular way",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "multiracial",
@@ -8670,7 +8888,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "nobility",
@@ -8702,7 +8921,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "noble",
@@ -8725,7 +8945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "noble",
@@ -8786,7 +9007,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "new money",
@@ -8809,7 +9031,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "nimby",
@@ -8828,7 +9051,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "mixed-race",
@@ -8847,7 +9071,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "Mx",
@@ -8866,7 +9091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "middle class",
@@ -8893,7 +9119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "non-white",
@@ -8912,7 +9139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "non-binary",
@@ -8931,7 +9159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "nouveau riche",
@@ -8945,7 +9174,8 @@
         "definition": "a person who has recently become rich and likes to show how rich they are in a very obvious way",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "nouveau riche",
@@ -8964,7 +9194,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "non-white",
@@ -8978,7 +9209,8 @@
         "definition": "belonging to a group of people who do not have white skin",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "other",
@@ -8997,7 +9229,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "mixed",
@@ -9112,7 +9345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "othering",
@@ -9131,7 +9365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "of color",
@@ -9361,7 +9596,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "old money",
@@ -9402,7 +9638,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "out",
@@ -9425,7 +9662,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "pansexuality",
@@ -9444,7 +9682,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "of colour",
@@ -9687,7 +9926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "organization",
@@ -9777,7 +10017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "peer",
@@ -9817,7 +10058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "pluralist",
@@ -9845,7 +10087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "pansexual",
@@ -9864,7 +10107,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "pansexual",
@@ -9883,7 +10127,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "overlord",
@@ -9902,7 +10147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "polity",
@@ -9929,7 +10175,8 @@
         "definition": "the form or process of government",
         "examples": []
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "person of colour",
@@ -9948,7 +10195,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "poor",
@@ -10105,7 +10353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "preferred pronoun",
@@ -10124,7 +10373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "prefect",
@@ -10142,7 +10392,8 @@
         "definition": "an officer responsible for an area of local government in some countries, for example France, Italy and Japan",
         "examples": []
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "pluralist",
@@ -10160,7 +10411,8 @@
         "definition": "a person who has more than one job or position at the same time, especially in the Church",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "plural",
@@ -10192,7 +10444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "president",
@@ -10269,7 +10522,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "prince",
@@ -10322,7 +10576,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "queer",
@@ -10370,7 +10625,8 @@
         "definition": "a person who is slightly strange or crazy",
         "examples": []
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "queen",
@@ -10477,7 +10733,8 @@
         "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "race",
@@ -10653,7 +10910,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "queerness",
@@ -10672,7 +10930,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "princess",
@@ -10717,7 +10976,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "public",
@@ -10782,7 +11042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "public",
@@ -10941,7 +11202,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "racism",
@@ -10993,7 +11255,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "public spirit",
@@ -11007,7 +11270,8 @@
         "definition": "the quality of being willing to do things that will help other people in society",
         "examples": []
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "represent",
@@ -11203,7 +11467,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "representative",
@@ -11268,7 +11533,8 @@
         "definition": "(in the US) a member of the House of Representatives, the Lower House of Congress; a member of the House of Representatives in the lower house of a state parliament",
         "examples": []
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "representation",
@@ -11313,7 +11579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "public-spirited",
@@ -11336,7 +11603,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "pluralism",
@@ -11363,7 +11631,8 @@
         "definition": "the fact of having more than one job or position at the same time, especially in the Church",
         "examples": []
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "racist",
@@ -11390,7 +11659,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "rat race",
@@ -11413,7 +11683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "senior",
@@ -11527,7 +11798,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "rank",
@@ -11711,7 +11983,8 @@
         "definition": "to make use of your place or status in society or at work to make somebody do what you want",
         "examples": []
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "segregationist",
@@ -11730,7 +12003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "sexuality",
@@ -11765,7 +12039,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "rich",
@@ -11961,7 +12236,8 @@
         "definition": "to get a lot of money, especially suddenly or unexpectedly",
         "examples": []
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "social capital",
@@ -11988,7 +12264,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "segregation",
@@ -12024,7 +12301,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "social contract",
@@ -12038,7 +12316,8 @@
         "definition": "the agreement among citizens to behave in a way that benefits everybody that forms the basis of society",
         "examples": []
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "segregationist",
@@ -12052,7 +12331,8 @@
         "definition": "a person who believes that people from different groups should be separated and treated differently, especially according to their race",
         "examples": []
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "sheikh",
@@ -12070,7 +12350,8 @@
         "definition": "a leader in a Muslim community or organization",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "senior",
@@ -12133,7 +12414,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "segregate",
@@ -12177,7 +12459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "senior citizen",
@@ -12196,7 +12479,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "social",
@@ -12294,7 +12578,8 @@
         "definition": "enjoying spending time with other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "sociological",
@@ -12313,7 +12598,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "sociologist",
@@ -12327,7 +12613,8 @@
         "definition": "a person who studies sociology",
         "examples": []
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "sovereign",
@@ -12363,7 +12650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "shaikh",
@@ -12381,7 +12669,8 @@
         "definition": "a leader in a Muslim community or organization",
         "examples": []
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "stateless",
@@ -12400,7 +12689,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "sociology",
@@ -12414,7 +12704,8 @@
         "definition": "the scientific study of the nature and development of society and social behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "straight",
@@ -12622,7 +12913,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "sovereign",
@@ -12649,7 +12941,8 @@
         "definition": "an old British gold coin worth one pound",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "society",
@@ -12752,7 +13045,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "status",
@@ -12835,7 +13129,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "subordinate",
@@ -12858,7 +13153,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "sultan",
@@ -12881,7 +13177,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "stratum",
@@ -12917,7 +13214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "superior",
@@ -12957,7 +13255,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "supremacist",
@@ -12976,7 +13275,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "sociopolitical",
@@ -12990,7 +13290,8 @@
         "definition": "relating to society and politics",
         "examples": []
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "third gender",
@@ -13009,7 +13310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "transgender",
@@ -13036,7 +13338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "the chattering classes",
@@ -13102,7 +13405,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "superior",
@@ -13184,7 +13488,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "transvestism",
@@ -13198,7 +13503,8 @@
         "definition": "the practice, especially by a man, of dressing in clothes usually worn by the opposite sex",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "tribe",
@@ -13244,7 +13550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "toxic masculinity",
@@ -13263,7 +13570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "tsar",
@@ -13295,7 +13603,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "underclass",
@@ -13314,7 +13623,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "upper class",
@@ -13337,7 +13647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "transsexual",
@@ -13351,7 +13662,8 @@
         "definition": "a person whose gender identity does not match the sex they were said to have at birth, especially a person who has a medical treatment such as hormones or surgery to change their body",
         "examples": []
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "tsarina",
@@ -13365,7 +13677,8 @@
         "definition": "the empress of Russia in the past",
         "examples": []
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "town meeting",
@@ -13379,7 +13692,8 @@
         "definition": "a meeting when people in a town come together to discuss problems that affect the town and to give their opinions on various issues",
         "examples": []
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "tzar",
@@ -13397,7 +13711,8 @@
         "definition": "an official whose job is to advise the government on policy in a particular area",
         "examples": []
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "upper middle class",
@@ -13416,7 +13731,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "transvestite",
@@ -13430,7 +13746,8 @@
         "definition": "a person, especially a man, who enjoys dressing in clothes usually worn by the opposite sex",
         "examples": []
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "white",
@@ -13548,7 +13865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "upper class",
@@ -13571,7 +13889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "working class",
@@ -13590,7 +13909,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "white",
@@ -13696,7 +14016,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "zoomer",
@@ -13715,7 +14036,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "white privilege",
@@ -13734,7 +14056,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "trans",
@@ -13765,7 +14088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "woman",
@@ -13925,7 +14249,8 @@
         "definition": "a person with a lot of experience of life, who is not easily surprised or shocked",
         "examples": []
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "woman of colour",
@@ -13944,7 +14269,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "working class",
@@ -13975,6 +14301,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   }
 ]

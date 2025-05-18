@@ -46,7 +46,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "accord with",
@@ -77,7 +78,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "about-turn",
@@ -96,7 +98,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "adversary",
@@ -123,7 +126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "ad hominem",
@@ -142,7 +146,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "a chink in somebody’s armour",
@@ -183,7 +188,8 @@
         "definition": "a weak point in somebody’s argument, character, etc., that can be used in an attack",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "absolutely",
@@ -307,7 +313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "a bone of contention",
@@ -493,7 +500,8 @@
         "definition": "to work very hard",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "account",
@@ -525,7 +533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "affirmatively",
@@ -544,7 +553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "advise",
@@ -677,7 +687,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "affirmative",
@@ -700,7 +711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "advocate",
@@ -739,7 +751,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "again",
@@ -890,7 +903,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "agnostic",
@@ -922,7 +936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "agree",
@@ -1108,7 +1123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "ah",
@@ -1139,7 +1155,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "advice",
@@ -1214,7 +1231,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "all right",
@@ -1269,7 +1287,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "alright",
@@ -1324,7 +1343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "air",
@@ -1390,7 +1410,8 @@
         "definition": "to discuss your personal affairs in public, especially something embarrassing",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "a link in the chain",
@@ -1536,7 +1557,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "affirmative",
@@ -1564,7 +1586,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "against",
@@ -1719,7 +1742,8 @@
         "definition": "you are unlikely to succeed because the conditions are not good for you",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "align yourself with",
@@ -1742,7 +1766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "altercation",
@@ -1761,7 +1786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "all hell broke loose",
@@ -2105,7 +2131,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "aporia",
@@ -2119,7 +2146,8 @@
         "definition": "a situation in which two or more parts of a theory or argument do not agree, meaning that the theory or argument cannot be true",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "answer for",
@@ -2164,7 +2192,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "a moot point/question",
@@ -2192,7 +2221,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "anyway",
@@ -2274,7 +2304,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "anodyne",
@@ -2288,7 +2319,8 @@
         "definition": "unlikely to offend anyone or cause them to disagree; not expressing strong opinions",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "apologia",
@@ -2307,7 +2339,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "ammunition",
@@ -2347,7 +2380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "airing",
@@ -2383,7 +2417,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "approve",
@@ -2472,7 +2507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "argue",
@@ -2565,7 +2601,8 @@
         "definition": "to continue to disagree about a decision, especially when it is too late to change it or it is not very important",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "argue the toss",
@@ -2658,7 +2695,8 @@
         "definition": "to continue to disagree about a decision, especially when it is too late to change it or it is not very important",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "arguably",
@@ -2677,7 +2715,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "anti",
@@ -2696,7 +2735,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "appraise",
@@ -2745,7 +2785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "approbation",
@@ -2768,7 +2809,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "arguable",
@@ -2800,7 +2842,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "argue with",
@@ -2823,7 +2866,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "argumentative",
@@ -2842,7 +2886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "argument",
@@ -2927,7 +2972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "approval rating",
@@ -2946,7 +2992,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "a man/woman after your own heart",
@@ -3590,7 +3637,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "assent",
@@ -3625,7 +3673,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "as a matter of fact",
@@ -3980,7 +4029,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "assent",
@@ -3999,7 +4049,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "assertive",
@@ -4022,7 +4073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "assertively",
@@ -4036,7 +4088,8 @@
         "definition": "in a strong and confident way, so that people take notice of what you think or want",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "assertion",
@@ -4072,7 +4125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "argumentation",
@@ -4086,7 +4140,8 @@
         "definition": "logical arguments used to support a theory, an action or an idea",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "assert",
@@ -4156,7 +4211,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "argy-bargy",
@@ -4170,7 +4226,8 @@
         "definition": "noisy argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "as/so far as somebody/something is concerned",
@@ -4636,7 +4693,8 @@
         "definition": "used to comment on something that was almost successful but in fact failed",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "associate",
@@ -4689,7 +4747,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "assessment",
@@ -4755,7 +4814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "approval",
@@ -4839,7 +4899,8 @@
         "definition": "if you buy goods or if goods are sold on approval, you can use them for a time without paying, until you decide if you want to buy them or not",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "a rod/stick to beat somebody with",
@@ -5204,7 +5265,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "as/so far as I am concerned",
@@ -5670,7 +5732,8 @@
         "definition": "used to comment on something that was almost successful but in fact failed",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "assess",
@@ -5738,7 +5801,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "attitude",
@@ -5828,7 +5892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "avow",
@@ -5847,7 +5912,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "at loggerheads (with somebody) (over something)",
@@ -5866,7 +5932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "avowal",
@@ -5885,7 +5952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "at variance (with somebody/something)",
@@ -5921,7 +5989,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "at best",
@@ -6125,7 +6194,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "avowed",
@@ -6148,7 +6218,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "backtrack",
@@ -6171,7 +6242,8 @@
         "definition": "to change an earlier statement, opinion or promise because of pressure from somebody/something",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "back-pedal",
@@ -6194,7 +6266,8 @@
         "definition": "to pedal backwards on a bicycle; to walk or run backwards",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "barney",
@@ -6208,7 +6281,8 @@
         "definition": "an argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "athwart",
@@ -6236,7 +6310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "balls",
@@ -6285,7 +6360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "bad/ill feeling",
@@ -6552,7 +6628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "bandy words (with somebody)",
@@ -6566,7 +6643,8 @@
         "definition": "to argue with somebody or speak rudely to them",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "a war of words",
@@ -6722,7 +6800,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "battleground",
@@ -6749,7 +6828,8 @@
         "definition": "a place where a battle is being fought or has been fought",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "be asking for trouble",
@@ -7065,7 +7145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "be at odds (with somebody) (over/on something)",
@@ -7186,7 +7267,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "bang/knock your/their heads together",
@@ -7987,7 +8069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "at the same time",
@@ -9247,7 +9330,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "battle",
@@ -9417,7 +9501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "belabour the point",
@@ -9436,7 +9521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "be at each other’s throats",
@@ -9530,7 +9616,8 @@
         "definition": "to be difficult or impossible to accept; to make you angry",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "be in/out of tune (with somebody/something)",
@@ -9642,7 +9729,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "belief",
@@ -9754,7 +9842,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "bellicosity",
@@ -9768,7 +9857,8 @@
         "definition": "the fact of having or showing the desire to argue or fight",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "bellicose",
@@ -9782,7 +9872,8 @@
         "definition": "having or showing a desire to argue or fight",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "badly",
@@ -9895,7 +9986,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "be in a minority of one",
@@ -9997,7 +10089,8 @@
         "definition": "to be the only person to have a particular opinion or to vote a particular way",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "be having a moment",
@@ -10335,7 +10428,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "believe",
@@ -10579,7 +10673,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "bet",
@@ -10705,7 +10800,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "be of the opinion that…",
@@ -10857,7 +10953,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "be on a collision course (with somebody/something)",
@@ -10927,7 +11024,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "basically",
@@ -10983,7 +11081,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "biased",
@@ -11031,7 +11130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "bet",
@@ -11131,7 +11231,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "bias",
@@ -11175,7 +11276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "be of one/the same mind (about somebody/something)",
@@ -11801,7 +11903,8 @@
         "definition": "a particular way of thinking about things",
         "examples": []
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "be on firm/solid ground",
@@ -12334,7 +12437,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "bite your tongue",
@@ -12468,7 +12572,8 @@
         "definition": "after an unpleasant experience you are careful to avoid something similar",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "be on somebody’s side",
@@ -13208,7 +13313,8 @@
         "definition": "used to talk about two ways of looking at the same situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "bollocks",
@@ -13240,7 +13346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "bias",
@@ -13310,7 +13417,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "budge",
@@ -13358,7 +13466,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "be worlds apart",
@@ -13942,7 +14051,8 @@
         "definition": "a situation in which you have all the possible disadvantages at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "bicker",
@@ -13965,7 +14075,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "blow hot and cold (about something)",
@@ -14334,7 +14445,8 @@
         "definition": "to get an idea of what is likely to happen before deciding what to do",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "bolshie",
@@ -14353,7 +14465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "bust-up",
@@ -14381,7 +14494,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "bust up",
@@ -14409,7 +14523,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "bickering",
@@ -14428,7 +14543,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "calculate",
@@ -14504,7 +14620,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "but",
@@ -14527,7 +14644,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "by extension",
@@ -14671,7 +14789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "carry on",
@@ -14729,7 +14848,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "bumptious",
@@ -14743,7 +14863,8 @@
         "definition": "showing that you think that you are very important; often giving your opinions in a loud, confident and annoying way",
         "examples": []
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "bunfight",
@@ -14761,7 +14882,8 @@
         "definition": "an angry argument or discussion",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "calculation",
@@ -14806,7 +14928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "challenging",
@@ -14842,7 +14965,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "change your/somebody’s mind",
@@ -15187,7 +15311,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "chameleon",
@@ -15205,7 +15330,8 @@
         "definition": "a person who changes their behaviour or opinions according to the situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "but",
@@ -15339,7 +15465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "can’t be bad",
@@ -15628,7 +15755,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "case",
@@ -15991,7 +16119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "casuistry",
@@ -16005,7 +16134,8 @@
         "definition": "a way of solving moral or legal problems by using clever arguments that may be false",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "call a spade a spade",
@@ -16467,7 +16597,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "be set in your ways",
@@ -17981,7 +18112,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "carry",
@@ -18300,7 +18432,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "check",
@@ -18319,7 +18452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "change your tune",
@@ -18664,7 +18798,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "claim",
@@ -18798,7 +18933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "clash",
@@ -18878,7 +19014,8 @@
         "definition": "the situation when two colours, designs, etc. look ugly when they are put together",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "climb down",
@@ -18897,7 +19034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "circularity",
@@ -18916,7 +19054,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "circular",
@@ -18964,7 +19103,8 @@
         "definition": "sent to a large number of people",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "climbdown",
@@ -18983,7 +19123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "chime with",
@@ -19002,7 +19143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "come around",
@@ -19048,7 +19190,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "combative",
@@ -19071,7 +19214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "claim",
@@ -19200,7 +19344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "clincher",
@@ -19223,7 +19368,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "clash",
@@ -19327,7 +19473,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "come out",
@@ -19461,7 +19608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "come over",
@@ -19531,7 +19679,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "collision",
@@ -19601,7 +19750,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "collide",
@@ -19641,7 +19791,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "come round",
@@ -19687,7 +19838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "comment",
@@ -19738,7 +19890,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "comment",
@@ -19823,7 +19976,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "commit",
@@ -19962,7 +20116,8 @@
         "definition": "to write something down",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "compliant",
@@ -19994,7 +20149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "concede",
@@ -20067,7 +20223,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "come off it",
@@ -20086,7 +20243,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "confer",
@@ -20114,7 +20272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "concurrence",
@@ -20142,7 +20301,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "conformable",
@@ -20165,7 +20325,8 @@
         "definition": "willing to obey rules or behave and think in the same way as other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "conform",
@@ -20214,7 +20375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "concur",
@@ -20245,7 +20407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "come out on top",
@@ -20673,7 +20836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "conformity",
@@ -20705,7 +20869,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "confute",
@@ -20719,7 +20884,8 @@
         "definition": "to prove a person or an argument to be wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "conformability",
@@ -20733,7 +20899,8 @@
         "definition": "the fact of being able or willing to agree with, match or obey something",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "conflict",
@@ -20859,7 +21026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "confrontation",
@@ -20882,7 +21050,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "conjecture",
@@ -20917,7 +21086,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "consciousness",
@@ -20966,7 +21136,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "consensus",
@@ -21013,7 +21184,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "confrontational",
@@ -21036,7 +21208,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "consistency",
@@ -21072,7 +21245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "conformance",
@@ -21091,7 +21265,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "consistent",
@@ -21181,7 +21356,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "consonance",
@@ -21204,7 +21380,8 @@
         "definition": "a combination of musical notes that sound pleasant together",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "consistently",
@@ -21245,7 +21422,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "contradict",
@@ -21285,7 +21463,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "contentious",
@@ -21325,7 +21504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "conjecture",
@@ -21353,7 +21533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "contend",
@@ -21381,7 +21562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "consonant",
@@ -21400,7 +21582,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "contradiction",
@@ -21453,7 +21636,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "contretemps",
@@ -21472,7 +21656,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "contention",
@@ -21539,7 +21724,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "controversial",
@@ -21570,7 +21756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "controversy",
@@ -21601,7 +21788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "convert",
@@ -21720,7 +21908,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "controversially",
@@ -21739,7 +21928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "contradictory",
@@ -21762,7 +21952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "counterargument",
@@ -21781,7 +21972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "convert",
@@ -21808,7 +22000,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "conviction",
@@ -21878,7 +22071,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "counter-attack",
@@ -21901,7 +22095,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "cool",
@@ -22133,7 +22328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "counter-attack",
@@ -22147,7 +22343,8 @@
         "definition": "to make an attack in response to the attack of an enemy or opponent in war, sport or an argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "corollary",
@@ -22166,7 +22363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "count",
@@ -22305,7 +22503,8 @@
         "definition": "in a deep sleep",
         "examples": []
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "contrarian",
@@ -22324,7 +22523,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "counterexample",
@@ -22343,7 +22543,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "credible",
@@ -22375,7 +22576,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "criticize",
@@ -22435,7 +22637,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "criticism",
@@ -22531,7 +22734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "critique",
@@ -22550,7 +22754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "deadlock",
@@ -22581,7 +22786,8 @@
         "definition": "a type of lock on a door that needs a key to open or close it",
         "examples": []
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "debatable",
@@ -22604,7 +22810,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "current",
@@ -22674,7 +22881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "debate",
@@ -22754,7 +22962,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "critique",
@@ -22777,7 +22986,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "deadlocked",
@@ -22796,7 +23006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "critic",
@@ -22840,7 +23051,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "declamatory",
@@ -22854,7 +23066,8 @@
         "definition": "expressing feelings or opinions in a strong way in a speech or a piece of writing",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "cross swords (with somebody)",
@@ -23093,7 +23306,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "declamation",
@@ -23116,7 +23330,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "decided",
@@ -23156,7 +23371,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "deep",
@@ -23435,7 +23651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "debate",
@@ -23491,7 +23708,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "defend",
@@ -23635,7 +23853,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "deep-dyed",
@@ -23654,7 +23873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "defense",
@@ -23800,7 +24020,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "deduce",
@@ -23823,7 +24044,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "defence",
@@ -23991,7 +24213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "deem",
@@ -24030,7 +24253,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "deplatform",
@@ -24049,7 +24273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "devil’s advocate",
@@ -24068,7 +24293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "dialectic",
@@ -24086,7 +24312,8 @@
         "definition": "the way in which two aspects of a situation affect each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "delude",
@@ -24117,7 +24344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "delusion",
@@ -24161,7 +24389,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "dicker",
@@ -24175,7 +24404,8 @@
         "definition": "to argue about or discuss something with somebody, especially in order to agree on a price",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "defensible",
@@ -24206,7 +24436,8 @@
         "definition": "able to be defended from an attack",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "dialectical",
@@ -24234,7 +24465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "ding-dong",
@@ -24262,7 +24494,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "disagreement",
@@ -24322,7 +24555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "disagree",
@@ -24419,7 +24653,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "discord",
@@ -24450,7 +24685,8 @@
         "definition": "a combination of musical notes that do not sound pleasant together",
         "examples": []
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "difference",
@@ -24664,7 +24900,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "differ",
@@ -24734,7 +24971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "discordant",
@@ -24761,7 +24999,8 @@
         "definition": "not sounding pleasant together",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "different",
@@ -24924,7 +25163,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "disassociate",
@@ -24938,7 +25178,8 @@
         "definition": "to say or do something to show that you are not connected with or do not support somebody/something; to make it clear that something is not connected with a particular plan, action, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "demur",
@@ -24957,7 +25198,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "disposed",
@@ -24993,7 +25235,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "disharmony",
@@ -25016,7 +25259,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "discussion",
@@ -25100,7 +25344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "dispute",
@@ -25147,7 +25392,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "disputation",
@@ -25161,7 +25407,8 @@
         "definition": "a discussion about something that people cannot agree on",
         "examples": []
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "dissension",
@@ -25188,7 +25435,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "discuss",
@@ -25256,7 +25504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "dispute",
@@ -25321,7 +25570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "disputable",
@@ -25335,7 +25585,8 @@
         "definition": "that can or should be questioned or argued about",
         "examples": []
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "dissenter",
@@ -25354,7 +25605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "dissent",
@@ -25394,7 +25646,8 @@
         "definition": "a judge’s statement giving reasons why they disagree with a decision made by the other judges in a court case",
         "examples": []
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "dissent",
@@ -25413,7 +25666,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "dissenting",
@@ -25436,7 +25690,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "dissociate",
@@ -25468,7 +25723,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "dissidence",
@@ -25482,7 +25738,8 @@
         "definition": "the act of strongly disagreeing with and criticizing your government, especially in a country where this kind of action is dangerous",
         "examples": []
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "dissonance",
@@ -25500,7 +25757,8 @@
         "definition": "lack of agreement",
         "examples": []
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "disunity",
@@ -25523,7 +25781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "dissident",
@@ -25550,7 +25809,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "dissociation",
@@ -25578,7 +25838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "dissident",
@@ -25597,7 +25858,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "disunite",
@@ -25616,7 +25878,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "dissonant",
@@ -25648,7 +25911,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "divergent",
@@ -25680,7 +25944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "divergence",
@@ -25725,7 +25990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "diverge",
@@ -25786,7 +26052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "divided",
@@ -25813,7 +26080,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "divide",
@@ -26019,7 +26287,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "divisive",
@@ -26038,7 +26307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "divisively",
@@ -26052,7 +26322,8 @@
         "definition": "in a way that causes people to be split into groups that disagree with or oppose each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "dogmatic",
@@ -26079,7 +26350,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "division",
@@ -26278,7 +26550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "divisiveness",
@@ -26297,7 +26570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "divide and rule",
@@ -26503,7 +26777,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "dogma",
@@ -26526,7 +26801,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "do battle (with somebody) (over something)",
@@ -26696,7 +26972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "dogmatically",
@@ -26715,7 +26992,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "don’t-know",
@@ -26738,7 +27016,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "don’t judge a book by its cover",
@@ -26865,7 +27144,8 @@
         "definition": "used to say that you should not form an opinion about somebody/something from their appearance only",
         "examples": []
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "downvote",
@@ -26884,7 +27164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "doublethink",
@@ -26898,7 +27179,8 @@
         "definition": "the act of holding two opposite opinions or beliefs at the same time; the ability to do this",
         "examples": []
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "dust-up",
@@ -26912,7 +27194,8 @@
         "definition": "an argument or a fight",
         "examples": []
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "downvote",
@@ -26935,7 +27218,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "dyed in the wool",
@@ -26954,7 +27238,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "echo",
@@ -27007,7 +27292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "echo",
@@ -27073,7 +27359,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "duke it out",
@@ -27087,7 +27374,8 @@
         "definition": "to fight or argue until an argument has been settled",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "editorial",
@@ -27122,7 +27410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "editorialize",
@@ -27150,7 +27439,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "eloquent",
@@ -27178,7 +27468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "eloquently",
@@ -27206,7 +27497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "eloquence",
@@ -27234,7 +27526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "esteem",
@@ -27261,7 +27554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "embroil",
@@ -27284,7 +27578,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "estimate",
@@ -27335,7 +27630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "estimate",
@@ -27411,7 +27707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "evaluation",
@@ -27438,7 +27735,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "evaluative",
@@ -27457,7 +27755,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "esteem",
@@ -27501,7 +27800,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "estimation",
@@ -27541,7 +27841,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "evaluate",
@@ -27580,7 +27881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "evangelical",
@@ -27608,7 +27910,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "exactly",
@@ -27703,7 +28006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "evangelicalism",
@@ -27726,7 +28030,8 @@
         "definition": "actions or words that you use to try to persuade people to accept views or opinions that you strongly believe are correct",
         "examples": []
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "expostulate",
@@ -27740,7 +28045,8 @@
         "definition": "to argue, disagree or protest about something",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "expostulation",
@@ -27754,7 +28060,8 @@
         "definition": "the act of arguing, disagreeing or protesting about something; a remark or statement in which somebody argues, disagrees or protests about something",
         "examples": []
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "examine",
@@ -27852,7 +28159,8 @@
         "definition": "to be crazy",
         "examples": []
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "excuse me",
@@ -28012,7 +28320,8 @@
         "definition": "used when you did not hear what somebody said and you want them to repeat it",
         "examples": []
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "exponent",
@@ -28052,7 +28361,8 @@
         "definition": "a raised figure or symbol that shows how many times a quantity must be multiplied by itself, for example the figure 4 in a4",
         "examples": []
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "evidence",
@@ -28158,7 +28468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "examination",
@@ -28255,7 +28566,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "exchange",
@@ -28358,7 +28670,8 @@
         "definition": "a place where phone calls are connected so that people can speak to each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "express",
@@ -28466,7 +28779,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "expression",
@@ -28588,7 +28902,8 @@
         "definition": "a group of signs that represent an idea or a quantity",
         "examples": []
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "extrapolate",
@@ -28619,7 +28934,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "face-off",
@@ -28646,7 +28962,8 @@
         "definition": "the way of starting play in a game of ice hockey",
         "examples": []
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "faction",
@@ -28678,7 +28995,8 @@
         "definition": "films, books, etc. that combine fact with fiction (= imaginary events)",
         "examples": []
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "face off",
@@ -28706,7 +29024,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "fall out",
@@ -28737,7 +29056,8 @@
         "definition": "to have an argument with somebody so that you are no longer friendly with them",
         "examples": []
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "extrapolation",
@@ -28756,7 +29076,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "fall in with",
@@ -28784,7 +29105,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "falling-out",
@@ -28803,7 +29125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "favourability",
@@ -28831,7 +29154,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "favourable",
@@ -28931,7 +29255,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "feed back",
@@ -28959,7 +29284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "far be it from me to do something (but…)",
@@ -29425,7 +29751,8 @@
         "definition": "used to comment on something that was almost successful but in fact failed",
         "examples": []
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "favourably",
@@ -29457,7 +29784,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "feisty",
@@ -29476,7 +29804,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "feud",
@@ -29499,7 +29828,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "fiddlesticks",
@@ -29513,7 +29843,8 @@
         "definition": "used to say that you disagree with somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "feel",
@@ -30083,7 +30414,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "feuding",
@@ -30102,7 +30434,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "feud",
@@ -30133,7 +30466,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "feeling",
@@ -30400,7 +30734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "fight it out",
@@ -30427,7 +30762,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "fighting",
@@ -30524,7 +30860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "fight",
@@ -30869,7 +31206,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "fight out",
@@ -30896,7 +31234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "fist bump",
@@ -30915,7 +31254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "fist-bump",
@@ -30934,7 +31274,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "fight fire with fire",
@@ -31279,7 +31620,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "find",
@@ -31671,7 +32013,8 @@
         "definition": "to accept somebody as they are without expecting them to behave in a special way or have special qualities",
         "examples": []
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "flap",
@@ -31758,7 +32101,8 @@
         "definition": "a speech sound that is produced by striking the tongue quickly and lightly against the part of the mouth behind the upper front teeth",
         "examples": []
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "flatten",
@@ -31850,7 +32194,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "fight",
@@ -32030,7 +32375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "fight your own battles",
@@ -32375,7 +32721,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "find your voice/tongue",
@@ -32767,7 +33114,8 @@
         "definition": "to accept somebody as they are without expecting them to behave in a special way or have special qualities",
         "examples": []
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "fit",
@@ -32980,7 +33328,8 @@
         "definition": "if you feel that a remark applies to you, you should accept it and take it as a warning or criticism",
         "examples": []
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "flat",
@@ -33226,7 +33575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "flatter",
@@ -33301,7 +33651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "flesh out",
@@ -33324,7 +33675,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "forcefulness",
@@ -33352,7 +33704,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "forceful",
@@ -33393,7 +33746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "flip-flopper",
@@ -33416,7 +33770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "flip-flop",
@@ -33435,7 +33790,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "force/thrust/ram something down somebody’s throat",
@@ -33529,7 +33885,8 @@
         "definition": "to be difficult or impossible to accept; to make you angry",
         "examples": []
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "football",
@@ -33619,7 +33976,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "for a start",
@@ -33812,7 +34170,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "for that matter",
@@ -34167,7 +34526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "for starters",
@@ -34268,7 +34628,8 @@
         "definition": "waiting for a signal to start a race",
         "examples": []
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "for what it’s worth",
@@ -34450,7 +34811,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "fracas",
@@ -34469,7 +34831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "forum",
@@ -34509,7 +34872,8 @@
         "definition": "(in ancient Rome) a public place where meetings were held",
         "examples": []
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "for my money",
@@ -34858,7 +35222,8 @@
         "definition": "used for saying that there is very little difference between two or more things that you can choose",
         "examples": []
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "fray",
@@ -34885,7 +35250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "free-for-all",
@@ -34917,7 +35283,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "frenemy",
@@ -34936,7 +35303,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "freethinker",
@@ -34950,7 +35318,8 @@
         "definition": "a person who forms their own ideas and opinions rather than accepting those of other people, especially in religious teaching",
         "examples": []
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "freethinking",
@@ -34964,7 +35333,8 @@
         "definition": "forming your own ideas and opinions rather than accepting those of other people, especially in religious teaching",
         "examples": []
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "friction",
@@ -35009,7 +35379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "gainsay",
@@ -35032,7 +35403,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "furthermore",
@@ -35051,7 +35423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "get/be on your soapbox",
@@ -35078,7 +35451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "Gallup poll™",
@@ -35092,7 +35466,8 @@
         "definition": "a way of finding out public opinion by asking a typical group of people questions",
         "examples": []
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "gag",
@@ -35146,7 +35521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "gag",
@@ -35208,7 +35584,8 @@
         "definition": "to want very much to have sex",
         "examples": []
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "gap",
@@ -35314,7 +35691,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "get above yourself",
@@ -35328,7 +35706,8 @@
         "definition": "to have too high an opinion of yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "generalize",
@@ -35373,7 +35752,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "give somebody/something the nod",
@@ -35452,7 +35832,8 @@
         "definition": "if a proposal is accepted on the nod, it is accepted without any discussion",
         "examples": []
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "go by",
@@ -35501,7 +35882,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "good name",
@@ -35528,7 +35910,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "go-around",
@@ -35546,7 +35929,8 @@
         "definition": "an argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "go against",
@@ -35587,7 +35971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "given that",
@@ -35606,7 +35991,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "go on",
@@ -35769,7 +36155,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "get/take/have the measure of somebody/something",
@@ -36024,7 +36411,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "give voice to something",
@@ -36241,7 +36629,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "go-round",
@@ -36259,7 +36648,8 @@
         "definition": "an argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "go, swim, etc. with/against the tide",
@@ -36359,7 +36749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "(give somebody) a fair hearing",
@@ -36696,7 +37087,8 @@
         "definition": "used by somebody who is caught doing something wrong, to say that they admit that they are wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "gridlock",
@@ -36732,7 +37124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "hair-splitting",
@@ -36750,7 +37143,8 @@
         "definition": "to pay too much attention in an argument to differences that are very small and not important",
         "examples": []
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "go to the mat (with somebody) (for somebody/something)",
@@ -36807,7 +37201,8 @@
         "definition": "to get involved in an argument with somebody/something",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "haggle",
@@ -36838,7 +37233,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "happen",
@@ -37025,7 +37421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "guess",
@@ -37124,7 +37521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "hammer and tongs",
@@ -37189,7 +37587,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "harmonious",
@@ -37221,7 +37620,8 @@
         "definition": "very pleasant when played or sung together",
         "examples": []
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "go to law",
@@ -37546,7 +37946,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "guess",
@@ -37657,7 +38058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "great minds think alike",
@@ -38110,7 +38512,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "harmoniously",
@@ -38147,7 +38550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "harrumph",
@@ -38161,7 +38565,8 @@
         "definition": "a way of showing that you disagree with or disapprove of somebody/something, especially by making a sound in your throat like a cough",
         "examples": []
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "harrumph",
@@ -38175,7 +38580,8 @@
         "definition": "to show that you disagree with or disapprove of somebody/something, especially by making a sound in your throat like a cough",
         "examples": []
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "hassle",
@@ -38215,7 +38621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "harmony",
@@ -38272,7 +38679,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "have a problem with something/somebody",
@@ -38454,7 +38862,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "have a good, bad, high, low, etc. opinion of somebody/something",
@@ -38606,7 +39015,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "have out",
@@ -38634,7 +39044,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "have second thoughts",
@@ -38909,7 +39320,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "head-to-head",
@@ -38928,7 +39340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "head-to-head",
@@ -38951,7 +39364,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "hear! hear!",
@@ -39234,7 +39648,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "have/exchange words (with somebody) (about something)",
@@ -39769,7 +40184,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "heresy",
@@ -39801,7 +40217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "hedge your bets",
@@ -39863,7 +40280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "heretical",
@@ -39891,7 +40309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "heterodox",
@@ -39905,7 +40324,8 @@
         "definition": "not following the usual or accepted beliefs and opinions",
         "examples": []
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "hearing",
@@ -39996,7 +40416,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "heterodoxy",
@@ -40010,7 +40431,8 @@
         "definition": "the fact of not following the usual or accepted beliefs and opinions; an opinion or belief that is different from usual",
         "examples": []
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "hogwash",
@@ -40029,7 +40451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "high ground",
@@ -40066,7 +40489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "hokum",
@@ -40089,7 +40513,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "hold against",
@@ -40108,7 +40533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "have a mind of your own",
@@ -40734,7 +41160,8 @@
         "definition": "a particular way of thinking about things",
         "examples": []
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "have a down on somebody/something",
@@ -40787,7 +41214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "having said that",
@@ -41514,7 +41942,8 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "hostile",
@@ -41581,7 +42010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "hold your peace/tongue",
@@ -41723,7 +42153,8 @@
         "definition": "used when somebody is complaining that they have a lot of work to do",
         "examples": []
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "hostility",
@@ -41776,7 +42207,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "hot stuff",
@@ -41822,7 +42254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "hot button",
@@ -41845,7 +42278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "hue",
@@ -41886,7 +42320,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "hunker down",
@@ -41913,7 +42348,8 @@
         "definition": "to refuse to change an opinion, way of behaving, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "how’s that?",
@@ -42111,7 +42547,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "hold",
@@ -42587,7 +43024,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "idea",
@@ -42848,7 +43286,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "I beg to differ",
@@ -43037,7 +43476,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "hold/stand your ground",
@@ -43570,7 +44010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "have it your own way!",
@@ -45084,7 +45525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "I don’t think so",
@@ -45578,7 +46020,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "IMHO",
@@ -45597,7 +46040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "if you ask me",
@@ -45913,7 +46357,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "if",
@@ -46216,7 +46661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "if anything",
@@ -46519,7 +46965,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "ill/bad feeling",
@@ -46639,7 +47086,8 @@
         "definition": "no problem is so bad that it does not bring some advantage to somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "IMO",
@@ -46658,7 +47106,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "impasse",
@@ -46689,7 +47138,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "implicit bias",
@@ -46712,7 +47162,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "in accordance with something",
@@ -46735,7 +47186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "in accord (with something/somebody)",
@@ -46784,7 +47236,8 @@
         "definition": "if people do something with one accord, they do it at the same time, because they agree with each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "impression",
@@ -46933,7 +47386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "if you like",
@@ -47167,7 +47621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "I know",
@@ -47970,7 +48425,8 @@
         "definition": "used to say that you can never be certain about what will happen in the future, especially when you are suggesting that something good might happen",
         "examples": []
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "in (all) honesty",
@@ -48010,7 +48466,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "inclined",
@@ -48080,7 +48537,8 @@
         "definition": "sloping; at an angle",
         "examples": []
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "have",
@@ -48631,7 +49089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "incident",
@@ -48712,7 +49171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "in conformity with something",
@@ -48744,7 +49204,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "incline",
@@ -48797,7 +49258,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "I must say",
@@ -49524,7 +49986,8 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "inconsistent",
@@ -49569,7 +50032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "inconsistently",
@@ -49597,7 +50061,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "incontestable",
@@ -49620,7 +50085,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "incontestably",
@@ -49634,7 +50100,8 @@
         "definition": "in a way that cannot be disagreed with or denied",
         "examples": []
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "incontrovertibly",
@@ -49653,7 +50120,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "incontrovertible",
@@ -49680,7 +50148,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "indisputable",
@@ -49711,7 +50180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "indisputably",
@@ -49730,7 +50200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "infer",
@@ -49766,7 +50237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "in effect",
@@ -50023,7 +50495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "in favour (of somebody/something)",
@@ -50245,7 +50718,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "inference",
@@ -50277,7 +50751,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "infighting",
@@ -50296,7 +50771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "inconsistency",
@@ -50337,7 +50813,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "inflexible",
@@ -50381,7 +50858,8 @@
         "definition": "difficult or impossible to bend",
         "examples": []
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "in keeping (with something)",
@@ -50418,7 +50896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "in opposition to somebody/something",
@@ -50576,7 +51055,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "inflexibility",
@@ -50608,7 +51088,8 @@
         "definition": "the fact that a material is difficult or impossible to bend",
         "examples": []
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "inflexibly",
@@ -50626,7 +51107,8 @@
         "definition": "without being willing to change your opinions, decisions, etc., or the way you do things",
         "examples": []
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "interject",
@@ -50645,7 +51127,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "in my book",
@@ -50899,7 +51382,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "intransigence",
@@ -50918,7 +51402,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "invalidation",
@@ -50946,7 +51431,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "irreconcilable",
@@ -50991,7 +51477,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "invalidate",
@@ -51023,7 +51510,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "intransigent",
@@ -51042,7 +51530,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "in the first, second, etc. place",
@@ -51671,7 +52160,8 @@
         "definition": "to take or accept the status in society that is correct or that you deserve",
         "examples": []
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "invoke",
@@ -51734,7 +52224,8 @@
         "definition": "to make evil appear by using magic",
         "examples": []
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "in the wrong",
@@ -51804,7 +52295,8 @@
         "definition": "used to say that if somebody does something bad to you, the situation will not be improved by doing something bad to them",
         "examples": []
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "in the sight of somebody/in somebody’s sight",
@@ -52210,7 +52702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "(it) sounds like a plan (to me)",
@@ -52363,7 +52856,8 @@
         "definition": "used to agree to a suggestion that you think is good",
         "examples": []
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "issue",
@@ -52558,7 +53052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "in somebody’s eyes",
@@ -53331,7 +53826,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "I’m sorry",
@@ -53532,7 +54028,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "joust",
@@ -53550,7 +54047,8 @@
         "definition": "to argue with somebody, especially as part of a formal or public debate",
         "examples": []
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "joust",
@@ -53578,7 +54076,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "judge",
@@ -53663,7 +54162,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "I’m easy",
@@ -53909,7 +54409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "judge",
@@ -54036,7 +54537,8 @@
         "definition": "used to say that you should not form an opinion about somebody/something from their appearance only",
         "examples": []
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "keystone",
@@ -54059,7 +54561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "leading article",
@@ -54073,7 +54576,8 @@
         "definition": "an important article in a newspaper that expresses the editor's opinion about an item of news or an issue; in the US also a comment on radio or television that expresses the opinion of the station or network",
         "examples": []
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "lean toward",
@@ -54092,7 +54596,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "knock-down-drag-out",
@@ -54106,7 +54611,8 @@
         "definition": "(of a fight or an argument) very aggressive and unpleasant",
         "examples": []
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "lay out",
@@ -54176,7 +54682,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 507
   },
   {
     "word": "judgement",
@@ -54287,7 +54794,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 508
   },
   {
     "word": "lean to",
@@ -54306,7 +54814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 509
   },
   {
     "word": "leaning",
@@ -54329,7 +54838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 510
   },
   {
     "word": "keep your own counsel",
@@ -54394,7 +54904,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 511
   },
   {
     "word": "just",
@@ -54881,7 +55392,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 512
   },
   {
     "word": "lean towards",
@@ -54900,7 +55412,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 513
   },
   {
     "word": "left field",
@@ -54927,7 +55440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 514
   },
   {
     "word": "lend your name to something",
@@ -55073,7 +55587,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 515
   },
   {
     "word": "mainstream",
@@ -55096,7 +55611,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 516
   },
   {
     "word": "make mincemeat of somebody",
@@ -55114,7 +55630,8 @@
         "definition": "to defeat somebody completely in a fight, an argument or a competition",
         "examples": []
       }
-    ]
+    ],
+    "id": 517
   },
   {
     "word": "mainstream",
@@ -55137,7 +55654,8 @@
         "definition": "to include children with special needs in the same class or school as children who do not have special needs",
         "examples": []
       }
-    ]
+    ],
+    "id": 518
   },
   {
     "word": "maintain",
@@ -55211,7 +55729,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 519
   },
   {
     "word": "lock",
@@ -55316,7 +55835,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 520
   },
   {
     "word": "lock horns (with somebody) (over something)",
@@ -55421,7 +55941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 521
   },
   {
     "word": "look for trouble",
@@ -55695,7 +56216,8 @@
         "definition": "if you talk to somebody about your problems and worries, instead of keeping them to yourself, they seem less serious",
         "examples": []
       }
-    ]
+    ],
+    "id": 522
   },
   {
     "word": "mano a mano",
@@ -55714,7 +56236,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 523
   },
   {
     "word": "like",
@@ -55948,7 +56471,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 524
   },
   {
     "word": "mano-a-mano",
@@ -55967,7 +56491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 525
   },
   {
     "word": "maverick",
@@ -55986,7 +56511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 526
   },
   {
     "word": "maverick",
@@ -56009,7 +56535,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 527
   },
   {
     "word": "like",
@@ -56140,7 +56667,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 528
   },
   {
     "word": "make your voice heard",
@@ -56357,7 +56885,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 529
   },
   {
     "word": "match",
@@ -56515,7 +57044,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 530
   },
   {
     "word": "may",
@@ -56634,7 +57164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 531
   },
   {
     "word": "match",
@@ -56764,7 +57295,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 532
   },
   {
     "word": "like",
@@ -56834,7 +57366,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 533
   },
   {
     "word": "maybe",
@@ -56919,7 +57452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 534
   },
   {
     "word": "middle ground",
@@ -56946,7 +57480,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 535
   },
   {
     "word": "misjudge",
@@ -56978,7 +57513,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 536
   },
   {
     "word": "minority report",
@@ -56997,7 +57533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 537
   },
   {
     "word": "misjudgement",
@@ -57025,7 +57562,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 538
   },
   {
     "word": "mistakenly",
@@ -57044,7 +57582,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 539
   },
   {
     "word": "mistake",
@@ -57164,7 +57703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 540
   },
   {
     "word": "mistaken",
@@ -57212,7 +57752,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 541
   },
   {
     "word": "monkey in the middle",
@@ -57230,7 +57771,8 @@
         "definition": "a person who is caught between two people or groups who are fighting or arguing",
         "examples": []
       }
-    ]
+    ],
+    "id": 542
   },
   {
     "word": "misunderstanding",
@@ -57278,7 +57820,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 543
   },
   {
     "word": "moralize",
@@ -57297,7 +57840,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 544
   },
   {
     "word": "mix it (with somebody)",
@@ -57448,7 +57992,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 545
   },
   {
     "word": "moderate",
@@ -57462,7 +58007,8 @@
         "definition": "a person who has opinions, especially about politics, that are not extreme",
         "examples": []
       }
-    ]
+    ],
+    "id": 546
   },
   {
     "word": "moderate",
@@ -57519,7 +58065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 547
   },
   {
     "word": "mold",
@@ -57564,7 +58111,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 548
   },
   {
     "word": "mouthy",
@@ -57583,7 +58131,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 549
   },
   {
     "word": "mould",
@@ -57628,7 +58177,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 550
   },
   {
     "word": "muzzle",
@@ -57656,7 +58206,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 551
   },
   {
     "word": "negative",
@@ -57674,7 +58225,8 @@
         "definition": "to prove that something is not true",
         "examples": []
       }
-    ]
+    ],
+    "id": 552
   },
   {
     "word": "negation",
@@ -57702,7 +58254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 553
   },
   {
     "word": "niggle",
@@ -57742,7 +58295,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 554
   },
   {
     "word": "negative",
@@ -57868,7 +58422,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 555
   },
   {
     "word": "nod",
@@ -57950,7 +58505,8 @@
         "definition": "to only know somebody/something slightly",
         "examples": []
       }
-    ]
+    ],
+    "id": 556
   },
   {
     "word": "non-committal",
@@ -57973,7 +58529,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 557
   },
   {
     "word": "nor",
@@ -58013,7 +58570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 558
   },
   {
     "word": "non-committally",
@@ -58032,7 +58590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 559
   },
   {
     "word": "non-controversial",
@@ -58046,7 +58605,8 @@
         "definition": "not causing, or not likely to cause, people to disagree",
         "examples": []
       }
-    ]
+    ],
+    "id": 560
   },
   {
     "word": "name",
@@ -58496,7 +59056,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 561
   },
   {
     "word": "no kidding",
@@ -58563,7 +59124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 562
   },
   {
     "word": "no hard feelings",
@@ -58986,7 +59548,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 563
   },
   {
     "word": "not likely!",
@@ -59018,7 +59581,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 564
   },
   {
     "word": "objectivity",
@@ -59046,7 +59610,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 565
   },
   {
     "word": "objective",
@@ -59094,7 +59659,8 @@
         "definition": "the objective case is the one which is used for the object of a sentence",
         "examples": []
       }
-    ]
+    ],
+    "id": 566
   },
   {
     "word": "notice",
@@ -59269,7 +59835,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 567
   },
   {
     "word": "no",
@@ -59305,7 +59872,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 568
   },
   {
     "word": "object",
@@ -59353,7 +59921,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 569
   },
   {
     "word": "not hold water",
@@ -59669,7 +60238,8 @@
         "definition": "you can give somebody the opportunity to do something, but you cannot force them to do it if they do not want to",
         "examples": []
       }
-    ]
+    ],
+    "id": 570
   },
   {
     "word": "not half",
@@ -59795,7 +60365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 571
   },
   {
     "word": "OK",
@@ -59845,7 +60416,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 572
   },
   {
     "word": "okey-doke",
@@ -59859,7 +60431,8 @@
         "definition": "used to express agreement",
         "examples": []
       }
-    ]
+    ],
+    "id": 573
   },
   {
     "word": "OK",
@@ -59878,7 +60451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 574
   },
   {
     "word": "opine",
@@ -59901,7 +60475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 575
   },
   {
     "word": "on second thoughts",
@@ -60176,7 +60751,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 576
   },
   {
     "word": "opinionated",
@@ -60195,7 +60771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 577
   },
   {
     "word": "opinion poll",
@@ -60214,7 +60791,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 578
   },
   {
     "word": "(on) the balance of evidence/probability",
@@ -60401,7 +60979,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 579
   },
   {
     "word": "opinion",
@@ -60553,7 +61132,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 580
   },
   {
     "word": "opponent",
@@ -60605,7 +61185,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 581
   },
   {
     "word": "of course",
@@ -61045,7 +61626,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 582
   },
   {
     "word": "opposed",
@@ -61110,7 +61692,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 583
   },
   {
     "word": "oppose",
@@ -61170,7 +61753,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 584
   },
   {
     "word": "oppositional",
@@ -61202,7 +61786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 585
   },
   {
     "word": "opposition",
@@ -61360,7 +61945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 586
   },
   {
     "word": "my way or the highway",
@@ -62874,7 +63460,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 587
   },
   {
     "word": "on the face of it",
@@ -63458,7 +64045,8 @@
         "definition": "to destroy or remove somebody/something completely",
         "examples": []
       }
-    ]
+    ],
+    "id": 588
   },
   {
     "word": "out of keeping (with something)",
@@ -63495,7 +64083,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 589
   },
   {
     "word": "out of kilter",
@@ -63523,7 +64112,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 590
   },
   {
     "word": "out of sync",
@@ -63559,7 +64149,8 @@
         "definition": "not in agreement with somebody/something; not working well with somebody/something",
         "examples": []
       }
-    ]
+    ],
+    "id": 591
   },
   {
     "word": "out of sympathy with somebody/something",
@@ -63641,7 +64232,8 @@
         "definition": "not agreeing with or not wanting to support somebody/something",
         "examples": []
       }
-    ]
+    ],
+    "id": 592
   },
   {
     "word": "not at all",
@@ -63835,7 +64427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 593
   },
   {
     "word": "out of whack",
@@ -63901,7 +64494,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 594
   },
   {
     "word": "overrate",
@@ -63920,7 +64514,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 595
   },
   {
     "word": "pace",
@@ -63939,7 +64534,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 596
   },
   {
     "word": "piggy in the middle",
@@ -63957,7 +64553,8 @@
         "definition": "a person who is caught between two people or groups who are fighting or arguing",
         "examples": []
       }
-    ]
+    ],
+    "id": 597
   },
   {
     "word": "part company (with/from somebody)",
@@ -64069,7 +64666,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 598
   },
   {
     "word": "perhaps",
@@ -64144,7 +64742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 599
   },
   {
     "word": "perception",
@@ -64193,7 +64792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 600
   },
   {
     "word": "personally",
@@ -64293,7 +64893,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 601
   },
   {
     "word": "or what",
@@ -64567,7 +65168,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 602
   },
   {
     "word": "pig-headed",
@@ -64586,7 +65188,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 603
   },
   {
     "word": "pig-headedness",
@@ -64600,7 +65203,8 @@
         "definition": "the fact of being unwilling to change your opinion about something, in a way that other people think is annoying and unreasonable",
         "examples": []
       }
-    ]
+    ],
+    "id": 604
   },
   {
     "word": "of",
@@ -64853,7 +65457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 605
   },
   {
     "word": "pick a fight/quarrel (with somebody)",
@@ -65099,7 +65704,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 606
   },
   {
     "word": "party",
@@ -65227,7 +65833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 607
   },
   {
     "word": "plead",
@@ -65314,7 +65921,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 608
   },
   {
     "word": "platform",
@@ -65431,7 +66039,8 @@
         "definition": "the open part at the back of a double-decker bus where you get on or off",
         "examples": []
       }
-    ]
+    ],
+    "id": 609
   },
   {
     "word": "play along",
@@ -65450,7 +66059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 610
   },
   {
     "word": "play your ace",
@@ -65525,7 +66135,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 611
   },
   {
     "word": "pitch",
@@ -65650,7 +66261,8 @@
         "definition": "to cause somebody’s plans to fail or to destroy their chances of getting something",
         "examples": []
       }
-    ]
+    ],
+    "id": 612
   },
   {
     "word": "point out",
@@ -65698,7 +66310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 613
   },
   {
     "word": "out of hand",
@@ -66719,7 +67332,8 @@
         "definition": "to hold your hands together, and twist and press them together in a way that shows you are anxious or upset, especially when you cannot change the situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 614
   },
   {
     "word": "point of view",
@@ -66763,7 +67377,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 615
   },
   {
     "word": "polarity",
@@ -66791,7 +67406,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 616
   },
   {
     "word": "polarization",
@@ -66828,7 +67444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 617
   },
   {
     "word": "polemic",
@@ -66851,7 +67468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 618
   },
   {
     "word": "polarize",
@@ -66887,7 +67505,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 619
   },
   {
     "word": "point",
@@ -67465,7 +68084,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 620
   },
   {
     "word": "polemical",
@@ -67484,7 +68104,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 621
   },
   {
     "word": "poll",
@@ -67545,7 +68166,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 622
   },
   {
     "word": "posit",
@@ -67572,7 +68194,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 623
   },
   {
     "word": "positively",
@@ -67647,7 +68270,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 624
   },
   {
     "word": "point",
@@ -67810,7 +68434,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 625
   },
   {
     "word": "pontificate",
@@ -67824,7 +68449,8 @@
         "definition": "to give your opinions about something in a way that shows that you think you are right",
         "examples": []
       }
-    ]
+    ],
+    "id": 626
   },
   {
     "word": "positive",
@@ -68048,7 +68674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 627
   },
   {
     "word": "position",
@@ -68268,7 +68895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 628
   },
   {
     "word": "pour/heap scorn on somebody/something",
@@ -68304,7 +68932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 629
   },
   {
     "word": "point taken",
@@ -68882,7 +69511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 630
   },
   {
     "word": "precisely",
@@ -68957,7 +69587,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 631
   },
   {
     "word": "preconception",
@@ -68976,7 +69607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 632
   },
   {
     "word": "prejudice",
@@ -69016,7 +69648,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 633
   },
   {
     "word": "prejudiced",
@@ -69043,7 +69676,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 634
   },
   {
     "word": "prejudice",
@@ -69075,7 +69709,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 635
   },
   {
     "word": "premise",
@@ -69106,7 +69741,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 636
   },
   {
     "word": "prognosis",
@@ -69138,7 +69774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 637
   },
   {
     "word": "prong",
@@ -69174,7 +69811,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 638
   },
   {
     "word": "presupposition",
@@ -69193,7 +69831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 639
   },
   {
     "word": "press something home",
@@ -69460,7 +70099,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 640
   },
   {
     "word": "pronouncement",
@@ -69479,7 +70119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 641
   },
   {
     "word": "pronounce on",
@@ -69506,7 +70147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 642
   },
   {
     "word": "pronounce upon",
@@ -69533,7 +70175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 643
   },
   {
     "word": "proposition",
@@ -69596,7 +70239,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 644
   },
   {
     "word": "prove",
@@ -69764,7 +70408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 645
   },
   {
     "word": "public opinion",
@@ -69783,7 +70428,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 646
   },
   {
     "word": "provocatively",
@@ -69811,7 +70457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 647
   },
   {
     "word": "provocative",
@@ -69851,7 +70498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 648
   },
   {
     "word": "protest",
@@ -69947,7 +70595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 649
   },
   {
     "word": "provoke",
@@ -69991,7 +70640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 650
   },
   {
     "word": "provocation",
@@ -70022,7 +70672,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 651
   },
   {
     "word": "proof",
@@ -70120,7 +70771,8 @@
         "definition": "you can only judge if something is good or bad when you have tried it",
         "examples": []
       }
-    ]
+    ],
+    "id": 652
   },
   {
     "word": "protest",
@@ -70184,7 +70836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 653
   },
   {
     "word": "pugnacious",
@@ -70198,7 +70851,8 @@
         "definition": "having a strong desire to argue or fight with other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 654
   },
   {
     "word": "pugnaciously",
@@ -70212,7 +70866,8 @@
         "definition": "in a way that shows a strong desire to argue or fight with other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 655
   },
   {
     "word": "put in your two pennyworth",
@@ -70230,7 +70885,8 @@
         "definition": "to give your opinion about something, even if other people do not want to hear it",
         "examples": []
       }
-    ]
+    ],
+    "id": 656
   },
   {
     "word": "put/stick your oar in",
@@ -70262,7 +70918,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 657
   },
   {
     "word": "put in your two penn'orth",
@@ -70280,7 +70937,8 @@
         "definition": "to give your opinion about something, even if other people do not want to hear it",
         "examples": []
       }
-    ]
+    ],
+    "id": 658
   },
   {
     "word": "quarrel",
@@ -70345,7 +71003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 659
   },
   {
     "word": "pugnacity",
@@ -70359,7 +71018,8 @@
         "definition": "a strong desire to argue or fight with other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 660
   },
   {
     "word": "quarrel",
@@ -70398,7 +71058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 661
   },
   {
     "word": "pussyfoot",
@@ -70417,7 +71078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 662
   },
   {
     "word": "put in your two cents’ worth",
@@ -70448,7 +71110,8 @@
         "definition": "to give your opinion about something, even if other people do not want to hear it",
         "examples": []
       }
-    ]
+    ],
+    "id": 663
   },
   {
     "word": "quarrelsome",
@@ -70467,7 +71130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 664
   },
   {
     "word": "quarrel with",
@@ -70486,7 +71150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 665
   },
   {
     "word": "ratiocination",
@@ -70500,7 +71165,8 @@
         "definition": "the process of thinking or arguing about something in a logical way",
         "examples": []
       }
-    ]
+    ],
+    "id": 666
   },
   {
     "word": "really",
@@ -70697,7 +71363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 667
   },
   {
     "word": "reappraise",
@@ -70716,7 +71383,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 668
   },
   {
     "word": "ram something 󿿱 home",
@@ -70766,7 +71434,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 669
   },
   {
     "word": "quibble",
@@ -70785,7 +71454,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 670
   },
   {
     "word": "reasoning",
@@ -70808,7 +71478,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 671
   },
   {
     "word": "rather",
@@ -70827,7 +71498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 672
   },
   {
     "word": "quite",
@@ -71038,7 +71710,8 @@
         "definition": "used to show that a person or thing is particularly impressive or unusual in some way",
         "examples": []
       }
-    ]
+    ],
+    "id": 673
   },
   {
     "word": "reason",
@@ -71250,7 +71923,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 674
   },
   {
     "word": "put it to somebody that…",
@@ -71506,7 +72180,8 @@
         "definition": "used to tell somebody to stop just talking about something and actually do it, show it, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 675
   },
   {
     "word": "reassess",
@@ -71525,7 +72200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 676
   },
   {
     "word": "reassessment",
@@ -71548,7 +72224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 677
   },
   {
     "word": "re-evaluate",
@@ -71562,7 +72239,8 @@
         "definition": "to think about something again, especially in order to form a new opinion about it",
         "examples": []
       }
-    ]
+    ],
+    "id": 678
   },
   {
     "word": "re-evaluation",
@@ -71581,7 +72259,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 679
   },
   {
     "word": "reconsideration",
@@ -71600,7 +72279,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 680
   },
   {
     "word": "re-examine",
@@ -71619,7 +72299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 681
   },
   {
     "word": "reconsider",
@@ -71650,7 +72331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 682
   },
   {
     "word": "re-examination",
@@ -71669,7 +72351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 683
   },
   {
     "word": "reckon",
@@ -71786,7 +72469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 684
   },
   {
     "word": "rehearse",
@@ -71838,7 +72522,8 @@
         "definition": "to repeat ideas or opinions that have often been expressed before",
         "examples": []
       }
-    ]
+    ],
+    "id": 685
   },
   {
     "word": "register",
@@ -72006,7 +72691,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 686
   },
   {
     "word": "remark",
@@ -72054,7 +72740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 687
   },
   {
     "word": "remark",
@@ -72101,7 +72788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 688
   },
   {
     "word": "reserved",
@@ -72124,7 +72812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 689
   },
   {
     "word": "repute",
@@ -72151,7 +72840,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 690
   },
   {
     "word": "reputed",
@@ -72178,7 +72868,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 691
   },
   {
     "word": "reputedly",
@@ -72201,7 +72892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 692
   },
   {
     "word": "representation",
@@ -72246,7 +72938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 693
   },
   {
     "word": "resolution",
@@ -72333,7 +73026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 694
   },
   {
     "word": "reserve",
@@ -72454,7 +73148,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 695
   },
   {
     "word": "rep",
@@ -72513,7 +73208,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 696
   },
   {
     "word": "represent",
@@ -72709,7 +73405,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 697
   },
   {
     "word": "reputation",
@@ -72764,7 +73461,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 698
   },
   {
     "word": "respect",
@@ -72825,7 +73523,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 699
   },
   {
     "word": "review",
@@ -72947,7 +73646,8 @@
         "definition": "a ceremony that involves an official inspection of soldiers, etc. by an important visitor",
         "examples": []
       }
-    ]
+    ],
+    "id": 700
   },
   {
     "word": "review",
@@ -73076,7 +73776,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 701
   },
   {
     "word": "reviewer",
@@ -73103,7 +73804,8 @@
         "definition": "a person who examines or considers something carefully, for example to see if any changes need to be made",
         "examples": []
       }
-    ]
+    ],
+    "id": 702
   },
   {
     "word": "right-minded",
@@ -73122,7 +73824,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 703
   },
   {
     "word": "riven",
@@ -73150,7 +73853,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 704
   },
   {
     "word": "rift",
@@ -73186,7 +73890,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 705
   },
   {
     "word": "right-thinking",
@@ -73200,7 +73905,8 @@
         "definition": "having beliefs and opinions that most people approve of",
         "examples": []
       }
-    ]
+    ],
+    "id": 706
   },
   {
     "word": "revise",
@@ -73277,7 +73983,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 707
   },
   {
     "word": "row",
@@ -73326,7 +74033,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 708
   },
   {
     "word": "row",
@@ -73349,7 +74057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 709
   },
   {
     "word": "right-on",
@@ -73368,7 +74077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 710
   },
   {
     "word": "row back",
@@ -73391,7 +74101,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 711
   },
   {
     "word": "ruckus",
@@ -73410,7 +74121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 712
   },
   {
     "word": "rowback",
@@ -73429,7 +74141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 713
   },
   {
     "word": "ructions",
@@ -73452,7 +74165,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 714
   },
   {
     "word": "right",
@@ -73510,7 +74224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 715
   },
   {
     "word": "right",
@@ -73884,7 +74599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 716
   },
   {
     "word": "run-in",
@@ -73907,7 +74623,8 @@
         "definition": "a period of time leading up to an important event; the preparation for this",
         "examples": []
       }
-    ]
+    ],
+    "id": 717
   },
   {
     "word": "scheme",
@@ -73947,7 +74664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 718
   },
   {
     "word": "schism",
@@ -73974,7 +74692,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 719
   },
   {
     "word": "schizophrenic",
@@ -73997,7 +74716,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 720
   },
   {
     "word": "score off",
@@ -74016,7 +74736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 721
   },
   {
     "word": "scene",
@@ -74231,7 +74952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 722
   },
   {
     "word": "scorn",
@@ -74275,7 +74997,8 @@
         "definition": "used to refer to somebody, usually a woman, who has reacted very angrily to something, especially the fact that her husband or partner has been unfaithful",
         "examples": []
       }
-    ]
+    ],
+    "id": 723
   },
   {
     "word": "scorn",
@@ -74311,7 +75034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 724
   },
   {
     "word": "score a point/points (off/against/over somebody)",
@@ -74475,7 +75199,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 725
   },
   {
     "word": "say",
@@ -74511,7 +75236,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 726
   },
   {
     "word": "scrap",
@@ -74598,7 +75324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 727
   },
   {
     "word": "say",
@@ -75325,7 +76052,8 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 728
   },
   {
     "word": "see-saw",
@@ -75348,7 +76076,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 729
   },
   {
     "word": "self-image",
@@ -75367,7 +76096,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 730
   },
   {
     "word": "sentiment",
@@ -75415,7 +76145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 731
   },
   {
     "word": "self-opinionated",
@@ -75429,7 +76160,8 @@
         "definition": "believing that your own opinions are always right and refusing to listen to those of other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 732
   },
   {
     "word": "self-regard",
@@ -75448,7 +76180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 733
   },
   {
     "word": "self-regarding",
@@ -75467,7 +76200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 734
   },
   {
     "word": "set-to",
@@ -75486,7 +76220,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 735
   },
   {
     "word": "shade",
@@ -75628,7 +76363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 736
   },
   {
     "word": "shake",
@@ -75861,7 +76597,8 @@
         "definition": "used to tell somebody to start to do something or to hurry",
         "examples": []
       }
-    ]
+    ],
+    "id": 737
   },
   {
     "word": "shift your ground",
@@ -76011,7 +76748,8 @@
         "definition": "used to describe a situation that changes so often that it is difficult to understand or deal with it",
         "examples": []
       }
-    ]
+    ],
+    "id": 738
   },
   {
     "word": "shift",
@@ -76161,7 +76899,8 @@
         "definition": "used to describe a situation that changes so often that it is difficult to understand or deal with it",
         "examples": []
       }
-    ]
+    ],
+    "id": 739
   },
   {
     "word": "shitstorm",
@@ -76175,7 +76914,8 @@
         "definition": "a situation in which there are a lot of different problems, especially ones that involve people disagreeing and arguing",
         "examples": []
       }
-    ]
+    ],
+    "id": 740
   },
   {
     "word": "shit stirrer",
@@ -76189,7 +76929,8 @@
         "definition": "a person who tries to make situations in which people disagree even worse",
         "examples": []
       }
-    ]
+    ],
+    "id": 741
   },
   {
     "word": "shindy",
@@ -76208,7 +76949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 742
   },
   {
     "word": "see",
@@ -76742,7 +77484,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 743
   },
   {
     "word": "shit stirring",
@@ -76756,7 +77499,8 @@
         "definition": "the activity of trying to make a situation in which people disagree even worse",
         "examples": []
       }
-    ]
+    ],
+    "id": 744
   },
   {
     "word": "shoot down",
@@ -76788,7 +77532,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 745
   },
   {
     "word": "shot",
@@ -77081,7 +77826,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 746
   },
   {
     "word": "should",
@@ -77293,7 +78039,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 747
   },
   {
     "word": "shouting match",
@@ -77316,7 +78063,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 748
   },
   {
     "word": "side with",
@@ -77335,7 +78083,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 749
   },
   {
     "word": "signal",
@@ -77445,7 +78194,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 750
   },
   {
     "word": "showdown",
@@ -77468,7 +78218,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 751
   },
   {
     "word": "shoulder to shoulder (with somebody)",
@@ -77670,7 +78421,8 @@
         "definition": "if you say something straight from the shoulder, you are being very honest and direct, even if what you are saying is critical",
         "examples": []
       }
-    ]
+    ],
+    "id": 752
   },
   {
     "word": "shrewish",
@@ -77684,7 +78436,8 @@
         "definition": "an offensive word to describe an angry unpleasant woman",
         "examples": []
       }
-    ]
+    ],
+    "id": 753
   },
   {
     "word": "signpost",
@@ -77716,7 +78469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 754
   },
   {
     "word": "signposting",
@@ -77744,7 +78498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 755
   },
   {
     "word": "side",
@@ -78484,7 +79239,8 @@
         "definition": "used to talk about two ways of looking at the same situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 756
   },
   {
     "word": "skirmish",
@@ -78516,7 +79272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 757
   },
   {
     "word": "skirmishing",
@@ -78535,7 +79292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 758
   },
   {
     "word": "slanging match",
@@ -78554,7 +79312,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 759
   },
   {
     "word": "skirmish",
@@ -78573,7 +79332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 760
   },
   {
     "word": "size up",
@@ -78596,7 +79356,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 761
   },
   {
     "word": "slant",
@@ -78640,7 +79401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 762
   },
   {
     "word": "slant",
@@ -78672,7 +79434,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 763
   },
   {
     "word": "sing from the same hymn/song sheet",
@@ -78798,7 +79561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 764
   },
   {
     "word": "sing a different tune",
@@ -78924,7 +79688,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 765
   },
   {
     "word": "slugfest",
@@ -78947,7 +79712,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 766
   },
   {
     "word": "slur",
@@ -78983,7 +79749,8 @@
         "definition": "a curved sign used to show that two or more notes are to be played smoothly and without a break",
         "examples": []
       }
-    ]
+    ],
+    "id": 767
   },
   {
     "word": "small-mindedness",
@@ -78997,7 +79764,8 @@
         "definition": "the fact of having fixed opinions and ways of doing things and not being willing to change them or consider other people's opinions or feelings; the fact of being interested in small problems and details and not in things which are really important",
         "examples": []
       }
-    ]
+    ],
+    "id": 768
   },
   {
     "word": "small-minded",
@@ -79011,7 +79779,8 @@
         "definition": "having fixed opinions and ways of doing things and not willing to change them or consider other people’s opinions or feelings; interested in small problems and details and not in things which are really important",
         "examples": []
       }
-    ]
+    ],
+    "id": 769
   },
   {
     "word": "solidarity",
@@ -79038,7 +79807,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 770
   },
   {
     "word": "solidly",
@@ -79087,7 +79857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 771
   },
   {
     "word": "so",
@@ -79439,7 +80210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 772
   },
   {
     "word": "sophist",
@@ -79457,7 +80229,8 @@
         "definition": "a person who uses clever but wrong arguments",
         "examples": []
       }
-    ]
+    ],
+    "id": 773
   },
   {
     "word": "sophistry",
@@ -79485,7 +80258,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 774
   },
   {
     "word": "solid",
@@ -79675,7 +80449,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 775
   },
   {
     "word": "sound off",
@@ -79694,7 +80469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 776
   },
   {
     "word": "somebody isn’t having any (of it)",
@@ -79751,7 +80527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 777
   },
   {
     "word": "some",
@@ -79851,7 +80628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 778
   },
   {
     "word": "somebody’s blood is up",
@@ -80102,7 +80880,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 779
   },
   {
     "word": "sound/strike a note (of something)",
@@ -80369,7 +81148,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 780
   },
   {
     "word": "spar",
@@ -80400,7 +81180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 781
   },
   {
     "word": "spark up",
@@ -80419,7 +81200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 782
   },
   {
     "word": "spat",
@@ -80437,7 +81219,8 @@
         "definition": "a piece of cloth that covers the ankle, worn in the past by men over the shoe and fastened with buttons at the side",
         "examples": []
       }
-    ]
+    ],
+    "id": 783
   },
   {
     "word": "sparring partner",
@@ -80460,7 +81243,8 @@
         "definition": "a person that a boxer regularly practises with",
         "examples": []
       }
-    ]
+    ],
+    "id": 784
   },
   {
     "word": "speak out",
@@ -80487,7 +81271,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 785
   },
   {
     "word": "special pleading",
@@ -80501,7 +81286,8 @@
         "definition": "trying to persuade somebody about something by mentioning only the arguments that support your opinion and ignoring the arguments that do not support it",
         "examples": []
       }
-    ]
+    ],
+    "id": 786
   },
   {
     "word": "speculation",
@@ -80557,7 +81343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 787
   },
   {
     "word": "speculate",
@@ -80597,7 +81384,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 788
   },
   {
     "word": "speak/talk the same language",
@@ -80737,7 +81525,8 @@
         "definition": "to be able to communicate easily with another person because you share similar opinions and experience",
         "examples": []
       }
-    ]
+    ],
+    "id": 789
   },
   {
     "word": "speculative",
@@ -80774,7 +81563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 790
   },
   {
     "word": "speculatively",
@@ -80811,7 +81601,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 791
   },
   {
     "word": "speaking as something",
@@ -81200,7 +81991,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 792
   },
   {
     "word": "split",
@@ -81403,7 +82195,8 @@
         "definition": "to vote for candidates from more than one party",
         "examples": []
       }
-    ]
+    ],
+    "id": 793
   },
   {
     "word": "squabble",
@@ -81430,7 +82223,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 794
   },
   {
     "word": "stake out",
@@ -81462,7 +82256,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 795
   },
   {
     "word": "split",
@@ -81532,7 +82327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 796
   },
   {
     "word": "split hairs",
@@ -81735,7 +82531,8 @@
         "definition": "to vote for candidates from more than one party",
         "examples": []
       }
-    ]
+    ],
+    "id": 797
   },
   {
     "word": "squabble",
@@ -81754,7 +82551,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 798
   },
   {
     "word": "square with",
@@ -81794,7 +82592,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 799
   },
   {
     "word": "somebody can take it or leave it",
@@ -82669,7 +83468,8 @@
         "definition": "used as an exclamation when you are hitting somebody or attacking them in some other way",
         "examples": []
       }
-    ]
+    ],
+    "id": 800
   },
   {
     "word": "square",
@@ -82798,7 +83598,8 @@
         "definition": "a person who does not feel happy or comfortable in a particular situation, or who is not suitable for it",
         "examples": []
       }
-    ]
+    ],
+    "id": 801
   },
   {
     "word": "stalemate",
@@ -82834,7 +83635,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 802
   },
   {
     "word": "stance",
@@ -82870,7 +83672,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 803
   },
   {
     "word": "stand fast/firm",
@@ -83006,7 +83809,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 804
   },
   {
     "word": "stand by",
@@ -83056,7 +83860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 805
   },
   {
     "word": "stand-off",
@@ -83075,7 +83880,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 806
   },
   {
     "word": "standpoint",
@@ -83102,7 +83908,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 807
   },
   {
     "word": "stand-up",
@@ -83155,7 +83962,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 808
   },
   {
     "word": "stand pat",
@@ -83178,7 +83986,8 @@
         "definition": "to refuse to change your mind about a decision you have made or an opinion you have",
         "examples": []
       }
-    ]
+    ],
+    "id": 809
   },
   {
     "word": "statement",
@@ -83306,7 +84115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 810
   },
   {
     "word": "stand",
@@ -83608,7 +84418,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 811
   },
   {
     "word": "stand up and be counted",
@@ -83805,7 +84616,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 812
   },
   {
     "word": "stir up",
@@ -83858,7 +84670,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 813
   },
   {
     "word": "sticking point",
@@ -83877,7 +84690,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 814
   },
   {
     "word": "stand",
@@ -84009,7 +84823,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 815
   },
   {
     "word": "stormy",
@@ -84049,7 +84864,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 816
   },
   {
     "word": "stir",
@@ -84166,7 +84982,8 @@
         "definition": "to begin to move; to hurry",
         "examples": []
       }
-    ]
+    ],
+    "id": 817
   },
   {
     "word": "straw poll",
@@ -84189,7 +85006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 818
   },
   {
     "word": "strife",
@@ -84220,7 +85038,8 @@
         "definition": "trouble or difficulty of any kind",
         "examples": []
       }
-    ]
+    ],
+    "id": 819
   },
   {
     "word": "strong-minded",
@@ -84239,7 +85058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 820
   },
   {
     "word": "stripe",
@@ -84305,7 +85125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 821
   },
   {
     "word": "strongly",
@@ -84424,7 +85245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 822
   },
   {
     "word": "stubbornness",
@@ -84452,7 +85274,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 823
   },
   {
     "word": "struggle",
@@ -84587,7 +85410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 824
   },
   {
     "word": "stubbornly",
@@ -84615,7 +85439,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 825
   },
   {
     "word": "street",
@@ -84767,7 +85592,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 826
   },
   {
     "word": "struggle",
@@ -84856,7 +85682,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 827
   },
   {
     "word": "subjectivity",
@@ -84884,7 +85711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 828
   },
   {
     "word": "stubborn",
@@ -84936,7 +85764,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 829
   },
   {
     "word": "subjective",
@@ -84967,7 +85796,8 @@
         "definition": "the subjective case is the one which is used for the subject of a sentence",
         "examples": []
       }
-    ]
+    ],
+    "id": 830
   },
   {
     "word": "strong",
@@ -85392,7 +86222,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 831
   },
   {
     "word": "subjectively",
@@ -85420,7 +86251,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 832
   },
   {
     "word": "suggest",
@@ -85566,7 +86398,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 833
   },
   {
     "word": "summing-up",
@@ -85584,7 +86417,8 @@
         "definition": "an occasion when somebody states the main points of an argument, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 834
   },
   {
     "word": "sum up",
@@ -85641,7 +86475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 835
   },
   {
     "word": "suggestion",
@@ -85760,7 +86595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 836
   },
   {
     "word": "surely",
@@ -85830,7 +86666,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 837
   },
   {
     "word": "sustain",
@@ -85930,7 +86767,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 838
   },
   {
     "word": "survey",
@@ -86000,7 +86838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 839
   },
   {
     "word": "survey",
@@ -86078,7 +86917,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 840
   },
   {
     "word": "suppose",
@@ -86246,7 +87086,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 841
   },
   {
     "word": "swing",
@@ -86361,7 +87202,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 842
   },
   {
     "word": "support",
@@ -86524,7 +87366,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 843
   },
   {
     "word": "swing",
@@ -86725,7 +87568,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 844
   },
   {
     "word": "sympathetic",
@@ -86794,7 +87638,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 845
   },
   {
     "word": "take a dim view of somebody/something",
@@ -86892,7 +87737,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 846
   },
   {
     "word": "sympathetically",
@@ -86933,7 +87779,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 847
   },
   {
     "word": "take, claim, seize, etc. the moral high ground",
@@ -87040,7 +87887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 848
   },
   {
     "word": "takedown",
@@ -87084,7 +87932,8 @@
         "definition": "an arrest or unexpected visit by the police",
         "examples": []
       }
-    ]
+    ],
+    "id": 849
   },
   {
     "word": "syllogism",
@@ -87098,7 +87947,8 @@
         "definition": "a way of arguing in which two statements are used to prove that a third statement is true, for example: ‘All humans must die; I am a human; therefore I must die.’",
         "examples": []
       }
-    ]
+    ],
+    "id": 850
   },
   {
     "word": "sympathize",
@@ -87130,7 +87980,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 851
   },
   {
     "word": "syndrome",
@@ -87170,7 +88021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 852
   },
   {
     "word": "take issue with somebody (about/on/over something)",
@@ -87365,7 +88217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 853
   },
   {
     "word": "tangle with",
@@ -87384,7 +88237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 854
   },
   {
     "word": "tear apart",
@@ -87434,7 +88288,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 855
   },
   {
     "word": "talking point",
@@ -87462,7 +88317,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 856
   },
   {
     "word": "tangle",
@@ -87498,7 +88354,8 @@
         "definition": "a disagreement or fight",
         "examples": []
       }
-    ]
+    ],
+    "id": 857
   },
   {
     "word": "take something into consideration",
@@ -87626,7 +88483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 858
   },
   {
     "word": "take somebody/something to the mat",
@@ -87683,7 +88541,8 @@
         "definition": "to get involved in an argument with somebody/something",
         "examples": []
       }
-    ]
+    ],
+    "id": 859
   },
   {
     "word": "tendentious",
@@ -87702,7 +88561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 860
   },
   {
     "word": "take sides",
@@ -88442,7 +89302,8 @@
         "definition": "used to talk about two ways of looking at the same situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 861
   },
   {
     "word": "tendentiousness",
@@ -88456,7 +89317,8 @@
         "definition": "the act of expressing a strong opinion in a speech, piece of writing, theory, etc. that people are likely to disagree with",
         "examples": []
       }
-    ]
+    ],
+    "id": 862
   },
   {
     "word": "tendentiously",
@@ -88470,7 +89332,8 @@
         "definition": "in a way that expresses a strong opinion that people are likely to disagree with",
         "examples": []
       }
-    ]
+    ],
+    "id": 863
   },
   {
     "word": "the battle lines are drawn",
@@ -88640,7 +89503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 864
   },
   {
     "word": "the gloves are off",
@@ -88714,7 +89578,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 865
   },
   {
     "word": "theory",
@@ -88816,7 +89681,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 866
   },
   {
     "word": "thesis",
@@ -88848,7 +89714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 867
   },
   {
     "word": "tell me about it",
@@ -89270,7 +90137,8 @@
         "definition": "I completely agree with you",
         "examples": []
       }
-    ]
+    ],
+    "id": 868
   },
   {
     "word": "thinking",
@@ -89322,7 +90190,8 @@
         "definition": "in my opinion",
         "examples": []
       }
-    ]
+    ],
+    "id": 869
   },
   {
     "word": "that makes two of us",
@@ -89486,7 +90355,8 @@
         "definition": "used to talk about two ways of looking at the same situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 870
   },
   {
     "word": "take",
@@ -89535,7 +90405,8 @@
         "definition": "to accept money from somebody for helping them in a dishonest or illegal way",
         "examples": []
       }
-    ]
+    ],
+    "id": 871
   },
   {
     "word": "there",
@@ -89914,7 +90785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 872
   },
   {
     "word": "thorny",
@@ -89950,7 +90822,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 873
   },
   {
     "word": "thoughtcrime",
@@ -89964,7 +90837,8 @@
         "definition": "an idea or opinion that is considered socially unacceptable or criminal",
         "examples": []
       }
-    ]
+    ],
+    "id": 874
   },
   {
     "word": "that said",
@@ -90691,7 +91565,8 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 875
   },
   {
     "word": "thought police",
@@ -90705,7 +91580,8 @@
         "definition": "a group of people who are seen as trying to control people’s ideas and stop them from having their own opinions",
         "examples": []
       }
-    ]
+    ],
+    "id": 876
   },
   {
     "word": "think",
@@ -91199,7 +92075,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 877
   },
   {
     "word": "there’s something, not much, etc. to be said for something/doing something",
@@ -91926,7 +92803,8 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 878
   },
   {
     "word": "take",
@@ -92801,7 +93679,8 @@
         "definition": "used as an exclamation when you are hitting somebody or attacking them in some other way",
         "examples": []
       }
-    ]
+    ],
+    "id": 879
   },
   {
     "word": "thrust",
@@ -92846,7 +93725,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 880
   },
   {
     "word": "think the world, highly, a lot, poorly, little, etc. of somebody/something",
@@ -93340,7 +94220,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 881
   },
   {
     "word": "think for yourself",
@@ -93834,7 +94715,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 882
   },
   {
     "word": "tide",
@@ -93934,7 +94816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 883
   },
   {
     "word": "think (the) better of somebody",
@@ -94428,7 +95311,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 884
   },
   {
     "word": "tie in",
@@ -94456,7 +95340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 885
   },
   {
     "word": "troublemaker",
@@ -94470,7 +95355,8 @@
         "definition": "a person who often causes trouble, especially by involving others in arguments or encouraging them to complain about people in authority",
         "examples": []
       }
-    ]
+    ],
+    "id": 886
   },
   {
     "word": "tiff",
@@ -94497,7 +95383,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 887
   },
   {
     "word": "to beard the lion in his den",
@@ -94511,7 +95398,8 @@
         "definition": "to go to see an important or powerful person to tell them that you disagree with them, that you want something, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 888
   },
   {
     "word": "tub-thumping",
@@ -94530,7 +95418,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 889
   },
   {
     "word": "touché",
@@ -94544,7 +95433,8 @@
         "definition": "used during an argument or a discussion to show that you accept that somebody has answered your comment in a clever way and has gained an advantage by making a good point",
         "examples": []
       }
-    ]
+    ],
+    "id": 890
   },
   {
     "word": "tub-thumping",
@@ -94558,7 +95448,8 @@
         "definition": "the act of giving your opinions about something in a loud and aggressive way",
         "examples": []
       }
-    ]
+    ],
+    "id": 891
   },
   {
     "word": "true",
@@ -94814,7 +95705,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 892
   },
   {
     "word": "to start with",
@@ -95148,7 +96040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 893
   },
   {
     "word": "turbulence",
@@ -95180,7 +96073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 894
   },
   {
     "word": "turbulent",
@@ -95233,7 +96127,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 895
   },
   {
     "word": "turnaround",
@@ -95279,7 +96174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 896
   },
   {
     "word": "turnround",
@@ -95315,7 +96211,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 897
   },
   {
     "word": "tussle",
@@ -95342,7 +96239,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 898
   },
   {
     "word": "turf war",
@@ -95361,7 +96259,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 899
   },
   {
     "word": "tussle",
@@ -95380,7 +96279,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 900
   },
   {
     "word": "to my mind",
@@ -96006,7 +96906,8 @@
         "definition": "a particular way of thinking about things",
         "examples": []
       }
-    ]
+    ],
+    "id": 901
   },
   {
     "word": "unarguable",
@@ -96025,7 +96926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 902
   },
   {
     "word": "unarguably",
@@ -96044,7 +96946,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 903
   },
   {
     "word": "unbridgeable",
@@ -96063,7 +96966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 904
   },
   {
     "word": "unchallengeable",
@@ -96082,7 +96986,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 905
   },
   {
     "word": "unanimity",
@@ -96105,7 +97010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 906
   },
   {
     "word": "unanswerable",
@@ -96128,7 +97034,8 @@
         "definition": "an unanswerable question is one that has no answer or that you cannot answer",
         "examples": []
       }
-    ]
+    ],
+    "id": 907
   },
   {
     "word": "uncommunicative",
@@ -96142,7 +97049,8 @@
         "definition": "not willing to talk to other people or give opinions",
         "examples": []
       }
-    ]
+    ],
+    "id": 908
   },
   {
     "word": "unanimous",
@@ -96194,7 +97102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 909
   },
   {
     "word": "unbending",
@@ -96213,7 +97122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 910
   },
   {
     "word": "to my way of thinking",
@@ -97727,7 +98637,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 911
   },
   {
     "word": "unconscious bias",
@@ -97750,7 +98661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 912
   },
   {
     "word": "uncontested",
@@ -97777,7 +98689,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 913
   },
   {
     "word": "underpin",
@@ -97800,7 +98713,8 @@
         "definition": "to support a wall and make it stronger by putting metal, concrete (= a hard building material), etc. under it",
         "examples": []
       }
-    ]
+    ],
+    "id": 914
   },
   {
     "word": "underpinning",
@@ -97828,7 +98742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 915
   },
   {
     "word": "under protest",
@@ -97924,7 +98839,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 916
   },
   {
     "word": "unequivocal",
@@ -97947,7 +98863,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 917
   },
   {
     "word": "unpleasantness",
@@ -97966,7 +98883,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 918
   },
   {
     "word": "unlike",
@@ -97989,7 +98907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 919
   },
   {
     "word": "unsettled",
@@ -98029,7 +98948,8 @@
         "definition": "not yet paid",
         "examples": []
       }
-    ]
+    ],
+    "id": 920
   },
   {
     "word": "unprejudiced",
@@ -98043,7 +98963,8 @@
         "definition": "not influenced by an unreasonable fear or dislike of something/somebody; willing to consider different ideas and opinions",
         "examples": []
       }
-    ]
+    ],
+    "id": 921
   },
   {
     "word": "unspoken",
@@ -98066,7 +98987,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 922
   },
   {
     "word": "unsympathetically",
@@ -98103,7 +99025,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 923
   },
   {
     "word": "unstated",
@@ -98122,7 +99045,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 924
   },
   {
     "word": "unsympathetic",
@@ -98154,7 +99078,8 @@
         "definition": "not easy to like; unpleasant",
         "examples": []
       }
-    ]
+    ],
+    "id": 925
   },
   {
     "word": "uproar",
@@ -98190,7 +99115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 926
   },
   {
     "word": "upvote",
@@ -98209,7 +99135,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 927
   },
   {
     "word": "upvote",
@@ -98232,7 +99159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 928
   },
   {
     "word": "value judgement",
@@ -98251,7 +99179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 929
   },
   {
     "word": "value-free",
@@ -98265,7 +99194,8 @@
         "definition": "not influenced by personal opinions",
         "examples": []
       }
-    ]
+    ],
+    "id": 930
   },
   {
     "word": "value-laden",
@@ -98284,7 +99214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 931
   },
   {
     "word": "vacillation",
@@ -98303,7 +99234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 932
   },
   {
     "word": "vacillate",
@@ -98322,7 +99254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 933
   },
   {
     "word": "vendetta",
@@ -98349,7 +99282,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 934
   },
   {
     "word": "verdict",
@@ -98389,7 +99323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 935
   },
   {
     "word": "ventilate",
@@ -98420,7 +99355,8 @@
         "definition": "to express your feelings or opinions publicly",
         "examples": []
       }
-    ]
+    ],
+    "id": 936
   },
   {
     "word": "virtue signalling",
@@ -98439,7 +99375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 937
   },
   {
     "word": "vociferous",
@@ -98466,7 +99403,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 938
   },
   {
     "word": "wade in",
@@ -98489,7 +99427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 939
   },
   {
     "word": "vocal",
@@ -98525,7 +99464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 940
   },
   {
     "word": "volte-face",
@@ -98548,7 +99488,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 941
   },
   {
     "word": "vox pop",
@@ -98571,7 +99512,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 942
   },
   {
     "word": "wade into",
@@ -98603,7 +99545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 943
   },
   {
     "word": "voice",
@@ -98630,7 +99573,8 @@
         "definition": "to produce a sound with a movement of your vocal cords as well as your breath",
         "examples": []
       }
-    ]
+    ],
+    "id": 944
   },
   {
     "word": "view",
@@ -98883,7 +99827,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 945
   },
   {
     "word": "voice",
@@ -99100,7 +100045,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 946
   },
   {
     "word": "weak",
@@ -99306,7 +100252,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 947
   },
   {
     "word": "weigh up",
@@ -99325,7 +100272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 948
   },
   {
     "word": "weigh in",
@@ -99361,7 +100309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 949
   },
   {
     "word": "welcome",
@@ -99430,7 +100379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 950
   },
   {
     "word": "whilst",
@@ -99471,7 +100421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 951
   },
   {
     "word": "wilco",
@@ -99485,7 +100436,8 @@
         "definition": "people say Wilco! in communication by radio to show that they agree to do something",
         "examples": []
       }
-    ]
+    ],
+    "id": 952
   },
   {
     "word": "while",
@@ -99551,7 +100503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 953
   },
   {
     "word": "with one accord",
@@ -99600,7 +100553,8 @@
         "definition": "if people do something with one accord, they do it at the same time, because they agree with each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 954
   },
   {
     "word": "wipe/mop the floor with somebody",
@@ -99759,7 +100713,8 @@
         "definition": "to defeat somebody completely in an argument or a competition",
         "examples": []
       }
-    ]
+    ],
+    "id": 955
   },
   {
     "word": "with respect",
@@ -99889,7 +100844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 956
   },
   {
     "word": "with pleasure",
@@ -100041,7 +100997,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 957
   },
   {
     "word": "without/beyond (a) doubt",
@@ -100217,7 +101174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 958
   },
   {
     "word": "well",
@@ -100337,7 +101295,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 959
   },
   {
     "word": "worst",
@@ -100356,7 +101315,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 960
   },
   {
     "word": "with one voice",
@@ -100573,7 +101533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 961
   },
   {
     "word": "well said!",
@@ -101300,7 +102261,8 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 962
   },
   {
     "word": "whatever you say",
@@ -102027,7 +102989,8 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 963
   },
   {
     "word": "who says (…)?",
@@ -102754,7 +103717,8 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 964
   },
   {
     "word": "would",
@@ -102954,7 +103918,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 965
   },
   {
     "word": "write in",
@@ -102981,7 +103946,8 @@
         "definition": "to add an extra name to your voting paper in an election in order to be able to vote for them",
         "examples": []
       }
-    ]
+    ],
+    "id": 966
   },
   {
     "word": "yeah",
@@ -103017,7 +103983,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 967
   },
   {
     "word": "wrangling",
@@ -103036,7 +104003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 968
   },
   {
     "word": "wrangle",
@@ -103063,7 +104031,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 969
   },
   {
     "word": "yeah, right",
@@ -103099,7 +104068,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 970
   },
   {
     "word": "wrangle",
@@ -103122,7 +104092,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 971
   },
   {
     "word": "yessir",
@@ -103141,7 +104112,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 972
   },
   {
     "word": "yes",
@@ -103172,7 +104144,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 973
   },
   {
     "word": "yes",
@@ -103324,7 +104297,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 974
   },
   {
     "word": "you, he, she, etc. started it",
@@ -103658,7 +104632,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 975
   },
   {
     "word": "…my foot!",
@@ -104215,7 +105190,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 976
   },
   {
     "word": "your considered opinion",
@@ -104367,7 +105343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 977
   },
   {
     "word": "you can say that again",
@@ -105094,7 +106071,8 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 978
   },
   {
     "word": "you know something/what?",
@@ -105897,7 +106875,8 @@
         "definition": "used to say that you can never be certain about what will happen in the future, especially when you are suggesting that something good might happen",
         "examples": []
       }
-    ]
+    ],
+    "id": 979
   },
   {
     "word": "you’re telling me!",
@@ -106319,7 +107298,8 @@
         "definition": "I completely agree with you",
         "examples": []
       }
-    ]
+    ],
+    "id": 980
   },
   {
     "word": "you said it!",
@@ -107046,6 +108026,7 @@
         "definition": "used to agree with somebody’s suggestion",
         "examples": []
       }
-    ]
+    ],
+    "id": 981
   }
 ]

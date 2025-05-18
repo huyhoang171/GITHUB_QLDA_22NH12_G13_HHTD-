@@ -11,7 +11,8 @@
         "definition": "a strong alcoholic drink made from eggs, sugar and brandy",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "almond milk",
@@ -30,7 +31,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "alcopop",
@@ -44,7 +46,8 @@
         "definition": "a sweet fizzy (= with bubbles) drink that contains alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "absinthe",
@@ -58,7 +61,8 @@
         "definition": "a very strong green alcoholic drink that tastes of aniseed",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "barley water",
@@ -77,7 +81,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "aperitif",
@@ -100,7 +105,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "alcoholic",
@@ -141,7 +147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "ale",
@@ -173,7 +180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "alcohol",
@@ -245,7 +253,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "black tea",
@@ -273,7 +282,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "bar",
@@ -511,7 +521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "Bloody Mary",
@@ -525,7 +536,8 @@
         "definition": "an alcoholic drink made by mixing vodka with tomato juice",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "beef tea",
@@ -539,7 +551,8 @@
         "definition": "a hot drink made by boiling beef in water. It used to be given to people who were sick.",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "Bovril™",
@@ -557,7 +570,8 @@
         "definition": "a hot drink made by mixing Bovril with water",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "bourbon",
@@ -575,7 +589,8 @@
         "definition": "a glass of bourbon",
         "examples": []
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "beer",
@@ -627,7 +642,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "booze",
@@ -646,7 +662,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "beverage",
@@ -669,7 +686,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "brandy",
@@ -705,7 +723,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "brew",
@@ -755,7 +774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "burgundy",
@@ -773,7 +793,8 @@
         "definition": "a dark red colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "buttermilk",
@@ -787,7 +808,8 @@
         "definition": "the liquid that remains when butter is made from cream, used in cooking or as a drink",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "brewery",
@@ -801,7 +823,8 @@
         "definition": "a factory where beer is made; a company that makes beer",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "bubble tea",
@@ -815,7 +838,8 @@
         "definition": "a drink from East Asia made from cold tea mixed with milk, flavourings, etc., which also contains small sweet balls that look like bubbles and are made from tapioca",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "Buck’s Fizz",
@@ -829,7 +853,8 @@
         "definition": "an alcoholic drink made by mixing sparkling white wine (= with bubbles) with orange juice",
         "examples": []
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "chartreuse",
@@ -847,7 +872,8 @@
         "definition": "a pale yellow or pale green colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "Calvados",
@@ -861,7 +887,8 @@
         "definition": "a French strong alcoholic drink made by distilling apple juice",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "champagne",
@@ -888,7 +915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "cider",
@@ -931,7 +959,8 @@
         "definition": "a glass of cider",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "caffè latte",
@@ -945,7 +974,8 @@
         "definition": "a drink made by adding a small amount of strong coffee to a glass or cup of hot frothy milk",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "claret",
@@ -963,7 +993,8 @@
         "definition": "a dark red colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "cocoa",
@@ -990,7 +1021,8 @@
         "definition": "a cup of cocoa",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "coconut milk",
@@ -1022,7 +1054,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "Cointreau™",
@@ -1036,7 +1069,8 @@
         "definition": "a strong sweet alcoholic drink made with oranges",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "cordial",
@@ -1063,7 +1097,8 @@
         "definition": "a glass of cordial",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "cognac",
@@ -1086,7 +1121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "cold brew",
@@ -1109,7 +1145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "Coca-Cola™",
@@ -1132,7 +1169,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "corkscrew",
@@ -1146,7 +1184,8 @@
         "definition": "a tool for pulling corks from bottles. Most corkscrews have a handle and a long twisted piece of metal for pushing into the cork.",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "cocktail",
@@ -1191,7 +1230,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "coffee",
@@ -1312,7 +1352,8 @@
         "definition": "used to tell somebody to become aware of what is really happening in a situation, especially when this is something unpleasant",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "craft brewery",
@@ -1331,7 +1372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "craft beer",
@@ -1350,7 +1392,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "cream soda",
@@ -1364,7 +1407,8 @@
         "definition": "a fizzy drink (= one with bubbles) that tastes of vanilla",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "crème de cacao",
@@ -1378,7 +1422,8 @@
         "definition": "a strong sweet alcoholic drink that tastes of chocolate",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "crème de menthe",
@@ -1392,7 +1437,8 @@
         "definition": "a strong sweet alcoholic drink made with mint",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "decaffeinated",
@@ -1406,7 +1452,8 @@
         "definition": "with most or all of the caffeine removed",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "eggnog",
@@ -1420,7 +1467,8 @@
         "definition": "an alcoholic drink made by mixing eggs, milk and sugar with alcohol such as rum or brandy",
         "examples": []
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "distil",
@@ -1461,7 +1509,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "energy drink",
@@ -1484,7 +1533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "fizzy",
@@ -1507,7 +1557,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "drink",
@@ -1643,7 +1694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "drink",
@@ -1774,7 +1826,8 @@
         "definition": "you can give somebody the opportunity to do something, but you cannot force them to do it if they do not want to",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "gin",
@@ -1809,7 +1862,8 @@
         "definition": "a device for catching small wild animals or birds",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "drinking chocolate",
@@ -1823,7 +1877,8 @@
         "definition": "a sweet chocolate powder; a hot drink made from this powder mixed with hot milk and/or water",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "G and T",
@@ -1837,7 +1892,8 @@
         "definition": "gin and tonic (= a drink consisting of gin mixed with tonic)",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "distillery",
@@ -1851,7 +1907,8 @@
         "definition": "a factory where strong alcoholic drink is made by the process of distilling",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "ginger ale",
@@ -1869,7 +1926,8 @@
         "definition": "a bottle or glass of ginger ale",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "ginger wine",
@@ -1883,7 +1941,8 @@
         "definition": "a sweet alcoholic drink made with ginger",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "goldwasser",
@@ -1897,7 +1956,8 @@
         "definition": "a strong alcoholic drink from Poland that contains very small pieces of gold",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "Grand Marnier™",
@@ -1911,7 +1971,8 @@
         "definition": "a strong sweet alcoholic drink from France made with brandy and orange",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "herbal tea",
@@ -1925,7 +1986,8 @@
         "definition": "a drink made from dried herbs and hot water",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "Horlicks™",
@@ -1947,7 +2009,8 @@
         "definition": "to do something badly",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "gulp",
@@ -1979,7 +2042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "gulp",
@@ -2028,7 +2092,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "guzzle",
@@ -2051,7 +2116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "grappa",
@@ -2065,7 +2131,8 @@
         "definition": "a strong alcoholic drink from Italy, made from grapes",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "ice cube",
@@ -2084,7 +2151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "hot chocolate",
@@ -2103,7 +2171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "infusion",
@@ -2143,7 +2212,8 @@
         "definition": "an act of slowly putting a drug or other substance into a person’s vein; the drug that is used in this way",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "julep",
@@ -2161,7 +2231,8 @@
         "definition": "a sweet drink that may contain alcohol or medicine",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "isotonic",
@@ -2175,7 +2246,8 @@
         "definition": "with added minerals and salts, intended to replace those lost during exercise",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "ginger beer",
@@ -2193,7 +2265,8 @@
         "definition": "a bottle or glass of ginger beer",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "flat",
@@ -2439,7 +2512,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "juice",
@@ -2544,7 +2618,8 @@
         "definition": "to leave somebody to worry and suffer the unpleasant effects of their own actions",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "ice",
@@ -2683,7 +2758,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "lemonade",
@@ -2705,7 +2781,8 @@
         "definition": "a glass or bottle of lemonade",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "latte",
@@ -2719,7 +2796,8 @@
         "definition": "a drink made by adding a small amount of strong coffee to a glass or cup of hot frothy milk",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "green tea",
@@ -2733,7 +2811,8 @@
         "definition": "tea made from leaves that have been dried but not fermented",
         "examples": []
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "malt liquor",
@@ -2747,7 +2826,8 @@
         "definition": "a type of beer that contains a lot of alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "kettle",
@@ -2786,7 +2866,8 @@
         "definition": "used to say that you should not criticize somebody for a fault that you have yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "liqueur",
@@ -2804,7 +2885,8 @@
         "definition": "a glass of liqueur",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "malted milk",
@@ -2818,7 +2900,8 @@
         "definition": "a hot or cold drink made from malt and dried milk mixed with water or milk and usually sugar, sometimes with ice cream and/or chocolate added",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "martini",
@@ -2845,7 +2928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "manhattan",
@@ -2859,7 +2943,8 @@
         "definition": "an alcoholic drink made by mixing whisky with vermouth",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "malt",
@@ -2881,7 +2966,8 @@
         "definition": "a hot or cold drink made from malt and dried milk mixed with water or milk and usually sugar, sometimes with ice cream and/or chocolate added",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "liquor",
@@ -2921,7 +3007,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "limeade",
@@ -2939,7 +3026,8 @@
         "definition": "a drink made from lime juice, sugar and water",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "margarita",
@@ -2953,7 +3041,8 @@
         "definition": "an alcoholic drink made by mixing fruit juice with tequila",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "milky",
@@ -2989,7 +3078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "microbrewery",
@@ -3008,7 +3098,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "kefir",
@@ -3027,7 +3118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "milk tea",
@@ -3055,7 +3147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "lager",
@@ -3087,7 +3180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "mineral water",
@@ -3114,7 +3208,8 @@
         "definition": "a glass or bottle of mineral water",
         "examples": []
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "milk",
@@ -3212,7 +3307,8 @@
         "definition": "kind behaviour, considered to be natural to humans",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "non-alcoholic",
@@ -3235,7 +3331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "mocha",
@@ -3253,7 +3350,8 @@
         "definition": "a drink made with this type of coffee, often with chocolate added",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "oat milk",
@@ -3272,7 +3370,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "milkshake",
@@ -3291,7 +3390,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "mixer",
@@ -3335,7 +3435,8 @@
         "definition": "a person who finds it easy/difficult to talk to people they do not know, for example at a party",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "mint julep",
@@ -3349,7 +3450,8 @@
         "definition": "an alcoholic drink made by mixing bourbon with mint, sugar and crushed ice (= that has been broken into very small pieces)",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "mimosa",
@@ -3371,7 +3473,8 @@
         "definition": "an alcoholic drink made by mixing sparkling white wine (= with bubbles) with orange juice",
         "examples": []
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "orange",
@@ -3453,7 +3556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "pint",
@@ -3493,7 +3597,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "orangeade",
@@ -3511,7 +3616,8 @@
         "definition": "a glass of orangeade",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "orange squash",
@@ -3539,7 +3645,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "pina colada",
@@ -3553,7 +3660,8 @@
         "definition": "an alcoholic drink made by mixing rum with pineapple juice and coconut",
         "examples": []
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "port",
@@ -3643,7 +3751,8 @@
         "definition": "if you are in great trouble, you take any help that is offered",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "on ice",
@@ -3782,7 +3891,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "neat",
@@ -3894,7 +4004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "oolong tea",
@@ -3913,7 +4024,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "Prosecco™",
@@ -3936,7 +4048,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "potheen",
@@ -3950,7 +4063,8 @@
         "definition": "strong alcoholic drink made illegally, usually from potatoes",
         "examples": []
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "protein shake",
@@ -3973,7 +4087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "public house",
@@ -3996,7 +4111,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "raki",
@@ -4010,7 +4126,8 @@
         "definition": "a strong alcoholic drink from eastern Europe and the Middle East",
         "examples": []
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "quench",
@@ -4033,7 +4150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "poteen",
@@ -4047,7 +4165,8 @@
         "definition": "strong alcoholic drink made illegally, usually from potatoes",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "pour",
@@ -4213,7 +4332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "pub",
@@ -4260,7 +4380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "rosé",
@@ -4283,7 +4404,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "sake",
@@ -4297,7 +4419,8 @@
         "definition": "a Japanese alcoholic drink made from rice",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "sarsaparilla",
@@ -4315,7 +4438,8 @@
         "definition": "a drink made with sarsaparilla",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "punch",
@@ -4398,7 +4522,8 @@
         "definition": "to adapt yourself to a difficult situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "Scotch",
@@ -4426,7 +4551,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "sherry",
@@ -4466,7 +4592,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "rum",
@@ -4489,7 +4616,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "shandy",
@@ -4512,7 +4640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "slurp",
@@ -4539,7 +4668,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "sober curious",
@@ -4558,7 +4688,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "skimmed milk",
@@ -4572,7 +4703,8 @@
         "definition": "milk that contains less fat than normal because the cream has been removed from it",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "short",
@@ -4607,7 +4739,8 @@
         "definition": "used when you are telling somebody the essential facts about something or what effect it will have, without explaining all the details",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "sip",
@@ -4630,7 +4763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "soft drink",
@@ -4644,7 +4778,8 @@
         "definition": "a cold drink that does not contain alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "soda",
@@ -4688,7 +4823,8 @@
         "definition": "a chemical substance in common use that is a compound of sodium",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "sangria",
@@ -4702,7 +4838,8 @@
         "definition": "an alcoholic drink made of red wine mixed with fruit, and sometimes with lemonade or brandy added",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "spirit",
@@ -4905,7 +5042,8 @@
         "definition": "you intend to do good things but you are too lazy, weak or busy to actually do them",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "soft",
@@ -5126,7 +5264,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "sparkling",
@@ -5188,7 +5327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "smoothie",
@@ -5220,7 +5360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "spritzer",
@@ -5239,7 +5380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "teapot",
@@ -5262,7 +5404,8 @@
         "definition": "a lot of anger or worry about something that is not important",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "tequila",
@@ -5280,7 +5423,8 @@
         "definition": "a glass of tequila",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "tea leaf",
@@ -5294,7 +5438,8 @@
         "definition": "a small piece of a dried leaf of the tea bush ; used especially in the plural to describe what is left at the bottom of a cup or pot after the tea has been made",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "squash",
@@ -5343,7 +5488,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "still",
@@ -5417,7 +5563,8 @@
         "definition": "a person who seems to be quiet or shy may surprise you by knowing a lot or having deep feelings",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "tequila sunrise",
@@ -5431,7 +5578,8 @@
         "definition": "an alcoholic drink made by mixing tequila with orange juice and grenadine",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "thirst",
@@ -5476,7 +5624,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "tonic",
@@ -5530,7 +5679,8 @@
         "definition": "the syllable in a tone unit on which a change in pitch takes place",
         "examples": []
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "tea",
@@ -5661,7 +5811,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "straight",
@@ -5869,7 +6020,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "thirsty",
@@ -5917,7 +6069,8 @@
         "definition": "dry; in need of water",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "vintage",
@@ -5953,7 +6106,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "whisky",
@@ -5993,7 +6147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "vodka",
@@ -6016,7 +6171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "whisky sour",
@@ -6030,7 +6186,8 @@
         "definition": "an alcoholic drink made by mixing whisky with lemon or lime juice",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "vintage",
@@ -6079,7 +6236,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "water",
@@ -6395,7 +6553,8 @@
         "definition": "you can give somebody the opportunity to do something, but you cannot force them to do it if they do not want to",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "wine",
@@ -6475,7 +6634,8 @@
         "definition": "a dark red colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "whisky mac",
@@ -6489,6 +6649,7 @@
         "definition": "an alcoholic drink made by mixing whisky with ginger wine",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   }
 ]

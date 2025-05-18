@@ -11,7 +11,8 @@
         "definition": "a game for two people played on a board marked with long thin triangles. Players throw dice and move pieces around the board.",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "adventure game",
@@ -25,7 +26,8 @@
         "definition": "a type of computer game in which you play a part in an adventure",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "baccarat",
@@ -39,7 +41,8 @@
         "definition": "a card game in which players hold two or three cards each and bet on whose cards will have the highest number left over when their value is divided by ten",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "ball game",
@@ -71,7 +74,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "avatar",
@@ -89,7 +93,8 @@
         "definition": "a picture of a person or an animal that represents a particular computer user, on a computer screen, especially in a computer game or on social media",
         "examples": []
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "achievement",
@@ -154,7 +159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "balloon",
@@ -220,7 +226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "ace",
@@ -295,7 +302,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "bagatelle",
@@ -318,7 +326,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "BGM",
@@ -337,7 +346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "arcade",
@@ -368,7 +378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "ball",
@@ -583,7 +594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "bishop",
@@ -618,7 +630,8 @@
         "definition": "a piece used in the game of chess that is like a bishop’s hat in shape and can move any number of squares in a diagonal line",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "bingo",
@@ -645,7 +658,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "billiards",
@@ -664,7 +678,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "blind man’s buff",
@@ -678,7 +693,8 @@
         "definition": "a children’s game in which a player whose eyes are covered with a piece of cloth tries to catch and identify the other players",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "blackjack",
@@ -696,7 +712,8 @@
         "definition": "a type of club used as a weapon, especially a metal pipe covered with leather",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "board game",
@@ -710,7 +727,8 @@
         "definition": "any game played on a board, often using dice and small pieces that are moved around",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "bowl",
@@ -797,7 +815,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "boule",
@@ -811,7 +830,8 @@
         "definition": "a French game in which players take turns to roll metal balls as near as possible to a small ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "bowling green",
@@ -825,7 +845,8 @@
         "definition": "an area of grass that has been cut short on which the game of bowls is played",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "bowling",
@@ -861,7 +882,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "board",
@@ -1080,7 +1102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "camp",
@@ -1126,7 +1149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "building block",
@@ -1149,7 +1173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "casino",
@@ -1168,7 +1193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "cat’s cradle",
@@ -1191,7 +1217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "card",
@@ -1429,7 +1456,8 @@
         "definition": "to make your plans or intentions known",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "bridge",
@@ -1533,7 +1561,8 @@
         "definition": "used to say that something happened in the past and is now forgotten or no longer important",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "buff",
@@ -1577,7 +1606,8 @@
         "definition": "wearing no clothes",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "charade",
@@ -1609,7 +1639,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "cheat",
@@ -1666,7 +1697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "checkers",
@@ -1680,7 +1712,8 @@
         "definition": "a game for two players using 24 round pieces on a board marked with black and white squares",
         "examples": []
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "canasta",
@@ -1694,7 +1727,8 @@
         "definition": "a card game played with two packs of cards, in which players try to collect sets of cards",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "card game",
@@ -1708,7 +1742,8 @@
         "definition": "a game in which playing cards are used",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "castle",
@@ -1756,7 +1791,8 @@
         "definition": "a person’s home is a place where they can be private and safe and do as they like",
         "examples": []
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "chess",
@@ -1779,7 +1815,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "check",
@@ -1974,7 +2011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "chessman",
@@ -1988,7 +2026,8 @@
         "definition": "any of the 32 pieces used in the game of chess",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "buff",
@@ -2020,7 +2059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "cheat",
@@ -2093,7 +2133,8 @@
         "definition": "to survive in a situation where you could have died",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "Chinese chequers",
@@ -2107,7 +2148,8 @@
         "definition": "a game for two to six players who try to move the playing pieces from one corner to the opposite corner of the board, which is like a star in shape",
         "examples": []
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "conker",
@@ -2125,7 +2167,8 @@
         "definition": "a children’s game played with conkers on strings, in which two players take turns to try to hit and break each other’s conker",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "computer game",
@@ -2144,7 +2187,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "Chutes and Ladders™",
@@ -2158,7 +2202,8 @@
         "definition": "a children’s game played on a special board with pictures of chutes and ladders on it. Players move their pieces up the ladders to go forward and down the chutes to go back.",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "climbing frame",
@@ -2172,7 +2217,8 @@
         "definition": "a structure made of metal bars joined together for children to climb and play on",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "cribbage",
@@ -2186,7 +2232,8 @@
         "definition": "a card game in which players score points by collecting different combinations of cards. The score is kept by putting small pegs in holes in a board.",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "croquet",
@@ -2200,7 +2247,8 @@
         "definition": "a game played on grass in which players use mallets (= sticks with a block of wood at one end) to knock wooden balls through a series of hoops (= curved wires)",
         "examples": []
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "console",
@@ -2218,7 +2266,8 @@
         "definition": "a small electronic device for playing video games",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "cross-play",
@@ -2237,7 +2286,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "club",
@@ -2388,7 +2438,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "counter",
@@ -2477,7 +2528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "crossword",
@@ -2500,7 +2552,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "dart",
@@ -2554,7 +2607,8 @@
         "definition": "a pointed fold that is sewn in a piece of clothing to make it fit better",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "dartboard",
@@ -2568,7 +2622,8 @@
         "definition": "a round board used in the game of darts",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "debuff",
@@ -2587,7 +2642,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "debuff",
@@ -2610,7 +2666,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "cutscene",
@@ -2629,7 +2686,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "dice",
@@ -2695,7 +2753,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "doll",
@@ -2731,7 +2790,8 @@
         "definition": "an offensive word for a woman thought to be pretty or attractive",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "dodgeball",
@@ -2745,7 +2805,8 @@
         "definition": "a game in which teams of players form circles and try to hit other teams with a large ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "deal",
@@ -2811,7 +2872,8 @@
         "definition": "to do a lot of complicated deals in business or politics, often in a dishonest way",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "Easter egg",
@@ -2838,7 +2900,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "domino",
@@ -2856,7 +2919,8 @@
         "definition": "a game played with a set of dominoes, in which players take turns to put them onto a table",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "diamond",
@@ -2930,7 +2994,8 @@
         "definition": "the space inside the lines that connect the four bases; also used to mean the whole baseball field",
         "examples": []
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "draught",
@@ -3000,7 +3065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "follow-the-leader",
@@ -3014,7 +3080,8 @@
         "definition": "a children’s game in which people follow the person in front of them in a line, going wherever they go and copying whatever they do",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "fidget spinner",
@@ -3033,7 +3100,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "dealer",
@@ -3069,7 +3137,8 @@
         "definition": "the person who gives out the cards in a card game",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "doll’s house",
@@ -3083,7 +3152,8 @@
         "definition": "a toy house with small furniture and sometimes dolls in it for children to play with",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "first-person shooter",
@@ -3102,7 +3172,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "escape room",
@@ -3121,7 +3192,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "frag",
@@ -3157,7 +3229,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "Frisbee™",
@@ -3171,7 +3244,8 @@
         "definition": "a light plastic object, like a plate in shape, that is thrown from one player to another in a game",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "gamepad",
@@ -3190,7 +3264,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "experience points",
@@ -3213,7 +3288,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "FPS",
@@ -3227,7 +3303,8 @@
         "definition": "first-person shooter game (= a type of video game in which the player views the action through the eyes of a character and has to attack enemies)",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "foosball",
@@ -3254,7 +3331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "game controller",
@@ -3273,7 +3351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "gameplay",
@@ -3287,7 +3366,8 @@
         "definition": "the features of a computer game, such as its story or the way it is played, rather than the images or sounds it uses",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "gin rummy",
@@ -3301,7 +3381,8 @@
         "definition": "a card game in which players try to get hands (= sets of cards) that add up to ten",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "glove puppet",
@@ -3315,7 +3396,8 @@
         "definition": "a type of puppet that you put over your hand and move using your fingers",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "games console",
@@ -3329,7 +3411,8 @@
         "definition": "a small electronic device for playing video games",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "fun",
@@ -3456,7 +3539,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "guessing game",
@@ -3474,7 +3558,8 @@
         "definition": "a situation in which you do not know what is going to happen or what somebody is going to do",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "GOAT",
@@ -3493,7 +3578,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "gold farming",
@@ -3512,7 +3598,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "handball",
@@ -3543,7 +3630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "game",
@@ -3960,7 +4048,8 @@
         "definition": "used to ask why somebody is behaving as they are",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "hand puppet",
@@ -3974,7 +4063,8 @@
         "definition": "a type of puppet that you put over your hand and move using your fingers",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "go",
@@ -4237,7 +4327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "grand slam",
@@ -4277,7 +4368,8 @@
         "definition": "the winning of all the tricks in a single game",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "hangman",
@@ -4295,7 +4387,8 @@
         "definition": "a game in which one player chooses a word and the other players try to guess it, letter by letter. Each time they guess wrongly, the first person draws one part of a person being hanged. The other players have to guess the word before the drawing is complete.",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "hoop",
@@ -4371,7 +4464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "hopscotch",
@@ -4385,7 +4479,8 @@
         "definition": "a children’s game played on a pattern of squares marked on the ground. Each child throws a stone into a square then hops (= jumps on one leg) and jumps along the empty squares to pick up the stone again.",
         "examples": []
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "hula hoop",
@@ -4399,7 +4494,8 @@
         "definition": "a large plastic ring that you move in a circle around the middle part of your body by moving your hips",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "jack",
@@ -4455,7 +4551,8 @@
         "definition": "a person who can do many different types of work, but who perhaps does not do them very well",
         "examples": []
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "joker",
@@ -4486,7 +4583,8 @@
         "definition": "a person or thing that could change the way that things will happen in a way that cannot be predicted",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "I-spy",
@@ -4500,7 +4598,8 @@
         "definition": "a children’s game in which one player gives the first letter of a thing that they can see and the others have to guess what it is",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "jump rope",
@@ -4514,7 +4613,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "hide-and-seek",
@@ -4528,7 +4628,8 @@
         "definition": "a children’s game in which one player covers his or her eyes while the other players hide, and then tries to find them",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "heart",
@@ -5172,7 +5273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "king",
@@ -5241,7 +5343,8 @@
         "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "kite",
@@ -5285,7 +5388,8 @@
         "definition": "behaving in a very excited way, especially because of being strongly affected by alcohol or drugs",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "jungle gym",
@@ -5299,7 +5403,8 @@
         "definition": "a structure made of metal bars joined together for children to climb and play on",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "jigsaw",
@@ -5331,7 +5436,8 @@
         "definition": "a saw (= a type of tool) with a narrow blade for cutting designs in thin pieces of wood or metal",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "joypad",
@@ -5350,7 +5456,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "knight",
@@ -5386,7 +5493,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "leapfrog",
@@ -5400,7 +5508,8 @@
         "definition": "a children’s game in which players take turns to jump over the backs of other players who are bending down",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "leisure centre",
@@ -5419,7 +5528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "hand",
@@ -6440,7 +6550,8 @@
         "definition": "to hold your hands together, and twist and press them together in a way that shows you are anxious or upset, especially when you cannot change the situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "Lego™",
@@ -6454,7 +6565,8 @@
         "definition": "a children’s toy that consists of small coloured bricks that fit together",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "loser",
@@ -6503,7 +6615,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "loot",
@@ -6534,7 +6647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "level up",
@@ -6561,7 +6675,8 @@
         "definition": "to make standards, amounts, etc. be of the same high or higher level",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "lawn bowling",
@@ -6575,7 +6690,8 @@
         "definition": "a game played on an area of very smooth grass, in which players take turns to roll bowls as near as possible to a small ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "loot box",
@@ -6594,7 +6710,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "lucky dip",
@@ -6608,7 +6725,8 @@
         "definition": "a game in which people choose a present from a container of presents without being able to see what it is going to be",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "ludo",
@@ -6622,7 +6740,8 @@
         "definition": "a simple game played with dice and small discs on a special board, similar to the American game, Parcheesi",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "lose",
@@ -6893,7 +7012,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "level",
@@ -7130,7 +7250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "lotto",
@@ -7148,7 +7269,8 @@
         "definition": "a lottery (= a way of raising money for a government, charity, etc. by selling tickets with numbers on them and then choosing numbers by chance to win prizes)",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "monkey in the middle",
@@ -7166,7 +7288,8 @@
         "definition": "a person who is caught between two people or groups who are fighting or arguing",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "musical bumps",
@@ -7180,7 +7303,8 @@
         "definition": "a children’s party game in which the players must sit down on the floor when the music stops. The last person to sit down each time cannot continue playing.",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "merry-go-round",
@@ -7207,7 +7331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "monopoly",
@@ -7247,7 +7372,8 @@
         "definition": "a board game in which players have to pretend to buy and sell land and houses, using pieces of paper that look like money",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "mahjong",
@@ -7261,7 +7387,8 @@
         "definition": "a Chinese game played with small pieces of wood with symbols on them",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "nerf",
@@ -7280,7 +7407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "MUD",
@@ -7294,7 +7422,8 @@
         "definition": "a computer game played over the internet by several players at the same time (the abbreviation for ‘multi-user dungeon’ or ‘multi-user dimension’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "noughts and crosses",
@@ -7308,7 +7437,8 @@
         "definition": "a simple game in which two players take turns to write Os or Xs in a set of nine squares. The first player to complete a row of three Os or three Xs is the winner.",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "nerf",
@@ -7331,7 +7461,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "marble",
@@ -7384,7 +7515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "opponent",
@@ -7436,7 +7568,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "NPC",
@@ -7450,7 +7583,8 @@
         "definition": "a video game character that is not controlled by a player of the game (the abbreviation for non-player character)",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "musical chairs",
@@ -7468,7 +7602,8 @@
         "definition": "a situation in which people frequently exchange jobs or positions",
         "examples": []
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "move",
@@ -7708,7 +7843,8 @@
         "definition": "to try to pass somebody who is in front of you in a race",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "paintball",
@@ -7722,7 +7858,8 @@
         "definition": "a game in which people shoot balls of paint at each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "non-player character",
@@ -7741,7 +7878,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "peekaboo",
@@ -7755,7 +7893,8 @@
         "definition": "a simple game played to entertain young children, in which you keep hiding your face and then showing it again, saying ‘Peekaboo!’ or ‘Peep-bo!’",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "pawn",
@@ -7796,7 +7935,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "out",
@@ -8289,7 +8429,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "Pelmanism",
@@ -8303,7 +8444,8 @@
         "definition": "a game in which players must remember cards or other objects that they have seen",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "paperchase",
@@ -8321,7 +8463,8 @@
         "definition": "the fact of producing too much work on paper",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "parlour game",
@@ -8335,7 +8478,8 @@
         "definition": "a game played in the home, especially a word game or guessing game",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "pelota",
@@ -8353,7 +8497,8 @@
         "definition": "the ball used in the game of pelota",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "pinball",
@@ -8367,7 +8512,8 @@
         "definition": "a game played on a pinball machine, in which the player sends a small metal ball up a sloping board and scores points as it bounces off objects. The player tries to prevent the ball from reaching the bottom of the machine by pressing two buttons at the side.",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "peep-bo",
@@ -8381,7 +8527,8 @@
         "definition": "a simple game played to entertain young children, in which you keep hiding your face and then showing it again, saying ‘Peekaboo!’ or ‘Peep-bo!’",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "pack",
@@ -8540,7 +8687,8 @@
         "definition": "a person or thing that could change the way that things will happen in a way that cannot be predicted",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "piggy in the middle",
@@ -8558,7 +8706,8 @@
         "definition": "a person who is caught between two people or groups who are fighting or arguing",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "platform game",
@@ -8572,7 +8721,8 @@
         "definition": "a computer game in which the player controls a character who jumps and climbs between platforms at different positions on the screen",
         "examples": []
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "piece",
@@ -8967,7 +9117,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "piñata",
@@ -8981,7 +9132,8 @@
         "definition": "a brightly decorated figure, filled with toys and sweets, which children try to hit with a stick with their eyes covered in order to break it open, as a party game",
         "examples": []
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "playground",
@@ -9017,7 +9169,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "ping-pong",
@@ -9031,7 +9184,8 @@
         "definition": "a game played like tennis with bats and a small plastic ball on a table with a net across it",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "playtime",
@@ -9059,7 +9213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "playing card",
@@ -9082,7 +9237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "play chicken",
@@ -9192,7 +9348,8 @@
         "definition": "to be very busy and active trying to do something, but not very organized, with the result that you do not succeed",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "player",
@@ -9263,7 +9420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "poker",
@@ -9281,7 +9439,8 @@
         "definition": "a metal stick for moving or breaking up coal in a fire",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "postman’s knock",
@@ -9295,7 +9454,8 @@
         "definition": "a children’s game in which imaginary letters are exchanged for kisses",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "puzzle",
@@ -9335,7 +9495,8 @@
         "definition": "a picture printed on cardboard (= very thick, stiff card) or wood, that has been cut up into a lot of small pieces of different shapes that you have to fit together again",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "pool",
@@ -9448,7 +9609,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "play",
@@ -9880,7 +10042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "puppet",
@@ -9912,7 +10075,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "play",
@@ -10119,7 +10283,8 @@
         "definition": "the score in a sports match, especially in cricket",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "plush toy",
@@ -10138,7 +10303,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "pwn",
@@ -10165,7 +10331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "pwnage",
@@ -10184,7 +10351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "pétanque",
@@ -10207,7 +10375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "queen",
@@ -10314,7 +10483,8 @@
         "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "quiz",
@@ -10358,7 +10528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "replay value",
@@ -10381,7 +10552,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "replayability",
@@ -10400,7 +10572,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "replayable",
@@ -10423,7 +10596,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "respawn",
@@ -10446,7 +10620,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "ring-a-ring o’ roses",
@@ -10460,7 +10635,8 @@
         "definition": "a singing game played by children, in which the players hold hands and dance in a circle, falling down at the end of the song",
         "examples": []
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "rag doll",
@@ -10479,7 +10655,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "racquetball",
@@ -10493,7 +10670,8 @@
         "definition": "a game played especially in the US by two or four players on a court with four walls, using rackets and a small hollow rubber ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "rocking horse",
@@ -10507,7 +10685,8 @@
         "definition": "a wooden horse for children that can be made to rock backwards and forwards",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "rattle",
@@ -10538,7 +10717,8 @@
         "definition": "a wooden object that is held in one hand and makes a series of short loud sounds when you turn it round, used, for example, by people watching a sports game",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "role-playing game",
@@ -10552,7 +10732,8 @@
         "definition": "a game, often an online or computer game, in which players pretend to be imaginary characters who take part in adventures, especially in situations from fantasy literature",
         "examples": []
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "riddle",
@@ -10588,7 +10769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "roulette",
@@ -10615,7 +10797,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "RPG",
@@ -10629,7 +10812,8 @@
         "definition": "a game, often an online or computer game, in which players pretend to be imaginary characters who take part in adventures, especially in situations from fantasy literature (the abbreviation for role-playing game)",
         "examples": []
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "scoreboard",
@@ -10652,7 +10836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "sandpit",
@@ -10666,7 +10851,8 @@
         "definition": "an area in the ground or a shallow container, filled with sand for children to play in",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "sandbox",
@@ -10693,7 +10879,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "rummy",
@@ -10707,7 +10894,8 @@
         "definition": "a simple card game in which players try to collect particular combinations of cards",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "roundabout",
@@ -10759,7 +10947,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "score",
@@ -10926,7 +11115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "score",
@@ -11090,7 +11280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "see-saw",
@@ -11118,7 +11309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "shuffle",
@@ -11184,7 +11376,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "rule",
@@ -11393,7 +11586,8 @@
         "definition": "to follow the rules of your job in a very strict way in order to cause delay, as a form of protest against your employer or your working conditions",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "skateboard",
@@ -11412,7 +11606,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "skipping rope",
@@ -11426,7 +11621,8 @@
         "definition": "a piece of rope, usually with a handle at each end, that you hold, turn over your head and then jump over, for fun or to keep fit",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "Scrabble™",
@@ -11440,7 +11636,8 @@
         "definition": "a board game in which players try to make words from letters printed on small plastic blocks and connect them to words that have already been placed on the board",
         "examples": []
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "Simon says",
@@ -11454,7 +11651,8 @@
         "definition": "a children’s game in which players should only do what a person says if he/she says ‘Simon says…’ at the beginning of the instruction",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "shoot-’em-up",
@@ -11468,7 +11666,8 @@
         "definition": "a shoot-’em-up computer game, etc. is one involving a lot of violence with guns",
         "examples": []
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "sim",
@@ -11482,7 +11681,8 @@
         "definition": "a computer or video game that simulates (= artificially creates the feeling of experiencing) an activity such as flying an aircraft or playing a sport",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "soft toy",
@@ -11496,7 +11696,8 @@
         "definition": "a toy in the shape of an animal, made of cloth and filled with a soft substance",
         "examples": []
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "soft play",
@@ -11519,7 +11720,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "snap",
@@ -11568,7 +11770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "skittle",
@@ -11586,7 +11789,8 @@
         "definition": "(in Britain) a game in which players roll a ball at nine skittles and try to knock over as many of them as possible",
         "examples": []
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "solitaire",
@@ -11613,7 +11817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "snooker",
@@ -11652,7 +11857,8 @@
         "definition": "a position in snooker in which one player has made it very difficult for the opponent to play a shot within the rules",
         "examples": []
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "spawn",
@@ -11688,7 +11894,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "square",
@@ -11817,7 +12024,8 @@
         "definition": "a person who does not feel happy or comfortable in a particular situation, or who is not suitable for it",
         "examples": []
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "stalemate",
@@ -11853,7 +12061,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "slide",
@@ -11965,7 +12174,8 @@
         "definition": "a small attractive piece of metal or plastic used by women for holding their hair in place",
         "examples": []
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "snakes and ladders",
@@ -11979,7 +12189,8 @@
         "definition": "a children’s game played on a special board with pictures of snakes and ladders on it. Players move their pieces up the ladders to go forward and down the snakes to go back.",
         "examples": []
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "swing",
@@ -12094,7 +12305,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "teddy bear",
@@ -12108,7 +12320,8 @@
         "definition": "a soft toy bear",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "stuffed animal",
@@ -12131,7 +12344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "table football",
@@ -12154,7 +12368,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "tenpin bowling",
@@ -12168,7 +12383,8 @@
         "definition": "a game in which players try to knock over tenpins by rolling a heavy ball at them, played indoors, especially in a bowling alley",
         "examples": []
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "team handball",
@@ -12182,7 +12398,8 @@
         "definition": "a team game for two teams of seven players, usually played indoors, in which players try to score goals by throwing a ball with their hand",
         "examples": []
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "teeter-totter",
@@ -12196,7 +12413,8 @@
         "definition": "a piece of equipment for children to play on consisting of a long flat piece of wood that is supported in the middle. A child sits at each end and makes the teeter-totter move up and down.",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "team",
@@ -12293,7 +12511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "suit",
@@ -12401,7 +12620,8 @@
         "definition": "not wearing any clothes",
         "examples": []
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "tag",
@@ -12475,7 +12695,8 @@
         "definition": "a symbol or name used by a graffiti writer and painted in a public place",
         "examples": []
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "table tennis",
@@ -12489,7 +12710,8 @@
         "definition": "a game played like tennis with bats and a small plastic ball on a table with a net across it",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "three-card trick",
@@ -12503,7 +12725,8 @@
         "definition": "a game in which players bet money on which is the queen out of three cards lying face down",
         "examples": []
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "tig",
@@ -12517,7 +12740,8 @@
         "definition": "a children’s game in which one child runs after the others and tries to touch one of them",
         "examples": []
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "toboggan",
@@ -12531,7 +12755,8 @@
         "definition": "a long, light, narrow sledge (= a vehicle that slides over snow) sometimes curved up in front, used for sliding down slopes",
         "examples": []
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "tiddlywinks",
@@ -12545,7 +12770,8 @@
         "definition": "a game in which players try to make small plastic discs jump into a cup by pressing them on the edge with a larger disc",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "tombola",
@@ -12559,7 +12785,8 @@
         "definition": "a game in which you buy tickets with numbers on them. If the number on your ticket is the same as the number on one of the prizes, you win the prize.",
         "examples": []
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "tic-tac-toe",
@@ -12573,7 +12800,8 @@
         "definition": "a simple game in which two players take turns to write Os or Xs in a set of nine squares. The first player to complete a row of three Os or three Xs is the winner.",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "treasure hunt",
@@ -12587,7 +12815,8 @@
         "definition": "a game in which players try to find a hidden prize by answering a series of questions that have been left in different places",
         "examples": []
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "tie",
@@ -12715,7 +12944,8 @@
         "definition": "one of the heavy pieces of wood or concrete on which the rails (= metal bars) on a railway track are laid",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "trampoline",
@@ -12729,7 +12959,8 @@
         "definition": "a piece of equipment that is used in gymnastics for doing jumps in the air. It consists of a sheet of strong material that is attached by springs to a frame.",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "video game",
@@ -12743,7 +12974,8 @@
         "definition": "a game in which you press buttons to control and move images on a screen",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "war game",
@@ -12761,7 +12993,8 @@
         "definition": "a game or activity in which imaginary battles are fought, for example by moving models of soldiers, ships, etc. around on a table, or on a computer",
         "examples": []
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "trump",
@@ -12810,7 +13043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "toy",
@@ -12854,7 +13088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "tie",
@@ -13058,7 +13293,8 @@
         "definition": "to get very drunk",
         "examples": []
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "whist",
@@ -13072,7 +13308,8 @@
         "definition": "a card game for two pairs of players in which each pair tries to win the most cards",
         "examples": []
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "win",
@@ -13217,7 +13454,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "turn",
@@ -13512,7 +13750,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "yo-yo",
@@ -13531,7 +13770,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "winning",
@@ -13572,7 +13812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "winner",
@@ -13674,7 +13915,8 @@
         "definition": "to make a very good choice",
         "examples": []
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "world",
@@ -14258,6 +14500,7 @@
         "definition": "a situation in which you have all the possible disadvantages at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   }
 ]

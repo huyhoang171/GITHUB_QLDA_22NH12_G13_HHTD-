@@ -16,7 +16,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "50-yard line",
@@ -35,7 +36,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "alley-oop",
@@ -49,7 +51,8 @@
         "definition": "a high curving pass aimed over or near the basket",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "alley-oop",
@@ -63,7 +66,8 @@
         "definition": "used when somebody does a clever movement with their body or with an object",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "advantage",
@@ -201,7 +205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "ace",
@@ -276,7 +281,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "assist",
@@ -299,7 +305,8 @@
         "definition": "an action in baseball in which a player throws the ball to another member of the team who gets an opponent out either by stepping onto the base before the runner reaches it, or by touching the runner with the ball before they reach the base",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "Association football",
@@ -313,7 +320,8 @@
         "definition": "the formal name for football/soccer",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "American football",
@@ -327,7 +335,8 @@
         "definition": "a game played by two teams of 11 players, using an oval ball that players kick, throw, or carry. Teams try to put the ball over the other team’s line.",
         "examples": []
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "area",
@@ -487,7 +496,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "at-bat",
@@ -506,7 +516,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "alley",
@@ -546,7 +557,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "assistant referee",
@@ -560,7 +572,8 @@
         "definition": "the official name for a linesman (= an official who helps the referee, for example in deciding whether or where a ball has passed outside the field of play)",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "attack",
@@ -672,7 +685,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "attacker",
@@ -700,7 +714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "backfield",
@@ -718,7 +733,8 @@
         "definition": "the players who play in or around this area",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "backcourt",
@@ -740,7 +756,8 @@
         "definition": "an area surrounded by walls but with no roof at the back of a building",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "at bat",
@@ -812,7 +829,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "away",
@@ -969,7 +987,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "away",
@@ -996,7 +1015,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "backboard",
@@ -1010,7 +1030,8 @@
         "definition": "the board behind the basket in the game of basketball",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "backhand",
@@ -1033,7 +1054,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "back four",
@@ -1052,7 +1074,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "at home",
@@ -1425,7 +1448,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "away from home",
@@ -1798,7 +1822,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "backstop",
@@ -1830,7 +1855,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "back nine",
@@ -1849,7 +1875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "back-to-back",
@@ -1877,7 +1904,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "ball game",
@@ -1909,7 +1937,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "ballgirl",
@@ -1923,7 +1952,8 @@
         "definition": "a girl who picks up the balls for the players in a tennis match",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "ballboy",
@@ -1937,7 +1967,8 @@
         "definition": "a boy who picks up the balls for the players in a tennis match",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "badminton",
@@ -1951,7 +1982,8 @@
         "definition": "a game like tennis played by two or four people, usually indoors. Players hit a small light kind of ball, originally with feathers around it (= a shuttlecock) across a high net using a racket.",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "ball hockey",
@@ -1965,7 +1997,8 @@
         "definition": "a version of ice hockey played on a hard surface without ice, and with a ball instead of a puck",
         "examples": []
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "back pass",
@@ -1984,7 +2017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "backline",
@@ -2007,7 +2041,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "ballplayer",
@@ -2026,7 +2061,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "ballpark",
@@ -2057,7 +2093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "ballhawk",
@@ -2071,7 +2108,8 @@
         "definition": "a player who is good at getting or catching balls, especially in American football, baseball or basketball",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "baseball",
@@ -2128,7 +2166,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "baseline",
@@ -2151,7 +2190,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "baseman",
@@ -2165,7 +2205,8 @@
         "definition": "a player who defends first, second or third base",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "bat",
@@ -2237,7 +2278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "base",
@@ -2420,7 +2462,8 @@
         "definition": "to make contact with somebody again",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "ball",
@@ -2635,7 +2678,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "bail",
@@ -2683,7 +2727,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "basket",
@@ -2767,7 +2812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "batswoman",
@@ -2790,7 +2836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "batting average",
@@ -2827,7 +2874,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "bench",
@@ -2859,7 +2907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "basketball",
@@ -2895,7 +2944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "batgirl",
@@ -2914,7 +2964,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "batsman",
@@ -2941,7 +2992,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "bench",
@@ -3008,7 +3060,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "batter",
@@ -3057,7 +3110,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "batboy",
@@ -3076,7 +3130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "booking",
@@ -3119,7 +3174,8 @@
         "definition": "an act of the referee writing a player’s name in a book, as a punishment because an offence has been committed",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "big league",
@@ -3151,7 +3207,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "bouncer",
@@ -3183,7 +3240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "boundary",
@@ -3252,7 +3310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "bowling",
@@ -3288,7 +3347,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "bogey",
@@ -3314,7 +3374,8 @@
         "definition": "a score of one stroke (= hit of the ball) over par (= the standard score for a hole)",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "bowler",
@@ -3332,7 +3393,8 @@
         "definition": "a hard black hat with a curved brim and round top, worn, for example, in the past by men in business in Britain",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "birdie",
@@ -3354,7 +3416,8 @@
         "definition": "the object that players hit backwards and forwards in the game of badminton",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "bowl",
@@ -3441,7 +3504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "book",
@@ -3527,7 +3591,8 @@
         "definition": "to write down in an official book the name of a player who has broken the rules of the game",
         "examples": []
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "bowling ball",
@@ -3541,7 +3606,8 @@
         "definition": "a heavy ball with holes that you put your fingers into, used in the game of bowling",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "break point",
@@ -3563,7 +3629,8 @@
         "definition": "the time when problems become so great that a person, an organization or a system can no longer deal with them",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "bomb",
@@ -3680,7 +3747,8 @@
         "definition": "to go very fast",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "box",
@@ -3868,7 +3936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "bullpen",
@@ -3899,7 +3968,8 @@
         "definition": "a room where prisoners wait before they go into the court for their trial",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "brushback",
@@ -3913,7 +3983,8 @@
         "definition": "a fast pitch (= throw) that is aimed close to the batter's body so they have to step back to avoid it",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "box score",
@@ -3927,7 +3998,8 @@
         "definition": "the results of a baseball game or other sporting event shown in the form of rows and columns which include details of each player’s performance",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "caddie",
@@ -3941,7 +4013,8 @@
         "definition": "a person who helps a player during a game by carrying their clubs and equipment, and by giving advice",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "bunt",
@@ -3955,7 +4028,8 @@
         "definition": "to deliberately hit the ball only a short distance",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "bunker",
@@ -3996,7 +4070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "cap",
@@ -4080,7 +4155,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "captain",
@@ -4157,7 +4233,8 @@
         "definition": "an officer of high rank in a US police or fire department",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "cart",
@@ -4211,7 +4288,8 @@
         "definition": "to put or do things in the wrong order",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "break",
@@ -4467,7 +4545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "centre back",
@@ -4481,7 +4560,8 @@
         "definition": "a player or position in the middle of the back line of players",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "centre field",
@@ -4500,7 +4580,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "catcher",
@@ -4523,7 +4604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "chest",
@@ -4542,7 +4624,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "chip shot",
@@ -4556,7 +4639,8 @@
         "definition": "an act of hitting or kicking a ball high in the air so that it lands within a short distance",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "card",
@@ -4591,7 +4675,8 @@
         "definition": "to ask a person to show their identity card, especially as a means of checking how old they are, for example if they want to buy alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "centre forward",
@@ -4605,7 +4690,8 @@
         "definition": "a player or position in the middle of the front line of players",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "century",
@@ -4718,7 +4804,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "chip",
@@ -4862,7 +4949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "centre half",
@@ -4876,7 +4964,8 @@
         "definition": "a player or position in the middle of the back line of players",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "chip",
@@ -4944,7 +5033,8 @@
         "definition": "to put a microchip under the skin of a dog or other animal so that it can be identified if it is lost or stolen",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "clay court",
@@ -4958,7 +5048,8 @@
         "definition": "a tennis court that has a surface made of clay",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "catch",
@@ -5419,7 +5510,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "coliseum",
@@ -5442,7 +5534,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "clearance",
@@ -5529,7 +5622,8 @@
         "definition": "a clearance in football (soccer) and some other sports is when a player kicks or hits the ball away from the goal of his or her own team",
         "examples": []
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "comebacker",
@@ -5557,7 +5651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "commentary box",
@@ -5580,7 +5675,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "conversion",
@@ -5654,7 +5750,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "competing",
@@ -5691,7 +5788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "club",
@@ -5842,7 +5940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "clutch",
@@ -5865,7 +5964,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "convert",
@@ -5984,7 +6084,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "clear",
@@ -6294,7 +6395,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "cornerback",
@@ -6308,7 +6410,8 @@
         "definition": "a defending player whose position is outside and behind the linebackers",
         "examples": []
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "corner kick",
@@ -6327,7 +6430,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "corner",
@@ -6609,7 +6713,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "court tennis",
@@ -6623,7 +6728,8 @@
         "definition": "an old form of tennis played inside a building with a hard ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "courtside",
@@ -6642,7 +6748,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "courtside",
@@ -6665,7 +6772,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "crew chief",
@@ -6693,7 +6801,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "crease",
@@ -6751,7 +6860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "cricketing",
@@ -6774,7 +6884,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "cricket",
@@ -6815,7 +6926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "cricketer",
@@ -6829,7 +6941,8 @@
         "definition": "a cricket player",
         "examples": []
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "cup",
@@ -6964,7 +7077,8 @@
         "definition": "nothing is completely certain until it really happens because things can easily go wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "course",
@@ -7404,7 +7518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "cross",
@@ -7643,7 +7758,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "curve",
@@ -7743,7 +7859,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "court",
@@ -7931,7 +8048,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "debutante",
@@ -7954,7 +8072,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "daisy-cutter",
@@ -7972,7 +8091,8 @@
         "definition": "a ball hit or thrown to roll or bounce low along the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "defender",
@@ -7995,7 +8115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "debutant",
@@ -8018,7 +8139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "Decision Review System",
@@ -8037,7 +8159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "defend",
@@ -8181,7 +8304,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "cross",
@@ -8290,7 +8414,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "declare",
@@ -8434,7 +8559,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "defense",
@@ -8580,7 +8706,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "deuce",
@@ -8612,7 +8739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "defensive line",
@@ -8640,7 +8768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "delivery",
@@ -8739,7 +8868,8 @@
         "definition": "a system of paying for goods when they are delivered",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "defence",
@@ -8907,7 +9037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "dismiss",
@@ -9006,7 +9137,8 @@
         "definition": "to end the innings of a player or team",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "dismissal",
@@ -9059,7 +9191,8 @@
         "definition": "the end of the innings of a player or team",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "dive",
@@ -9159,7 +9292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "double fault",
@@ -9173,7 +9307,8 @@
         "definition": "the loss of a point caused by a player making two bad serves, one after the other",
         "examples": []
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "divot",
@@ -9187,7 +9322,8 @@
         "definition": "a piece of grass and earth that is dug out by accident, for example by a club when somebody is playing golf; the small hole in the earth that is made",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "dog-leg",
@@ -9201,7 +9337,8 @@
         "definition": "a sharp bend, especially in a road or on a golf course",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "diamond",
@@ -9275,7 +9412,8 @@
         "definition": "the space inside the lines that connect the four bases; also used to mean the whole baseball field",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "double",
@@ -9346,7 +9484,8 @@
         "definition": "a risk in which you could win twice the amount you pay, or you could lose all your money",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "double play",
@@ -9360,7 +9499,8 @@
         "definition": "a situation in which two players are put out (= made to finish their attempt at scoring a run)",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "division",
@@ -9559,7 +9699,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "double-fault",
@@ -9573,7 +9714,8 @@
         "definition": "to lose a point by making two bad serves, one after the other",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "downswing",
@@ -9605,7 +9747,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "draft pick",
@@ -9633,7 +9776,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "dribble",
@@ -9678,7 +9822,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "dribble",
@@ -9714,7 +9859,8 @@
         "definition": "the act of dribbling the ball in a sport",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "drop goal",
@@ -9728,7 +9874,8 @@
         "definition": "a goal scored by dropping the ball onto the ground and kicking it over the crossbar as it bounces",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "driving range",
@@ -9742,7 +9889,8 @@
         "definition": "a place where people can practise hitting golf balls",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "drop kick",
@@ -9756,7 +9904,8 @@
         "definition": "a kick made by dropping the ball onto the ground and kicking it as it bounces",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "dugout",
@@ -9778,7 +9927,8 @@
         "definition": "a canoe (= type of light narrow boat) made by cutting out the inside of a tree trunk",
         "examples": []
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "drop-kick",
@@ -9792,7 +9942,8 @@
         "definition": "to drop the ball onto the ground and kick it as it bounces",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "DRS",
@@ -9815,7 +9966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "draw",
@@ -9926,7 +10078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "driver",
@@ -10027,7 +10180,8 @@
         "definition": "to be the person in control of a situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "duck",
@@ -10132,7 +10286,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "drive",
@@ -10272,7 +10427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "draw",
@@ -10760,7 +10916,8 @@
         "definition": "to speak to somebody in private, especially in order to warn or tell them about something",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "dunk",
@@ -10792,7 +10949,8 @@
         "definition": "to jump very high and put the ball through the basket with great force from above",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "down",
@@ -10845,7 +11003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "eagle",
@@ -10868,7 +11027,8 @@
         "definition": "a score of two strokes (= hits of the ball) less than the standard score for a hole (= two under par)",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "fairway",
@@ -10891,7 +11051,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "end run",
@@ -10905,7 +11066,8 @@
         "definition": "an attempt by the person carrying the ball to run around the end of the line of defending players",
         "examples": []
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "equalize",
@@ -10937,7 +11099,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "end zone",
@@ -10951,7 +11114,8 @@
         "definition": "the area at the end of an American football field into which the ball must be carried or passed in order to score points",
         "examples": []
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "farm team",
@@ -10970,7 +11134,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "fantasy football",
@@ -10984,7 +11149,8 @@
         "definition": "a competition in which you choose players to make your own imaginary team, and score points according to the performance of the real players",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "fantasy",
@@ -11047,7 +11213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "fan",
@@ -11120,7 +11287,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "fastball",
@@ -11134,7 +11302,8 @@
         "definition": "a ball that is thrown at the pitcher's fastest speed",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "end",
@@ -11760,7 +11929,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "fast bowler",
@@ -11779,7 +11949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "fielder",
@@ -11793,7 +11964,8 @@
         "definition": "a member of the team that is trying to catch the ball rather than hit it",
         "examples": []
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "field goal",
@@ -11820,7 +11992,8 @@
         "definition": "a goal scored by throwing the ball through the net during normal play",
         "examples": []
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "fault",
@@ -11969,7 +12142,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "field",
@@ -12019,7 +12193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "fielding",
@@ -12038,7 +12213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "Final Four",
@@ -12057,7 +12233,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "first base",
@@ -12093,7 +12270,8 @@
         "definition": "to fail to make a successful start in a project, relationship, etc.; to fail to get through the first stage",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "fireballer",
@@ -12107,7 +12285,8 @@
         "definition": "a pitcher who throws the ball very fast",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "field",
@@ -12354,7 +12533,8 @@
         "definition": "to have sexual relationships with a lot of different people",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "five-a-side",
@@ -12373,7 +12553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "first-string",
@@ -12396,7 +12577,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "first down",
@@ -12414,7 +12596,8 @@
         "definition": "the chance to start a new series of four downs because your team has succeeded in going forward ten yards",
         "examples": []
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "flag football",
@@ -12428,7 +12611,8 @@
         "definition": "a type of American football played without the usual form of tackling. A tackle is made instead by pulling a piece of cloth from an opponent’s waistband.",
         "examples": []
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "fives",
@@ -12442,7 +12626,8 @@
         "definition": "a game played especially in British public schools in which players hit a ball with their hand or a bat against the walls of a court",
         "examples": []
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "flanker",
@@ -12456,7 +12641,8 @@
         "definition": "an attacking player in rugby or American football",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "flank",
@@ -12497,7 +12683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "fly ball",
@@ -12511,7 +12698,8 @@
         "definition": "a ball that is hit high into the air",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "fly half",
@@ -12525,7 +12713,8 @@
         "definition": "a player who plays behind the scrum half",
         "examples": []
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "follow-through",
@@ -12548,7 +12737,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "follow on",
@@ -12575,7 +12765,8 @@
         "definition": "to play a second innings (= a period during which a team is batting) immediately after its first, because it has failed to reach a particular score",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "footballing",
@@ -12594,7 +12785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "follow-on",
@@ -12608,7 +12800,8 @@
         "definition": "a second innings (= a period during which a team is batting) that a team is made to play immediately after its first, if it fails to reach a particular score",
         "examples": []
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "footie",
@@ -12627,7 +12820,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "footballer",
@@ -12646,7 +12840,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "football boot",
@@ -12660,7 +12855,8 @@
         "definition": "a leather shoe with studs (= pieces of plastic or metal) on the bottom to stop it from slipping, worn for playing football (soccer)",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "foot fault",
@@ -12674,7 +12870,8 @@
         "definition": "a mistake that is made by not keeping behind the line when serving",
         "examples": []
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "footy",
@@ -12693,7 +12890,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "football",
@@ -12783,7 +12981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "force play",
@@ -12797,7 +12996,8 @@
         "definition": "a situation in which a player is forced to run to the next base and is out because the batter is running towards the previous base. This situation can lead to a force-out.",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "fore",
@@ -12815,7 +13015,8 @@
         "definition": "used in the game of golf to warn people that they are in the path of a ball that you are hitting",
         "examples": []
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "force-out",
@@ -12829,7 +13030,8 @@
         "definition": "a situation in which a player running to a base is out (= their turn at bat is over) because a fielder is holding the ball at the base",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "forehand",
@@ -12856,7 +13058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "forward",
@@ -12870,7 +13073,8 @@
         "definition": "an attacking player whose position is near the front of a team in some sports",
         "examples": []
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "forkball",
@@ -12884,7 +13088,8 @@
         "definition": "a fast pitch thrown from between the middle finger and the index finger",
         "examples": []
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "forward pass",
@@ -12912,7 +13117,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "foul",
@@ -12965,7 +13171,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "foul",
@@ -12988,7 +13195,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "foul line",
@@ -13006,7 +13214,8 @@
         "definition": "a line from which a player is allowed to try to throw the ball into the basket after a foul",
         "examples": []
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "foul trouble",
@@ -13029,7 +13238,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "foul ball",
@@ -13043,7 +13253,8 @@
         "definition": "a hit that goes outside the allowed area",
         "examples": []
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "four",
@@ -13145,7 +13356,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "free safety",
@@ -13159,7 +13371,8 @@
         "definition": "a defending player who can try to stop any attacking player rather than one particular attacking player",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "friendly",
@@ -13178,7 +13391,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "free kick",
@@ -13197,7 +13411,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "free hit",
@@ -13225,7 +13440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "full back",
@@ -13252,7 +13468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "friendly",
@@ -13377,7 +13594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "front nine",
@@ -13396,7 +13614,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "futsal",
@@ -13415,7 +13634,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "full-court press",
@@ -13438,7 +13658,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "garbage time",
@@ -13457,7 +13678,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "full toss",
@@ -13471,7 +13693,8 @@
         "definition": "a ball that reaches the batter without touching the ground and is easy to hit",
         "examples": []
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "get/keep somebody onside",
@@ -13494,7 +13717,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "game point",
@@ -13508,7 +13732,8 @@
         "definition": "a point that, if won by a player, will win them the game",
         "examples": []
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "goal",
@@ -13593,7 +13818,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "fumble",
@@ -13620,7 +13846,8 @@
         "definition": "the action of failing to pick up a ball that is rolling on the ground in baseball",
         "examples": []
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "fumble",
@@ -13672,7 +13899,8 @@
         "definition": "to drop a ball or to fail to stop or kick it",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "goal difference",
@@ -13691,7 +13919,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "game",
@@ -14108,7 +14337,8 @@
         "definition": "used to ask why somebody is behaving as they are",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "goalkeeping",
@@ -14127,7 +14357,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "goal area",
@@ -14141,7 +14372,8 @@
         "definition": "an area in front of the goal from which goal kicks must be taken",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "goalkeeper",
@@ -14164,7 +14396,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "goal line",
@@ -14178,7 +14411,8 @@
         "definition": "the line at either end of a sports field on which the goal stands or which the ball must cross to score a goal or touchdown",
         "examples": []
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "goalscorer",
@@ -14192,7 +14426,8 @@
         "definition": "a player in a sports game who scores a goal",
         "examples": []
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "goal-line technology",
@@ -14211,7 +14446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "goal kick",
@@ -14229,7 +14465,8 @@
         "definition": "an attempt to kick a goal",
         "examples": []
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "goalpost",
@@ -14252,7 +14489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "golden goal",
@@ -14271,7 +14509,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "GOAT",
@@ -14290,7 +14529,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "goaltender",
@@ -14304,7 +14544,8 @@
         "definition": "a player whose job is to stop the ball from going into his or her own team’s goal",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "goalscoring",
@@ -14323,7 +14564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "golf",
@@ -14346,7 +14588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "golf bag",
@@ -14365,7 +14608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "golf cart",
@@ -14388,7 +14632,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "golfer",
@@ -14407,7 +14652,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "golf club",
@@ -14447,7 +14693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "golf links",
@@ -14461,7 +14708,8 @@
         "definition": "a golf course, especially one by the sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "golf course",
@@ -14475,7 +14723,8 @@
         "definition": "a large area of land that is designed for playing golf on",
         "examples": []
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "googly",
@@ -14494,7 +14743,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "grand slam",
@@ -14534,7 +14784,8 @@
         "definition": "the winning of all the tricks in a single game",
         "examples": []
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "grass court",
@@ -14548,7 +14799,8 @@
         "definition": "a tennis court with a grass surface",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "green fee",
@@ -14567,7 +14819,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "grounder",
@@ -14581,7 +14834,8 @@
         "definition": "a ball that runs along the ground after it has been hit",
         "examples": []
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "gridiron",
@@ -14604,7 +14858,8 @@
         "definition": "a field used for American football marked with a pattern of straight lines",
         "examples": []
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "ground ball",
@@ -14618,7 +14873,8 @@
         "definition": "a ball that runs along the ground after it has been hit",
         "examples": []
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "grip",
@@ -14765,7 +15021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "go out",
@@ -14849,7 +15106,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "green",
@@ -14935,7 +15193,8 @@
         "definition": "the Green Party (= the party whose main aim is the protection of the environment)",
         "examples": []
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "groundout",
@@ -14949,7 +15208,8 @@
         "definition": "a situation in which a player hits the ball along the ground but a fielder touches first base with it before the player reaches the base",
         "examples": []
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "group stage",
@@ -14968,7 +15228,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "grubber",
@@ -14986,7 +15247,8 @@
         "definition": "a forward kick of the ball along the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "groundstroke",
@@ -15000,7 +15262,8 @@
         "definition": "a hit that is made after the ball has bounced",
         "examples": []
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "half-century",
@@ -15018,7 +15281,8 @@
         "definition": "a score of 50",
         "examples": []
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "half-time",
@@ -15041,7 +15305,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "half-volley",
@@ -15055,7 +15320,8 @@
         "definition": "a shot or kick immediately after the ball has bounced",
         "examples": []
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "half back",
@@ -15077,7 +15343,8 @@
         "definition": "the position a half back plays at (also called a tailback in American football)",
         "examples": []
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "guard",
@@ -15130,7 +15397,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "half",
@@ -15306,7 +15574,8 @@
         "definition": "clever, etc. in a way that annoys you or makes you not trust somebody/something",
         "examples": []
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "handball",
@@ -15337,7 +15606,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "handicap",
@@ -15386,7 +15656,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "guard",
@@ -15558,7 +15829,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "hard court",
@@ -15572,7 +15844,8 @@
         "definition": "an area with a hard surface for playing tennis on, not grass",
         "examples": []
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "handoff",
@@ -15590,7 +15863,8 @@
         "definition": "an act of giving the ball to another player on your team",
         "examples": []
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "hardball",
@@ -15617,7 +15891,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "header",
@@ -15640,7 +15915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "hat-trick",
@@ -15659,7 +15935,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "hockey",
@@ -15699,7 +15976,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "high-top",
@@ -15718,7 +15996,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "hole-in-one",
@@ -15737,7 +16016,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "hole",
@@ -15926,7 +16206,8 @@
         "definition": "a person who does not feel happy or comfortable in a particular situation, or who is not suitable for it",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "helmet",
@@ -15953,7 +16234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "high-tops",
@@ -15967,7 +16249,8 @@
         "definition": "sports shoes that cover the ankle, worn especially for playing basketball",
         "examples": []
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "head",
@@ -16090,7 +16373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "homer",
@@ -16109,7 +16393,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "home run",
@@ -16123,7 +16408,8 @@
         "definition": "a hit that allows the person hitting the ball to run around all the bases without stopping",
         "examples": []
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "howzat",
@@ -16137,7 +16423,8 @@
         "definition": "used in cricket to tell the umpire that you think the other team’s batter is out",
         "examples": []
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "huddle",
@@ -16177,7 +16464,8 @@
         "definition": "to move close to somebody so that you can talk about something without other people hearing",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "hurler",
@@ -16191,7 +16479,8 @@
         "definition": "a person who takes part in the sport of hurling, especially as a job",
         "examples": []
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "hook",
@@ -16308,7 +16597,8 @@
         "definition": "to go away",
         "examples": []
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "home",
@@ -16382,7 +16672,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "hoop",
@@ -16458,7 +16749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "hook shot",
@@ -16476,7 +16768,8 @@
         "definition": "a shot in which a player hits the ball to the side by moving the bat across their chest",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "home plate",
@@ -16490,7 +16783,8 @@
         "definition": "the place where the person hitting the ball stands and where they must return to after running around all the bases",
         "examples": []
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "hooker",
@@ -16508,7 +16802,8 @@
         "definition": "a person who works as a prostitute",
         "examples": []
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "inch-perfect",
@@ -16531,7 +16826,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "hurling",
@@ -16545,7 +16841,8 @@
         "definition": "an Irish ball game similar to hockey played by two teams of 15 boys or men",
         "examples": []
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "infielder",
@@ -16564,7 +16861,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "infield",
@@ -16578,7 +16876,8 @@
         "definition": "the inner part of the field in baseball, cricket and some other sports; the players in this part of the field",
         "examples": []
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "inbounds",
@@ -16597,7 +16896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "injury time",
@@ -16616,7 +16916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "innings",
@@ -16644,7 +16945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "in-goal area",
@@ -16658,7 +16960,8 @@
         "definition": "the area between the goal line and the line at the end of the field, inside which a player must put the ball in order to score a try",
         "examples": []
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "inning",
@@ -16681,7 +16984,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "iron",
@@ -16779,7 +17083,8 @@
         "definition": "to make use of an opportunity immediately",
         "examples": []
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "keeper",
@@ -16818,7 +17123,8 @@
         "definition": "anyone who finds something has a right to keep it",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "jai alai",
@@ -16837,7 +17143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "keep wicket",
@@ -16863,7 +17170,8 @@
         "definition": "a difficult situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "kicker",
@@ -16881,7 +17189,8 @@
         "definition": "a surprising end to a series of events",
         "examples": []
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "kickball",
@@ -16895,7 +17204,8 @@
         "definition": "a game that is based on baseball in which players kick the ball instead of hitting it with a bat",
         "examples": []
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "knockout",
@@ -16923,7 +17233,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "knockout",
@@ -16964,7 +17275,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "knock-down",
@@ -16992,7 +17304,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "lawn tennis",
@@ -17011,7 +17324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "kick off",
@@ -17064,7 +17378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "lay-up",
@@ -17082,7 +17397,8 @@
         "definition": "a shot made from a difficult position that you deliberately hit less far than you can, in order to get the ball to a position that will allow an easier next shot",
         "examples": []
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "lbw",
@@ -17096,7 +17412,8 @@
         "definition": "leg before wicket (When the ball hits a player’s leg instead of hitting his or her bat, and would have hit the wicket if the leg had not stopped it, then that player is out lbw and has to stop batting.)",
         "examples": []
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "kick",
@@ -17286,7 +17603,8 @@
         "definition": "to continue to hurt somebody when they are already defeated, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "lacrosse",
@@ -17300,7 +17618,8 @@
         "definition": "a game played on a field by two teams of ten players who use sticks with curved nets on them to catch, carry and throw the ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "leg bye",
@@ -17314,7 +17633,8 @@
         "definition": "a run scored from a ball that missed the bat but touched part of the batter body",
         "examples": []
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "left field",
@@ -17341,7 +17661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "league table",
@@ -17377,7 +17698,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "line judge",
@@ -17396,7 +17718,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "linebacker",
@@ -17410,7 +17733,8 @@
         "definition": "a defensive player who tries to tackle members of the other team",
         "examples": []
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "line drive",
@@ -17424,7 +17748,8 @@
         "definition": "a powerful hit in a straight line near to the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "lineman",
@@ -17442,7 +17767,8 @@
         "definition": "a person whose job is to repair phone or electricity power lines",
         "examples": []
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "league",
@@ -17540,7 +17866,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "line of scrimmage",
@@ -17559,7 +17886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "linesman",
@@ -17577,7 +17905,8 @@
         "definition": "a person whose job is to repair phone or electricity power lines",
         "examples": []
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "line-out",
@@ -17591,7 +17920,8 @@
         "definition": "a situation that happens when the ball goes out of play, when players from each team stand in opposite lines and jump to try to catch the ball when it is thrown back in",
         "examples": []
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "lob",
@@ -17627,7 +17957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "links",
@@ -17641,7 +17972,8 @@
         "definition": "a golf course, especially one by the sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "Little League",
@@ -17660,7 +17992,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "lock",
@@ -17796,7 +18129,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "loose forward",
@@ -17810,7 +18144,8 @@
         "definition": "a player who plays at the back of the scrum",
         "examples": []
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "loose head",
@@ -17824,7 +18159,8 @@
         "definition": "the player in the front row of a team in the scrum who is nearest to where the ball is put in",
         "examples": []
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "long ball",
@@ -17843,7 +18179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "magic number",
@@ -17875,7 +18212,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "maiden",
@@ -17898,7 +18236,8 @@
         "definition": "an over in which no points are scored",
         "examples": []
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "March Madness™",
@@ -17917,7 +18256,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "major league",
@@ -17936,7 +18276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "in",
@@ -18086,7 +18427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "long",
@@ -18502,7 +18844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "love",
@@ -18743,7 +19086,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "marker",
@@ -18800,7 +19144,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "marking",
@@ -18846,7 +19191,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "match day",
@@ -18869,7 +19215,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "make the cut",
@@ -19061,7 +19408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "line",
@@ -19980,7 +20328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "match play",
@@ -19994,7 +20343,8 @@
         "definition": "a way of playing golf in which your score depends on the number of holes that you win rather than the number of times you hit the ball in the whole game",
         "examples": []
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "mark",
@@ -20191,7 +20541,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "matchup",
@@ -20210,7 +20561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "Mexican wave",
@@ -20224,7 +20576,8 @@
         "definition": "a continuous movement that looks like a wave on the sea, made by a large group of people, especially people watching a sports game, when one person after another stands up, raises their arms, and then sits down again",
         "examples": []
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "match point",
@@ -20238,7 +20591,8 @@
         "definition": "a point that, if won by a player, will also win them the match",
         "examples": []
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "medal play",
@@ -20252,7 +20606,8 @@
         "definition": "a way of playing golf in which your score depends on the number of times you hit the ball in the whole game, rather than on the number of holes that you win",
         "examples": []
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "miniature golf",
@@ -20271,7 +20626,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "match",
@@ -20429,7 +20785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "midfield",
@@ -20456,7 +20813,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "minigolf",
@@ -20470,7 +20828,8 @@
         "definition": "a type of golf played on a small course that mainly involves putting the ball over short distances. Sometimes you also have to hit the ball through or over little tunnels, hills, bridges and other objects.",
         "examples": []
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "minor league",
@@ -20484,7 +20843,8 @@
         "definition": "a league of professional sports teams, especially in baseball, that play at a lower level than the major leagues",
         "examples": []
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "mixed doubles",
@@ -20503,7 +20863,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "NBA",
@@ -20517,7 +20878,8 @@
         "definition": "National Basketball Association (the US organization responsible for professional basketball)",
         "examples": []
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "netball",
@@ -20531,7 +20893,8 @@
         "definition": "a game played by two teams of seven players, especially women or girls. Players score by throwing a ball through a high net hanging from a ring on a post.",
         "examples": []
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "National Football League",
@@ -20545,7 +20908,8 @@
         "definition": "the US organization for professional American football",
         "examples": []
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "neutral zone",
@@ -20563,7 +20927,8 @@
         "definition": "an imaginary area between the teams where no player except the centre is allowed to step until play has started",
         "examples": []
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "NFL",
@@ -20577,7 +20942,8 @@
         "definition": "(in the US) National Football League (the US organization for professional American football)",
         "examples": []
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "NFC",
@@ -20600,7 +20966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "nose tackle",
@@ -20614,7 +20981,8 @@
         "definition": "a defending player who plays in the middle of the field",
         "examples": []
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "no-hitter",
@@ -20633,7 +21001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "nil",
@@ -20652,7 +21021,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "offensive coordinator",
@@ -20671,7 +21041,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "net",
@@ -20787,7 +21158,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "no side",
@@ -20806,7 +21178,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "no-ball",
@@ -20820,7 +21193,8 @@
         "definition": "a ball that is bowled (= thrown) in a way that is not allowed and which means that a run (= a point) is given to the other team",
         "examples": []
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "ODI",
@@ -20839,7 +21213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "offense",
@@ -20925,7 +21300,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "one-dayer",
@@ -20944,7 +21320,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "off-tackle",
@@ -20963,7 +21340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "offensive line",
@@ -20991,7 +21369,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "opener",
@@ -21044,7 +21423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "offside",
@@ -21072,7 +21452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "outfield",
@@ -21086,7 +21467,8 @@
         "definition": "the outer part of the field in baseball, cricket and some other sports",
         "examples": []
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "onside",
@@ -21100,7 +21482,8 @@
         "definition": "in a position where playing the ball or puck is allowed",
         "examples": []
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "own goal",
@@ -21123,7 +21506,8 @@
         "definition": "something that you do that achieves the opposite of what you wanted and that brings you a disadvantage",
         "examples": []
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "offside",
@@ -21155,7 +21539,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "onside",
@@ -21178,7 +21563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "outfielder",
@@ -21192,7 +21578,8 @@
         "definition": "a player in the outfield (= the outer part of the field)",
         "examples": []
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "pace bowler",
@@ -21211,7 +21598,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "pass play",
@@ -21230,7 +21618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "passing shot",
@@ -21244,7 +21633,8 @@
         "definition": "a shot which goes past your opponent, and which they cannot reach",
         "examples": []
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "pad",
@@ -21342,7 +21732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "par",
@@ -21430,7 +21821,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "park",
@@ -21539,7 +21931,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "penalty area",
@@ -21553,7 +21946,8 @@
         "definition": "the area in front of the goal. If the defending team breaks the rules within this area, the other team is given a penalty.",
         "examples": []
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "penalty kick",
@@ -21567,7 +21961,8 @@
         "definition": "a kick that is taken as a penalty in the game of football (soccer)",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "penalty shoot-out",
@@ -21581,7 +21976,8 @@
         "definition": "a way of deciding the winner when both teams have the same score at the end of a game. Each team is given a number of chances to kick the ball into the goal and the team that scores the most goals wins.",
         "examples": []
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "pen",
@@ -21659,7 +22055,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "pass",
@@ -21794,7 +22191,8 @@
         "definition": "to try to start a sexual relationship with somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "penalty spot",
@@ -21813,7 +22211,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "pennant",
@@ -21836,7 +22235,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "penalty",
@@ -21939,7 +22339,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "pass",
@@ -22376,7 +22777,8 @@
         "definition": "to urinate",
         "examples": []
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "pinch-hit",
@@ -22394,7 +22796,8 @@
         "definition": "to do something for somebody else who is suddenly unable to do it",
         "examples": []
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "pinch hitter",
@@ -22413,7 +22816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "place kick",
@@ -22427,7 +22831,8 @@
         "definition": "a kick made by putting the ball on the ground first",
         "examples": []
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "pitch and putt",
@@ -22441,7 +22846,8 @@
         "definition": "golf played on a very small course",
         "examples": []
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "ping-pong",
@@ -22455,7 +22861,8 @@
         "definition": "a game played like tennis with bats and a small plastic ball on a table with a net across it",
         "examples": []
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "pitchout",
@@ -22473,7 +22880,8 @@
         "definition": "a ball thrown to the side",
         "examples": []
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "pitcher",
@@ -22517,7 +22925,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "pitch",
@@ -22642,7 +23051,8 @@
         "definition": "to cause somebody’s plans to fail or to destroy their chances of getting something",
         "examples": []
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "pitch",
@@ -22790,7 +23200,8 @@
         "definition": "to tell somebody a story or make an excuse that is not true",
         "examples": []
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "pop fly",
@@ -22809,7 +23220,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "playing field",
@@ -22844,7 +23256,8 @@
         "definition": "to create a situation where everyone has the same opportunities",
         "examples": []
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "player",
@@ -22915,7 +23328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "pool",
@@ -23028,7 +23442,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "postgame",
@@ -23047,7 +23462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "postgame",
@@ -23066,7 +23482,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "preseason",
@@ -23085,7 +23502,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "preseason",
@@ -23108,7 +23526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "premiership",
@@ -23135,7 +23554,8 @@
         "definition": "a professional league for the best Rugby Union teams in England",
         "examples": []
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "post-match",
@@ -23154,7 +23574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "prop",
@@ -23203,7 +23624,8 @@
         "definition": "a player on either side of the front row of a scrum",
         "examples": []
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "pulling guard",
@@ -23217,7 +23639,8 @@
         "definition": "a player whose job is to protect a player who is running forward near the edge of the field",
         "examples": []
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "punt",
@@ -23270,7 +23693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "pro shop",
@@ -23284,7 +23708,8 @@
         "definition": "a shop at a golf club that sells or repairs golf equipment, usually run by a professional player who works at that club",
         "examples": []
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "putt",
@@ -23298,7 +23723,8 @@
         "definition": "to hit the ball gently when it is on the short grass near the hole, so that it rolls across the ground a short distance into or towards the hole",
         "examples": []
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "over",
@@ -23317,7 +23743,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "putting green",
@@ -23331,7 +23758,8 @@
         "definition": "a small golf course on an area of smooth short grass where people can practise putting",
         "examples": []
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "putter",
@@ -23345,7 +23773,8 @@
         "definition": "the type of club that is used for putting (= hitting the ball short distances)",
         "examples": []
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "quarterback",
@@ -23359,7 +23788,8 @@
         "definition": "the player who directs the team’s attacking play and passes the ball to other players at the start of each attack",
         "examples": []
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "qualification",
@@ -23441,7 +23871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "put-in",
@@ -23455,7 +23886,8 @@
         "definition": "the act of putting the ball into scrum",
         "examples": []
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "quarter",
@@ -23627,7 +24059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "quarter-final",
@@ -23641,7 +24074,8 @@
         "definition": "one of the four games, matches or contests to decide the players or teams for the semi-finals of a competition",
         "examples": []
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "play",
@@ -24073,7 +24507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "qualify",
@@ -24186,7 +24621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "play",
@@ -24393,7 +24829,8 @@
         "definition": "the score in a sports match, especially in cricket",
         "examples": []
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "out",
@@ -24886,7 +25323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "quarter-finalist",
@@ -24905,7 +25343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "racquet",
@@ -24923,7 +25362,8 @@
         "definition": "a game for two or four people, similar to squash, played with racquets and a small hard ball in a court with four walls",
         "examples": []
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "point",
@@ -25501,7 +25941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "racket abuse",
@@ -25520,7 +25961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "RBI",
@@ -25539,7 +25981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "rabona",
@@ -25558,7 +26001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "racket",
@@ -25599,7 +26043,8 @@
         "definition": "a game for two or four people, similar to squash, played with rackets and a small hard ball in a court with four walls",
         "examples": []
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "real tennis",
@@ -25613,7 +26058,8 @@
         "definition": "an old form of tennis played inside a building with a hard ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "rally",
@@ -25679,7 +26125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "receive",
@@ -25860,7 +26307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "red card",
@@ -25883,7 +26331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "rebound",
@@ -25941,7 +26390,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "receiver",
@@ -26011,7 +26461,8 @@
         "definition": "a player who plays in a position in which the ball can be caught when it is being passed forward",
         "examples": []
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "red zone",
@@ -26034,7 +26485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "referee’s assistant",
@@ -26048,7 +26500,8 @@
         "definition": "the official name for a linesman (= an official who helps the referee, for example in deciding whether or where a ball has passed outside the field of play)",
         "examples": []
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "reliever",
@@ -26084,7 +26537,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "referee",
@@ -26134,7 +26588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "ref",
@@ -26153,7 +26608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "relegate",
@@ -26180,7 +26636,8 @@
         "definition": "to move a sports team from playing with one group of teams to playing in a lower group",
         "examples": []
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "reception",
@@ -26317,7 +26774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "replay",
@@ -26358,7 +26816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "reserve",
@@ -26479,7 +26938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "right field",
@@ -26493,7 +26953,8 @@
         "definition": "the part of the field to the right of the batter",
         "examples": []
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "right fielder",
@@ -26512,7 +26973,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "royal tennis",
@@ -26526,7 +26988,8 @@
         "definition": "an old form of tennis played inside a building with a hard ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "rounders",
@@ -26540,7 +27003,8 @@
         "definition": "a British game played especially in schools by two teams using a bat and ball. Each player tries to hit the ball and then run around the four sides of a square before the other team can return the ball.",
         "examples": []
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "result",
@@ -26718,7 +27182,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "ruck",
@@ -26754,7 +27219,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "rough",
@@ -26808,7 +27274,8 @@
         "definition": "to accept the unpleasant or difficult things that happen in life as well as the good things",
         "examples": []
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "Rugby League",
@@ -26822,7 +27289,8 @@
         "definition": "a form of rugby, with 13 players in a team",
         "examples": []
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "rugby",
@@ -26853,7 +27321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "rugger",
@@ -26867,7 +27336,8 @@
         "definition": "Rugby Union (= a form of rugby, with 15 players in a team)",
         "examples": []
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "rest",
@@ -27001,7 +27471,8 @@
         "definition": "to feel so satisfied with what you have already achieved that you do not try to do any more",
         "examples": []
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "Rugby Union",
@@ -27015,7 +27486,8 @@
         "definition": "a form of rugby, with 15 players in a team",
         "examples": []
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "return",
@@ -27227,7 +27699,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "run interference",
@@ -27271,7 +27744,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "running back",
@@ -27285,7 +27759,8 @@
         "definition": "an attacking player whose main job is to run forward carrying the ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "run play",
@@ -27304,7 +27779,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "sand iron",
@@ -27318,7 +27794,8 @@
         "definition": "a golf club used for hitting the ball out of sand",
         "examples": []
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "sand trap",
@@ -27332,7 +27809,8 @@
         "definition": "a small area filled with sand on a golf course",
         "examples": []
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "sand wedge",
@@ -27346,7 +27824,8 @@
         "definition": "a golf club used for hitting the ball out of sand",
         "examples": []
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "run-out",
@@ -27360,7 +27839,8 @@
         "definition": "a situation in which a player fails to complete a run before a player from the other team hits the wicket with the ball, and so is out",
         "examples": []
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "run out",
@@ -27400,7 +27880,8 @@
         "definition": "to make a player stop batting by hitting the wicket with the ball before the player has completed his or her run",
         "examples": []
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "sack",
@@ -27441,7 +27922,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "safety",
@@ -27555,7 +28037,8 @@
         "definition": "being in a group makes you safer and makes you feel more confident",
         "examples": []
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "save",
@@ -27896,7 +28379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "screen pass",
@@ -27910,7 +28394,8 @@
         "definition": "a forward pass to a player who is protected by a line of his own players",
         "examples": []
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "scrum",
@@ -27937,7 +28422,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "scrum half",
@@ -27951,7 +28437,8 @@
         "definition": "a player who puts the ball into the scrum",
         "examples": []
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "second base",
@@ -27974,7 +28461,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "scratch",
@@ -28002,7 +28490,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "scrimmage",
@@ -28024,7 +28513,8 @@
         "definition": "a practice game of American football, basketball, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "run",
@@ -28279,7 +28769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "save",
@@ -28302,7 +28793,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "score",
@@ -28469,7 +28961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "score",
@@ -28633,7 +29126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "seed",
@@ -28673,7 +29167,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "semi-finalist",
@@ -28692,7 +29187,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "seeded",
@@ -28733,7 +29229,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "sending-off",
@@ -28747,7 +29244,8 @@
         "definition": "a situation when a referee tells a player to leave the field because they have broken the rules in a serious way",
         "examples": []
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "seed",
@@ -28863,7 +29361,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "send off",
@@ -28900,7 +29399,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "server",
@@ -28935,7 +29435,8 @@
         "definition": "a person who helps a priest during a church service",
         "examples": []
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "series",
@@ -29017,7 +29518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "serve",
@@ -29036,7 +29538,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "set shot",
@@ -29050,7 +29553,8 @@
         "definition": "a shot using both hands, made while standing still",
         "examples": []
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "serve",
@@ -29342,7 +29846,8 @@
         "definition": "to support two different parties, principles, etc. at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "set point",
@@ -29356,7 +29861,8 @@
         "definition": "a point that, if won by a player, will win them the set (7)",
         "examples": []
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "shaft",
@@ -29435,7 +29941,8 @@
         "definition": "to treat somebody unfairly",
         "examples": []
       }
-    ]
+    ],
+    "id": 507
   },
   {
     "word": "shootaround",
@@ -29454,7 +29961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 508
   },
   {
     "word": "shortstop",
@@ -29477,7 +29985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 509
   },
   {
     "word": "shooting guard",
@@ -29496,7 +30005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 510
   },
   {
     "word": "shotmaking",
@@ -29510,7 +30020,8 @@
         "definition": "a way of playing in which a player takes risks in order to win more points",
         "examples": []
       }
-    ]
+    ],
+    "id": 511
   },
   {
     "word": "shoulder pad",
@@ -29528,7 +30039,8 @@
         "definition": "a piece of hard plastic that people wear under their shirts to protect their shoulders when playing American football, ice hockey, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 512
   },
   {
     "word": "signal-caller",
@@ -29547,7 +30059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 513
   },
   {
     "word": "shuttlecock",
@@ -29561,7 +30074,8 @@
         "definition": "the object that players hit backwards and forwards in the game of badminton",
         "examples": []
       }
-    ]
+    ],
+    "id": 514
   },
   {
     "word": "sideline",
@@ -29602,7 +30116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 515
   },
   {
     "word": "shoot",
@@ -29924,7 +30439,8 @@
         "definition": "to do or say something that will cause you a lot of trouble or harm, especially when you are trying to get an advantage for yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 516
   },
   {
     "word": "six-pointer",
@@ -29943,7 +30459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 517
   },
   {
     "word": "six",
@@ -30036,7 +30553,8 @@
         "definition": "used to say that there is not much real difference between two possible choices",
         "examples": []
       }
-    ]
+    ],
+    "id": 518
   },
   {
     "word": "shot",
@@ -30329,7 +30847,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 519
   },
   {
     "word": "slam dunk",
@@ -30356,7 +30875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 520
   },
   {
     "word": "slam",
@@ -30397,7 +30917,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 521
   },
   {
     "word": "slam-dunk",
@@ -30411,7 +30932,8 @@
         "definition": "to jump up and put the ball through the net with a lot of force",
         "examples": []
       }
-    ]
+    ],
+    "id": 522
   },
   {
     "word": "service",
@@ -30773,7 +31295,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 523
   },
   {
     "word": "single",
@@ -30876,7 +31399,8 @@
         "definition": "a hit that only allows the player to run to first base",
         "examples": []
       }
-    ]
+    ],
+    "id": 524
   },
   {
     "word": "sledging",
@@ -30908,7 +31432,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 525
   },
   {
     "word": "set",
@@ -31100,7 +31625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 526
   },
   {
     "word": "side",
@@ -31840,7 +32366,8 @@
         "definition": "used to talk about two ways of looking at the same situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 527
   },
   {
     "word": "smash",
@@ -31894,7 +32421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 528
   },
   {
     "word": "slice",
@@ -31986,7 +32514,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 529
   },
   {
     "word": "softball",
@@ -32004,7 +32533,8 @@
         "definition": "the ball used in softball",
         "examples": []
       }
-    ]
+    ],
+    "id": 530
   },
   {
     "word": "spinner",
@@ -32026,7 +32556,8 @@
         "definition": "a device that turns round and round, used on a fishing line to attract fish",
         "examples": []
       }
-    ]
+    ],
+    "id": 531
   },
   {
     "word": "spot kick",
@@ -32040,7 +32571,8 @@
         "definition": "a kick that is taken as a penalty in the game of football (soccer)",
         "examples": []
       }
-    ]
+    ],
+    "id": 532
   },
   {
     "word": "snap",
@@ -32199,7 +32731,8 @@
         "definition": "used, especially in orders, to tell somebody to start working harder or more quickly",
         "examples": []
       }
-    ]
+    ],
+    "id": 533
   },
   {
     "word": "soccer",
@@ -32238,7 +32771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 534
   },
   {
     "word": "springbok",
@@ -32256,7 +32790,8 @@
         "definition": "the name of the South African national rugby team",
         "examples": []
       }
-    ]
+    ],
+    "id": 535
   },
   {
     "word": "spring training",
@@ -32275,7 +32810,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 536
   },
   {
     "word": "spin",
@@ -32371,7 +32907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 537
   },
   {
     "word": "squash",
@@ -32420,7 +32957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 538
   },
   {
     "word": "sport",
@@ -32519,7 +33057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 539
   },
   {
     "word": "stadium",
@@ -32546,7 +33085,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 540
   },
   {
     "word": "stand-off half",
@@ -32560,7 +33100,8 @@
         "definition": "a player who plays behind the scrum half",
         "examples": []
       }
-    ]
+    ],
+    "id": 541
   },
   {
     "word": "stoppage",
@@ -32609,7 +33150,8 @@
         "definition": "an amount of money that an employer takes from people’s wages for tax and other payments",
         "examples": []
       }
-    ]
+    ],
+    "id": 542
   },
   {
     "word": "steal",
@@ -32724,7 +33266,8 @@
         "definition": "to get the attention, success, etc. that somebody else was expecting, usually by saying or doing what they had intended to say or do",
         "examples": []
       }
-    ]
+    ],
+    "id": 543
   },
   {
     "word": "strike out",
@@ -32783,7 +33326,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 544
   },
   {
     "word": "strikeout",
@@ -32797,7 +33341,8 @@
         "definition": "a situation in which the player who is supposed to be hitting the ball has to stop because they have tried to hit the ball three times and failed",
         "examples": []
       }
-    ]
+    ],
+    "id": 545
   },
   {
     "word": "striker",
@@ -32815,7 +33360,8 @@
         "definition": "a player whose main job is to attack and try to score goals",
         "examples": []
       }
-    ]
+    ],
+    "id": 546
   },
   {
     "word": "strike rate",
@@ -32829,7 +33375,8 @@
         "definition": "the number of times a player is successful in relation to the number of times they try to score or win",
         "examples": []
       }
-    ]
+    ],
+    "id": 547
   },
   {
     "word": "stroke play",
@@ -32843,7 +33390,8 @@
         "definition": "a way of playing golf in which your score depends on the number of times you hit the ball in the whole game, rather than on the number of holes that you win",
         "examples": []
       }
-    ]
+    ],
+    "id": 548
   },
   {
     "word": "strong safety",
@@ -32857,7 +33405,8 @@
         "definition": "a defending player who plays opposite the attacking team’s strongest side",
         "examples": []
       }
-    ]
+    ],
+    "id": 549
   },
   {
     "word": "strip",
@@ -32940,7 +33489,8 @@
         "definition": "to speak angrily to somebody who has done something wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 550
   },
   {
     "word": "stump",
@@ -32993,7 +33543,8 @@
         "definition": "to begin to move; to hurry",
         "examples": []
       }
-    ]
+    ],
+    "id": 551
   },
   {
     "word": "string",
@@ -33125,7 +33676,8 @@
         "definition": "to control events or the actions of other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 552
   },
   {
     "word": "substitute",
@@ -33169,7 +33721,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 553
   },
   {
     "word": "stroke",
@@ -33330,7 +33883,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 554
   },
   {
     "word": "stand",
@@ -33462,7 +34016,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 555
   },
   {
     "word": "stick",
@@ -33643,7 +34198,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 556
   },
   {
     "word": "Super Bowl™",
@@ -33657,7 +34213,8 @@
         "definition": "an American football game played every year to decide the winner of the National Football League",
         "examples": []
       }
-    ]
+    ],
+    "id": 557
   },
   {
     "word": "strike",
@@ -33763,7 +34320,8 @@
         "definition": "used to describe a law that says that people who commit three crimes will go straight to prison",
         "examples": []
       }
-    ]
+    ],
+    "id": 558
   },
   {
     "word": "super over",
@@ -33782,7 +34340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 559
   },
   {
     "word": "T20™",
@@ -33796,7 +34355,8 @@
         "definition": "Twenty20™ (= a shorter type of game of cricket in which each team has 20 overs in which to bat)",
         "examples": []
       }
-    ]
+    ],
+    "id": 560
   },
   {
     "word": "table tennis",
@@ -33810,7 +34370,8 @@
         "definition": "a game played like tennis with bats and a small plastic ball on a table with a net across it",
         "examples": []
       }
-    ]
+    ],
+    "id": 561
   },
   {
     "word": "sweeper",
@@ -33842,7 +34403,8 @@
         "definition": "a player who plays behind the other defending players in order to try and stop anyone who passes them",
         "examples": []
       }
-    ]
+    ],
+    "id": 562
   },
   {
     "word": "switch-hitter",
@@ -33856,7 +34418,8 @@
         "definition": "a player who can hit with the bat on either side of their body",
         "examples": []
       }
-    ]
+    ],
+    "id": 563
   },
   {
     "word": "tap penalty",
@@ -33870,7 +34433,8 @@
         "definition": "a situation where a player is allowed a free kick of the ball because the other team has broken a rule, and chooses to touch it lightly with the foot then immediately pick it up",
         "examples": []
       }
-    ]
+    ],
+    "id": 564
   },
   {
     "word": "taxi squad",
@@ -33888,7 +34452,8 @@
         "definition": "four extra players on a team who play when other players are injured",
         "examples": []
       }
-    ]
+    ],
+    "id": 565
   },
   {
     "word": "tackle",
@@ -33951,7 +34516,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 566
   },
   {
     "word": "tackle",
@@ -33995,7 +34561,8 @@
         "definition": "a man’s sexual organs",
         "examples": []
       }
-    ]
+    ],
+    "id": 567
   },
   {
     "word": "swing",
@@ -34110,7 +34677,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 568
   },
   {
     "word": "T-ball",
@@ -34129,7 +34697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 569
   },
   {
     "word": "technical foul",
@@ -34143,7 +34712,8 @@
         "definition": "an act of breaking certain rules of the game, especially ones relating to fair play",
         "examples": []
       }
-    ]
+    ],
+    "id": 570
   },
   {
     "word": "Tee Ball™",
@@ -34162,7 +34732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 571
   },
   {
     "word": "tee",
@@ -34211,7 +34782,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 572
   },
   {
     "word": "tennis racket",
@@ -34225,7 +34797,8 @@
         "definition": "the racket that you use when you play tennis",
         "examples": []
       }
-    ]
+    ],
+    "id": 573
   },
   {
     "word": "tennis",
@@ -34264,7 +34837,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 574
   },
   {
     "word": "terrace",
@@ -34313,7 +34887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 575
   },
   {
     "word": "team",
@@ -34410,7 +34985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 576
   },
   {
     "word": "third base",
@@ -34437,7 +35013,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 577
   },
   {
     "word": "Test match",
@@ -34451,7 +35028,8 @@
         "definition": "a cricket or rugby match played between the teams of two different countries, usually as part of a series of matches on a tour",
         "examples": []
       }
-    ]
+    ],
+    "id": 578
   },
   {
     "word": "tight head",
@@ -34465,7 +35043,8 @@
         "definition": "the player in the front row of a team in the scrum who is furthest from where the ball is put in",
         "examples": []
       }
-    ]
+    ],
+    "id": 579
   },
   {
     "word": "three-pointer",
@@ -34484,7 +35063,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 580
   },
   {
     "word": "tiebreaker",
@@ -34507,7 +35087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 581
   },
   {
     "word": "throw-in",
@@ -34521,7 +35102,8 @@
         "definition": "the act of throwing the ball back onto the playing field after it has gone outside the area",
         "examples": []
       }
-    ]
+    ],
+    "id": 582
   },
   {
     "word": "tip-off",
@@ -34557,7 +35139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 583
   },
   {
     "word": "tight end",
@@ -34571,7 +35154,8 @@
         "definition": "an attacking player who plays close to the tackle",
         "examples": []
       }
-    ]
+    ],
+    "id": 584
   },
   {
     "word": "tip-in",
@@ -34585,7 +35169,8 @@
         "definition": "a score that is made by touching a ball into the basket as it bounces off the basket or board after a missed shot",
         "examples": []
       }
-    ]
+    ],
+    "id": 585
   },
   {
     "word": "topspin",
@@ -34599,7 +35184,8 @@
         "definition": "the action of making a ball turn round and forward fast by hitting it or throwing it in a special way",
         "examples": []
       }
-    ]
+    ],
+    "id": 586
   },
   {
     "word": "tie",
@@ -34727,7 +35313,8 @@
         "definition": "one of the heavy pieces of wood or concrete on which the rails (= metal bars) on a railway track are laid",
         "examples": []
       }
-    ]
+    ],
+    "id": 587
   },
   {
     "word": "touch down",
@@ -34759,7 +35346,8 @@
         "definition": "to score a try by putting the ball on the ground behind the other team’s goal line",
         "examples": []
       }
-    ]
+    ],
+    "id": 588
   },
   {
     "word": "touchline",
@@ -34773,7 +35361,8 @@
         "definition": "a line that marks the side of the playing field in football (soccer), rugby, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 589
   },
   {
     "word": "touch judge",
@@ -34787,7 +35376,8 @@
         "definition": "a linesman",
         "examples": []
       }
-    ]
+    ],
+    "id": 590
   },
   {
     "word": "tourney",
@@ -34801,7 +35391,8 @@
         "definition": "a sports competition involving a number of teams or players who take part in different games and must leave the competition if they lose. The competition continues until there is only the winner left.",
         "examples": []
       }
-    ]
+    ],
+    "id": 591
   },
   {
     "word": "touchdown",
@@ -34841,7 +35432,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 592
   },
   {
     "word": "touch football",
@@ -34855,7 +35447,8 @@
         "definition": "a type of American football in which touching is used instead of tackling",
         "examples": []
       }
-    ]
+    ],
+    "id": 593
   },
   {
     "word": "tournament",
@@ -34883,7 +35476,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 594
   },
   {
     "word": "tramlines",
@@ -34901,7 +35495,8 @@
         "definition": "the pair of straight lines on a tennis or badminton court that mark the extra area that is used when four people are playing",
         "examples": []
       }
-    ]
+    ],
+    "id": 595
   },
   {
     "word": "training ground",
@@ -34938,7 +35533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 596
   },
   {
     "word": "trey",
@@ -34952,7 +35548,8 @@
         "definition": "a shot that scores three points",
         "examples": []
       }
-    ]
+    ],
+    "id": 597
   },
   {
     "word": "transfer",
@@ -35045,7 +35642,8 @@
         "definition": "the process of using behaviour that has already been learnt in one situation in a new situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 598
   },
   {
     "word": "Twenty20™",
@@ -35068,7 +35666,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 599
   },
   {
     "word": "try line",
@@ -35087,7 +35686,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 600
   },
   {
     "word": "trolley",
@@ -35132,7 +35732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 601
   },
   {
     "word": "throw",
@@ -35412,7 +36013,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 602
   },
   {
     "word": "travel",
@@ -35556,7 +36158,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 603
   },
   {
     "word": "try",
@@ -35613,7 +36216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 604
   },
   {
     "word": "two-handed",
@@ -35636,7 +36240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 605
   },
   {
     "word": "transfer",
@@ -35826,7 +36431,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 606
   },
   {
     "word": "under-strength",
@@ -35845,7 +36451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 607
   },
   {
     "word": "umpire",
@@ -35864,7 +36471,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 608
   },
   {
     "word": "unseeded",
@@ -35883,7 +36491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 609
   },
   {
     "word": "unmarked",
@@ -35923,7 +36532,8 @@
         "definition": "not showing any particular feature or style, such as being formal or informal",
         "examples": []
       }
-    ]
+    ],
+    "id": 610
   },
   {
     "word": "video assistant referee",
@@ -35955,7 +36565,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 611
   },
   {
     "word": "up-and-under",
@@ -35969,7 +36580,8 @@
         "definition": "a high kick that allows time for team members to reach the place where the ball will come down",
         "examples": []
       }
-    ]
+    ],
+    "id": 612
   },
   {
     "word": "volley",
@@ -35988,7 +36600,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 613
   },
   {
     "word": "volley",
@@ -36033,7 +36646,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 614
   },
   {
     "word": "VAR",
@@ -36056,7 +36670,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 615
   },
   {
     "word": "volleyball",
@@ -36070,7 +36685,8 @@
         "definition": "a game in which two teams of six players use their hands to hit a large ball backwards and forwards over a high net while trying not to let the ball touch the ground on their own side",
         "examples": []
       }
-    ]
+    ],
+    "id": 616
   },
   {
     "word": "whiff",
@@ -36106,7 +36722,8 @@
         "definition": "an unsuccessful attempt to hit the ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 617
   },
   {
     "word": "wedge",
@@ -36173,7 +36790,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 618
   },
   {
     "word": "whiff",
@@ -36191,7 +36809,8 @@
         "definition": "to try without success to hit the ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 619
   },
   {
     "word": "wicketkeeper",
@@ -36205,7 +36824,8 @@
         "definition": "a player who stands behind the wicket in order to stop or catch the ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 620
   },
   {
     "word": "wideout",
@@ -36219,7 +36839,8 @@
         "definition": "a receiver whose position is near the edge of the field",
         "examples": []
       }
-    ]
+    ],
+    "id": 621
   },
   {
     "word": "wicket",
@@ -36245,7 +36866,8 @@
         "definition": "a difficult situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 622
   },
   {
     "word": "wide receiver",
@@ -36259,7 +36881,8 @@
         "definition": "a receiver whose position is near the edge of the field",
         "examples": []
       }
-    ]
+    ],
+    "id": 623
   },
   {
     "word": "whistle",
@@ -36334,7 +36957,8 @@
         "definition": "to tell somebody in authority about something wrong or illegal that somebody is doing",
         "examples": []
       }
-    ]
+    ],
+    "id": 624
   },
   {
     "word": "wing back",
@@ -36348,7 +36972,8 @@
         "definition": "a player who plays near the edge of the field and who both attacks and defends",
         "examples": []
       }
-    ]
+    ],
+    "id": 625
   },
   {
     "word": "wingman",
@@ -36389,7 +37014,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 626
   },
   {
     "word": "walk",
@@ -36712,7 +37338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 627
   },
   {
     "word": "winger",
@@ -36726,7 +37353,8 @@
         "definition": "either of the attacking players who play towards the side of the playing area in sports such as football (soccer) or hockey",
         "examples": []
       }
-    ]
+    ],
+    "id": 628
   },
   {
     "word": "yellow card",
@@ -36740,7 +37368,8 @@
         "definition": "a card shown by the referee to a player as a warning about bad behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 629
   },
   {
     "word": "yardage",
@@ -36763,7 +37392,8 @@
         "definition": "the number of yards that a team or player has moved forward",
         "examples": []
       }
-    ]
+    ],
+    "id": 630
   },
   {
     "word": "wing",
@@ -36938,7 +37568,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 631
   },
   {
     "word": "wood",
@@ -37041,7 +37672,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 632
   },
   {
     "word": "take",
@@ -37916,6 +38548,7 @@
         "definition": "used as an exclamation when you are hitting somebody or attacking them in some other way",
         "examples": []
       }
-    ]
+    ],
+    "id": 633
   }
 ]

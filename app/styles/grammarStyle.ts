@@ -80,4 +80,10 @@ export const styles = StyleSheet.create({
     color: '#000000',
     fontWeight: '600',
   },
+  progressText: {
+    fontSize: 14,
+    color: '#555',
+    marginTop: 8,
+    fontWeight: '500',
+  },
 });

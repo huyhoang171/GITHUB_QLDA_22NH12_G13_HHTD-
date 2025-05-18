@@ -11,7 +11,8 @@
         "definition": "a noun, for example goodness or freedom, that refers to an idea or a general quality, not to a physical object",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "accent",
@@ -69,7 +70,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "abbreviation",
@@ -92,7 +94,8 @@
         "definition": "the process of abbreviating something",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "accusative",
@@ -111,7 +114,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "active",
@@ -130,7 +134,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "ablative",
@@ -144,7 +149,8 @@
         "definition": "the form that a noun, a pronoun or an adjective can take to show, for example, who or what something is done by or where something comes from",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "accusative",
@@ -163,7 +169,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "acute accent",
@@ -177,7 +184,8 @@
         "definition": "the mark placed over a vowel to show how it should be pronounced, as over the e in fiancé",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "advanced",
@@ -259,7 +267,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "ablative",
@@ -273,7 +282,8 @@
         "definition": "in the form that a noun, a pronoun or an adjective can take to show, for example, who or what something is done by or where something comes from",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "adjective",
@@ -292,7 +302,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "active",
@@ -429,7 +440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "Afrikaans",
@@ -443,7 +455,8 @@
         "definition": "a language that has developed from Dutch, spoken in South Africa",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "adjectival",
@@ -462,7 +475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "agree",
@@ -648,7 +662,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "affirmative",
@@ -676,7 +691,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "adverbial",
@@ -695,7 +711,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "adverb",
@@ -714,7 +731,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "alliteration",
@@ -728,7 +746,8 @@
         "definition": "the use of the same letter or sound at the beginning of words that are close together, as in sing a song of sixpence",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "agreement",
@@ -838,7 +857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "affix",
@@ -852,7 +872,8 @@
         "definition": "a letter or group of letters added to the beginning or end of a word to change its meaning. The prefix un- in unhappy and the suffix -less in careless are both affixes.",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "allophone",
@@ -870,7 +891,8 @@
         "definition": "a person who comes to live in Canada, especially Quebec, from another country, whose first language is neither French nor English",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "ampersand",
@@ -889,7 +911,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "allusion",
@@ -916,7 +939,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "analogy",
@@ -952,7 +976,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "anaphor",
@@ -966,7 +991,8 @@
         "definition": "a word or phrase that refers back to an earlier word or phrase. For example, in the phrase ‘My mother said she was leaving’, ‘she’ is used as an anaphor for ‘my mother’.",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "alphabet",
@@ -993,7 +1019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "anaphora",
@@ -1011,7 +1038,8 @@
         "definition": "the act of repeating a word or phrase at the beginning of sentences or clauses that follow each other, done for emphasis",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "antithesis",
@@ -1051,7 +1079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "apposition",
@@ -1070,7 +1099,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "appositional",
@@ -1089,7 +1119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "Anglicism",
@@ -1108,7 +1139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "appositional",
@@ -1127,7 +1159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "Arabic",
@@ -1141,7 +1174,8 @@
         "definition": "the language of the Arabs",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "apostrophe",
@@ -1163,7 +1197,8 @@
         "definition": "the mark ( ’ ) used before the letter ‘s’ to show the plural of a letter or number, as in How many 3’s are there in 9? and There are two m’s in ‘comma’.",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "Aramaic",
@@ -1177,7 +1212,8 @@
         "definition": "a language spoken in the Near East since the 6th century BC",
         "examples": []
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "aspirate",
@@ -1196,7 +1232,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "Anglo-Saxon",
@@ -1218,7 +1255,8 @@
         "definition": "the Old English language",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "articulate",
@@ -1280,7 +1318,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "articulate",
@@ -1320,7 +1359,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "anthropomorphism",
@@ -1334,7 +1374,8 @@
         "definition": "the practice of treating gods, animals or objects as if they had human qualities",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "anthropomorphic",
@@ -1353,7 +1394,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "archaism",
@@ -1367,7 +1409,8 @@
         "definition": "a thing that is very old or old-fashioned, especially a word or a style of language or art; the use of such a word or style",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "aspirate",
@@ -1394,7 +1437,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "asterisk",
@@ -1413,7 +1457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "assonance",
@@ -1427,7 +1472,8 @@
         "definition": "the effect created when two syllables in words that are close together have the same vowel sound, but different consonants, or the same consonants but different vowels, for example, sonnet and porridge or cold and killed",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "attributive",
@@ -1446,7 +1492,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "aural",
@@ -1469,7 +1516,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "backslash",
@@ -1483,7 +1531,8 @@
         "definition": "a mark ( \\ ), used in computer commands",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "Bahasa Indonesia",
@@ -1497,7 +1546,8 @@
         "definition": "the official language of Indonesia",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "argument",
@@ -1582,7 +1632,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "auxiliary",
@@ -1610,7 +1661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "article",
@@ -1680,7 +1732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "Basque",
@@ -1698,7 +1751,8 @@
         "definition": "the language of the people living in the Basque country of France and Spain",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "Bangla",
@@ -1716,7 +1770,8 @@
         "definition": "Bangladesh, or West Bengal",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "beginner",
@@ -1739,7 +1794,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "bilabial",
@@ -1753,7 +1809,8 @@
         "definition": "a speech sound made by using both lips, such as /b/, /p/ and /m/ in buy, pie and my",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "binomial",
@@ -1771,7 +1828,8 @@
         "definition": "a pair of nouns joined by a word like ‘and’, where the order of the nouns is always the same, for example ‘knife and fork’",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "Bengali",
@@ -1789,7 +1847,8 @@
         "definition": "the language of people from Bangladesh or West Bengal in eastern India",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "bracket",
@@ -1842,7 +1901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "Bahasa Malaysia",
@@ -1856,7 +1916,8 @@
         "definition": "the official language of Malaysia",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "brush up",
@@ -1875,7 +1936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "brace",
@@ -1946,7 +2008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "broad",
@@ -2113,7 +2176,8 @@
         "definition": "to describe something in a general way, ignoring the details",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "brush up on",
@@ -2132,7 +2196,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "cardinal",
@@ -2159,7 +2224,8 @@
         "definition": "a North American bird. The male cardinal is bright red.",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "Breton",
@@ -2177,7 +2243,8 @@
         "definition": "a person who was born in Brittany or who lives in Brittany",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "cacophony",
@@ -2191,7 +2258,8 @@
         "definition": "a mixture of loud unpleasant sounds",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "bullet point",
@@ -2210,7 +2278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "cedilla",
@@ -2224,7 +2293,8 @@
         "definition": "the mark placed under the letter c in French, Portuguese, etc. to show that it is pronounced like an s rather than a k, as in français; a similar mark under s in Turkish and some other languages",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "calque",
@@ -2243,7 +2313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "Cantonese",
@@ -2261,7 +2332,8 @@
         "definition": "a person whose first language is Cantonese",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "Catalan",
@@ -2279,7 +2351,8 @@
         "definition": "a person who was born in or who lives in Catalonia",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "Carib",
@@ -2293,7 +2366,8 @@
         "definition": "the language of a people living mainly near the coast in the north-east of South America",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "cataphora",
@@ -2307,7 +2381,8 @@
         "definition": "the use of a cataphor",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "chiasmus",
@@ -2321,7 +2396,8 @@
         "definition": "a technique used in writing or in speeches, in which words, ideas, etc. are repeated in the opposite order",
         "examples": []
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "Chinese",
@@ -2339,7 +2415,8 @@
         "definition": "the language of China",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "circumflex",
@@ -2353,7 +2430,8 @@
         "definition": "the mark placed over a vowel in some languages to show how it should be pronounced, as over the o in rôle",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "cataphor",
@@ -2367,7 +2445,8 @@
         "definition": "a word that refers to or has the same meaning as a later word. For example in ‘When he saw me, Steve looked shocked’, ‘he’ is a cataphor for ‘Steve’.",
         "examples": []
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "coherent",
@@ -2403,7 +2482,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "collocation",
@@ -2431,7 +2511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "cluster",
@@ -2480,7 +2561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "coinage",
@@ -2521,7 +2603,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "clause",
@@ -2573,7 +2656,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "code word",
@@ -2596,7 +2680,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "closed syllable",
@@ -2610,7 +2695,8 @@
         "definition": "a syllable that ends with a consonant, for example sit",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "character",
@@ -2804,7 +2890,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "circumlocution",
@@ -2818,7 +2905,8 @@
         "definition": "the use of more words than are necessary, instead of speaking or writing in a clear, direct way",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "colloquialism",
@@ -2832,7 +2920,8 @@
         "definition": "a word or phrase that is used in conversation but not in formal speech or writing",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "colon",
@@ -2850,7 +2939,8 @@
         "definition": "the main part of the large intestine (= part of the bowels)",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "comma",
@@ -2873,7 +2963,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "comparative",
@@ -2913,7 +3004,8 @@
         "definition": "relating to adjectives or adverbs that express more in amount, degree or quality, for example better, worse, slower and more difficult",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "common noun",
@@ -2927,7 +3019,8 @@
         "definition": "a word such as table, cat or sea, that refers to an object or a thing but is not the name of a particular person, place or thing",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "complement",
@@ -2964,7 +3057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "compound",
@@ -3014,7 +3108,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "compound",
@@ -3037,7 +3132,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "conjugate",
@@ -3060,7 +3156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "communication",
@@ -3133,7 +3230,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "conditional",
@@ -3160,7 +3258,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "consonant",
@@ -3178,7 +3277,8 @@
         "definition": "a letter of the alphabet that represents a consonant sound, for example ‘b’, ‘c’, ‘d’, ‘f’, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "continuant",
@@ -3197,7 +3297,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "continuous",
@@ -3271,7 +3372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "continuant",
@@ -3285,7 +3387,8 @@
         "definition": "a consonant that is pronounced with the breath passing through the throat, so that the sound can be continued. /f/, /l/ and /m/ are examples of continuants.",
         "examples": []
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "conjunction",
@@ -3330,7 +3433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "conditional",
@@ -3366,7 +3470,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "countable",
@@ -3380,7 +3485,8 @@
         "definition": "a noun that is countable can be used in the plural and with a or an, for example table, cat and idea",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "Cornish",
@@ -3394,7 +3500,8 @@
         "definition": "the Celtic language that was spoken in Cornwall in England. Nobody now uses Cornish as a first language.",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "comparative",
@@ -3413,7 +3520,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "contraction",
@@ -3470,7 +3578,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "Creole",
@@ -3506,7 +3615,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "Danish",
@@ -3524,7 +3634,8 @@
         "definition": "a sweet cake made of light pastry, often containing apple, nuts, etc. and/or covered with icing",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "defining",
@@ -3559,7 +3670,8 @@
         "definition": "explaining which particular person or thing you are talking about rather than giving extra information about them. In ‘The books which are on the table are mine’, ‘which are on the table’ is a defining relative clause.",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "dative",
@@ -3578,7 +3690,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "dative",
@@ -3597,7 +3710,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "declension",
@@ -3615,7 +3729,8 @@
         "definition": "the way in which some sets of nouns, adjectives and pronouns change their form or endings to show case, number or gender",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "count noun",
@@ -3629,7 +3744,8 @@
         "definition": "a countable noun",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "decline",
@@ -3705,7 +3821,8 @@
         "definition": "if a noun, an adjective or a pronoun declines, it has different forms according to whether it is the subject or the object of a verb, whether it is in the singular or plural, etc. When you decline a noun, etc., you list these forms.",
         "examples": []
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "dash",
@@ -3814,7 +3931,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "definite article",
@@ -3828,7 +3946,8 @@
         "definition": "the word the in English, or a similar word in another language",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "determiner",
@@ -3842,7 +3961,8 @@
         "definition": "a word such as the, some, my, etc. that comes before a noun to show how the noun is being used",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "descriptor",
@@ -3865,7 +3985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "deontic",
@@ -3879,7 +4000,8 @@
         "definition": "expressing duty",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "diphthong",
@@ -3893,7 +4015,8 @@
         "definition": "a combination of two vowel sounds or vowel letters, for example the sounds /aɪ/ in pipe /paɪp/ or the letters ou in doubt",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "diaeresis",
@@ -3907,7 +4030,8 @@
         "definition": "the mark placed over a vowel to show that it is pronounced separately, as in naïve",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "direct speech",
@@ -3926,7 +4050,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "dependent clause",
@@ -3940,7 +4065,8 @@
         "definition": "a group of words that is not a sentence but adds information to the main part of a sentence, for example when it rang in She answered the phone when it rang.",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "ditto",
@@ -3954,7 +4080,8 @@
         "definition": "used, especially in a list, below a particular word or phrase, to show that it is repeated and to avoid having to write it again",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "derivative",
@@ -3977,7 +4104,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "dialect",
@@ -4000,7 +4128,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "elision",
@@ -4014,7 +4143,8 @@
         "definition": "the act of leaving out the sound of part of a word when it is spoken, for example the pronunciation of sixth as /sɪkθ/",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "dot",
@@ -4097,7 +4227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "double negative",
@@ -4111,7 +4242,8 @@
         "definition": "a negative statement containing two negative words. ‘I didn’t say nothing’ is a double negative because it contains two negative words, ‘didn’t’ and ‘nothing’. This use is not considered correct in standard English.",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "elide",
@@ -4130,7 +4262,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "Dharuk",
@@ -4144,7 +4277,8 @@
         "definition": "an Aboriginal language of the area around Sydney, Australia, which is no longer spoken",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "direct object",
@@ -4163,7 +4297,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "drill",
@@ -4238,7 +4373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "drill",
@@ -4313,7 +4449,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "elliptical",
@@ -4336,7 +4473,8 @@
         "definition": "connected with or in the form of an ellipse",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "ellipsis",
@@ -4354,7 +4492,8 @@
         "definition": "three small marks (…) used to show that a word or words have been left out",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "encode",
@@ -4385,7 +4524,8 @@
         "definition": "to express the meaning of something in a foreign language",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "Etruscan",
@@ -4403,7 +4543,8 @@
         "definition": "the language of the ancient Etruscan people,",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "etymological",
@@ -4422,7 +4563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "enjambement",
@@ -4436,7 +4578,8 @@
         "definition": "the fact of a sentence continuing beyond the end of a line of poetry without a break",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "English",
@@ -4497,7 +4640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "Erse",
@@ -4511,7 +4655,8 @@
         "definition": "the Scottish or Irish Gaelic language",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "etymology",
@@ -4529,7 +4674,8 @@
         "definition": "the origin and history of a particular word",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "epithet",
@@ -4557,7 +4703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "euphemism",
@@ -4580,7 +4727,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "ending",
@@ -4633,7 +4781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "feminine",
@@ -4651,7 +4800,8 @@
         "definition": "a feminine word or word form",
         "examples": []
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "Filipino",
@@ -4669,7 +4819,8 @@
         "definition": "the language of the Philippines",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "exclamation",
@@ -4692,7 +4843,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "feminine",
@@ -4737,7 +4889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "Flemish",
@@ -4755,7 +4908,8 @@
         "definition": "the people of Flanders in northern Belgium",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "fable",
@@ -4782,7 +4936,8 @@
         "definition": "a statement, or an account of something, that is not true",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "first person",
@@ -4814,7 +4969,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "faultless",
@@ -4837,7 +4993,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "expression",
@@ -4959,7 +5116,8 @@
         "definition": "a group of signs that represent an idea or a quantity",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "fluency",
@@ -4995,7 +5153,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "exclamation mark",
@@ -5009,7 +5168,8 @@
         "definition": "the mark ( ! ) that is written after an exclamation",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "free form",
@@ -5028,7 +5188,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "fluent",
@@ -5077,7 +5238,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "Gaelic",
@@ -5095,7 +5257,8 @@
         "definition": "the Celtic language of Ireland",
         "examples": []
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "gabble",
@@ -5126,7 +5289,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "Gaulish",
@@ -5140,7 +5304,8 @@
         "definition": "the Celtic language of the ancient Gauls",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "future",
@@ -5293,7 +5458,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "fricative",
@@ -5307,7 +5473,8 @@
         "definition": "a speech sound made by forcing breath out through a narrow space in the mouth with the lips, teeth or tongue in a particular position, for example /f/ and /ʃ/ in fee and she",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "French",
@@ -5329,7 +5496,8 @@
         "definition": "used to say that you are sorry for swearing",
         "examples": []
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "form",
@@ -5534,7 +5702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "form",
@@ -5814,6 +5983,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   }
 ]

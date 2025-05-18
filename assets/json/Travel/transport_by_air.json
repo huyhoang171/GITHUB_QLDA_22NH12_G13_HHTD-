@@ -11,7 +11,8 @@
         "definition": "a place where military aircraft fly from and are kept, and where some staff live",
         "examples": []
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "airworthiness",
@@ -25,7 +26,8 @@
         "definition": "the fact of an aircraft being safe to fly",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "air traffic controller",
@@ -39,7 +41,8 @@
         "definition": "a person whose job is to give instructions by radio to pilots of aircraft so that they know when and where to take off or land",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "carousel",
@@ -57,7 +60,8 @@
         "definition": "a moving belt from which you collect your bags at an airport",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "cabin crew",
@@ -84,7 +88,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "aerodynamics",
@@ -107,7 +112,8 @@
         "definition": "the science that deals with how objects move through air",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "bump",
@@ -173,7 +179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "aviation",
@@ -196,7 +203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "aircrew",
@@ -223,7 +231,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "captain",
@@ -300,7 +309,8 @@
         "definition": "an officer of high rank in a US police or fire department",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "business class",
@@ -319,7 +329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "aisle",
@@ -372,7 +383,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "aircraft",
@@ -403,7 +415,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "bulkhead",
@@ -417,7 +430,8 @@
         "definition": "a wall that divides a ship or an aircraft into separate parts",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "air corridor",
@@ -440,7 +454,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "Airbus™",
@@ -454,7 +469,8 @@
         "definition": "a plane designed to carry a large number of passengers",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "air lane",
@@ -468,7 +484,8 @@
         "definition": "a route regularly used by aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "aerodrome",
@@ -482,7 +499,8 @@
         "definition": "a small airport",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "air bridge",
@@ -505,7 +523,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "airline",
@@ -544,7 +563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "aft",
@@ -571,7 +591,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "airliner",
@@ -585,7 +606,8 @@
         "definition": "a large plane that carries passengers",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "Air Miles™",
@@ -599,7 +621,8 @@
         "definition": "points that you collect by buying plane tickets and other products, which you can then use to pay for air travel",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "business class",
@@ -618,7 +641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "contrail",
@@ -637,7 +661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "airplane",
@@ -664,7 +689,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "canopy",
@@ -724,7 +750,8 @@
         "definition": "a cover for the cockpit of an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "automatic pilot",
@@ -752,7 +779,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "charter",
@@ -775,7 +803,8 @@
         "definition": "to state officially that a new organization, town or university has been established and has special rights",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "air pocket",
@@ -803,7 +832,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "air traffic control",
@@ -835,7 +865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "air marshal",
@@ -858,7 +889,8 @@
         "definition": "an armed guard, especially a government official, who travels on a plane with the passengers in order to protect the plane from terrorists",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "concourse",
@@ -881,7 +913,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "catch",
@@ -1342,7 +1375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "blade",
@@ -1391,7 +1425,8 @@
         "definition": "the flat metal part on the bottom of an ice skate",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "airport",
@@ -1439,7 +1474,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "board",
@@ -1500,7 +1536,8 @@
         "definition": "to live at a school during the school year",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "beacon",
@@ -1536,7 +1573,8 @@
         "definition": "(in the past) a fire lit on top of a hill as a signal",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "carry-on",
@@ -1568,7 +1606,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "book",
@@ -1654,7 +1693,8 @@
         "definition": "to write down in an official book the name of a player who has broken the rules of the game",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "change",
@@ -1999,7 +2039,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "autopilot",
@@ -2022,7 +2063,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "black box",
@@ -2040,7 +2082,8 @@
         "definition": "a complicated piece of equipment, usually electronic, that you know produces particular results, but that you do not completely understand",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "check-in",
@@ -2089,7 +2132,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "airsick",
@@ -2103,7 +2147,8 @@
         "definition": "feeling or being sick when you are travelling on an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "airsickness",
@@ -2117,7 +2162,8 @@
         "definition": "being sick, or the feeling that you are going to be sick, caused by travelling on an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "aerospace",
@@ -2140,7 +2186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "baggage reclaim",
@@ -2163,7 +2210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "charter flight",
@@ -2177,7 +2225,8 @@
         "definition": "a flight in an aircraft in which all the seats are paid for by a travel company and then sold to their customers",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "airside",
@@ -2196,7 +2245,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "code-sharing",
@@ -2210,7 +2260,8 @@
         "definition": "an agreement between two or more airlines to carry each other’s passengers and use their own set of letters and numbers for flights provided by another airline",
         "examples": []
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "airworthy",
@@ -2224,7 +2275,8 @@
         "definition": "safe to fly",
         "examples": []
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "aeronautics",
@@ -2238,7 +2290,8 @@
         "definition": "the science or practice of building and flying aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "airspace",
@@ -2265,7 +2318,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "biplane",
@@ -2279,7 +2333,8 @@
         "definition": "an early type of plane with two sets of wings, one above the other",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "aeronautical",
@@ -2298,7 +2353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "class",
@@ -2500,7 +2556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "airborne",
@@ -2537,7 +2594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "balloon",
@@ -2603,7 +2661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "aboard",
@@ -2638,7 +2697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "bomber",
@@ -2665,7 +2725,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "cargo",
@@ -2688,7 +2749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "check in",
@@ -2720,7 +2782,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "baggage carousel",
@@ -2734,7 +2797,8 @@
         "definition": "a moving belt from which you collect your bags at an airport",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "aviator",
@@ -2757,7 +2821,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "baggage",
@@ -2815,7 +2880,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "aeronaut",
@@ -2829,7 +2895,8 @@
         "definition": "a traveller in a hot-air balloon or airship",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "aerodynamic",
@@ -2848,7 +2915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "aileron",
@@ -2862,7 +2930,8 @@
         "definition": "a part of the wing of a plane that moves up and down to control the plane’s balance",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "cabin",
@@ -2899,7 +2968,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "air hostess",
@@ -2913,7 +2983,8 @@
         "definition": "a female flight attendant",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "airfield",
@@ -2927,7 +2998,8 @@
         "definition": "an area of flat ground where military or private planes can take off and land",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "airspeed",
@@ -2941,7 +3013,8 @@
         "definition": "the speed of an aircraft relative to the air through which it is moving",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "arrival",
@@ -3057,7 +3130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "airfare",
@@ -3076,7 +3150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "apron",
@@ -3107,7 +3182,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "airside",
@@ -3130,7 +3206,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "announcer",
@@ -3171,7 +3248,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "airdrome",
@@ -3185,7 +3263,8 @@
         "definition": "a small airport",
         "examples": []
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "airstrip",
@@ -3199,7 +3278,8 @@
         "definition": "a narrow piece of cleared land that an aircraft can land on",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "air terminal",
@@ -3213,7 +3293,8 @@
         "definition": "a building at an airport that provides services for passengers travelling by plane",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "clearance",
@@ -3300,7 +3381,8 @@
         "definition": "a clearance in football (soccer) and some other sports is when a player kicks or hits the ball away from the goal of his or her own team",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "altimeter",
@@ -3314,7 +3396,8 @@
         "definition": "an instrument for showing height above sea level, used especially in an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "approach",
@@ -3456,7 +3539,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "airship",
@@ -3470,7 +3554,8 @@
         "definition": "a large aircraft without wings, filled with a gas that is lighter than air, and driven by engines",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "aerial",
@@ -3510,7 +3595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "boarding card",
@@ -3524,7 +3610,8 @@
         "definition": "a card that you show before you get on a plane or boat",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "coach",
@@ -3680,7 +3767,8 @@
         "definition": "to cause something to fail, for example a plan",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "bail out",
@@ -3738,7 +3826,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "bird strike",
@@ -3757,7 +3846,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "charter",
@@ -3828,7 +3918,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "connection",
@@ -3962,7 +4053,8 @@
         "definition": "for reasons connected with something recently mentioned",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "co-pilot",
@@ -3976,7 +4068,8 @@
         "definition": "a second pilot who helps the main pilot in an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "club class",
@@ -3990,7 +4083,8 @@
         "definition": "the part of a plane where passengers have a high level of comfort and service, designed for people travelling on business, and less expensive than first class",
         "examples": []
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "crash-dive",
@@ -4004,7 +4098,8 @@
         "definition": "to go steeply downwards and then crash",
         "examples": []
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "control tower",
@@ -4018,7 +4113,8 @@
         "definition": "a building at an airport from which the movements of aircraft are controlled",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "copter",
@@ -4032,7 +4128,8 @@
         "definition": "a helicopter",
         "examples": []
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "crash-land",
@@ -4046,7 +4143,8 @@
         "definition": "if a plane crash-lands or a pilot crash-lands it, the pilot lands it roughly in an emergency, usually because it is damaged and cannot land normally",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "cowling",
@@ -4060,7 +4158,8 @@
         "definition": "a metal cover for an engine, especially on an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "deep vein thrombosis",
@@ -4079,7 +4178,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "delta wing",
@@ -4093,7 +4193,8 @@
         "definition": "a single wing in the shape of a triangle on some aircraft, especially on military planes",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "conveyor belt",
@@ -4116,7 +4217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "customs",
@@ -4165,7 +4267,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "crash landing",
@@ -4184,7 +4287,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "ditch",
@@ -4215,7 +4319,8 @@
         "definition": "to stay away from school without permission",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "cockpit",
@@ -4229,7 +4334,8 @@
         "definition": "the area in a plane, boat or racing car where the pilot or driver sits",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "distress",
@@ -4299,7 +4405,8 @@
         "definition": "a young woman who needs help",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "disembark",
@@ -4330,7 +4437,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "dive",
@@ -4419,7 +4527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "descent",
@@ -4464,7 +4573,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "deplane",
@@ -4478,7 +4588,8 @@
         "definition": "to get off a plane",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "departure",
@@ -4577,7 +4688,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "drone",
@@ -4642,7 +4754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "disembarkation",
@@ -4661,7 +4774,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "dive",
@@ -4761,7 +4875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "domestic",
@@ -4855,7 +4970,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "engineer",
@@ -4916,7 +5032,8 @@
         "definition": "a soldier trained to design and build military structures",
         "examples": []
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "economy class syndrome",
@@ -4930,7 +5047,8 @@
         "definition": "the fact of a person suffering from deep vein thrombosis after they have travelled on a plane. This condition is thought to be more common among people who travel in the cheapest seats because they do not have space to move their legs much.",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "e-ticket",
@@ -4944,7 +5062,8 @@
         "definition": "a ticket, for example a plane ticket, that you buy over the internet and receive on your computer or phone. Your purchase details are stored on computer so you do not need a paper ticket.",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "ETA",
@@ -4958,7 +5077,8 @@
         "definition": "estimated time of arrival (the time at which an aircraft, a ship, etc. is expected to arrive)",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "elevator",
@@ -4990,7 +5110,8 @@
         "definition": "a part in the tail of an aircraft that is moved to make it go up and down",
         "examples": []
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "ETD",
@@ -5004,7 +5125,8 @@
         "definition": "estimated time of departure (the time at which an aircraft, ship, etc. is expected to leave)",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "e-gate",
@@ -5023,7 +5145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "ejector seat",
@@ -5042,7 +5165,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "dual controls",
@@ -5056,7 +5180,8 @@
         "definition": "two sets of instruments for controlling a vehicle or aircraft, so that a teacher, for example, can take control from the driver",
         "examples": []
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "duty-free shop",
@@ -5070,7 +5195,8 @@
         "definition": "a shop in an airport or on a ship, etc. that sells goods such as cigarettes, alcohol, perfume, etc. without tax on them",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "e-ticketing",
@@ -5089,7 +5215,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "excess baggage",
@@ -5112,7 +5239,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "flier",
@@ -5160,7 +5288,8 @@
         "definition": "a very fast start to a race, competition, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "fighter",
@@ -5205,7 +5334,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "first class",
@@ -5241,7 +5371,8 @@
         "definition": "the highest standard of degree given by a British university",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "first class",
@@ -5273,7 +5404,8 @@
         "definition": "(in the US) by the class of mail that is used for letters",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "fare",
@@ -5331,7 +5463,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "fin",
@@ -5354,7 +5487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "first-class",
@@ -5416,7 +5550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "flight control",
@@ -5439,7 +5574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "flight plan",
@@ -5458,7 +5594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "flap",
@@ -5545,7 +5682,8 @@
         "definition": "a speech sound that is produced by striking the tongue quickly and lightly against the part of the mouth behind the upper front teeth",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "flight crew",
@@ -5564,7 +5702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "flight deck",
@@ -5582,7 +5721,8 @@
         "definition": "a long flat surface on top of a ship that carries aircraft (= an aircraft carrier) where they take off and land",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "flight attendant",
@@ -5596,7 +5736,8 @@
         "definition": "a person whose job is to serve and take care of passengers on an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "flight number",
@@ -5615,7 +5756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "flyer",
@@ -5668,7 +5810,8 @@
         "definition": "a very fast start to a race, competition, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "flight",
@@ -5877,7 +6020,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "forced landing",
@@ -5896,7 +6040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "flight path",
@@ -5919,7 +6064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "frequent flyer",
@@ -5942,7 +6088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "gangway",
@@ -5978,7 +6125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "glider",
@@ -6001,7 +6149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "fuselage",
@@ -6020,7 +6169,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "flying boat",
@@ -6034,7 +6184,8 @@
         "definition": "a large plane that can take off from and land on water",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "flight recorder",
@@ -6048,7 +6199,8 @@
         "definition": "a small machine in a plane that records all the details of each flight and is useful for finding out the cause of an accident",
         "examples": []
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "galley",
@@ -6071,7 +6223,8 @@
         "definition": "the kitchen on a ship or plane",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "glide",
@@ -6107,7 +6260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "ground crew",
@@ -6126,7 +6280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "hangar",
@@ -6140,7 +6295,8 @@
         "definition": "a large building in which aircraft are kept",
         "examples": []
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "hand baggage",
@@ -6154,7 +6310,8 @@
         "definition": "small bags that you can keep with you on an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "gyroscope",
@@ -6168,7 +6325,8 @@
         "definition": "a device consisting of a wheel that turns rapidly inside a frame and does not change position when the frame is moved. Gyroscopes are often used to keep ships and aircraft steady.",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "hand luggage",
@@ -6182,7 +6340,8 @@
         "definition": "small bags that you can keep with you on an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "go-around",
@@ -6200,7 +6359,8 @@
         "definition": "an argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "gate",
@@ -6339,7 +6499,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "hatchway",
@@ -6353,7 +6514,8 @@
         "definition": "an opening or a door in a ship, aircraft or spacecraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "hatch",
@@ -6411,7 +6573,8 @@
         "definition": "used before drinking something, especially to express good wishes before drinking alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "go-round",
@@ -6429,7 +6592,8 @@
         "definition": "an argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "hang-glider",
@@ -6447,7 +6611,8 @@
         "definition": "a person who goes hang-gliding",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "helipad",
@@ -6461,7 +6626,8 @@
         "definition": "a small area where helicopters can take off and land",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "helicopter",
@@ -6496,7 +6662,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "heliport",
@@ -6510,7 +6677,8 @@
         "definition": "a place where helicopters take off and land",
         "examples": []
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "in-flight",
@@ -6533,7 +6701,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "intercom",
@@ -6560,7 +6729,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "hub",
@@ -6608,7 +6778,8 @@
         "definition": "the central part of a wheel",
         "examples": []
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "jet engine",
@@ -6622,7 +6793,8 @@
         "definition": "an engine that drives an aircraft forwards by pushing out a stream of gases behind it",
         "examples": []
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "international",
@@ -6698,7 +6870,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "jetliner",
@@ -6712,7 +6885,8 @@
         "definition": "a large plane with a jet engine, that carries passengers",
         "examples": []
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "hot-air balloon",
@@ -6726,7 +6900,8 @@
         "definition": "a large balloon made of strong material that is filled with hot air or gas to make it rise in the air, usually carrying a basket for passengers",
         "examples": []
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "inboard",
@@ -6745,7 +6920,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "jet lag",
@@ -6764,7 +6940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "immigration",
@@ -6816,7 +6993,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "jet",
@@ -6869,7 +7047,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "jet",
@@ -6888,7 +7067,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "hold",
@@ -7085,7 +7265,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "jump jet",
@@ -7099,7 +7280,8 @@
         "definition": "an aircraft that can take off and land by going straight up or down, without needing a runway",
         "examples": []
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "jumbo",
@@ -7113,7 +7295,8 @@
         "definition": "a large plane that can carry several hundred passengers, especially a Boeing 747",
         "examples": []
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "landing gear",
@@ -7127,7 +7310,8 @@
         "definition": "the part of an aircraft, including the wheels, that supports it when it is landing and taking off",
         "examples": []
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "land",
@@ -7288,7 +7472,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "landing",
@@ -7340,7 +7525,8 @@
         "definition": "a flat wooden platform on the water where boats let people get on and off, and load and unload goods",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "joystick",
@@ -7367,7 +7553,8 @@
         "definition": "a stick with a handle in an aircraft that is used to control direction or height",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "landing card",
@@ -7381,7 +7568,8 @@
         "definition": "a card on which passengers on a plane or boat have to write details about themselves and which they then show to officials when they arrive in a foreign country",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "leading edge",
@@ -7408,7 +7596,8 @@
         "definition": "the front or forward edge of something moving, especially an aircraft wing",
         "examples": []
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "landside",
@@ -7431,7 +7620,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "last call",
@@ -7454,7 +7644,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "landing strip",
@@ -7468,7 +7659,8 @@
         "definition": "a narrow piece of cleared land that an aircraft can land on",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "fly",
@@ -7852,7 +8044,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "landside",
@@ -7871,7 +8064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "microlight",
@@ -7885,7 +8079,8 @@
         "definition": "a very small light aircraft for one or two people",
         "examples": []
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "metal detector",
@@ -7903,7 +8098,8 @@
         "definition": "an electronic machine that is used, for example at an airport, to see if people are hiding metal objects such as weapons",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "log",
@@ -7974,7 +8170,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "long haul",
@@ -8019,7 +8216,8 @@
         "definition": "over a long period of time",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "mid-air",
@@ -8038,7 +8236,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "light aircraft",
@@ -8052,7 +8251,8 @@
         "definition": "a small plane with seats for no more than about six passengers",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "mid-air",
@@ -8071,7 +8271,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "long-haul",
@@ -8090,7 +8291,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "monoplane",
@@ -8104,7 +8306,8 @@
         "definition": "an early type of plane with one set of wings",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "Mayday",
@@ -8118,7 +8321,8 @@
         "definition": "an international radio signal used by ships and aircraft needing help when they are in danger",
         "examples": []
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "navigator",
@@ -8132,7 +8336,8 @@
         "definition": "a person who navigates, for example on a ship or an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "no-fly zone",
@@ -8151,7 +8356,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "nose cone",
@@ -8165,7 +8371,8 @@
         "definition": "the pointed front end of a rocket, an aircraft, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "legroom",
@@ -8188,7 +8395,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "on-board",
@@ -8216,7 +8424,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "overbook",
@@ -8235,7 +8444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "one-way",
@@ -8284,7 +8494,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "outboard",
@@ -8303,7 +8514,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "lounge",
@@ -8343,7 +8555,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "originate",
@@ -8396,7 +8609,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "parachute",
@@ -8437,7 +8651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "parachutist",
@@ -8451,7 +8666,8 @@
         "definition": "a person who jumps from a plane using a parachute",
         "examples": []
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "overfly",
@@ -8474,7 +8690,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "navigate",
@@ -8540,7 +8757,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "overshoot",
@@ -8572,7 +8790,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "nose",
@@ -8905,7 +9124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "oxygen mask",
@@ -8919,7 +9139,8 @@
         "definition": "a device placed over the nose and mouth through which a person can breathe oxygen, for example in an aircraft or a hospital",
         "examples": []
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "payload",
@@ -8941,7 +9162,8 @@
         "definition": "the explosive power of a bomb or a missile",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "parachute",
@@ -8968,7 +9190,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "pilot",
@@ -9015,7 +9238,8 @@
         "definition": "a small flame that burns all the time, for example on a gas boiler, and lights a larger flame when the gas is turned on",
         "examples": []
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "paraglider",
@@ -9033,7 +9257,8 @@
         "definition": "a person who does paragliding",
         "examples": []
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "planeload",
@@ -9052,7 +9277,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "radar",
@@ -9101,7 +9327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "propeller",
@@ -9120,7 +9347,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "passenger",
@@ -9160,7 +9388,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "passport",
@@ -9216,7 +9445,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "red-eye",
@@ -9244,7 +9474,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "refuel",
@@ -9271,7 +9502,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "reservation",
@@ -9319,7 +9551,8 @@
         "definition": "(in India) the policy of keeping a fixed number of jobs or places in schools, colleges, etc. for people who are members of scheduled castes, scheduled tribes or other backward classes",
         "examples": []
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "plane",
@@ -9408,7 +9641,8 @@
         "definition": "a tool with a blade (= sharp metal part) set in a flat surface, used for making the surface of wood smooth by cutting very thin layers off it",
         "examples": []
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "return ticket",
@@ -9427,7 +9661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "rocket",
@@ -9479,7 +9714,8 @@
         "definition": "to speak angrily to somebody because they have done something wrong; to be spoken to angrily for this reason",
         "examples": []
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "rudder",
@@ -9493,7 +9729,8 @@
         "definition": "a piece of wood or metal at the back of a boat or an aircraft that is used for controlling its direction",
         "examples": []
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "scheduled flight",
@@ -9507,7 +9744,8 @@
         "definition": "a plane service that leaves at a regular time each day or week",
         "examples": []
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "seaplane",
@@ -9521,7 +9759,8 @@
         "definition": "a plane that can take off from and land on water",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "round-trip",
@@ -9544,7 +9783,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "safety belt",
@@ -9558,7 +9798,8 @@
         "definition": "a belt that is attached to the seat in a car or a plane and that you fasten around yourself so that you are not thrown out of the seat if there is an accident",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "round trip",
@@ -9589,7 +9830,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "runway",
@@ -9612,7 +9854,8 @@
         "definition": "the long stage that models walk on during a fashion show",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "seat belt",
@@ -9631,7 +9874,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "seat",
@@ -9852,7 +10096,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "short-haul",
@@ -9875,7 +10120,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "ski-plane",
@@ -9889,7 +10135,8 @@
         "definition": "a plane with two parts like skis fixed to the bottom so that it can land on snow or ice",
         "examples": []
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "skycap",
@@ -9903,7 +10150,8 @@
         "definition": "a person whose job is to carry people’s bags at an airport",
         "examples": []
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "sky marshal",
@@ -9917,7 +10165,8 @@
         "definition": "an armed guard, especially a government official, who travels on a plane with the passengers in order to protect the plane from terrorists",
         "examples": []
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "security",
@@ -10082,7 +10331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "sick bag",
@@ -10096,7 +10346,8 @@
         "definition": "a paper bag on a boat or plane into which you can vomit",
         "examples": []
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "sick",
@@ -10346,7 +10597,8 @@
         "definition": "feeling that you want to vomit",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "sonic boom",
@@ -10365,7 +10617,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "spacecraft",
@@ -10392,7 +10645,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "spaceship",
@@ -10406,7 +10660,8 @@
         "definition": "a vehicle that travels in space, carrying people",
         "examples": []
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "single",
@@ -10572,7 +10827,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "soar",
@@ -10651,7 +10907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "space shuttle",
@@ -10665,7 +10922,8 @@
         "definition": "a spacecraft designed to make repeated journeys, for example between the earth and a space station",
         "examples": []
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "spy balloon",
@@ -10684,7 +10942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "stick",
@@ -10865,7 +11124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "standby",
@@ -10879,7 +11139,8 @@
         "definition": "a standby ticket for a flight, concert, etc. cannot be bought in advance and is only available a very short time before the plane leaves or the performance starts",
         "examples": []
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "steward",
@@ -10937,7 +11198,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "stopover",
@@ -10964,7 +11226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "spoiler",
@@ -11008,7 +11271,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "stewardess",
@@ -11026,7 +11290,8 @@
         "definition": "a female steward on a ship or train",
         "examples": []
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "stabilizer",
@@ -11053,7 +11318,8 @@
         "definition": "a chemical that is sometimes added to food or paint to stop the various substances in it from becoming separate",
         "examples": []
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "stack",
@@ -11114,7 +11380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "stowage",
@@ -11128,7 +11395,8 @@
         "definition": "space provided for stowing things away, in a boat or a plane",
         "examples": []
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "tailspin",
@@ -11156,7 +11424,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "tailplane",
@@ -11170,7 +11439,8 @@
         "definition": "a small wing at the back of an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "test flight",
@@ -11184,7 +11454,8 @@
         "definition": "a flight during which an aircraft or part of its equipment is tested",
         "examples": []
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "taxi",
@@ -11198,7 +11469,8 @@
         "definition": "to move slowly along the ground before taking off or after landing",
         "examples": []
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "Tarmac™",
@@ -11221,7 +11493,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "take off",
@@ -11349,7 +11622,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "ticket",
@@ -11515,7 +11789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "touch down",
@@ -11547,7 +11822,8 @@
         "definition": "to score a try by putting the ball on the ground behind the other team’s goal line",
         "examples": []
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "terminal",
@@ -11597,7 +11873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "tail",
@@ -11746,7 +12023,8 @@
         "definition": "feeling ashamed or unhappy because you have been defeated or punished",
         "examples": []
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "take-off",
@@ -11785,7 +12063,8 @@
         "definition": "if you do a take-off of somebody, you copy the way they speak or behave, in a humorous way to entertain people",
         "examples": []
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "test pilot",
@@ -11799,7 +12078,8 @@
         "definition": "a pilot whose job is to fly new aircraft in order to test their performance",
         "examples": []
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "touchdown",
@@ -11839,7 +12119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "taxiway",
@@ -11853,7 +12134,8 @@
         "definition": "the hard path that a plane uses as it moves to and from the runway (= the hard surface where planes take off and land)",
         "examples": []
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "travel-sick",
@@ -11867,7 +12149,8 @@
         "definition": "feeling sick because you are travelling in a vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "travel sickness",
@@ -11881,7 +12164,8 @@
         "definition": "the unpleasant feeling that you are going to vomit caused by travelling in a vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "transit",
@@ -11930,7 +12214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "travelator",
@@ -11944,7 +12229,8 @@
         "definition": "a moving path, especially at an airport",
         "examples": []
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "turbojet",
@@ -11962,7 +12248,8 @@
         "definition": "a plane that gets its power from this type of engine",
         "examples": []
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "turboprop",
@@ -11980,7 +12267,8 @@
         "definition": "a plane that gets its power from this type of engine",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "wing",
@@ -12155,7 +12443,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "travolator",
@@ -12169,7 +12458,8 @@
         "definition": "a moving path, especially at an airport",
         "examples": []
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "turbulence",
@@ -12201,7 +12491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "ultralight",
@@ -12215,7 +12506,8 @@
         "definition": "a very small light aircraft for one or two people",
         "examples": []
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "warplane",
@@ -12229,7 +12521,8 @@
         "definition": "a military plane that is designed for fighting in the air or dropping bombs",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "tourist class",
@@ -12243,7 +12536,8 @@
         "definition": "the cheapest type of ticket or accommodation that is available on a plane or ship or in a hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "undercarriage",
@@ -12257,7 +12551,8 @@
         "definition": "the part of an aircraft, including the wheels, that supports it when it is on the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "window seat",
@@ -12275,7 +12570,8 @@
         "definition": "a seat below a window",
         "examples": []
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "upgrade",
@@ -12328,6 +12624,7 @@
         "definition": "to give somebody a more important job",
         "examples": []
       }
-    ]
+    ],
+    "id": 297
   }
 ]

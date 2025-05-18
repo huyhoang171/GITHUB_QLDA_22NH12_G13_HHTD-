@@ -1,119 +1,90 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, FlatList, StyleSheet, SafeAreaView, TouchableOpacity, Image } from 'react-native';
-import { useRouter } from 'expo-router';
-import { CategoryData } from '../types/navigation';
-import { styles } from '../styles/grammarStyle'
-import { CATEGORIES } from '../../constants/CategoryDataGrammar';
+import {
+  View,
+  Text,
+  FlatList,
+  StyleSheet,
+  SafeAreaView,
+  TouchableOpacity,
+  Image,
+} from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import FontAwesome5 from '@expo/vector-icons/FontAwesome5';
-import AntDesign from '@expo/vector-icons/AntDesign';
+import { useRouter, useFocusEffect } from 'expo-router'; // Thêm useFocusEffect
+import { useCallback } from 'react'; // Thêm useCallback
+import { CategoryData } from '../types/navigation';
+import { styles } from '../styles/grammarStyle';
+import { CATEGORIES } from '../../constants/CategoryDataGrammar';
 
-// export const options = {
-//   headerShown: false, // Tắt header mặc định của navigation
-// };
+interface ProgressData {
+  subtopicId: string; // Khớp với cache (chuỗi)
+  progress: 0 | 1;
+}
+
 const GrammarScreen = () => {
-  const [categories] = useState<CategoryData[]>(CATEGORIES);
+  const [categories, setCategories] = useState<CategoryData[]>(CATEGORIES);
+  const [progressData, setProgressData] = useState<ProgressData[]>([]);
   const router = useRouter();
-  const [learningStatus, setLearningStatus] = useState<{ [key: string]: boolean }>({});
-  const [completionStatus, setCompletionStatus] = useState<{ [key: string]: boolean }>({});
 
-  // Load saved status when component mounts
-  useEffect(() => {
-    loadSavedStatus();
-  }, []);
-
-  const loadSavedStatus = async () => {
+  // Hàm lấy tiến trình từ AsyncStorage
+  const getProgressListGrammar = async () => {
     try {
-      const savedLearningStatus = await AsyncStorage.getItem('learning_grammar');
-      const savedCompletionStatus = await AsyncStorage.getItem('completion_grammar');
-
-      if (savedLearningStatus) {
-        setLearningStatus(JSON.parse(savedLearningStatus));
-      }
-      if (savedCompletionStatus) {
-        setCompletionStatus(JSON.parse(savedCompletionStatus));
-      }
+      const storedProgress = await AsyncStorage.getItem('progressListGrammar');
+      const progressList = storedProgress ? JSON.parse(storedProgress) : [];
+      setProgressData(progressList);
     } catch (error) {
-      console.error('Error loading saved status:', error);
+      console.error('Lỗi khi lấy tiến trình:', error);
+      setProgressData([]);
     }
   };
 
-  const saveStatus = async (type: 'learning' | 'completion', status: { [key: string]: boolean }) => {
-    try {
-      await AsyncStorage.setItem(`${type}_grammar`, JSON.stringify(status));
-    } catch (error) {
-      console.error('Error saving status:', error);
-    }
-  };
+  // Làm mới tiến trình khi màn hình được focus
+  useFocusEffect(
+    useCallback(() => {
+      getProgressListGrammar();
+    }, [])
+  );
 
-  const toggleLearning = async (categoryId: string) => {
-    const newStatus = {
-      ...learningStatus,
-      [categoryId]: !learningStatus[categoryId]
-    };
-    setLearningStatus(newStatus);
-    await saveStatus('learning', newStatus);
+  // Hàm tính số bài học đã hoàn thành cho một danh mục
+  const getCompletedLessonsCount = (category: CategoryData): number => {
+    const lessonIds = category.lessons.map(lesson => lesson.id); // lesson.id là số
+    return progressData.filter(
+      item => lessonIds.includes(Number(item.subtopicId)) && item.progress === 1
+    ).length;
   };
-
-  const toggleCompletion = async (categoryId: string) => {
-    const newStatus = {
-      ...completionStatus,
-      [categoryId]: !completionStatus[categoryId]
-    };
-    setCompletionStatus(newStatus);
-    await saveStatus('completion', newStatus);
-  };
-  
 
   const navigateToLessons = (category: CategoryData): void => {
     router.push({
       pathname: '/(practice)/BasicGrammarScreen',
-      params: { category: JSON.stringify(category) }
+      params: { category: JSON.stringify(category) },
     });
-    // console.log('Navigating to BasicGrammar with category:', category);
   };
 
-  const renderItem = ({ item }: { item: CategoryData }): React.ReactElement => (
-    <TouchableOpacity style={styles.cardContainer} onPress={() => navigateToLessons(item)}>
-      <View style={styles.cardRow}>
-        <View style={styles.cardTextContent}>
-          <View style={styles.iconContainer}>
-            {!completionStatus[item.id] && (
-              <TouchableOpacity onPress={() => toggleLearning(item.id)}>
-                <FontAwesome5
-                  name={learningStatus[item.id] ? 'book-open' : 'book'}
-                  size={26}
-                  color={learningStatus[item.id] ? '#4a90e2' : '#BBBBBB'}
-                  style={{ marginRight: 12, marginBottom: 15 }}
-                />
-              </TouchableOpacity>
-            )}
+  const renderItem = ({ item }: { item: CategoryData }): React.ReactElement => {
+    const completedLessons = getCompletedLessonsCount(item);
+    const totalLessons = item.total;
 
-            <TouchableOpacity onPress={() => toggleCompletion(item.id)}>
-              <AntDesign
-                name={completionStatus[item.id] ? 'checksquare' : 'checksquareo'}
-                size={28}
-                color={completionStatus[item.id] ? '#4CAF50' : '#EE0000'}
-                style={{ marginBottom: 15 }}
-              />
-            </TouchableOpacity>
+    return (
+      <TouchableOpacity style={styles.cardContainer} onPress={() => navigateToLessons(item)}>
+        <View style={styles.cardRow}>
+          <View style={styles.cardTextContent}>
+            <Text style={styles.cardTitle}>{item.title}</Text>
+            <Text style={styles.cardDescription}>{item.description}</Text>
+            {/* Hiển thị số bài học đã học */}
+            <Text style={styles.progressText}>
+              Đã học: {completedLessons}/{totalLessons} bài
+            </Text>
+            <View style={styles.exploreButton}>
+              <Text style={styles.exploreText}>Explore topics →</Text>
+            </View>
           </View>
-          <Text style={styles.cardTitle}>{item.title}</Text>
-          <Text style={styles.cardDescription}>{item.description}</Text>
-          <View style={styles.exploreButton}>
-            <Text style={styles.exploreText}>Explore topics →</Text>
-          </View>
+          <Image source={item.image} style={styles.cardImage} resizeMode="cover" />
         </View>
-        <Image source={item.image} style={styles.cardImage} resizeMode="cover" />
-      </View>
-    </TouchableOpacity>
-  );
+      </TouchableOpacity>
+    );
+  };
 
   return (
     <SafeAreaView style={styles.container}>
-      <View style={styles.header}>
-        <Text style={styles.headerTitle}>Grammar</Text>
-      </View>
       <FlatList
         data={categories}
         renderItem={renderItem}
@@ -123,7 +94,5 @@ const GrammarScreen = () => {
     </SafeAreaView>
   );
 };
-
-
 
 export default GrammarScreen;

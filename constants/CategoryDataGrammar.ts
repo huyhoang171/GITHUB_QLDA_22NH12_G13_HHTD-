@@ -57,7 +57,7 @@ export const CATEGORIES: CategoryData[] = [
       { id: 27, title: 'Conjunctions', subTitle: 'Connect words, phrases, or clauses', path: 'words__conjunction' , image: require('../assets/images/Words/Conjunctions.png') },
       { id: 28, title: 'Interjections', subTitle: 'Express strong feelings or emotions', path: 'words__interjection' , image: require('../assets/images/Words/Interjections.png') },
       { id: 29, title: 'Articles', subTitle: 'A, an, the', path: 'words__article' , image: require('../assets/images/Words/Articles.png') },
-      { id: 32, title: 'Modals Verbs', subTitle: 'Can, could, may, might, must, shall, should, will, would', path: 'words__modal__verbs' , image: require('../assets/images/Words/Modals Verbs.png') },
+      { id: 30, title: 'Modals Verbs', subTitle: 'Can, could, may, might, must, shall, should, will, would', path: 'words__modal__verbs' , image: require('../assets/images/Words/Modals Verbs.png') },
     ]
   },
   {
@@ -68,11 +68,11 @@ export const CATEGORIES: CategoryData[] = [
     image: require('../assets/images/Others/Others.png'),
     total: 5,
     lessons: [
-      { id: 33, title: 'Word Families', subTitle: 'Words that are related to each other', path: 'word__families__word__families', image: require('../assets/images/Others/Word Families.png') },
-      { id: 34, title: 'Phrasal Verbs', subTitle: 'Verb + preposition or adverb', path: 'grammar__phrasal__verbs', image: require('../assets/images/Others/Phrasal Verbs.png') },
-      { id: 35, title: 'Idioms', subTitle: 'Expressions that have a meaning different from the meaning of the individual words', path: 'grammar__idioms', image: require('../assets/images/Others/Idioms.png') },
-      { id: 36, title: 'Proverbs', subTitle: 'Short sayings that give advice or express a belief', path: 'grammar__proverbs', image: require('../assets/images/Others/Proverbs.png') },
-      { id: 37, title: 'Quantifiers', subTitle: 'Words that describe quantity', path: 'grammar__quantifiers', image: require('../assets/images/Others/Quantifiers.png') },
+      { id: 31, title: 'Word Families', subTitle: 'Words that are related to each other', path: 'word__families__word__families', image: require('../assets/images/Others/Word Families.png') },
+      { id: 32, title: 'Phrasal Verbs', subTitle: 'Verb + preposition or adverb', path: 'grammar__phrasal__verbs', image: require('../assets/images/Others/Phrasal Verbs.png') },
+      { id: 33, title: 'Idioms', subTitle: 'Expressions that have a meaning different from the meaning of the individual words', path: 'grammar__idioms', image: require('../assets/images/Others/Idioms.png') },
+      { id: 34, title: 'Proverbs', subTitle: 'Short sayings that give advice or express a belief', path: 'grammar__proverbs', image: require('../assets/images/Others/Proverbs.png') },
+      { id: 35, title: 'Quantifiers', subTitle: 'Words that describe quantity', path: 'grammar__quantifiers', image: require('../assets/images/Others/Quantifiers.png') },
     ]
   }
   // ... rest of the categories ...

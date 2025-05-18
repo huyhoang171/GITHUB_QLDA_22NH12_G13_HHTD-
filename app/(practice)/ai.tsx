@@ -1,14 +1,17 @@
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
 import {
   View,
   TextInput,
-  Button,
+  TouchableOpacity,
   Text,
   StyleSheet,
   KeyboardAvoidingView,
   Platform,
   ActivityIndicator,
   ScrollView,
+  SafeAreaView,
+  StatusBar,
+  Dimensions,
 } from 'react-native';
 import { processAIRequest } from '../../services/api.service';
 
@@ -16,13 +19,14 @@ export default function ChatScreen() {
   const [input, setInput] = useState('');
   const [messages, setMessages] = useState<{ question: string; answer: string }[]>([]);
   const [isLoading, setIsLoading] = useState(false);
+  const scrollViewRef = useRef<ScrollView>(null);
 
   const handleSend = async () => {
     if (!input.trim() || isLoading) return;
 
     const question = input;
     setInput('');
-    setMessages([]); // ✅ XÓA TOÀN BỘ HỘI THOẠI TRƯỚC ĐÓ
+    setMessages([]); // Xóa toàn bộ hội thoại trước đó
     setIsLoading(true);
 
     if (containsVietnamese(question)) {
@@ -43,6 +47,10 @@ export default function ChatScreen() {
       setMessages([{ question, answer }]);
     } finally {
       setIsLoading(false);
+      // Cuộn xuống dưới khi có tin nhắn mới
+      setTimeout(() => {
+        scrollViewRef.current?.scrollToEnd({ animated: true });
+      }, 100);
     }
   };
 
@@ -53,104 +61,222 @@ export default function ChatScreen() {
   }
 
   return (
-    <KeyboardAvoidingView
-      style={styles.container}
-      behavior={Platform.OS === 'ios' ? 'padding' : undefined}
-    >
-      <View style={styles.innerContainer}>
-        <ScrollView
-          contentContainerStyle={styles.resultSection}
-          keyboardShouldPersistTaps="handled"
-        >
-          {messages.map((msg, index) => (
-            <View key={index} style={styles.messageBlock}>
-              <Text style={styles.label}>Bạn hỏi:</Text>
-              <Text style={styles.content}>{msg.question}</Text>
+    <SafeAreaView style={styles.safeArea}>
+      <StatusBar barStyle="dark-content" backgroundColor="#ffffff" />
+      
+      <KeyboardAvoidingView
+        style={styles.container}
+        behavior={Platform.OS === 'ios' ? 'padding' : undefined}
+        keyboardVerticalOffset={Platform.OS === 'ios' ? 0 : 0}
+      >
+        <View style={styles.innerContainer}>
+          <ScrollView
+            ref={scrollViewRef}
+            contentContainerStyle={styles.resultSection}
+            keyboardShouldPersistTaps="handled"
+            showsVerticalScrollIndicator={false}
+          >
+            {messages.length === 0 && !isLoading && (
+              <View style={styles.emptyState}>
+                <Text style={styles.emptyStateIcon}>💬</Text>
+                <Text style={styles.emptyStateText}>
+                  Hãy đặt câu hỏi bằng tiếng Anh
+                </Text>
+              </View>
+            )}
+            
+            {messages.map((msg, index) => (
+              <View key={index} style={styles.messagesContainer}>
+                {/* User question */}
+                <View style={styles.userMessageContainer}>
+                  <View style={styles.userMessage}>
+                    <Text style={styles.userMessageText}>{msg.question}</Text>
+                  </View>
+                </View>
+                
+                {/* Bot answer */}
+                <View style={styles.botMessageContainer}>
+                  <View style={styles.botAvatar}>
+                    <Text style={styles.botAvatarText}>🤖</Text>
+                  </View>
+                  <View style={styles.botMessage}>
+                    <Text style={styles.botMessageText}>{msg.answer}</Text>
+                  </View>
+                </View>
+              </View>
+            ))}
 
-              <Text style={styles.label}>Bot trả lời:</Text>
-              <Text style={styles.content}>{msg.answer}</Text>
-            </View>
-          ))}
+            {isLoading && (
+              <View style={styles.botMessageContainer}>
+                <View style={styles.botAvatar}>
+                  <Text style={styles.botAvatarText}>🤖</Text>
+                </View>
+                <View style={[styles.botMessage, styles.loadingMessage]}>
+                  <ActivityIndicator size="small" color="#4A90E2" />
+                  <Text style={styles.loadingText}>Đang trả lời...</Text>
+                </View>
+              </View>
+            )}
+          </ScrollView>
 
-          {isLoading && (
-            <View style={styles.loadingBlock}>
-              <ActivityIndicator size="small" color="#4A90E2" />
-              <Text style={{ marginLeft: 8 }}>Đang trả lời...</Text>
-            </View>
-          )}
-        </ScrollView>
-
-        <View style={styles.inputSection}>
-          <TextInput
-            value={input}
-            onChangeText={setInput}
-            placeholder="Nhập câu cần dịch hoặc giải thích"
-            style={styles.input}
-            editable={!isLoading}
-          />
-          <Button title="Gửi" onPress={handleSend} disabled={isLoading} />
+          <View style={styles.inputSection}>
+            <TextInput
+              value={input}
+              onChangeText={setInput}
+              placeholder="Nhập câu hỏi bằng tiếng Anh..."
+              style={styles.input}
+              editable={!isLoading}
+              multiline
+              placeholderTextColor="#9EA0A4"
+            />
+            <TouchableOpacity 
+              style={[
+                styles.sendButton, 
+                (!input.trim() || isLoading) ? styles.sendButtonDisabled : null
+              ]} 
+              onPress={handleSend} 
+              disabled={!input.trim() || isLoading}
+            >
+              <Text style={styles.sendButtonText}>➤</Text>
+            </TouchableOpacity>
+          </View>
         </View>
-      </View>
-    </KeyboardAvoidingView>
+      </KeyboardAvoidingView>
+    </SafeAreaView>
   );
 }
 
+const { width } = Dimensions.get('window');
 const styles = StyleSheet.create({
+  safeArea: {
+    flex: 1,
+    backgroundColor: '#F8F9FA',
+  },
   container: {
     flex: 1,
   },
   innerContainer: {
     flex: 1,
-    padding: 16,
-    backgroundColor: '#F2F2F2',
+    backgroundColor: '#F8F9FA',
   },
   resultSection: {
-    paddingBottom: 16,
+    padding: 16,
+    paddingBottom: 80,
   },
-  messageBlock: {
+  emptyState: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginTop: 100,
+  },
+  emptyStateIcon: {
+    fontSize: 50,
+    color: '#DADADA',
+  },
+  emptyStateText: {
+    marginTop: 16,
+    fontSize: 16,
+    color: '#9EA0A4',
+    textAlign: 'center',
+  },
+  messagesContainer: {
+    marginBottom: 24,
+  },
+  userMessageContainer: {
+    flexDirection: 'row',
+    justifyContent: 'flex-end',
     marginBottom: 12,
-    padding: 12,
-    backgroundColor: '#fff',
-    borderRadius: 12,
+  },
+  userMessage: {
+    maxWidth: width * 0.75,
+    backgroundColor: '#4A90E2',
+    borderRadius: 18,
+    borderBottomRightRadius: 4,
+    paddingHorizontal: 16,
+    paddingVertical: 12,
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 1 },
     shadowOpacity: 0.1,
-    shadowRadius: 2,
-    elevation: 2,
+    shadowRadius: 1,
+    elevation: 1,
   },
-  label: {
-    fontWeight: 'bold',
-    fontSize: 14,
-    color: '#333',
-    marginBottom: 4,
-  },
-  content: {
+  userMessageText: {
+    color: '#FFFFFF',
     fontSize: 16,
-    color: '#555',
-    marginBottom: 8,
   },
-  loadingBlock: {
+  botMessageContainer: {
+    flexDirection: 'row',
+    marginBottom: 12,
+  },
+  botAvatar: {
+    width: 32,
+    height: 32,
+    borderRadius: 16,
+    backgroundColor: '#4CAF50',
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginRight: 8,
+  },
+  botMessage: {
+    maxWidth: width * 0.75,
+    backgroundColor: '#FFFFFF',
+    borderRadius: 18,
+    borderBottomLeftRadius: 4,
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 1 },
+    shadowOpacity: 0.1,
+    shadowRadius: 1,
+    elevation: 1,
+  },
+  botMessageText: {
+    color: '#333333',
+    fontSize: 16,
+  },
+  loadingMessage: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginTop: 8,
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+  },
+  loadingText: {
+    color: '#333333',
+    marginLeft: 8,
+    fontSize: 14,
   },
   inputSection: {
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0,
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: '#fff',
-    borderRadius: 24,
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
-    elevation: 3,
+    backgroundColor: '#FFFFFF',
+    borderTopWidth: 1,
+    borderTopColor: '#EFEFEF',
+    paddingHorizontal: 16,
+    paddingVertical: 12,
   },
   input: {
     flex: 1,
+    maxHeight: 100,
     fontSize: 16,
-    paddingVertical: 8,
-    paddingHorizontal: 12,
+    backgroundColor: '#F2F2F2',
+    borderRadius: 20,
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    marginRight: 12,
+  },
+  sendButton: {
+    width: 44,
+    height: 44,
+    borderRadius: 22,
+    backgroundColor: '#4A90E2',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  sendButtonDisabled: {
+    backgroundColor: '#E0E0E0',
   },
 });

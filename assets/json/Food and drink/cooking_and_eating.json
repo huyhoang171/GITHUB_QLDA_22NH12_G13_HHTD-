@@ -62,7 +62,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "bowl",
@@ -149,7 +150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "baking powder",
@@ -163,7 +165,8 @@
         "definition": "a mixture of powders that are used to make cakes rise and become light as they are baked",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "book",
@@ -249,7 +252,8 @@
         "definition": "to write down in an official book the name of a player who has broken the rules of the game",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "anorexic",
@@ -263,7 +267,8 @@
         "definition": "affected by anorexia; connected with anorexia",
         "examples": []
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "blend",
@@ -325,7 +330,8 @@
         "definition": "to behave in a way that does not attract any attention; to disappear or hide",
         "examples": []
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "Atkins Diet™",
@@ -339,7 +345,8 @@
         "definition": "a weight loss programme developed by Dr. Robert Atkins (1930-2003) which involves limiting the amount of carbohydrates, such as bread, pasta, etc., that you eat and replacing them with more protein and fat, such as meat, butter, etc. People who follow the diet are expected to lose weight because their body will burn more fat for energy. The diet became very popular in the US and Britain in the mid-2000s.",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "barbecue",
@@ -371,7 +378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "appetizer",
@@ -407,7 +415,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "anorexic",
@@ -421,7 +430,8 @@
         "definition": "a person who has anorexia",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "baking sheet",
@@ -435,7 +445,8 @@
         "definition": "a small sheet of metal used for baking food on",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "barbecue",
@@ -449,7 +460,8 @@
         "definition": "to cook food on a barbecue",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "antioxidant",
@@ -467,7 +479,8 @@
         "definition": "a substance that helps prevent oxidation, especially one used to help prevent stored food products from going bad",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "bistro",
@@ -481,7 +494,8 @@
         "definition": "a small informal restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "banquet",
@@ -509,7 +523,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "balanced",
@@ -536,7 +551,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "all-you-can-eat",
@@ -555,7 +571,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "appetizing",
@@ -578,7 +595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "bill",
@@ -738,7 +756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "al dente",
@@ -752,7 +771,8 @@
         "definition": "food, especially pasta, that is cooked al dente is not too soft when bitten",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "bottle",
@@ -840,7 +860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "abstain",
@@ -877,7 +898,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "baking",
@@ -917,7 +939,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "appetite",
@@ -965,7 +988,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "anorexia",
@@ -979,7 +1003,8 @@
         "definition": "a mental illness causing somebody to control the amount of food they eat in an extreme way that leads to dangerous weight loss, usually because they have an intense fear of gaining weight and believe they are overweight when they are not",
         "examples": []
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "blowout",
@@ -1033,7 +1058,8 @@
         "definition": "a sudden escape of oil or gas from an oil well",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "boil over",
@@ -1069,7 +1095,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "beat",
@@ -1434,7 +1461,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "brunch",
@@ -1453,7 +1481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "afternoon tea",
@@ -1467,7 +1496,8 @@
         "definition": "a light meal eaten in the afternoon, usually consisting of tea with sandwiches, scones and cakes",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "boil",
@@ -1567,7 +1597,8 @@
         "definition": "used to say that when you are impatient for something to happen, time seems to pass very slowly",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "binge",
@@ -1586,7 +1617,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "air fryer",
@@ -1605,7 +1637,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "barbie",
@@ -1623,7 +1656,8 @@
         "definition": "an outdoor meal or party when food is cooked in this way",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "abstemious",
@@ -1642,7 +1676,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "binge",
@@ -1673,7 +1708,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "bouillon cube",
@@ -1692,7 +1728,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "blender",
@@ -1711,7 +1748,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "bill of fare",
@@ -1725,7 +1763,8 @@
         "definition": "a list of the food that can be ordered in a restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "booth",
@@ -1787,7 +1826,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "antipasto",
@@ -1801,7 +1841,8 @@
         "definition": "a small amount of food that you eat before the main part of a meal",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "be starving (for something)",
@@ -1854,7 +1895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "batter",
@@ -1903,7 +1945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "bitter",
@@ -2012,7 +2055,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "baste",
@@ -2030,7 +2074,8 @@
         "definition": "to sew pieces of cloth together with long, loose stitches",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "broil",
@@ -2058,7 +2103,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "broiler",
@@ -2081,7 +2127,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "abstinence",
@@ -2100,7 +2147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "balloon whisk",
@@ -2114,7 +2162,8 @@
         "definition": "a whisk that you hold in your hand, made of thin pieces of curved wire",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "braise",
@@ -2137,7 +2186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "bland",
@@ -2182,7 +2232,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "burner",
@@ -2231,7 +2282,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "breakfast",
@@ -2287,7 +2339,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "busboy",
@@ -2301,7 +2354,8 @@
         "definition": "a person who works in a restaurant and whose job is to clear the dirty dishes, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "cafeteria",
@@ -2320,7 +2374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "brasserie",
@@ -2334,7 +2389,8 @@
         "definition": "a type of restaurant, often one in a French style that is not very expensive",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "carbohydrate",
@@ -2366,7 +2422,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "buffet",
@@ -2405,7 +2462,8 @@
         "definition": "a piece of furniture in a dining room for putting food on before it is served, with drawers in it for storing knives, forks, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "butter knife",
@@ -2419,7 +2477,8 @@
         "definition": "a knife that has a flat metal edge with a round end, used for spreading butter on bread",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "bulimia",
@@ -2433,7 +2492,8 @@
         "definition": "a mental illness in which somebody repeatedly eats too much and then forces themselves to vomit",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "carb",
@@ -2451,7 +2511,8 @@
         "definition": "foods such as bread, potatoes and rice that contain a lot of carbohydrate",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "calorie",
@@ -2482,7 +2543,8 @@
         "definition": "a unit for measuring a quantity of heat; the amount of heat needed to raise the temperature of a gram of water by one degree Celsius",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "calorific",
@@ -2514,7 +2576,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "carvery",
@@ -2528,7 +2591,8 @@
         "definition": "a restaurant that serves roast meat",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "chargrill",
@@ -2547,7 +2611,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "chef",
@@ -2574,7 +2639,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "carry-out",
@@ -2601,7 +2667,8 @@
         "definition": "a meal that you buy at this type of restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "carving knife",
@@ -2615,7 +2682,8 @@
         "definition": "a large sharp knife for cutting cooked meat",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "cheesy",
@@ -2664,7 +2732,8 @@
         "definition": "smelling or tasting of cheese",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "cafe",
@@ -2699,7 +2768,8 @@
         "definition": "a small shop that sells sweets, newspapers, food, etc. and usually stays open later than other shops",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "carve",
@@ -2786,7 +2856,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "check",
@@ -2981,7 +3052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "chopping board",
@@ -2995,7 +3067,8 @@
         "definition": "a board made of wood or plastic used for cutting meat or vegetables on",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "cholesterol",
@@ -3022,7 +3095,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "chopstick",
@@ -3036,7 +3110,8 @@
         "definition": "either of a pair of thin sticks that are used for eating with, especially in East Asian countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "chewy",
@@ -3050,7 +3125,8 @@
         "definition": "needing to be chewed a lot before it can be eaten",
         "examples": []
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "cling film",
@@ -3064,7 +3140,8 @@
         "definition": "a thin clear plastic material that sticks to a surface and to itself, used especially for wrapping food",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "coffee shop",
@@ -3078,7 +3155,8 @@
         "definition": "a small restaurant, often in a store, hotel, etc., where coffee, tea, other drinks without alcohol and simple food are served",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "cocktail stick",
@@ -3097,7 +3175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "clean eating",
@@ -3120,7 +3199,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "chop",
@@ -3177,7 +3257,8 @@
         "definition": "to keep changing your mind or what you are doing",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "colander",
@@ -3191,7 +3272,8 @@
         "definition": "a metal or plastic bowl with a lot of small holes in it, used for draining water from vegetables, etc. after washing or cooking",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "chunky",
@@ -3232,7 +3314,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "Christmas",
@@ -3288,7 +3371,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "comfort food",
@@ -3311,7 +3395,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "commis",
@@ -3325,7 +3410,8 @@
         "definition": "a junior cook who works in a kitchen",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "convenience food",
@@ -3356,7 +3442,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "cook",
@@ -3446,7 +3533,8 @@
         "definition": "to destroy somebody’s chances of success",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "cook",
@@ -3477,7 +3565,8 @@
         "definition": "if too many people are involved in doing something, it will not be done well",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "cookware",
@@ -3491,7 +3580,8 @@
         "definition": "pots and containers used in cooking",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "cooker",
@@ -3518,7 +3608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "cookery book",
@@ -3537,7 +3628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "cookery",
@@ -3560,7 +3652,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "cooking",
@@ -3604,7 +3697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "corkage",
@@ -3618,7 +3712,8 @@
         "definition": "the money that a restaurant charges if you want to drink wine there that you have bought somewhere else",
         "examples": []
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "convection oven",
@@ -3637,7 +3732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "cookbook",
@@ -3651,7 +3747,8 @@
         "definition": "a book that gives instructions on cooking and how to cook individual dishes",
         "examples": []
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "corkscrew",
@@ -3665,7 +3762,8 @@
         "definition": "a tool for pulling corks from bottles. Most corkscrews have a handle and a long twisted piece of metal for pushing into the cork.",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "counter",
@@ -3754,7 +3852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "countertop",
@@ -3768,7 +3867,8 @@
         "definition": "a flat surface in a kitchen for preparing food on",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "cream tea",
@@ -3782,7 +3882,8 @@
         "definition": "a special meal eaten in the afternoon, consisting of tea with scones, jam and thick cream",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "creamy",
@@ -3814,7 +3915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "crunchy",
@@ -3833,7 +3935,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "cutlery",
@@ -3868,7 +3971,8 @@
         "definition": "knives, etc. that are sharp",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "deep-fry",
@@ -3887,7 +3991,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "culinary",
@@ -3910,7 +4015,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "defrost",
@@ -3941,7 +4047,8 @@
         "definition": "to remove ice from the surface of a car’s windows",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "cuisine",
@@ -3973,7 +4080,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "crisp",
@@ -4062,7 +4170,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "delicious",
@@ -4110,7 +4219,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "crispy",
@@ -4133,7 +4243,8 @@
         "definition": "fairly hard and fresh",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "crockery",
@@ -4156,7 +4267,8 @@
         "definition": "dishes, etc. that you use in the oven",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "dessertspoon",
@@ -4174,7 +4286,8 @@
         "definition": "the amount a dessertspoon can hold",
         "examples": []
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "crusty",
@@ -4202,7 +4315,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "dhaba",
@@ -4216,7 +4330,8 @@
         "definition": "a small cheap restaurant where Punjabi food is served, with basic furniture and facilities, and often with an open front and tables outside",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "dessert",
@@ -4243,7 +4358,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "course",
@@ -4683,7 +4799,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "diet",
@@ -4702,7 +4819,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "dice",
@@ -4725,7 +4843,8 @@
         "definition": "to risk your life by doing something that you know is dangerous",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "dietary",
@@ -4756,7 +4875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "diet",
@@ -4825,7 +4945,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "digestion",
@@ -4870,7 +4991,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "dietician",
@@ -4884,7 +5006,8 @@
         "definition": "a person whose job is to advise people on what kind of food they should eat to keep healthy",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "dieter",
@@ -4898,7 +5021,8 @@
         "definition": "a person who is trying to lose weight on a diet",
         "examples": []
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "dine out",
@@ -4917,7 +5041,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "dine-in",
@@ -4940,7 +5065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "digest",
@@ -4989,7 +5115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "dine",
@@ -5025,7 +5152,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "dinner",
@@ -5138,7 +5266,8 @@
         "definition": "completely defeated",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "dining table",
@@ -5152,7 +5281,8 @@
         "definition": "a table for having meals on",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "dinner theater",
@@ -5166,7 +5296,8 @@
         "definition": "a theatre in which a meal is included in the price of a ticket",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "diner",
@@ -5194,7 +5325,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "dishwasher",
@@ -5225,7 +5357,8 @@
         "definition": "a person whose job is to wash plates, etc., for example in a restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "doggy bag",
@@ -5239,7 +5372,8 @@
         "definition": "a bag for taking home any food that is left after a meal in a restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "doily",
@@ -5257,7 +5391,8 @@
         "definition": "a small attractive mat that you put on top of a piece of furniture",
         "examples": []
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "dish",
@@ -5348,7 +5483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "drive-through",
@@ -5371,7 +5507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "dressed",
@@ -5456,7 +5593,8 @@
         "definition": "an offensive way to describe a woman who you think is trying to look younger than she really is, especially by wearing clothes that are designed for young people",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "eat in",
@@ -5475,7 +5613,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "eat-in",
@@ -5498,7 +5637,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "dry",
@@ -5765,7 +5905,8 @@
         "definition": "to get as much money, information, etc. out of somebody as you can",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "eatery",
@@ -5779,7 +5920,8 @@
         "definition": "a restaurant or other place that serves food",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "eating",
@@ -5802,7 +5944,8 @@
         "definition": "you can only judge if something is good or bad when you have tried it",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "eat",
@@ -6003,7 +6146,8 @@
         "definition": "used to ask what somebody is annoyed or worried about",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "elevenses",
@@ -6017,7 +6161,8 @@
         "definition": "a very small meal, for example biscuits with tea or coffee, that people sometimes have at about eleven o’clock in the morning",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "fan oven",
@@ -6036,7 +6181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "fast food",
@@ -6059,7 +6205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "eat out",
@@ -6078,7 +6225,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "fattening",
@@ -6101,7 +6249,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "fasting",
@@ -6120,7 +6269,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "fast-casual",
@@ -6139,7 +6289,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "eating disorder",
@@ -6153,7 +6304,8 @@
         "definition": "a condition in which somebody develops eating habits that are not healthy as a way of dealing with difficult feelings or situations",
         "examples": []
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "fast",
@@ -6176,7 +6328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "entrée",
@@ -6203,7 +6356,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "fat",
@@ -6277,7 +6431,8 @@
         "definition": "to have enough money to be able to afford expensive things, food, drink, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "fatty acid",
@@ -6296,7 +6451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "filling",
@@ -6319,7 +6475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "finger bowl",
@@ -6338,7 +6495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "fish knife",
@@ -6352,7 +6510,8 @@
         "definition": "a knife with a broad blade and without a sharp edge, used for eating fish",
         "examples": []
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "feast",
@@ -6401,7 +6560,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "flavour enhancer",
@@ -6415,7 +6575,8 @@
         "definition": "a substance that is added to food to make the flavour stronger",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "food",
@@ -6500,7 +6661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "flavour",
@@ -6519,7 +6681,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "fibre",
@@ -6580,7 +6743,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "five a day",
@@ -6674,7 +6838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "foodie",
@@ -6688,7 +6853,8 @@
         "definition": "a person who is very interested in cooking and eating different kinds of food",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "food processor",
@@ -6707,7 +6873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "food truck",
@@ -6726,7 +6893,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "foody",
@@ -6740,7 +6908,8 @@
         "definition": "a person who is very interested in cooking and eating different kinds of food",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "fork",
@@ -6801,7 +6970,8 @@
         "definition": "either of two metal supporting pieces into which a wheel on a bicycle or motorcycle is fitted",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "food group",
@@ -6824,7 +6994,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "fry-up",
@@ -6843,7 +7014,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "fryer",
@@ -6866,7 +7038,8 @@
         "definition": "a young chicken that is suitable for frying",
         "examples": []
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "free-from",
@@ -6885,7 +7058,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "food court",
@@ -6904,7 +7078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "garlic press",
@@ -6923,7 +7098,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "fry",
@@ -6967,7 +7143,8 @@
         "definition": "to have more important or more interesting things to do",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "frying pan",
@@ -6990,7 +7167,8 @@
         "definition": "from a bad situation to one that is worse",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "fresh",
@@ -7230,7 +7408,8 @@
         "definition": "to make somebody feel positive, especially when they thought that they had no chance of achieving something",
         "examples": []
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "gas ring",
@@ -7244,7 +7423,8 @@
         "definition": "a round piece of metal with holes in it on the top of a gas cooker, where the gas is lit to produce the flame for cooking",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "garnish",
@@ -7267,7 +7447,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "gram",
@@ -7294,7 +7475,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "gastropub",
@@ -7308,7 +7490,8 @@
         "definition": "a pub that is well known for serving good food",
         "examples": []
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "full-bodied",
@@ -7331,7 +7514,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "gelatin",
@@ -7345,7 +7529,8 @@
         "definition": "a clear substance without any taste that is made from boiling animal bones and is used to make jelly, film for cameras, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "gramme",
@@ -7359,7 +7544,8 @@
         "definition": "a unit for measuring weight. There are 1 000 grammes in one kilogram.",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "grater",
@@ -7378,7 +7564,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "glassware",
@@ -7392,7 +7579,8 @@
         "definition": "objects made of glass",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "greaseproof paper",
@@ -7406,7 +7594,8 @@
         "definition": "paper that does not let grease, oil, etc. pass through it, used in cooking and for wrapping food in",
         "examples": []
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "glass",
@@ -7564,7 +7753,8 @@
         "definition": "to hold up your glass and wish somebody happiness, good luck, etc. before you drink",
         "examples": []
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "garbage disposal",
@@ -7578,7 +7768,8 @@
         "definition": "a machine connected to the waste pipe of a kitchen sink, for cutting food waste into small pieces",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "greeter",
@@ -7592,7 +7783,8 @@
         "definition": "a person whose job is to meet and welcome people in a public place such as a restaurant or shop",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "grill",
@@ -7637,7 +7829,8 @@
         "definition": "a screen made of metal bars or wire that is placed in front of a window, door or machine in order to protect it",
         "examples": []
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "gingery",
@@ -7656,7 +7849,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "grate",
@@ -7713,7 +7907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "gratuity",
@@ -7741,7 +7936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "health food",
@@ -7760,7 +7956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "grill",
@@ -7809,7 +8006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "griddle",
@@ -7823,7 +8021,8 @@
         "definition": "a flat iron plate that is heated and used for cooking food",
         "examples": []
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "greasy",
@@ -7885,7 +8084,8 @@
         "definition": "used to refer to the difficult way to the top of a profession",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "greasy spoon",
@@ -7899,7 +8099,8 @@
         "definition": "a small cheap cafe or restaurant that serves greasy fried food",
         "examples": []
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "grinder",
@@ -7922,7 +8123,8 @@
         "definition": "a person whose job is to make knives sharper; a machine which does this",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "halal",
@@ -7949,7 +8151,8 @@
         "definition": "acceptable according to Islamic law",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "grind",
@@ -8068,7 +8271,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "healthful",
@@ -8082,7 +8286,8 @@
         "definition": "good for your health",
         "examples": []
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "helping",
@@ -8114,7 +8319,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "heat",
@@ -8145,7 +8351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "healthy",
@@ -8257,7 +8464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "high tea",
@@ -8271,7 +8479,8 @@
         "definition": "a meal consisting of cooked food, bread and butter and cakes, usually with tea to drink, eaten in the late afternoon or early evening instead of dinner",
         "examples": []
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "hors d’oeuvre",
@@ -8285,7 +8494,8 @@
         "definition": "a small amount of food, usually cold, served before the main part of a meal",
         "examples": []
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "host",
@@ -8385,7 +8595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "hot",
@@ -8757,7 +8968,8 @@
         "definition": "to make use of an opportunity immediately",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "heat up",
@@ -8794,7 +9006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "hob",
@@ -8829,7 +9042,8 @@
         "definition": "a metal shelf at the side of a fire, used in the past for heating pans, etc. on",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "hotplate",
@@ -8843,7 +9057,8 @@
         "definition": "a flat, heated metal surface, for example on a cooker, that is used for cooking food or for keeping it hot",
         "examples": []
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "intolerant",
@@ -8875,7 +9090,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "insipid",
@@ -8907,7 +9123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "ice",
@@ -8921,7 +9138,8 @@
         "definition": "to cover a cake with icing",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "ingredient",
@@ -8973,7 +9191,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "junk food",
@@ -8987,7 +9206,8 @@
         "definition": "food that is quick and easy to prepare and eat but that is thought to be bad for your health",
         "examples": []
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "julienne",
@@ -9006,7 +9226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "juicer",
@@ -9024,7 +9245,8 @@
         "definition": "a kitchen utensil (= a tool) for pressing juice out of a fruit",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "juicy",
@@ -9073,7 +9295,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "kettle",
@@ -9112,7 +9335,8 @@
         "definition": "used to say that you should not criticize somebody for a fault that you have yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "hostess",
@@ -9147,7 +9371,8 @@
         "definition": "a woman who welcomes the customers in a restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "kilo",
@@ -9161,7 +9386,8 @@
         "definition": "a unit for measuring weight; 1 000 grams",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "jar",
@@ -9220,7 +9446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "lacto-ovo-vegetarian",
@@ -9234,7 +9461,8 @@
         "definition": "a person who does not eat meat or fish, but who does eat animal products such as cheese and eggs",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "kilogram",
@@ -9257,7 +9485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "lacto-vegetarian",
@@ -9271,7 +9500,8 @@
         "definition": "a person who does not eat meat, fish or eggs, but does eat animal products made from milk",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "knife",
@@ -9353,7 +9583,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "kitchen porter",
@@ -9367,7 +9598,8 @@
         "definition": "a person who works in the kitchen of a restaurant, hotel, etc., washing plates and doing other simple jobs",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "kitchen",
@@ -9415,7 +9647,8 @@
         "definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "ladle",
@@ -9429,7 +9662,8 @@
         "definition": "a large, deep spoon with a long handle, used especially for serving soup",
         "examples": []
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "kosher",
@@ -9465,7 +9699,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "knead",
@@ -9493,7 +9728,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "lemon-squeezer",
@@ -9507,7 +9743,8 @@
         "definition": "a kitchen utensil (= a tool) for pressing juice out of a fruit",
         "examples": []
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "kopitiam",
@@ -9526,7 +9763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "liquid",
@@ -9557,7 +9795,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "liquidize",
@@ -9571,7 +9810,8 @@
         "definition": "to press fruit, vegetables, etc. into a thick liquid",
         "examples": []
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "liquidizer",
@@ -9585,7 +9825,8 @@
         "definition": "an electric machine for mixing soft food or liquid",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "lean",
@@ -9651,7 +9892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "light",
@@ -10011,7 +10253,8 @@
         "definition": "used to say that a job is made easier if a lot of people help",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "live on",
@@ -10065,7 +10308,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "litre",
@@ -10092,7 +10336,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "liter",
@@ -10106,7 +10351,8 @@
         "definition": "a unit for measuring volume, equal to 1.76 British pints or 2.11 American pints",
         "examples": []
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "low-cal",
@@ -10120,7 +10366,8 @@
         "definition": "containing very few calories",
         "examples": []
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "low-carb",
@@ -10139,7 +10386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "lite",
@@ -10167,7 +10415,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "lo-cal",
@@ -10181,7 +10430,8 @@
         "definition": "containing very few calories",
         "examples": []
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "lunch",
@@ -10200,7 +10450,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "lunch",
@@ -10267,7 +10518,8 @@
         "definition": "used to say that it is not possible to get something for nothing",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "low-fat",
@@ -10290,7 +10542,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "main",
@@ -10329,7 +10582,8 @@
         "definition": "with the hope of using a particular situation in order to gain some advantage for yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "lunchtime",
@@ -10356,7 +10610,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "marinade",
@@ -10370,7 +10625,8 @@
         "definition": "a mixture of oil, wine, spices, etc., in which meat, fish or other food is left before it is cooked in order to make it softer or to give it a particular taste",
         "examples": []
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "marinade",
@@ -10384,7 +10640,8 @@
         "definition": "if you marinade food or it marinades, you leave it in a marinade before cooking it",
         "examples": []
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "main course",
@@ -10403,7 +10660,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "marinate",
@@ -10417,7 +10675,8 @@
         "definition": "if you marinate food or it marinates, you leave it in a marinade before cooking it",
         "examples": []
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "luncheonette",
@@ -10431,7 +10690,8 @@
         "definition": "a small restaurant serving simple meals",
         "examples": []
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "maître d’",
@@ -10449,7 +10709,8 @@
         "definition": "a man who manages a hotel",
         "examples": []
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "mash",
@@ -10468,7 +10729,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "measure",
@@ -10553,7 +10815,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "meat grinder",
@@ -10567,7 +10830,8 @@
         "definition": "a machine for cutting food, especially meat, into very small pieces",
         "examples": []
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "measuring cup",
@@ -10581,7 +10845,8 @@
         "definition": "a metal or plastic container used especially in the US for measuring quantities when cooking",
         "examples": []
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "measuring jug",
@@ -10595,7 +10860,8 @@
         "definition": "a glass or plastic container for measuring liquids when cooking",
         "examples": []
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "meaty",
@@ -10649,7 +10915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "mature",
@@ -10718,7 +10985,8 @@
         "definition": "after thinking about something carefully and for a long time",
         "examples": []
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "menu",
@@ -10774,7 +11042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "meal",
@@ -10844,7 +11113,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "microwave",
@@ -10871,7 +11141,8 @@
         "definition": "an electromagnetic wave that is shorter than a radio wave but longer than a light wave",
         "examples": []
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "mincer",
@@ -10885,7 +11156,8 @@
         "definition": "a machine for cutting food, especially meat, into very small pieces",
         "examples": []
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "mild",
@@ -10988,7 +11260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "mixing bowl",
@@ -11002,7 +11275,8 @@
         "definition": "a large bowl for mixing food in",
         "examples": []
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "microwave",
@@ -11016,7 +11290,8 @@
         "definition": "to cook or heat something in a microwave",
         "examples": []
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "mixer",
@@ -11060,7 +11335,8 @@
         "definition": "a person who finds it easy/difficult to talk to people they do not know, for example at a party",
         "examples": []
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "moreish",
@@ -11074,7 +11350,8 @@
         "definition": "if food or drink is moreish, it tastes so good that you want to have more of it",
         "examples": []
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "mince",
@@ -11115,7 +11392,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "mineral",
@@ -11155,7 +11433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "mix",
@@ -11306,7 +11585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "mug",
@@ -11364,7 +11644,8 @@
         "definition": "an activity that is unlikely to be successful or make a profit",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "nutritional",
@@ -11383,7 +11664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "mushy",
@@ -11411,7 +11693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "nourishment",
@@ -11446,7 +11729,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "nutritionally",
@@ -11465,7 +11749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "nibble",
@@ -11501,7 +11786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "nosh-up",
@@ -11520,7 +11806,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "napkin",
@@ -11555,7 +11842,8 @@
         "definition": "a nappy (= a piece of soft cloth or other thick material that is folded around a baby’s bottom and between its legs to take in and hold its body waste)",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "nourish",
@@ -11595,7 +11883,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "nutritious",
@@ -11614,7 +11903,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "nutrition",
@@ -11650,7 +11940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "oily",
@@ -11699,7 +11990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "Omega-3",
@@ -11718,7 +12010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "opener",
@@ -11771,7 +12064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "ovenware",
@@ -11785,7 +12079,8 @@
         "definition": "dishes that can be used for cooking food in an oven",
         "examples": []
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "oven",
@@ -11828,7 +12123,8 @@
         "definition": "to be pregnant",
         "examples": []
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "organic",
@@ -11904,7 +12200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "overfeed",
@@ -11918,7 +12215,8 @@
         "definition": "to give somebody/something too much food",
         "examples": []
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "order",
@@ -12048,7 +12346,8 @@
         "definition": "exactly what somebody wants or needs",
         "examples": []
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "overfed",
@@ -12062,7 +12361,8 @@
         "definition": "given too much food",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "ounce",
@@ -12089,7 +12389,8 @@
         "definition": "it is better to stop something bad from happening rather than try to deal with the problems after it has happened",
         "examples": []
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "order",
@@ -12603,7 +12904,8 @@
         "definition": "waiting for a signal to start a race",
         "examples": []
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "Paleo diet",
@@ -12622,7 +12924,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "paper towel",
@@ -12640,7 +12943,8 @@
         "definition": "thick paper on a roll, used for cleaning up liquid, food, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "pan",
@@ -12719,7 +13023,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "patronize",
@@ -12756,7 +13061,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "peeler",
@@ -12775,7 +13081,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "patronage",
@@ -12807,7 +13114,8 @@
         "definition": "the support that a person gives a shop, restaurant, etc. by spending money there",
         "examples": []
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "picnic",
@@ -12864,7 +13172,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "packed lunch",
@@ -12878,7 +13187,8 @@
         "definition": "a meal of sandwiches, fruit, etc. that is prepared at home and eaten at school, work, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "picante",
@@ -12897,7 +13207,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "pestle",
@@ -12911,7 +13222,8 @@
         "definition": "a small heavy tool with a round end used for pressing things to a powder in a special bowl called a mortar",
         "examples": []
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "peel",
@@ -12982,7 +13294,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "pizzeria",
@@ -12996,7 +13309,8 @@
         "definition": "a restaurant that serves mainly pizzas",
         "examples": []
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "pitcher",
@@ -13040,7 +13354,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "pescatarian",
@@ -13063,7 +13378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "parboil",
@@ -13077,7 +13393,8 @@
         "definition": "to boil food, especially vegetables, until it is partly cooked",
         "examples": []
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "place mat",
@@ -13091,7 +13408,8 @@
         "definition": "a mat on a table on which a person’s plate is put",
         "examples": []
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "portion",
@@ -13160,7 +13478,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "preheat",
@@ -13174,7 +13493,8 @@
         "definition": "to heat an oven to a particular temperature before you put food in it to cook",
         "examples": []
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "pluck",
@@ -13267,7 +13587,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "plate",
@@ -13312,7 +13633,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "pot",
@@ -13472,7 +13794,8 @@
         "definition": "used to say that when you are impatient for something to happen, time seems to pass very slowly",
         "examples": []
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "plate",
@@ -13663,7 +13986,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "prepare",
@@ -13770,7 +14094,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "poach",
@@ -13827,7 +14152,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "press",
@@ -14094,7 +14420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "pud",
@@ -14131,7 +14458,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "pound",
@@ -14262,7 +14590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "protein",
@@ -14293,7 +14622,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "pungent",
@@ -14329,7 +14659,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "ready meal",
@@ -14348,7 +14679,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "pudding",
@@ -14411,7 +14743,8 @@
         "definition": "you can only judge if something is good or bad when you have tried it",
         "examples": []
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "recipe",
@@ -14483,7 +14816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "regular",
@@ -14515,7 +14849,8 @@
         "definition": "a professional soldier who belongs to a country’s permanent army",
         "examples": []
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "pressure cooker",
@@ -14542,7 +14877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "regimen",
@@ -14565,7 +14901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "range",
@@ -14788,7 +15125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "rare",
@@ -14881,7 +15219,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "regime",
@@ -14922,7 +15261,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "roadhouse",
@@ -14936,7 +15276,8 @@
         "definition": "a restaurant or bar on a main road in the country",
         "examples": []
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "roaster",
@@ -14968,7 +15309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "roast",
@@ -15000,7 +15342,8 @@
         "definition": "an event, especially a meal, at which people celebrate somebody’s life by telling funny stories about them",
         "examples": []
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "ripe",
@@ -15066,7 +15409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "reheat",
@@ -15089,7 +15433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "restaurant",
@@ -15124,7 +15469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "reserve",
@@ -15190,7 +15536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "reservation",
@@ -15238,7 +15585,8 @@
         "definition": "(in India) the policy of keeping a fixed number of jobs or places in schools, colleges, etc. for people who are members of scheduled castes, scheduled tribes or other backward classes",
         "examples": []
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "roast",
@@ -15300,7 +15648,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "rich",
@@ -15496,7 +15845,8 @@
         "definition": "to get a lot of money, especially suddenly or unexpectedly",
         "examples": []
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "rotisserie",
@@ -15510,7 +15860,8 @@
         "definition": "a piece of equipment for cooking meat that turns it around on a long straight piece of metal (called a spit)",
         "examples": []
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "rolling pin",
@@ -15524,7 +15875,8 @@
         "definition": "a wooden or glass kitchen utensil (= a tool) in the shape of a tube, used for rolling pastry flat",
         "examples": []
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "savoury",
@@ -15556,7 +15908,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "rubbery",
@@ -15584,7 +15937,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "sauté",
@@ -15598,7 +15952,8 @@
         "definition": "to fry food quickly in a little hot fat",
         "examples": []
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "savory",
@@ -15630,7 +15985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "saucer",
@@ -15649,7 +16005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "salty",
@@ -15685,7 +16042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "saucepan",
@@ -15704,7 +16062,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "sauté",
@@ -15723,7 +16082,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "self-service",
@@ -15737,7 +16097,8 @@
         "definition": "a self-service shop, restaurant, etc. is one in which customers serve themselves and then pay for the goods",
         "examples": []
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "scramble",
@@ -15834,7 +16195,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "season",
@@ -15865,7 +16227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "scrumptious",
@@ -15879,7 +16242,8 @@
         "definition": "tasting very good",
         "examples": []
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "scale",
@@ -16075,7 +16439,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "scoop",
@@ -16116,7 +16481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "self-service",
@@ -16135,7 +16501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "servery",
@@ -16149,7 +16516,8 @@
         "definition": "part of a restaurant where you collect your food to take back to your table",
         "examples": []
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "serve",
@@ -16441,7 +16809,8 @@
         "definition": "to support two different parties, principles, etc. at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "server",
@@ -16476,7 +16845,8 @@
         "definition": "a person who helps a priest during a church service",
         "examples": []
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "service charge",
@@ -16503,7 +16873,8 @@
         "definition": "an amount of money that is paid to the owner of an apartment building for services such as putting out rubbish, cleaning the stairs, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "side dish",
@@ -16522,7 +16893,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "serviette",
@@ -16536,7 +16908,8 @@
         "definition": "a piece of cloth or paper used at meals for protecting your clothes and cleaning your lips and fingers",
         "examples": []
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "short-order cook",
@@ -16550,7 +16923,8 @@
         "definition": "a person who works in a restaurant cooking food that can be prepared quickly",
         "examples": []
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "side order",
@@ -16569,7 +16943,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "setting",
@@ -16698,7 +17073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "side salad",
@@ -16712,7 +17088,8 @@
         "definition": "a salad served with the main course of a meal",
         "examples": []
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "shout",
@@ -16822,7 +17199,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "sieve",
@@ -16849,7 +17227,8 @@
         "definition": "to have a very bad memory; to forget things easily",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "service",
@@ -17211,7 +17590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "side plate",
@@ -17225,7 +17605,8 @@
         "definition": "a small plate used for bread or other food that goes with a meal",
         "examples": []
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "silverware",
@@ -17252,7 +17633,8 @@
         "definition": "a silver cup that you win in a sports competition",
         "examples": []
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "simmer",
@@ -17305,7 +17687,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "skewer",
@@ -17319,7 +17702,8 @@
         "definition": "a long thin pointed piece of metal or wood that is pushed through pieces of meat, vegetables, etc. to hold them together while they are cooking, or used to test whether something is completely cooked",
         "examples": []
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "snack bar",
@@ -17333,7 +17717,8 @@
         "definition": "a place where you can buy a small quick meal, such as a sandwich",
         "examples": []
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "smokehouse",
@@ -17352,7 +17737,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "slotted spoon",
@@ -17371,7 +17757,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "skillet",
@@ -17394,7 +17781,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "snack",
@@ -17434,7 +17822,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "slow cooker",
@@ -17448,7 +17837,8 @@
         "definition": "an electric pot used for cooking meat and vegetables slowly in liquid",
         "examples": []
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "sommelier",
@@ -17462,7 +17852,8 @@
         "definition": "a person who works in a restaurant serving wine and helping customers to decide which wine to choose",
         "examples": []
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "slice",
@@ -17565,7 +17956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "speciality",
@@ -17613,7 +18005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "sous-chef",
@@ -17632,7 +18025,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "sour",
@@ -17707,7 +18101,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "spatula",
@@ -17729,7 +18124,8 @@
         "definition": "a thin flat instrument that doctors use for pressing the tongue down when they are examining somebody’s throat",
         "examples": []
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "spicy",
@@ -17765,7 +18161,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "specialty",
@@ -17805,7 +18202,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "spoon",
@@ -17853,7 +18251,8 @@
         "definition": "having rich parents",
         "examples": []
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "spoonful",
@@ -17872,7 +18271,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "spit-roast",
@@ -17886,7 +18286,8 @@
         "definition": "to cook meat on a spit",
         "examples": []
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "special",
@@ -17931,7 +18332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "sprinkle",
@@ -17992,7 +18394,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "staple diet",
@@ -18024,7 +18427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "stale",
@@ -18090,7 +18494,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "starchy",
@@ -18122,7 +18527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "steak knife",
@@ -18141,7 +18547,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "squeeze",
@@ -18277,7 +18684,8 @@
         "definition": "to get as much money, information, etc. out of somebody as you can",
         "examples": []
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "starter",
@@ -18378,7 +18786,8 @@
         "definition": "waiting for a signal to start a race",
         "examples": []
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "steakhouse",
@@ -18392,7 +18801,8 @@
         "definition": "a restaurant that serves mainly steak",
         "examples": []
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "spread",
@@ -18673,7 +19083,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "steam",
@@ -18736,7 +19147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "stew",
@@ -18776,7 +19188,8 @@
         "definition": "to leave somebody to worry and suffer the unpleasant effects of their own actions",
         "examples": []
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "staple",
@@ -18821,7 +19234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "steamer",
@@ -18844,7 +19258,8 @@
         "definition": "a metal container with small holes in it, that is placed over a pan of boiling water in order to cook food in the steam",
         "examples": []
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "stir-fry",
@@ -18863,7 +19278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "stove",
@@ -18895,7 +19311,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "stodgy",
@@ -18927,7 +19344,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "stringy",
@@ -18959,7 +19377,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "stock cube",
@@ -18978,7 +19397,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "strain",
@@ -19095,7 +19515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "stir",
@@ -19212,7 +19633,8 @@
         "definition": "to begin to move; to hurry",
         "examples": []
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "street food",
@@ -19235,7 +19657,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "strainer",
@@ -19254,7 +19677,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "stovetop",
@@ -19273,7 +19697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "table d’hôte",
@@ -19296,7 +19721,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "stuff",
@@ -19418,7 +19844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "tablecloth",
@@ -19432,7 +19859,8 @@
         "definition": "a cloth that you use for covering a table, especially when you have a meal",
         "examples": []
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "table mat",
@@ -19446,7 +19874,8 @@
         "definition": "a small piece of wood or cloth that you put under a hot dish or plate to protect the surface of the table",
         "examples": []
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "tab",
@@ -19552,7 +19981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "strong",
@@ -19977,7 +20407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "sweet",
@@ -20022,7 +20453,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "sweet",
@@ -20232,7 +20664,8 @@
         "definition": "the pleasant feeling of being successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "sun-dried",
@@ -20251,7 +20684,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "supper",
@@ -20278,7 +20712,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "takeaway",
@@ -20315,7 +20750,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "tariff",
@@ -20347,7 +20783,8 @@
         "definition": "a level of punishment for somebody who has been found guilty of a crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "tasty",
@@ -20374,7 +20811,8 @@
         "definition": "sexually attractive",
         "examples": []
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "tablespoon",
@@ -20397,7 +20835,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "tart",
@@ -20425,7 +20864,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "table napkin",
@@ -20439,7 +20879,8 @@
         "definition": "a piece of cloth or paper used at meals for protecting your clothes and cleaning your lips and fingers",
         "examples": []
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "tea room",
@@ -20453,7 +20894,8 @@
         "definition": "a restaurant in which tea, coffee, cakes and sandwiches are served",
         "examples": []
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "tasteless",
@@ -20490,7 +20932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "taste",
@@ -20665,7 +21108,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "taste",
@@ -20753,7 +21197,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "tea",
@@ -20884,7 +21329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "teetotalism",
@@ -20898,7 +21344,8 @@
         "definition": "the practice of never drinking alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "teetotal",
@@ -20917,7 +21364,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "teaspoon",
@@ -20944,7 +21392,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "tenderize",
@@ -20958,7 +21407,8 @@
         "definition": "to make meat softer and easier to cut and eat by preparing it in a particular way",
         "examples": []
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "thick",
@@ -21190,7 +21640,8 @@
         "definition": "the ability to accept criticism, offensive remarks, etc. without becoming upset",
         "examples": []
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "tender",
@@ -21265,7 +21716,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "texture",
@@ -21314,7 +21766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "teatime",
@@ -21328,7 +21781,8 @@
         "definition": "the time during the afternoon or early evening when people have the meal called tea",
         "examples": []
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "tea shop",
@@ -21342,7 +21796,8 @@
         "definition": "a restaurant in which tea, coffee, cakes and sandwiches are served",
         "examples": []
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "tin opener",
@@ -21356,7 +21811,8 @@
         "definition": "a kitchen utensil (= a tool) for opening tins of food",
         "examples": []
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "tin",
@@ -21461,7 +21917,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "tinned",
@@ -21484,7 +21941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "toaster",
@@ -21498,7 +21956,8 @@
         "definition": "an electrical machine for making toast",
         "examples": []
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "tongs",
@@ -21530,7 +21989,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "tip",
@@ -21652,7 +22112,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "thin",
@@ -21927,7 +22388,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "toast",
@@ -21984,7 +22446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "tip",
@@ -22140,7 +22603,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "topping",
@@ -22163,7 +22627,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "trans-fatty acid",
@@ -22182,7 +22647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "to go",
@@ -23039,7 +23505,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "ultra-processed food",
@@ -23062,7 +23529,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "tureen",
@@ -23076,7 +23544,8 @@
         "definition": "a large, deep dish with a lid (= cover), used for serving vegetables or soup",
         "examples": []
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "tray",
@@ -23120,7 +23589,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "trattoria",
@@ -23134,7 +23604,8 @@
         "definition": "an Italian restaurant serving simple food",
         "examples": []
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "umami",
@@ -23157,7 +23628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "tough",
@@ -23411,7 +23883,8 @@
         "definition": "when conditions or progress become difficult (strong and determined people work even harder to succeed)",
         "examples": []
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "unhealthy",
@@ -23460,7 +23933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "unpalatable",
@@ -23492,7 +23966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "TV dinner",
@@ -23506,7 +23981,8 @@
         "definition": "a meal that you can buy already cooked and prepared, that you only have to heat up before you can eat it",
         "examples": []
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "unwholesome",
@@ -23529,7 +24005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "utensil",
@@ -23556,7 +24033,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "UPF",
@@ -23592,7 +24070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "valet",
@@ -23619,7 +24098,8 @@
         "definition": "a person who parks your car for you at a hotel or restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "vegetarian",
@@ -23642,7 +24122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "vegetarian",
@@ -23674,7 +24155,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "vegan",
@@ -23693,7 +24175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "waitperson",
@@ -23707,7 +24190,8 @@
         "definition": "a person whose job is to serve customers at their tables in a restaurant, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "vegetarianism",
@@ -23726,7 +24210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "waiter",
@@ -23765,7 +24250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "vitamin",
@@ -23812,7 +24298,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "veggie",
@@ -23835,7 +24322,8 @@
         "definition": "a vegetable",
         "examples": []
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "wait at table",
@@ -24159,7 +24647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "waitstaff",
@@ -24182,7 +24671,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "waitress",
@@ -24205,7 +24695,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "washing-up",
@@ -24237,7 +24728,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "watery",
@@ -24294,7 +24786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "warm",
@@ -24367,7 +24860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "waste disposal unit",
@@ -24386,7 +24880,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "wax paper",
@@ -24400,7 +24895,8 @@
         "definition": "paper covered with a thin layer of wax, used to wrap food or when cooking",
         "examples": []
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "weigh",
@@ -24511,7 +25007,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "warm up",
@@ -24542,7 +25039,8 @@
         "definition": "to heat previously cooked food again for eating",
         "examples": []
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "wait tables",
@@ -24866,7 +25364,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "whisk",
@@ -24885,7 +25384,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "whip up",
@@ -24917,7 +25417,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "wholesome",
@@ -24945,7 +25446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "well done",
@@ -24964,7 +25466,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "wholefood",
@@ -24987,7 +25490,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "wine steward",
@@ -25001,7 +25505,8 @@
         "definition": "a person who works in a restaurant serving wine and helping customers to decide which wine to choose",
         "examples": []
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "wine list",
@@ -25020,7 +25525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "wine bar",
@@ -25039,7 +25545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 507
   },
   {
     "word": "whip",
@@ -25135,7 +25642,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 508
   },
   {
     "word": "wine waiter",
@@ -25149,7 +25657,8 @@
         "definition": "a person who works in a restaurant serving wine and helping customers to decide which wine to choose",
         "examples": []
       }
-    ]
+    ],
+    "id": 509
   },
   {
     "word": "wok",
@@ -25168,7 +25677,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 510
   },
   {
     "word": "à la carte",
@@ -25191,7 +25701,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 511
   },
   {
     "word": "zippy",
@@ -25223,7 +25734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 512
   },
   {
     "word": "yummy",
@@ -25250,7 +25762,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 513
   },
   {
     "word": "wooden spoon",
@@ -25273,7 +25786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 514
   },
   {
     "word": "worktop",
@@ -25292,7 +25806,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 515
   },
   {
     "word": "yeast",
@@ -25306,6 +25821,7 @@
         "definition": "a fungus used in making beer and wine, or to make bread rise",
         "examples": []
       }
-    ]
+    ],
+    "id": 516
   }
 ]

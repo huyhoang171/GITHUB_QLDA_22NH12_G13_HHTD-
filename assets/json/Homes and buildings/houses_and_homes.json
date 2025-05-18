@@ -20,7 +20,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "alarm",
@@ -111,7 +112,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "almshouse",
@@ -125,7 +127,8 @@
         "definition": "(in the past in the UK) a house owned by a charity where poor people (usually the old) lived without paying rent",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "apartment",
@@ -194,7 +197,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "ballroom",
@@ -213,7 +217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "affordable housing",
@@ -236,7 +241,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "air conditioning",
@@ -255,7 +261,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "armchair",
@@ -278,7 +285,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "air-conditioned",
@@ -301,7 +309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "attic",
@@ -328,7 +337,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "bachelor pad",
@@ -342,7 +352,8 @@
         "definition": "a house or flat in which a man who is not married enjoys a lifestyle without family responsibilities",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "aerial",
@@ -361,7 +372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "accommodation",
@@ -434,7 +446,8 @@
         "definition": "the way in which the lens (= a part of the eye) becomes flatter or thicker in order to create a clear image of the object that you want to look at",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "A-frame",
@@ -448,7 +461,8 @@
         "definition": "a house with very steep sides that meet at the top in the shape of the letter A",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "arrears",
@@ -489,7 +503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "back-to-back",
@@ -517,7 +532,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "appraiser",
@@ -540,7 +556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "antenna",
@@ -568,7 +585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "annexe",
@@ -591,7 +609,8 @@
         "definition": "an extra section of a document",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "alcove",
@@ -610,7 +629,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "bay window",
@@ -624,7 +644,8 @@
         "definition": "a large window, usually with glass on three sides, that sticks out from the outside wall of a house",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "basement",
@@ -651,7 +672,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "baseboard",
@@ -665,7 +687,8 @@
         "definition": "a narrow piece of wood that is fixed along the bottom of the walls in a house",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "bathroom",
@@ -717,7 +740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "be in arrears",
@@ -758,7 +782,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "bedroom",
@@ -810,7 +835,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "blackout",
@@ -868,7 +894,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "bath",
@@ -963,7 +990,8 @@
         "definition": "to lose money on a business agreement",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "bedsit",
@@ -977,7 +1005,8 @@
         "definition": "a room that a person rents and uses for both living and sleeping in",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "balcony",
@@ -1000,7 +1029,8 @@
         "definition": "an area of seats upstairs in a theatre",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "bed",
@@ -1173,7 +1203,8 @@
         "definition": "you must accept the results of your actions",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "boarding house",
@@ -1196,7 +1227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "bin",
@@ -1236,7 +1268,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "boiler",
@@ -1263,7 +1296,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "boarder",
@@ -1291,7 +1325,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "boiler room",
@@ -1309,7 +1344,8 @@
         "definition": "a room or office used by people using phones to sell something, especially shares, in an aggressive or a dishonest way",
         "examples": []
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "birdcage",
@@ -1323,7 +1359,8 @@
         "definition": "a cage in which birds are kept, usually one in a house",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "bookcase",
@@ -1346,7 +1383,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "blind",
@@ -1373,7 +1411,8 @@
         "definition": "something people say or do to hide the truth about something in order to trick other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "bookshelf",
@@ -1387,7 +1426,8 @@
         "definition": "a shelf that you keep books on",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "borrow",
@@ -1482,7 +1522,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "bond",
@@ -1595,7 +1636,8 @@
         "definition": "somebody’s promise can be relied on completely",
         "examples": []
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "bridging loan",
@@ -1609,7 +1651,8 @@
         "definition": "an amount of money that a bank lends you for a short time, especially so that you can buy a new house while you are waiting to sell your old one",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "box room",
@@ -1623,7 +1666,8 @@
         "definition": "a small room in a house for storing things in",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "breezeway",
@@ -1637,7 +1681,8 @@
         "definition": "an outside passage with a roof and open sides between two separate parts of a building",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "broom cupboard",
@@ -1665,7 +1710,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "broom closet",
@@ -1693,7 +1739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "brownstone",
@@ -1712,7 +1759,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "built-in",
@@ -1744,7 +1792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "broom",
@@ -1776,7 +1825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "building society",
@@ -1790,7 +1840,8 @@
         "definition": "an organization like a bank that lends money to people who want to buy a house. People also save money with a building society.",
         "examples": []
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "brush",
@@ -1889,7 +1940,8 @@
         "definition": "to describe something in a general way, ignoring the details",
         "examples": []
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "bucket",
@@ -1963,7 +2015,8 @@
         "definition": "to die",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "bureau",
@@ -2016,7 +2069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "bungalow",
@@ -2039,7 +2093,8 @@
         "definition": "(in South-East Asia) a large house, sometimes on more than one level, that is not joined to another house on either side",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "burglar alarm",
@@ -2053,7 +2108,8 @@
         "definition": "an electronic device, often fixed to a wall, that rings a loud bell if somebody tries to enter a building by force",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "buyer",
@@ -2090,7 +2146,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "camp bed",
@@ -2104,7 +2161,8 @@
         "definition": "a light narrow bed that you can fold up and carry easily",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "cabinet",
@@ -2152,7 +2210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "buy-to-let",
@@ -2175,7 +2234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "buy",
@@ -2335,7 +2395,8 @@
         "definition": "to sell somebody something/to buy something that has no value or is worth much less than the price paid",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "bunk",
@@ -2366,7 +2427,8 @@
         "definition": "to run away from a place without telling anyone",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "cellar",
@@ -2393,7 +2455,8 @@
         "definition": "an underground room where wine is stored; the wine stored in this room",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "cat flap",
@@ -2407,7 +2470,8 @@
         "definition": "a hole cut in the bottom of the door to a house, covered by a piece of hard plastic that moves freely, so a pet cat can go in and out",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "central heating",
@@ -2426,7 +2490,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "chest of drawers",
@@ -2449,7 +2514,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "ceiling",
@@ -2510,7 +2576,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "chalet",
@@ -2528,7 +2595,8 @@
         "definition": "a small house or hut, especially one used by people on holiday at the sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "chain",
@@ -2645,7 +2713,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "canopy",
@@ -2705,7 +2774,8 @@
         "definition": "a cover for the cockpit of an aircraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "chair",
@@ -2810,7 +2880,8 @@
         "definition": "(especially in the US) a chair in which criminals are killed by having a powerful electric current passed through their bodies; the method of execution that uses this chair",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "chimney",
@@ -2845,7 +2916,8 @@
         "definition": "a narrow opening in an area of rock that a person can climb up",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "chimney stack",
@@ -2863,7 +2935,8 @@
         "definition": "a very tall chimney, especially one in a factory",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "chest",
@@ -2953,7 +3026,8 @@
         "definition": "to keep your ideas, plans, etc. secret",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "chintz",
@@ -2967,7 +3041,8 @@
         "definition": "a type of shiny cotton cloth with a printed design, especially of flowers, used for making curtains, covering furniture, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "carpet",
@@ -3025,7 +3100,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "chore",
@@ -3057,7 +3133,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "cistern",
@@ -3071,7 +3148,8 @@
         "definition": "a container in which water is stored in a building, especially one in the roof or connected to a toilet",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "cleaning",
@@ -3090,7 +3168,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "clutter",
@@ -3117,7 +3196,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "comfort room",
@@ -3136,7 +3216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "comforter",
@@ -3163,7 +3244,8 @@
         "definition": "a large cloth bag that is filled with feathers or other soft material and that you have on top of you in bed to keep yourself warm",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "closet",
@@ -3213,7 +3295,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "coffee table",
@@ -3227,7 +3310,8 @@
         "definition": "a small low table for putting magazines, cups, etc. on, usually in front of a sofa",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "communal",
@@ -3259,7 +3343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "condo",
@@ -3278,7 +3363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "clean",
@@ -3384,7 +3470,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "condominium",
@@ -3411,7 +3498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "conservatory",
@@ -3429,7 +3517,8 @@
         "definition": "a school or college at which people are trained in music and theatre",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "cooker",
@@ -3456,7 +3545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "couch",
@@ -3488,7 +3578,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "cornice",
@@ -3502,7 +3593,8 @@
         "definition": "a border around the top of the walls in a room or on the outside walls of a building",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "council flat",
@@ -3516,7 +3608,8 @@
         "definition": "a flat rented from the local council",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "cupboard",
@@ -3585,7 +3678,8 @@
         "definition": "something shocking, embarrassing, etc. that has happened to you or your family in the past that you want to keep secret",
         "examples": []
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "cottage",
@@ -3612,7 +3706,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "country house",
@@ -3631,7 +3726,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "contract",
@@ -3727,7 +3823,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "corner",
@@ -4009,7 +4106,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "decorate",
@@ -4095,7 +4193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "decor",
@@ -4122,7 +4221,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "desk",
@@ -4179,7 +4279,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "decoration",
@@ -4273,7 +4374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "curtain",
@@ -4385,7 +4487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "deed",
@@ -4438,7 +4541,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "deposit",
@@ -4535,7 +4639,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "deep freeze",
@@ -4549,7 +4654,8 @@
         "definition": "a large piece of electrical equipment in which you can store food for a long time at a low temperature so that it stays frozen",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "deposit",
@@ -4607,7 +4713,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "cushion",
@@ -4672,7 +4779,8 @@
         "definition": "the soft inside edge along each side of the table that the balls bounce off",
         "examples": []
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "detailing",
@@ -4686,7 +4794,8 @@
         "definition": "small details put on a building, piece of clothing, etc., especially for decoration",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "detached",
@@ -4722,7 +4831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "dispossess",
@@ -4736,7 +4846,8 @@
         "definition": "to take somebody’s property, land or house away from them",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "dispossession",
@@ -4755,7 +4866,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "dining room",
@@ -4786,7 +4898,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "doorbell",
@@ -4813,7 +4926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "doorknob",
@@ -4832,7 +4946,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "DIY",
@@ -4855,7 +4970,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "dishwasher",
@@ -4886,7 +5002,8 @@
         "definition": "a person whose job is to wash plates, etc., for example in a restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "door",
@@ -5205,7 +5322,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "door knocker",
@@ -5219,7 +5337,8 @@
         "definition": "a metal object attached to the outside of the door of a house, etc. that you hit against the door to attract attention",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "doorstep",
@@ -5251,7 +5370,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "dormitory",
@@ -5269,7 +5389,8 @@
         "definition": "a building for university or college students to live in",
         "examples": []
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "downspout",
@@ -5283,7 +5404,8 @@
         "definition": "a pipe that carries rainwater from the roof of a building to a drain",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "downstairs",
@@ -5314,7 +5436,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "downstairs",
@@ -5337,7 +5460,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "doorway",
@@ -5360,7 +5484,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "downstairs",
@@ -5379,7 +5504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "drape",
@@ -5398,7 +5524,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "drainpipe",
@@ -5416,7 +5543,8 @@
         "definition": "a pipe that carries dirty water or other liquid waste away from a building",
         "examples": []
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "drain",
@@ -5482,7 +5610,8 @@
         "definition": "to laugh very loudly",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "drawing room",
@@ -5496,7 +5625,8 @@
         "definition": "a room in a large house in which people relax and guests are entertained",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "dresser",
@@ -5540,7 +5670,8 @@
         "definition": "a person whose job is to take care of an actor’s clothes for a play and help him/her to get dressed",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "drawer",
@@ -5581,7 +5712,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "duplex",
@@ -5631,7 +5763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "dressing room",
@@ -5653,7 +5786,8 @@
         "definition": "a room or cubicle in a shop where you can put on clothes to see how they look",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "dressing table",
@@ -5667,7 +5801,8 @@
         "definition": "a piece of bedroom furniture like a table with drawers (= parts like boxes in it with handles on the front for pulling them open) and a mirror on top",
         "examples": []
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "duplex",
@@ -5689,7 +5824,8 @@
         "definition": "a house that is joined to another house by a wall on one side that is shared; a semi-detached house",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "dry up",
@@ -5739,7 +5875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "dustbin",
@@ -5758,7 +5895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "duster",
@@ -5780,7 +5918,8 @@
         "definition": "a piece of clothing that you wear over your other clothes when you are cleaning the house, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "dustpan",
@@ -5803,7 +5942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "duvet",
@@ -5822,7 +5962,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "dwelling",
@@ -5849,7 +5990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "en suite",
@@ -5876,7 +6018,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "dust",
@@ -5930,7 +6073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "end table",
@@ -5949,7 +6093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "entrance",
@@ -6064,7 +6209,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "entrance hall",
@@ -6078,7 +6224,8 @@
         "definition": "a large room inside the entrance of a large or public building",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "easy chair",
@@ -6097,7 +6244,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "Entryphone™",
@@ -6111,7 +6259,8 @@
         "definition": "a type of phone on the wall next to the entrance to a building enabling a person inside the building to speak to a person outside before opening the door",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "equipment",
@@ -6163,7 +6312,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "evict",
@@ -6190,7 +6340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "estate agent",
@@ -6204,7 +6355,8 @@
         "definition": "a person whose job is to sell houses and land for people",
         "examples": []
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "exterior",
@@ -6232,7 +6384,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "estate",
@@ -6285,7 +6438,8 @@
         "definition": "a car with a lot of space behind the back seats and a door at the back for loading large items",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "family room",
@@ -6307,7 +6461,8 @@
         "definition": "(in the UK) a room in a pub where children are allowed to sit",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "facade",
@@ -6343,7 +6498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "extension",
@@ -6487,7 +6643,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "eviction",
@@ -6506,7 +6663,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "entry",
@@ -6674,7 +6832,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "exchange",
@@ -6769,7 +6928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "farm",
@@ -6880,7 +7040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "first floor",
@@ -6903,7 +7064,8 @@
         "definition": "the floor of a building that is at the same level as the ground outside",
         "examples": []
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "fire escape",
@@ -6922,7 +7084,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "fitting",
@@ -6963,7 +7126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "fire alarm",
@@ -6999,7 +7163,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "fixture",
@@ -7039,7 +7204,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "first-floor",
@@ -7067,7 +7233,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "fan",
@@ -7140,7 +7307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "fireplace",
@@ -7163,7 +7331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "flat-pack",
@@ -7186,7 +7355,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "flat",
@@ -7315,7 +7485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "forever home",
@@ -7343,7 +7514,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "freehold",
@@ -7362,7 +7534,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "foreclose",
@@ -7385,7 +7558,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "freehold",
@@ -7404,7 +7578,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "foyer",
@@ -7432,7 +7607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "for rent",
@@ -7503,7 +7679,8 @@
         "definition": "available to rent",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "floor",
@@ -7662,7 +7839,8 @@
         "definition": "to defeat somebody completely in an argument or a competition",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "French window",
@@ -7685,7 +7863,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "French door",
@@ -7699,7 +7878,8 @@
         "definition": "a glass door, usually one of a pair that leads to a garden or balcony",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "free-standing",
@@ -7735,7 +7915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "frieze",
@@ -7758,7 +7939,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "fridge",
@@ -7781,7 +7963,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "front room",
@@ -7800,7 +7983,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "front door",
@@ -7819,7 +8003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "freehold",
@@ -7838,7 +8023,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "freezer",
@@ -7857,7 +8043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "furnish",
@@ -7889,7 +8076,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "front",
@@ -8250,7 +8438,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "frontage",
@@ -8282,7 +8471,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "furnished",
@@ -8305,7 +8495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "fuse box",
@@ -8319,7 +8510,8 @@
         "definition": "a small box or cupboard that contains the fuses of the electrical system of a building",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "furniture van",
@@ -8333,7 +8525,8 @@
         "definition": "a large van used for moving furniture and other goods from one home or business to another",
         "examples": []
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "furnishings",
@@ -8356,7 +8549,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "gable",
@@ -8370,7 +8564,8 @@
         "definition": "the upper part of the end wall of a building, between the two sloping sides of the roof, that is like a triangle in shape",
         "examples": []
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "futon",
@@ -8384,7 +8579,8 @@
         "definition": "a Japanese mattress, often on a wooden frame, that can be used for sitting on or rolled out to make a bed",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "furniture",
@@ -8424,7 +8620,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "gadget",
@@ -8443,7 +8640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "gasometer",
@@ -8457,7 +8655,8 @@
         "definition": "a very large round container or building in which gas is stored and from which it is sent through pipes to other buildings",
         "examples": []
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "gazunder",
@@ -8476,7 +8675,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "garage",
@@ -8540,7 +8740,8 @@
         "definition": "a type of electronic dance music with elements of drum and bass, house music and soul",
         "examples": []
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "ground floor",
@@ -8567,7 +8768,8 @@
         "definition": "to become involved in a plan, project, etc. at the beginning",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "granny flat",
@@ -8581,7 +8783,8 @@
         "definition": "a set of rooms for an old person, especially in a relative’s house",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "gazundering",
@@ -8595,7 +8798,8 @@
         "definition": "the act of offering a lower price for a house that you have already agreed to buy at a higher price, before the contract is signed",
         "examples": []
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "guttering",
@@ -8614,7 +8818,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "gazumping",
@@ -8628,7 +8833,8 @@
         "definition": "the act of no longer accepting somebody's offer to pay a particular price for a house, because somebody else has made a higher offer",
         "examples": []
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "hallway",
@@ -8664,7 +8870,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "gazump",
@@ -8678,7 +8885,8 @@
         "definition": "when somebody who has made an offer to pay a particular price for a house and who has had this offer accepted is gazumped, their offer is no longer accepted by the person selling the house, because somebody else has made a higher offer",
         "examples": []
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "hall",
@@ -8769,7 +8977,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "heater",
@@ -8792,7 +9001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "hammock",
@@ -8806,7 +9016,8 @@
         "definition": "a type of bed made from a net or from a piece of strong material, with ropes at each end that are used to hang it between two trees, posts, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "hanging",
@@ -8838,7 +9049,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "HDB",
@@ -8861,7 +9073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "hang",
@@ -9151,7 +9364,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "hi-fi",
@@ -9165,7 +9379,8 @@
         "definition": "equipment for playing recorded music that produces high-quality stereo sound",
         "examples": []
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "hatch",
@@ -9223,7 +9438,8 @@
         "definition": "used before drinking something, especially to express good wishes before drinking alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "heating",
@@ -9266,7 +9482,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "high chair",
@@ -9280,7 +9497,8 @@
         "definition": "a special chair with long legs and a little seat and table, for a small child to sit in when eating",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "home loan",
@@ -9299,7 +9517,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "home office",
@@ -9331,7 +9550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "home improvement",
@@ -9354,7 +9574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "homebuyer",
@@ -9368,7 +9589,8 @@
         "definition": "a person who buys a house, flat, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "homeowner",
@@ -9382,7 +9604,8 @@
         "definition": "a person who owns their house or flat",
         "examples": []
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "Hoover™",
@@ -9401,7 +9624,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "hoover",
@@ -9420,7 +9644,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "house",
@@ -9704,7 +9929,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "home",
@@ -10077,7 +10303,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "housework",
@@ -10096,7 +10323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "house-warming",
@@ -10115,7 +10343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "houseboat",
@@ -10129,7 +10358,8 @@
         "definition": "a boat that people can live in, usually kept at a particular place on a river or canal",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "housing benefit",
@@ -10160,7 +10390,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "housing estate",
@@ -10179,7 +10410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "hut",
@@ -10206,7 +10438,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "housing scheme",
@@ -10234,7 +10467,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "house-sit",
@@ -10253,7 +10487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "housing ladder",
@@ -10272,7 +10507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "house-hunting",
@@ -10291,7 +10527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "housing",
@@ -10364,7 +10601,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "housemate",
@@ -10378,7 +10616,8 @@
         "definition": "a person that you share a house with, but who is not one of your family",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "igloo",
@@ -10392,7 +10631,8 @@
         "definition": "a small round house or shelter built from blocks of hard snow by the Inuit people of northern North America and Greenland",
         "examples": []
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "in arrears",
@@ -10433,7 +10673,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "immersion heater",
@@ -10447,7 +10688,8 @@
         "definition": "a device that provides hot water for a house by heating water in a tank",
         "examples": []
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "ironing board",
@@ -10461,7 +10703,8 @@
         "definition": "a long narrow board covered with cloth, and usually with folding legs, that you iron clothes on",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "iron",
@@ -10484,7 +10727,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "indoors",
@@ -10519,7 +10763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "island",
@@ -10579,7 +10824,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "iron",
@@ -10677,7 +10923,8 @@
         "definition": "to make use of an opportunity immediately",
         "examples": []
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "ironing",
@@ -10705,7 +10952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "indoor",
@@ -10741,7 +10989,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "interior",
@@ -10778,7 +11027,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "interior",
@@ -10819,7 +11069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "Jacuzzi™",
@@ -10833,7 +11084,8 @@
         "definition": "a large bath with a pump that moves the water around, giving a pleasant feeling to your body",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "lamp",
@@ -10889,7 +11141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "kitchen",
@@ -10937,7 +11190,8 @@
         "definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "knocker",
@@ -10959,7 +11213,8 @@
         "definition": "a woman’s breasts",
         "examples": []
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "lampshade",
@@ -10978,7 +11233,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "ladder",
@@ -11028,7 +11284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "landing",
@@ -11080,7 +11337,8 @@
         "definition": "a flat wooden platform on the water where boats let people get on and off, and load and unload goods",
         "examples": []
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "landlady",
@@ -11098,7 +11356,8 @@
         "definition": "a woman who owns or manages a pub or a guest house",
         "examples": []
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "knick-knack",
@@ -11121,7 +11380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "landlord",
@@ -11144,7 +11404,8 @@
         "definition": "a man who owns or manages a pub or a guest house",
         "examples": []
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "lavatory",
@@ -11172,7 +11433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "lease",
@@ -11207,7 +11469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "larder",
@@ -11234,7 +11497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "lease",
@@ -11270,7 +11534,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "lessor",
@@ -11284,7 +11549,8 @@
         "definition": "a person who gives somebody the use of a building, an area of land, etc. on a lease",
         "examples": []
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "leaseholder",
@@ -11298,7 +11564,8 @@
         "definition": "a person who is allowed to use a building or a piece of land according to the arrangements in a lease",
         "examples": []
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "lessee",
@@ -11312,7 +11579,8 @@
         "definition": "a person who has use of a building, an area of land, etc. on a lease",
         "examples": []
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "leasehold",
@@ -11331,7 +11599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "letter box",
@@ -11354,7 +11623,8 @@
         "definition": "a small box near the main door of a building or by the road, which mail is delivered to",
         "examples": []
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "library",
@@ -11444,7 +11714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "letting",
@@ -11467,7 +11738,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "let",
@@ -11834,7 +12106,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "let",
@@ -11874,7 +12147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "linoleum",
@@ -11888,7 +12162,8 @@
         "definition": "a type of strong material with a hard shiny surface, used for covering floors",
         "examples": []
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "lend",
@@ -12034,7 +12309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "level",
@@ -12271,7 +12547,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "light",
@@ -12661,7 +12938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "lino",
@@ -12675,7 +12953,8 @@
         "definition": "linoleum (= a type of strong material with a hard shiny surface, used for covering floors)",
         "examples": []
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "loan",
@@ -12739,7 +13018,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "loft",
@@ -12785,7 +13065,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "lodger",
@@ -12808,7 +13089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "loo",
@@ -12835,7 +13117,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "lodging",
@@ -12863,7 +13146,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "log cabin",
@@ -12877,7 +13161,8 @@
         "definition": "a small house built of logs",
         "examples": []
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "living room",
@@ -12891,7 +13176,8 @@
         "definition": "a room in a house where people sit together, watch television, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "loan",
@@ -12931,7 +13217,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "lounge",
@@ -12971,7 +13258,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "main",
@@ -13040,7 +13328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "lock",
@@ -13176,7 +13465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "maisonette",
@@ -13195,7 +13485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "mailbox",
@@ -13217,7 +13508,8 @@
         "definition": "a public box, for example in the street, that you put letters into when you send them",
         "examples": []
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "manse",
@@ -13231,7 +13523,8 @@
         "definition": "the house of a Christian minister, especially in Scotland",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "lounge chair",
@@ -13250,7 +13543,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "manufactured home",
@@ -13269,7 +13563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "man cave",
@@ -13288,7 +13583,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "mews house",
@@ -13302,7 +13598,8 @@
         "definition": "a house in a row of houses that were stables (= buildings used to keep horses in) in the past",
         "examples": []
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "manor",
@@ -13338,7 +13635,8 @@
         "definition": "an area in which somebody works or for which they are responsible, especially officers at a police station",
         "examples": []
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "mansion",
@@ -13366,7 +13664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "mat",
@@ -13423,7 +13722,8 @@
         "definition": "to get involved in an argument with somebody/something",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "mantelpiece",
@@ -13442,7 +13742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "mezzanine",
@@ -13469,7 +13770,8 @@
         "definition": "the first area of seats above the ground floor in a theatre; the first few rows of these seats",
         "examples": []
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "mirror",
@@ -13522,7 +13824,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "mod con",
@@ -13541,7 +13844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "mop",
@@ -13577,7 +13881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "mobile home",
@@ -13595,7 +13900,8 @@
         "definition": "a large caravan that can be moved, sometimes with wheels, that is usually parked in one place and used for living in",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "mop",
@@ -13627,7 +13933,8 @@
         "definition": "to defeat somebody completely in an argument or a competition",
         "examples": []
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "mortgage",
@@ -13662,7 +13969,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "mortgage bond",
@@ -13676,7 +13984,8 @@
         "definition": "a legal agreement by which a bank lends you money to buy a house, etc. which you pay back over many years; the sum of money that is lent",
         "examples": []
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "mortgage",
@@ -13695,7 +14004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "moulding",
@@ -13718,7 +14028,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "move",
@@ -14032,7 +14343,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "negative equity",
@@ -14046,7 +14358,8 @@
         "definition": "the situation in which the value of somebody’s house is less than the amount of money that is still owed to a mortgage company, such as a bank",
         "examples": []
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "new build",
@@ -14073,7 +14386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "mural",
@@ -14092,7 +14406,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "mudroom",
@@ -14111,7 +14426,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "notice",
@@ -14286,7 +14602,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "move",
@@ -14526,7 +14843,8 @@
         "definition": "to try to pass somebody who is in front of you in a race",
         "examples": []
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "occupancy",
@@ -14553,7 +14871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "nursery",
@@ -14588,7 +14907,8 @@
         "definition": "a place where young plants and trees are grown for sale or for planting somewhere else",
         "examples": []
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "occupier",
@@ -14611,7 +14931,8 @@
         "definition": "a member of an army that has entered and taken control of a foreign country, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "occupy",
@@ -14702,7 +15023,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "ornament",
@@ -14721,7 +15043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "occupation",
@@ -14783,7 +15106,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "ornament",
@@ -14850,7 +15174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "open-plan",
@@ -14869,7 +15194,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "pail",
@@ -14888,7 +15214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "offer",
@@ -15012,7 +15339,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "owner-occupier",
@@ -15026,7 +15354,8 @@
         "definition": "a person who owns the house, flat, etc. that they live in",
         "examples": []
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "office",
@@ -15186,7 +15515,8 @@
         "definition": "with somebody’s help",
         "examples": []
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "outdoor",
@@ -15221,7 +15551,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "outdoors",
@@ -15252,7 +15583,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "paint",
@@ -15312,7 +15644,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "paint",
@@ -15418,7 +15751,8 @@
         "definition": "to describe something in a general way, ignoring the details",
         "examples": []
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "pantry",
@@ -15437,7 +15771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "panic room",
@@ -15460,7 +15795,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "paperwork",
@@ -15496,7 +15832,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "passage",
@@ -15607,7 +15944,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "palace",
@@ -15673,7 +16011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "partition",
@@ -15705,7 +16044,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "patterned",
@@ -15732,7 +16072,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "pattern",
@@ -15823,7 +16164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "picture",
@@ -16060,7 +16402,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "playroom",
@@ -16074,7 +16417,8 @@
         "definition": "a room in a house for children to play in",
         "examples": []
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "picture rail",
@@ -16088,7 +16432,8 @@
         "definition": "a narrow piece of wood attached to the walls of a room below the ceiling and used for hanging pictures from",
         "examples": []
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "pile",
@@ -16209,7 +16554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "poker",
@@ -16227,7 +16573,8 @@
         "definition": "a metal stick for moving or breaking up coal in a fire",
         "examples": []
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "plughole",
@@ -16254,7 +16601,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "porch",
@@ -16282,7 +16630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "plain",
@@ -16439,7 +16788,8 @@
         "definition": "very obvious",
         "examples": []
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "plug",
@@ -16544,7 +16894,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "prefab",
@@ -16563,7 +16914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "plunger",
@@ -16581,7 +16933,8 @@
         "definition": "a piece of equipment used for clearing kitchen and bathroom pipes, that consists of a rubber cup fixed to a handle",
         "examples": []
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "polish",
@@ -16643,7 +16996,8 @@
         "definition": "careful and complete cleaning and polishing of something",
         "examples": []
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "polish",
@@ -16699,7 +17053,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "power point",
@@ -16713,7 +17068,8 @@
         "definition": "a device in a wall that you put a plug into in order to connect electrical equipment to the power supply of a building",
         "examples": []
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "purchase",
@@ -16786,7 +17142,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "public housing",
@@ -16809,7 +17166,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "property ladder",
@@ -16828,7 +17186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "quantity surveyor",
@@ -16842,7 +17201,8 @@
         "definition": "a person whose job is to calculate the quantity of materials needed for building something, how much it will cost and how long it will take",
         "examples": []
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "real estate",
@@ -16883,7 +17243,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "radiator",
@@ -16915,7 +17276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "Realtor™",
@@ -16929,7 +17291,8 @@
         "definition": "a person whose job is to sell houses and land for people",
         "examples": []
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "recliner",
@@ -16943,7 +17306,8 @@
         "definition": "a soft comfortable chair with a back that can be pushed back at an angle so that you can lean back in it",
         "examples": []
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "realty",
@@ -16957,7 +17321,8 @@
         "definition": "property in the form of land or buildings",
         "examples": []
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "rate",
@@ -17124,7 +17489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "rec room",
@@ -17142,7 +17508,8 @@
         "definition": "a room in a private house used for games, entertainment, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "recreation room",
@@ -17160,7 +17527,8 @@
         "definition": "a room in a private house used for games, entertainment, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "reception room",
@@ -17174,7 +17542,8 @@
         "definition": "(used especially when advertising houses for sale) a room in a house where people can sit, for example a living room or dining room",
         "examples": []
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "redecorate",
@@ -17197,7 +17566,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "refrigerator",
@@ -17216,7 +17586,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "remortgage",
@@ -17230,7 +17601,8 @@
         "definition": "to arrange a second mortgage on your house or apartment, or to increase or change your first one",
         "examples": []
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "redecoration",
@@ -17249,7 +17621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "remover",
@@ -17281,7 +17654,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "remote control",
@@ -17313,7 +17687,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "rent",
@@ -17419,7 +17794,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "renew",
@@ -17497,7 +17873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "rental",
@@ -17542,7 +17919,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "refuge",
@@ -17603,7 +17981,8 @@
         "definition": "an area in the middle of a road where you can stand and wait for cars to go past until it is safe for you to cross",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "removal van",
@@ -17617,7 +17996,8 @@
         "definition": "a large van used for moving furniture and other goods from one home or business to another",
         "examples": []
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "rent",
@@ -17688,7 +18068,8 @@
         "definition": "available to rent",
         "examples": []
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "rent-free",
@@ -17707,7 +18088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "repossess",
@@ -17726,7 +18108,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "repayment",
@@ -17774,7 +18157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "rent-free",
@@ -17793,7 +18177,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "rocking chair",
@@ -17807,7 +18192,8 @@
         "definition": "a chair with two curved pieces of wood under it that allow it to move backwards and forwards",
         "examples": []
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "repossession",
@@ -17839,7 +18225,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "residents’ association",
@@ -17853,7 +18240,8 @@
         "definition": "a group of people who live in a particular area and join together to discuss the problems of that area",
         "examples": []
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "rooftop",
@@ -17885,7 +18273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "roof",
@@ -18028,7 +18417,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "residential",
@@ -18064,7 +18454,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "roomer",
@@ -18078,7 +18469,8 @@
         "definition": "a person who rents a room in somebody’s house",
         "examples": []
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "rooming house",
@@ -18092,7 +18484,8 @@
         "definition": "a building where rooms with furniture can be rented for living in",
         "examples": []
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "room",
@@ -18271,7 +18664,8 @@
         "definition": "a decision that people describe as being made in a smoke-filled room is made by a small group of people at a private meeting, rather than in an open and democratic way",
         "examples": []
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "rota",
@@ -18298,7 +18692,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "room-mate",
@@ -18316,7 +18711,8 @@
         "definition": "a person who shares an apartment with one or more others",
         "examples": []
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "savings and loan association",
@@ -18330,7 +18726,8 @@
         "definition": "an organization like a bank that lends money to people who want to buy a house. People also save money with a savings and loan association.",
         "examples": []
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "scrubbing brush",
@@ -18344,7 +18741,8 @@
         "definition": "a stiff brush for cleaning floors and other surfaces",
         "examples": []
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "safe room",
@@ -18358,7 +18756,8 @@
         "definition": "a room in a home or an office building where people can go to avoid a dangerous situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "satellite dish",
@@ -18372,7 +18771,8 @@
         "definition": "a piece of equipment that receives signals from a satellite, used to enable people to watch satellite television",
         "examples": []
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "rug",
@@ -18437,7 +18837,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "sauna",
@@ -18460,7 +18861,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "roomie",
@@ -18478,7 +18880,8 @@
         "definition": "a person who shares a flat with one or more others",
         "examples": []
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "security deposit",
@@ -18497,7 +18900,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "second home",
@@ -18520,7 +18924,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "settee",
@@ -18543,7 +18948,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "shabby chic",
@@ -18566,7 +18972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "semi-detached",
@@ -18580,7 +18987,8 @@
         "definition": "joined to another house by a wall on one side that is shared",
         "examples": []
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "shelter",
@@ -18666,7 +19074,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "shabby chic",
@@ -18680,7 +19089,8 @@
         "definition": "the use of pieces of furniture, curtains, etc. that are informal and romantic in style, especially ones that seem old and worn",
         "examples": []
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "shelf",
@@ -18765,7 +19175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "shower",
@@ -18892,7 +19303,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "sideboard",
@@ -18910,7 +19322,8 @@
         "definition": "hair that grows down the sides of the face in front of the ears",
         "examples": []
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "sell",
@@ -19103,7 +19516,8 @@
         "definition": "to do anything, even something really bad or dishonest, in return for money, success or power",
         "examples": []
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "shutter",
@@ -19152,7 +19566,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "skirting board",
@@ -19166,7 +19581,8 @@
         "definition": "a narrow piece of wood that is fixed along the bottom of the walls in a house",
         "examples": []
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "sink",
@@ -19202,7 +19618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "social housing",
@@ -19221,7 +19638,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "sitting room",
@@ -19235,7 +19653,8 @@
         "definition": "a room in a house where people sit together, watch television, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "smoke alarm",
@@ -19249,7 +19668,8 @@
         "definition": "a device that makes a loud noise if smoke is in the air to warn you of a fire",
         "examples": []
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "skylight",
@@ -19263,7 +19683,8 @@
         "definition": "a small window in a roof",
         "examples": []
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "sofa",
@@ -19282,7 +19703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "soft furnishings",
@@ -19296,7 +19718,8 @@
         "definition": "cushions, curtains and other things made from cloth that are found in a house",
         "examples": []
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "socket",
@@ -19341,7 +19764,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "solar panel",
@@ -19355,7 +19779,8 @@
         "definition": "a piece of equipment, often on the roof of a building, that uses light and heat energy from the sun to produce hot water and electricity",
         "examples": []
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "soil pipe",
@@ -19369,7 +19794,8 @@
         "definition": "a pipe that carries waste water from a building",
         "examples": []
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "spring-clean",
@@ -19388,7 +19814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "spring cleaning",
@@ -19411,7 +19838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "squatter",
@@ -19430,7 +19858,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "split-level",
@@ -19444,7 +19873,8 @@
         "definition": "having parts at different levels",
         "examples": []
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "squat",
@@ -19471,7 +19901,8 @@
         "definition": "an exercise in which you start with your hands on the floor and your knees bent, and then quickly move both legs backwards and forwards together",
         "examples": []
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "staircase",
@@ -19490,7 +19921,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "stair",
@@ -19547,7 +19979,8 @@
         "definition": "in the part of a house where the servants lived in the past",
         "examples": []
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "stilt",
@@ -19575,7 +20008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "stool",
@@ -19610,7 +20044,8 @@
         "definition": "to fail to be or to get either of two choices, both of which would have been acceptable",
         "examples": []
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "stairwell",
@@ -19624,7 +20059,8 @@
         "definition": "the space in a building in which the stairs are built",
         "examples": []
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "stately home",
@@ -19643,7 +20079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "storage heater",
@@ -19657,7 +20094,8 @@
         "definition": "an electric heater that stores heat when electricity is cheaper, for example at night",
         "examples": []
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "stoop",
@@ -19684,7 +20122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "step",
@@ -19933,7 +20372,8 @@
         "definition": "when you do something one step at a time you do it slowly and gradually",
         "examples": []
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "storeroom",
@@ -19956,7 +20396,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "strip",
@@ -20071,7 +20512,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "stove",
@@ -20103,7 +20545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "storey",
@@ -20135,7 +20578,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "studio",
@@ -20222,7 +20666,8 @@
         "definition": "a small flat with one main room for living and sleeping in and usually a kitchen and bathroom",
         "examples": []
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "sublet",
@@ -20236,7 +20681,8 @@
         "definition": "to rent to somebody else all or part of a property that you rent from the owner",
         "examples": []
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "suite",
@@ -20290,7 +20736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "sublease",
@@ -20304,7 +20751,8 @@
         "definition": "to rent to somebody else all or part of a property that you rent from the owner",
         "examples": []
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "summer house",
@@ -20322,7 +20770,8 @@
         "definition": "a house that somebody lives in only during the summer",
         "examples": []
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "study",
@@ -20498,7 +20947,8 @@
         "definition": "thinking deeply so that you do not notice what is happening around you",
         "examples": []
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "survey",
@@ -20576,7 +21026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "survey",
@@ -20646,7 +21097,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "sweep",
@@ -20888,7 +21340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "terminate",
@@ -20924,7 +21377,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "terraced house",
@@ -20938,7 +21392,8 @@
         "definition": "a house that is one of a row of houses that are joined together on each side",
         "examples": []
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "tenant",
@@ -20965,7 +21420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "telephone",
@@ -21051,7 +21507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "television",
@@ -21161,7 +21618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "table",
@@ -21340,7 +21798,8 @@
         "definition": "to work serving food to people in a restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "thatch",
@@ -21376,7 +21835,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "terrace",
@@ -21425,7 +21885,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "terraced",
@@ -21465,7 +21926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "thermostat",
@@ -21479,7 +21941,8 @@
         "definition": "a device that measures and controls the temperature of a machine or room, by switching the heating or cooling system on and off as necessary",
         "examples": []
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "toilet",
@@ -21580,7 +22043,8 @@
         "definition": "the process of washing and dressing yourself, arranging your hair, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "title deed",
@@ -21599,7 +22063,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "tile",
@@ -21639,7 +22104,8 @@
         "definition": "to stay out late enjoying yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "threshold",
@@ -21688,7 +22154,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "title-holder",
@@ -21711,7 +22178,8 @@
         "definition": "the legal owner of something",
         "examples": []
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "town house",
@@ -21738,7 +22206,8 @@
         "definition": "a house that is one of a row of houses that are joined together on each side",
         "examples": []
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "unfurnished",
@@ -21757,7 +22226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "tumble dryer",
@@ -21771,7 +22241,8 @@
         "definition": "a machine that uses hot air to dry clothes after they have been washed",
         "examples": []
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "upstairs",
@@ -21806,7 +22277,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "(up) for sale",
@@ -21993,7 +22465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "upstairs",
@@ -22024,7 +22497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "two-up two-down",
@@ -22038,7 +22512,8 @@
         "definition": "a house with two rooms on the bottom floor and two bedrooms upstairs",
         "examples": []
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "unit",
@@ -22262,7 +22737,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "vacant possession",
@@ -22281,7 +22757,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "vacuum cleaner",
@@ -22295,7 +22772,8 @@
         "definition": "an electrical machine that cleans floors, carpets, etc. by sucking up dirt and dust",
         "examples": []
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "vase",
@@ -22314,7 +22792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "vacuum",
@@ -22333,7 +22812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "upstairs",
@@ -22352,7 +22832,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "vendor",
@@ -22389,7 +22870,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "vacant",
@@ -22454,7 +22936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "ventilator",
@@ -22477,7 +22960,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "veranda",
@@ -22500,7 +22984,8 @@
         "definition": "a roof over the part of the street where people walk in front of a shop",
         "examples": []
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "utility room",
@@ -22514,7 +22999,8 @@
         "definition": "a room, especially in a private house, that contains large pieces of equipment such as a washing machine, freezer, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "vent",
@@ -22554,7 +23040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "villa",
@@ -22595,7 +23082,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "wall",
@@ -22845,7 +23333,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "washing",
@@ -22885,7 +23374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "washbasin",
@@ -22912,7 +23402,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "washing machine",
@@ -22935,7 +23426,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "washing-up",
@@ -22967,7 +23459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "wallpaper",
@@ -22981,7 +23474,8 @@
         "definition": "to put wallpaper onto the walls of a room",
         "examples": []
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "wardrobe",
@@ -23013,7 +23507,8 @@
         "definition": "the department in a theatre or television company that takes care of the clothes that actors wear",
         "examples": []
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "wash up",
@@ -23058,7 +23553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "weathervane",
@@ -23072,7 +23568,8 @@
         "definition": "a metal object on the roof of a building that turns easily in the wind and shows which direction the wind is blowing from",
         "examples": []
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "wallpaper",
@@ -23108,7 +23605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "white goods",
@@ -23122,7 +23620,8 @@
         "definition": "large pieces of electrical equipment in the house, such as washing machines, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "wash",
@@ -23238,7 +23737,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "window",
@@ -23351,7 +23851,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "yurt",
@@ -23374,7 +23875,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "worktop",
@@ -23393,7 +23895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "Welsh dresser",
@@ -23407,7 +23910,8 @@
         "definition": "a large piece of wooden furniture with shelves in the top part and cupboards below, used for displaying and storing cups, plates, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "windowsill",
@@ -23426,7 +23930,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "window ledge",
@@ -23440,7 +23945,8 @@
         "definition": "a narrow shelf below a window, either inside or outside",
         "examples": []
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "zapper",
@@ -23463,6 +23969,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 507
   }
 ]

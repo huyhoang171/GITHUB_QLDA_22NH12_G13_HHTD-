@@ -20,7 +20,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "ANPR",
@@ -39,7 +40,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "A-road",
@@ -53,7 +55,8 @@
         "definition": "(in the UK) a road that is less important than a motorway, but wider and straighter than a B-road",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "airbag",
@@ -67,7 +70,8 @@
         "definition": "a safety device in a car that fills with air if there is an accident, to protect the people in the car",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "biofuel",
@@ -90,7 +94,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "biker",
@@ -118,7 +123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "Black Maria",
@@ -132,7 +138,8 @@
         "definition": "a police van that was used in the past for transporting prisoners in",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "axle",
@@ -151,7 +158,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "battery",
@@ -258,7 +266,8 @@
         "definition": "to get back your strength and energy by resting for a while",
         "examples": []
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "asphalt",
@@ -272,7 +281,8 @@
         "definition": "a thick black sticky substance used especially for making the surface of roads",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "all-terrain",
@@ -291,7 +301,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "artery",
@@ -314,7 +325,8 @@
         "definition": "a large and important road, river, railway line, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "automatic license plate recognition",
@@ -333,7 +345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "bike lane",
@@ -347,7 +360,8 @@
         "definition": "a part of a road that only bicycles are allowed to use",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "beep",
@@ -370,7 +384,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "bike",
@@ -421,7 +436,8 @@
         "definition": "a rude way of telling somebody to go away",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "automatic number plate recognition",
@@ -440,7 +456,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "ATV",
@@ -454,7 +471,8 @@
         "definition": "a small open vehicle, usually with one seat and four wheels with very thick tyres, designed especially for use on rough ground without roads (the abbreviation for ‘all-terrain vehicle’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "bottleneck",
@@ -490,7 +508,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "beater",
@@ -530,7 +549,8 @@
         "definition": "an old car that is in bad condition",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "articulated",
@@ -549,7 +569,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "autonomous guided vehicle",
@@ -568,7 +589,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "black cab",
@@ -591,7 +613,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "air-conditioned",
@@ -614,7 +637,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "automatic transmission",
@@ -633,7 +657,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "air conditioning",
@@ -652,7 +677,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "bike",
@@ -680,7 +706,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "BEV",
@@ -699,7 +726,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "avenue",
@@ -748,7 +776,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "booster seat",
@@ -762,7 +791,8 @@
         "definition": "a seat that you put on a car seat, or on a chair at a table, so that a small child can sit higher",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "all-wheel drive",
@@ -776,7 +806,8 @@
         "definition": "a system in which power is applied to all four wheels of a vehicle, making it easier to control; a vehicle with this system",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "bank",
@@ -943,7 +974,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "blowout",
@@ -997,7 +1029,8 @@
         "definition": "a sudden escape of oil or gas from an oil well",
         "examples": []
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "accelerate",
@@ -1037,7 +1070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "block",
@@ -1203,7 +1237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "AGV",
@@ -1222,7 +1257,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "Belisha beacon",
@@ -1236,7 +1272,8 @@
         "definition": "(in the UK) a post with an orange flashing light on top marking a place where cars must stop to allow people to cross the road",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "access road",
@@ -1255,7 +1292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "blind spot",
@@ -1291,7 +1329,8 @@
         "definition": "an area where a radio signal cannot be received",
         "examples": []
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "black ice",
@@ -1310,7 +1349,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "backfire",
@@ -1341,7 +1381,8 @@
         "definition": "to make a sudden noise like an explosion",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "automobile",
@@ -1368,7 +1409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "billboard",
@@ -1382,7 +1424,8 @@
         "definition": "a large board on the outside of a building or at the side of the road, used for putting advertisements on",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "ALPR",
@@ -1401,7 +1444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "bicycle",
@@ -1432,7 +1476,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "ambulance",
@@ -1459,7 +1504,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "approach",
@@ -1601,7 +1647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "body shop",
@@ -1619,7 +1666,8 @@
         "definition": "a place where repairs are made to the main bodies of cars",
         "examples": []
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "bicycle lane",
@@ -1633,7 +1681,8 @@
         "definition": "a part of a road that only bicycles are allowed to use",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "automatic",
@@ -1651,7 +1700,8 @@
         "definition": "a vehicle with a system of gears that operates without direct action from the driver",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "assembly line",
@@ -1670,7 +1720,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "backstreet",
@@ -1693,7 +1744,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "accident",
@@ -1828,7 +1880,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "anti-roll bar",
@@ -1842,7 +1895,8 @@
         "definition": "a metal bar that is part of a car’s suspension, which stops the car from leaning too much when it goes around corners",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "backhoe",
@@ -1856,7 +1910,8 @@
         "definition": "a large vehicle with equipment for digging, used in building roads, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "autorickshaw",
@@ -1870,7 +1925,8 @@
         "definition": "a covered motor vehicle with three wheels, a driver’s seat in front and a seat for passengers at the back, used as a taxi in many cities, especially in Asia and Africa",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "blinker",
@@ -1893,7 +1949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "bakkie",
@@ -1907,7 +1964,8 @@
         "definition": "a motor vehicle with low sides and no roof at the back, used for transporting goods or people, or as a car",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "automaker",
@@ -1921,7 +1979,8 @@
         "definition": "a company that makes cars",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "beltway",
@@ -1940,7 +1999,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "armrest",
@@ -1963,7 +2023,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "blacktop",
@@ -1977,7 +2038,8 @@
         "definition": "a black material used for making road surfaces, that consists of small stones mixed with tar",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "beep",
@@ -2013,7 +2075,8 @@
         "definition": "to call somebody on their beeper",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "back-seat driver",
@@ -2031,7 +2094,8 @@
         "definition": "a person who wants to be in control of something that is not really their responsibility",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "block",
@@ -2127,7 +2191,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "bodywork",
@@ -2146,7 +2211,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "bend",
@@ -2194,7 +2260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "blind",
@@ -2358,7 +2425,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "accelerator",
@@ -2381,7 +2449,8 @@
         "definition": "a machine for making elementary particles move at high speeds",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "battery electric vehicle",
@@ -2400,7 +2469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "beach buggy",
@@ -2414,7 +2484,8 @@
         "definition": "a small car used for driving on sand",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "autonomous",
@@ -2454,7 +2525,8 @@
         "definition": "that has the technology to drive itself without a person in control",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "body",
@@ -2677,7 +2749,8 @@
         "definition": "to have sex with somebody in exchange for money",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "banger",
@@ -2722,7 +2795,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "bollard",
@@ -2740,7 +2814,8 @@
         "definition": "a short thick post on a ship, or on land close to water, to which a ship’s rope may be tied",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "boulevard",
@@ -2780,7 +2855,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "boy racer",
@@ -2794,7 +2870,8 @@
         "definition": "a man, especially a young man, who drives his car too fast and without care",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "brake light",
@@ -2808,7 +2885,8 @@
         "definition": "a red light on the back of a vehicle that comes on when the brakes are used",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "block in",
@@ -2836,7 +2914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "brake pad",
@@ -2850,7 +2929,8 @@
         "definition": "a thin block that presses onto the disc in a disc brake in a vehicle, in order to stop the vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "break down",
@@ -2965,7 +3045,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "brake",
@@ -3008,7 +3089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "bonnet",
@@ -3045,7 +3127,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "breakdown lane",
@@ -3059,7 +3142,8 @@
         "definition": "a narrow piece of ground with a hard surface next to a major road such as a motorway or interstate where vehicles can stop in an emergency",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "breakdown truck",
@@ -3073,7 +3157,8 @@
         "definition": "a truck that is used for taking cars away to be repaired when they have had a breakdown",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "bucket seat",
@@ -3087,7 +3172,8 @@
         "definition": "a seat with a curved back for one person, especially in a car",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "branch off",
@@ -3110,7 +3196,8 @@
         "definition": "to leave a road or path and travel in a different direction",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "breath test",
@@ -3129,7 +3216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "brake",
@@ -3182,7 +3270,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "B-road",
@@ -3196,7 +3285,8 @@
         "definition": "a road that is less important than an A-road and usually joins small towns and villages",
         "examples": []
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "breakdown",
@@ -3283,7 +3373,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "bumper",
@@ -3310,7 +3401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "bus lane",
@@ -3324,7 +3416,8 @@
         "definition": "a part of a road that only buses are allowed to use",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "bus",
@@ -3388,7 +3481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "bulldozer",
@@ -3407,7 +3501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "byroad",
@@ -3421,7 +3516,8 @@
         "definition": "a minor road",
         "examples": []
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "bypass",
@@ -3449,7 +3545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "byway",
@@ -3472,7 +3569,8 @@
         "definition": "the less important areas of a subject",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "cabby",
@@ -3486,7 +3584,8 @@
         "definition": "a person who drives a taxi as his or her job",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "bypass",
@@ -3526,7 +3625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "burn rubber",
@@ -3849,7 +3949,8 @@
         "definition": "to have so much money that you do not have to be careful with it",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "bump",
@@ -3933,7 +4034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "buggy",
@@ -3970,7 +4072,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "cabriolet",
@@ -3984,7 +4087,8 @@
         "definition": "a car with a roof that can be folded down or removed",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "camper",
@@ -4015,7 +4119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "Cadillac™",
@@ -4038,7 +4143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "car club",
@@ -4057,7 +4163,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "cab",
@@ -4088,7 +4195,8 @@
         "definition": "the place where the driver sits in a bus, train or lorry",
         "examples": []
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "camber",
@@ -4102,7 +4210,8 @@
         "definition": "a slight curve that goes downwards from the middle of a road to each side",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "caravan",
@@ -4143,7 +4252,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "career",
@@ -4162,7 +4272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "carburettor",
@@ -4176,7 +4287,8 @@
         "definition": "the part of an engine, for example in a car, where petrol and air are mixed together",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "carjack",
@@ -4190,7 +4302,8 @@
         "definition": "to force the driver of a car to take you somewhere or give you their car, using threats and violence",
         "examples": []
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "car",
@@ -4259,7 +4372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "carsick",
@@ -4278,7 +4392,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "carriageway",
@@ -4306,7 +4421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "carjacking",
@@ -4320,7 +4436,8 @@
         "definition": "the crime of forcing the driver of a car to take you somewhere or give you their car, using threats and violence",
         "examples": []
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "careen",
@@ -4334,7 +4451,8 @@
         "definition": "to move forward very quickly especially in a way that is dangerous or shows a loss of control",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "carsickness",
@@ -4348,7 +4466,8 @@
         "definition": "the unpleasant feeling that you are going to vomit caused by travelling in a car",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "car park",
@@ -4362,7 +4481,8 @@
         "definition": "an area or a building where people can leave their cars",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "car pool",
@@ -4376,7 +4496,8 @@
         "definition": "a group of cars owned by a company or an organization, that its staff can use",
         "examples": []
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "car wash",
@@ -4390,7 +4511,8 @@
         "definition": "a place with special equipment, where you can pay to have your car washed",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "car seat",
@@ -4408,7 +4530,8 @@
         "definition": "a seat in a car",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "causeway",
@@ -4431,7 +4554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "cattle grid",
@@ -4450,7 +4574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "Catseye™",
@@ -4464,7 +4589,8 @@
         "definition": "one of a line of small objects that are fixed into a road and that reflect a car’s lights in order to guide traffic at night",
         "examples": []
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "central locking",
@@ -4483,7 +4609,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "change up",
@@ -4511,7 +4638,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "catalytic converter",
@@ -4530,7 +4658,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "change down",
@@ -4553,7 +4682,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "central reservation",
@@ -4567,7 +4697,8 @@
         "definition": "a narrow piece of land that separates the two sides of a major road such as a motorway or interstate",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "chassis",
@@ -4595,7 +4726,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "cart",
@@ -4649,7 +4781,8 @@
         "definition": "to put or do things in the wrong order",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "charging station",
@@ -4672,7 +4805,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "charging point",
@@ -4695,7 +4829,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "chauffeur",
@@ -4718,7 +4853,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "Chelsea tractor",
@@ -4741,7 +4877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "checkpoint",
@@ -4764,7 +4901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "child restraint",
@@ -4778,7 +4916,8 @@
         "definition": "a belt, or small seat with a belt, that is used in a car to control and protect a child",
         "examples": []
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "chopper",
@@ -4804,7 +4943,8 @@
         "definition": "teeth",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "clearway",
@@ -4818,7 +4958,8 @@
         "definition": "(in Britain) a road on which vehicles must not stop",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "clamp",
@@ -4836,7 +4977,8 @@
         "definition": "a device that is attached to the wheel of a car that has been parked illegally, so that it cannot be driven away",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "closure",
@@ -4889,7 +5031,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "clunker",
@@ -4907,7 +5050,8 @@
         "definition": "a serious mistake",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "choke",
@@ -4935,7 +5079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "collision",
@@ -5005,7 +5150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "coast",
@@ -5067,7 +5213,8 @@
         "definition": "to stay close to land while sailing around the coast",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "clock",
@@ -5121,7 +5268,8 @@
         "definition": "to illegally reduce the number of miles shown on a vehicle’s milometer (= instrument that measures the number of miles it has travelled) in order to make the vehicle appear to have travelled fewer miles than it really has",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "cobbled",
@@ -5135,7 +5283,8 @@
         "definition": "having a surface that is made of cobbles",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "clutch",
@@ -5220,7 +5369,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "clock",
@@ -5416,7 +5566,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "cobbles",
@@ -5435,7 +5586,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "coachwork",
@@ -5449,7 +5601,8 @@
         "definition": "the metal outer part of a road or railway vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "collide",
@@ -5489,7 +5642,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "coach",
@@ -5645,7 +5799,8 @@
         "definition": "to cause something to fail, for example a plan",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "compact",
@@ -5676,7 +5831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "commute",
@@ -5729,7 +5885,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "cone off",
@@ -5748,7 +5905,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "conductor",
@@ -5789,7 +5947,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "combustion chamber",
@@ -5803,7 +5962,8 @@
         "definition": "a space in which combustion takes place, for example in an engine",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "congestion charging",
@@ -5817,7 +5977,8 @@
         "definition": "the policy of making people pay an amount of money for driving their cars into the centre of some cities as a way of stopping the city centre from becoming too full of traffic",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "constructor",
@@ -5836,7 +5997,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "congestion charge",
@@ -5850,7 +6012,8 @@
         "definition": "an amount of money that people have to pay for driving their cars into the centre of some cities as a way of stopping the city centre from becoming too full of traffic",
         "examples": []
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "contraflow",
@@ -5869,7 +6032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "company car",
@@ -5883,7 +6047,8 @@
         "definition": "a car that is provided by the company that you work for",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "convertible",
@@ -5897,7 +6062,8 @@
         "definition": "a car with a roof that can be folded down or taken off",
         "examples": []
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "coupé",
@@ -5911,7 +6077,8 @@
         "definition": "a car with two doors and usually a sloping back",
         "examples": []
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "corridor",
@@ -5965,7 +6132,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "courier",
@@ -5996,7 +6164,8 @@
         "definition": "a person who is employed by a travel company to give advice and help to a group of tourists on holiday",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "convertible",
@@ -6036,7 +6205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "crankshaft",
@@ -6050,7 +6220,8 @@
         "definition": "a long piece of metal in a vehicle that connects the engine to the wheels and helps turn the engine’s power into movement",
         "examples": []
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "cordon off",
@@ -6069,7 +6240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "combi",
@@ -6083,7 +6255,8 @@
         "definition": "a vehicle that looks like a van, has windows at the sides and carries about ten people",
         "examples": []
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "crash helmet",
@@ -6097,7 +6270,8 @@
         "definition": "a hat made of very strong material and worn to protect the head when riding a motorcycle or driving a racing car",
         "examples": []
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "crash",
@@ -6263,7 +6437,8 @@
         "definition": "a very boring person, activity, event or subject",
         "examples": []
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "crash-test dummy",
@@ -6277,7 +6452,8 @@
         "definition": "a model of a person used in crash tests to see what would happen to a driver or passenger in a real crash",
         "examples": []
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "crash-test",
@@ -6291,7 +6467,8 @@
         "definition": "to deliberately crash a new vehicle under carefully controlled conditions in order to test how it reacts or to improve its safety",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "courtesy",
@@ -6314,7 +6491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "crash",
@@ -6412,7 +6590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "cone",
@@ -6461,7 +6640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "crash barrier",
@@ -6480,7 +6660,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "crossing",
@@ -6533,7 +6714,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "crescent",
@@ -6569,7 +6751,8 @@
         "definition": "the curved shape that is used as a symbol of Islam",
         "examples": []
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "crossroads",
@@ -6609,7 +6792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "cross street",
@@ -6623,7 +6807,8 @@
         "definition": "a street that crosses another street",
         "examples": []
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "crosswalk",
@@ -6637,7 +6822,8 @@
         "definition": "a part of a road where vehicles must stop to allow people to cross",
         "examples": []
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "cruise",
@@ -6699,7 +6885,8 @@
         "definition": "to go around in public places looking for a sexual partner",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "cruiser",
@@ -6731,7 +6918,8 @@
         "definition": "a police car",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "corner",
@@ -7013,7 +7201,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "crumple zone",
@@ -7027,7 +7216,8 @@
         "definition": "the part of a car that is designed to crumple easily if there is an accident, to protect the people in the car",
         "examples": []
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "cubbyhole",
@@ -7050,7 +7240,8 @@
         "definition": "a small space or shelf facing the front seats of a car where you can keep papers, maps, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "cruise control",
@@ -7064,7 +7255,8 @@
         "definition": "a device in a vehicle that allows it to stay at the speed that the driver has chosen",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "crossover",
@@ -7096,7 +7288,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "curb",
@@ -7128,7 +7321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "cycle lane",
@@ -7147,7 +7341,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "cycle",
@@ -7224,7 +7419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "cut up",
@@ -7273,7 +7469,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "cyclist",
@@ -7292,7 +7489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "cycle rickshaw",
@@ -7306,7 +7504,8 @@
         "definition": "a vehicle like a bicycle with three wheels, with a covered seat for passengers behind the driver, used especially in some Asian countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "curbside",
@@ -7320,7 +7519,8 @@
         "definition": "the side of the street or path near the curb",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "cut in",
@@ -7369,7 +7569,8 @@
         "definition": "to give somebody a share of the profit in a business or an activity",
         "examples": []
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "daladala",
@@ -7383,7 +7584,8 @@
         "definition": "(in Tanzania) a privately owned road vehicle with seats for about twelve people that carries passengers and has a driver that you pay to take you somewhere, usually along a fixed route with other stops for people to get on and off",
         "examples": []
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "dead end",
@@ -7423,7 +7625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "dashboard",
@@ -7455,7 +7658,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "decompressor",
@@ -7473,7 +7677,8 @@
         "definition": "a computer program that returns files, etc. to their original size after they have been compressed",
         "examples": []
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "curve",
@@ -7573,7 +7778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "designated driver",
@@ -7587,7 +7793,8 @@
         "definition": "the person who agrees to drive and not drink alcohol when people go to a party, a bar, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "Denver boot",
@@ -7601,7 +7808,8 @@
         "definition": "a device that is attached to the wheel of a car that has been parked illegally, so that it cannot be driven away",
         "examples": []
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "destination charge",
@@ -7620,7 +7828,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "diesel",
@@ -7652,7 +7861,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "dial",
@@ -7691,7 +7901,8 @@
         "definition": "the round part on some older phones, with holes for the fingers, that you move around to call a particular number",
         "examples": []
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "dealer",
@@ -7727,7 +7938,8 @@
         "definition": "the person who gives out the cards in a card game",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "detour",
@@ -7754,7 +7966,8 @@
         "definition": "a road or route that is used when the usual one is closed",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "dipstick",
@@ -7772,7 +7985,8 @@
         "definition": "a stupid person",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "dealership",
@@ -7791,7 +8005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "detail",
@@ -7840,7 +8055,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "dockless bike",
@@ -7859,7 +8075,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "dirt road",
@@ -7873,7 +8090,8 @@
         "definition": "a rough road in the country that is made from hard earth",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "dog-leg",
@@ -7887,7 +8105,8 @@
         "definition": "a sharp bend, especially in a road or on a golf course",
         "examples": []
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "ditch",
@@ -7906,7 +8125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "ding",
@@ -7934,7 +8154,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "dip",
@@ -8008,7 +8229,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "drink-driver",
@@ -8022,7 +8244,8 @@
         "definition": "a person who drives a vehicle after drinking too much alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "drink-driving",
@@ -8036,7 +8259,8 @@
         "definition": "driving a vehicle after drinking too much alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "divided highway",
@@ -8055,7 +8279,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "diversion",
@@ -8125,7 +8350,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "double-park",
@@ -8148,7 +8374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "drive off",
@@ -8180,7 +8407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "drive on",
@@ -8199,7 +8427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "driver",
@@ -8300,7 +8529,8 @@
         "definition": "to be the person in control of a situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "drive away",
@@ -8340,7 +8570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "divide",
@@ -8546,7 +8777,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "drive",
@@ -8686,7 +8918,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "drive",
@@ -8958,7 +9191,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "drive time",
@@ -8972,7 +9206,8 @@
         "definition": "a time during the day when many people are driving their cars, for example to or from work",
         "examples": []
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "driverless",
@@ -8991,7 +9226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "driving licence",
@@ -9018,7 +9254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "driving test",
@@ -9032,7 +9269,8 @@
         "definition": "a test that must be passed before you are qualified to drive a car, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "driveway",
@@ -9051,7 +9289,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "driving under the influence",
@@ -9065,7 +9304,8 @@
         "definition": "the crime of driving a vehicle after drinking too much alcohol or taking drugs that affect your ability to drive. It is a less serious crime than ‘driving while intoxicated’.",
         "examples": []
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "drive-time",
@@ -9084,7 +9324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "driving while intoxicated",
@@ -9098,7 +9339,8 @@
         "definition": "the crime of driving a vehicle after drinking too much alcohol or taking drugs that affect your ability to drive",
         "examples": []
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "driving school",
@@ -9112,7 +9354,8 @@
         "definition": "a business that gives people lessons in how to drive a car, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "drunken driving",
@@ -9126,7 +9369,8 @@
         "definition": "driving a vehicle after drinking too much alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "drunk driving",
@@ -9140,7 +9384,8 @@
         "definition": "driving a vehicle after drinking too much alcohol",
         "examples": []
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "dual controls",
@@ -9154,7 +9399,8 @@
         "definition": "two sets of instruments for controlling a vehicle or aircraft, so that a teacher, for example, can take control from the driver",
         "examples": []
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "dual carriageway",
@@ -9181,7 +9427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "dumper truck",
@@ -9195,7 +9442,8 @@
         "definition": "a vehicle for carrying earth, stones, etc. in a container that can be lifted up for the load to fall out",
         "examples": []
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "dune buggy",
@@ -9209,7 +9457,8 @@
         "definition": "a small car used for driving on sand",
         "examples": []
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "electric vehicle",
@@ -9228,7 +9477,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "embankment",
@@ -9242,7 +9492,8 @@
         "definition": "a wall or bank of stone or earth made to keep water back or to carry a road or railway over low ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "engine",
@@ -9319,7 +9570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "dustcart",
@@ -9333,7 +9585,8 @@
         "definition": "a bin lorry (= a vehicle for collecting rubbish from outside houses, etc)",
         "examples": []
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "express lane",
@@ -9356,7 +9609,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "drop",
@@ -9780,7 +10034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "dual control",
@@ -9799,7 +10054,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "exhaust",
@@ -9831,7 +10087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "EV charger",
@@ -9854,7 +10111,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "electric",
@@ -9886,7 +10144,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "fender bender",
@@ -9905,7 +10164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "exit",
@@ -9967,7 +10227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "estate car",
@@ -9981,7 +10242,8 @@
         "definition": "a car with a lot of space behind the back seats and a door at the back for loading large items",
         "examples": []
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "fast lane",
@@ -10004,7 +10266,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "feeder",
@@ -10031,7 +10294,8 @@
         "definition": "kept to be killed and used for meat",
         "examples": []
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "fender",
@@ -10057,7 +10321,8 @@
         "definition": "a soft solid object such as an old tyre or a piece of rope that is hung over the side of a boat so the boat is not damaged if it touches another boat, a wall, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "filler cap",
@@ -10071,7 +10336,8 @@
         "definition": "a cover for the end of the pipe through which fuel is put into a vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "expressway",
@@ -10090,7 +10356,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "escort",
@@ -10134,7 +10401,8 @@
         "definition": "a person, especially a woman, who is paid to go out socially with somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "fan belt",
@@ -10148,7 +10416,8 @@
         "definition": "a belt that operates the machines that cool a car engine",
         "examples": []
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "filter",
@@ -10219,7 +10488,8 @@
         "definition": "to turn left (or right) at traffic lights while other vehicles wanting to go straight ahead or turn right (or left) must wait",
         "examples": []
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "filling station",
@@ -10233,7 +10503,8 @@
         "definition": "a place at the side of a road where you take your car to buy petrol, oil, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "fill-up",
@@ -10247,7 +10518,8 @@
         "definition": "an occasion when a car is completely filled up with petrol",
         "examples": []
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "floor",
@@ -10288,7 +10560,8 @@
         "definition": "to press the accelerator pedal of a car hard",
         "examples": []
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "fin",
@@ -10311,7 +10584,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "flasher",
@@ -10338,7 +10612,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "flat",
@@ -10467,7 +10742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "fire truck",
@@ -10481,7 +10757,8 @@
         "definition": "a special vehicle that carries equipment for fighting large fires",
         "examples": []
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "fog lamp",
@@ -10495,7 +10772,8 @@
         "definition": "a very bright light on the front or back of a car to help the driver to see or be seen in fog",
         "examples": []
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "flyover",
@@ -10513,7 +10791,8 @@
         "definition": "a special flight by a group of aircraft, for people to watch at an important ceremony",
         "examples": []
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "fire engine",
@@ -10527,7 +10806,8 @@
         "definition": "a special vehicle that carries equipment for fighting large fires",
         "examples": []
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "fire hydrant",
@@ -10541,7 +10821,8 @@
         "definition": "a pipe in the street through which water can be sent using a pump in order to put out fires or to clean the streets",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "footbrake",
@@ -10555,7 +10836,8 @@
         "definition": "a brake in a vehicle that is operated using your foot",
         "examples": []
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "footway",
@@ -10578,7 +10860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "fork",
@@ -10639,7 +10922,8 @@
         "definition": "either of two metal supporting pieces into which a wheel on a bicycle or motorcycle is fitted",
         "examples": []
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "fork",
@@ -10688,7 +10972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "forecourt",
@@ -10702,7 +10987,8 @@
         "definition": "a large open space in front of a building, for example a petrol station or hotel, often used for parking cars on",
         "examples": []
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "freeway",
@@ -10725,7 +11011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "four-by-four",
@@ -10739,7 +11026,8 @@
         "definition": "a vehicle with four-wheel drive (= a system in which power is given to all four wheels)",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "front-end loader",
@@ -10753,7 +11041,8 @@
         "definition": "a large vehicle with equipment for digging at the front, worked by a system of hydraulics",
         "examples": []
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "front end",
@@ -10794,7 +11083,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "forklift truck",
@@ -10808,7 +11098,8 @@
         "definition": "a vehicle with special equipment on the front for moving and lifting heavy objects",
         "examples": []
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "fuel-efficient",
@@ -10827,7 +11118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "four-stroke",
@@ -10841,7 +11133,8 @@
         "definition": "with a piston that makes four up and down movements in each power cycle",
         "examples": []
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "fuel efficiency",
@@ -10860,7 +11153,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "four-wheel drive",
@@ -10883,7 +11177,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "front",
@@ -11244,7 +11539,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "front-wheel drive",
@@ -11258,7 +11554,8 @@
         "definition": "a system in which power from the engine is sent to the front wheels of a vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "full beam",
@@ -11277,7 +11574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "garbage truck",
@@ -11291,7 +11589,8 @@
         "definition": "a vehicle for collecting rubbish from outside houses, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "gas guzzler",
@@ -11305,7 +11604,8 @@
         "definition": "a car or other vehicle that needs a lot of petrol",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "gas station",
@@ -11319,7 +11619,8 @@
         "definition": "a place at the side of a road where you take your car to buy petrol, oil, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "gas tank",
@@ -11338,7 +11639,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "fuel injection",
@@ -11352,7 +11654,8 @@
         "definition": "a system of putting fuel into the engine of a car under pressure as a way of improving its performance",
         "examples": []
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "gas pedal",
@@ -11366,7 +11669,8 @@
         "definition": "the pedal in a car or other vehicle that you press with your foot to control the speed of the engine",
         "examples": []
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "furniture van",
@@ -11380,7 +11684,8 @@
         "definition": "a large van used for moving furniture and other goods from one home or business to another",
         "examples": []
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "gas-guzzling",
@@ -11399,7 +11704,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "garage",
@@ -11463,7 +11769,8 @@
         "definition": "a type of electronic dance music with elements of drum and bass, house music and soul",
         "examples": []
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "gear lever",
@@ -11482,7 +11789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "gas",
@@ -11623,7 +11931,8 @@
         "definition": "to be doing something very well and successfully",
         "examples": []
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "gearbox",
@@ -11637,7 +11946,8 @@
         "definition": "the part containing the gears of a vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "gated",
@@ -11660,7 +11970,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "gearshift",
@@ -11674,7 +11985,8 @@
         "definition": "a handle used to change the gears of a vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "gear change",
@@ -11697,7 +12009,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "glove compartment",
@@ -11720,7 +12033,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "gradient",
@@ -11747,7 +12061,8 @@
         "definition": "the rate at which temperature, pressure, etc. changes, or increases and decreases, between one region and another",
         "examples": []
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "gear",
@@ -11898,7 +12213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "gravel",
@@ -11933,7 +12249,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "go-faster stripes",
@@ -11956,7 +12273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "gravelled",
@@ -11970,7 +12288,8 @@
         "definition": "covered with gravel",
         "examples": []
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "gun",
@@ -11998,7 +12317,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "GPS",
@@ -12021,7 +12341,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "grade crossing",
@@ -12035,7 +12356,8 @@
         "definition": "a place where a road crosses a railroad at the same level (not on a bridge)",
         "examples": []
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "gridlock",
@@ -12071,7 +12393,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "gutter",
@@ -12112,7 +12435,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "grit",
@@ -12148,7 +12472,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "guard rail",
@@ -12166,7 +12491,8 @@
         "definition": "a strong low fence or wall at the side of a road or between the two halves of a major road such as a motorway or interstate",
         "examples": []
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "hairpin bend",
@@ -12180,7 +12506,8 @@
         "definition": "a sharp U-shaped bend in a road, especially a mountain road",
         "examples": []
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "handbrake",
@@ -12207,7 +12534,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "grease monkey",
@@ -12221,7 +12549,8 @@
         "definition": "a person whose job is repairing cars",
         "examples": []
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "handling",
@@ -12300,7 +12629,8 @@
         "definition": "the act or cost of transporting goods from one place to another",
         "examples": []
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "handbrake turn",
@@ -12314,7 +12644,8 @@
         "definition": "a fast turn made by putting on the handbrake in a moving car",
         "examples": []
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "hazard lights",
@@ -12337,7 +12668,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "handle",
@@ -12440,7 +12772,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "headlight",
@@ -12459,7 +12792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "hardtop",
@@ -12473,7 +12807,8 @@
         "definition": "a car with a metal roof",
         "examples": []
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "give way (to somebody/something)",
@@ -13987,7 +14322,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "hard shoulder",
@@ -14006,7 +14342,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "hatchback",
@@ -14020,7 +14357,8 @@
         "definition": "a car with a sloping door at the back that opens upwards",
         "examples": []
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "haulier",
@@ -14034,7 +14372,8 @@
         "definition": "a person or company whose business is transporting goods by road or railway",
         "examples": []
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "headlamp",
@@ -14048,7 +14387,8 @@
         "definition": "a large light, usually one of two, at the front of a vehicle; the beam from this light",
         "examples": []
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "headrest",
@@ -14062,7 +14402,8 @@
         "definition": "a support for the head, especially one attached to the back of a chair or seat, for example in a car",
         "examples": []
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "hearse",
@@ -14076,7 +14417,8 @@
         "definition": "a long vehicle used for carrying the coffin (= the box for the dead body) at a funeral",
         "examples": []
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "heavy goods vehicle",
@@ -14090,7 +14432,8 @@
         "definition": "a large vehicle such as a lorry",
         "examples": []
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "head-on",
@@ -14118,7 +14461,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "helmet",
@@ -14145,7 +14489,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "high beams",
@@ -14168,7 +14513,8 @@
         "definition": "pointing a long way ahead, not down at the road",
         "examples": []
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "heavy",
@@ -14539,7 +14885,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "HGV",
@@ -14558,7 +14905,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "high road",
@@ -14595,7 +14943,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "Hells Angel™",
@@ -14609,7 +14958,8 @@
         "definition": "a member of a group of people, usually men, who ride powerful motorcycles, wear leather clothes and used to be known for their wild and violent behaviour",
         "examples": []
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "HEV",
@@ -14628,7 +14978,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "highway",
@@ -14668,7 +15019,8 @@
         "definition": "used to say that somebody else has either to agree with your opinion or to leave",
         "examples": []
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "hire car",
@@ -14687,7 +15039,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "hitchhike",
@@ -14706,7 +15059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "hoarding",
@@ -14738,7 +15092,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "hood",
@@ -14826,7 +15181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "hit-and-run",
@@ -14858,7 +15214,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "hold-up",
@@ -14898,7 +15255,8 @@
         "definition": "stockings that are kept up by having a band of material that can stretch at the top",
         "examples": []
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "honk",
@@ -14933,7 +15291,8 @@
         "definition": "when a goose honks, it makes a loud noise",
         "examples": []
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "hitchhiker",
@@ -14952,7 +15311,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "hitchhiking",
@@ -14971,7 +15331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "honk",
@@ -14989,7 +15350,8 @@
         "definition": "the noise made by a car horn",
         "examples": []
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "hold",
@@ -15465,7 +15827,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "hitch",
@@ -15547,7 +15910,8 @@
         "definition": "to get married",
         "examples": []
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "hooter",
@@ -15569,7 +15933,8 @@
         "definition": "an offensive word for a woman’s breast",
         "examples": []
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "hot-wire",
@@ -15588,7 +15953,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "hoon",
@@ -15602,7 +15968,8 @@
         "definition": "to behave in a rude and aggressive way, especially driving in a dangerous way",
         "examples": []
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "hoon",
@@ -15616,7 +15983,8 @@
         "definition": "a man who behaves in a rude and aggressive way, especially one who drives in a dangerous way",
         "examples": []
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "hot hatch",
@@ -15639,7 +16007,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "HOV lane",
@@ -15662,7 +16031,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "horse trailer",
@@ -15676,7 +16046,8 @@
         "definition": "a vehicle for transporting horses in, pulled by another vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "hybrid electric vehicle",
@@ -15695,7 +16066,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "hubcap",
@@ -15709,7 +16081,8 @@
         "definition": "a round metal cover that fits over the hub of a vehicle’s wheel",
         "examples": []
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "hot rod",
@@ -15723,7 +16096,8 @@
         "definition": "a car that has been changed and improved to give it extra power and speed",
         "examples": []
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "horn",
@@ -15830,7 +16204,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "horsebox",
@@ -15849,7 +16224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "ignition",
@@ -15881,7 +16257,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "indicate",
@@ -16048,7 +16425,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "hydrant",
@@ -16062,7 +16440,8 @@
         "definition": "a pipe in the street through which water can be sent using a pump in order to put out fires or to clean the streets",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "interchange",
@@ -16089,7 +16468,8 @@
         "definition": "a place where a road joins a major road such as a motorway or interstate, designed so that vehicles leaving or joining the road do not have to cross other lines of traffic",
         "examples": []
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "inside",
@@ -16208,7 +16588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "inside",
@@ -16252,7 +16633,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "indicator",
@@ -16297,7 +16679,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "idle",
@@ -16338,7 +16721,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "internal combustion engine",
@@ -16352,7 +16736,8 @@
         "definition": "a type of engine used in most cars that produces power by burning petrol or other fuel inside",
         "examples": []
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "insure",
@@ -16400,7 +16785,8 @@
         "definition": "to make sure that something happens or is definite",
         "examples": []
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "impassable",
@@ -16431,7 +16817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "instructor",
@@ -16462,7 +16849,8 @@
         "definition": "a teacher below the rank of assistant professor at a college or university",
         "examples": []
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "interstate",
@@ -16485,7 +16873,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "joyriding",
@@ -16499,7 +16888,8 @@
         "definition": "the crime of stealing a car and driving it for pleasure, usually in a fast and dangerous way",
         "examples": []
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "jack up",
@@ -16531,7 +16921,8 @@
         "definition": "to increase something, especially prices, by a large amount",
         "examples": []
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "jalopy",
@@ -16545,7 +16936,8 @@
         "definition": "an old car that is in bad condition",
         "examples": []
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "jackknife",
@@ -16559,7 +16951,8 @@
         "definition": "to form a V-shape. For example if a lorry that is in two parts jackknifes, the driver loses control and the back part moves towards the front part.",
         "examples": []
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "JCB™",
@@ -16573,7 +16966,8 @@
         "definition": "a powerful vehicle with a long arm for digging and moving earth",
         "examples": []
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "juggernaut",
@@ -16601,7 +16995,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "Jeep™",
@@ -16615,7 +17010,8 @@
         "definition": "a small strong vehicle used, especially by the army, for driving over rough ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "jack",
@@ -16671,7 +17067,8 @@
         "definition": "a person who can do many different types of work, but who perhaps does not do them very well",
         "examples": []
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "jam",
@@ -16759,7 +17156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "jumper cable",
@@ -16773,7 +17171,8 @@
         "definition": "one of two cables that are used to start a car when it has no power in its battery. The jumper cables connect the battery to the battery of another car.",
         "examples": []
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "jump lead",
@@ -16792,7 +17191,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "kerbside",
@@ -16819,7 +17219,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "junkyard",
@@ -16833,7 +17234,8 @@
         "definition": "a place where old cars, machines, etc. are collected, so that parts of them, or the metal they are made of, can be sold to be used again",
         "examples": []
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "junker",
@@ -16852,7 +17254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "jump-start",
@@ -16880,7 +17283,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "keyless",
@@ -16899,7 +17303,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "kombi",
@@ -16913,7 +17318,8 @@
         "definition": "a vehicle that looks like a van, has windows at the sides and carries about ten people",
         "examples": []
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "kerb",
@@ -16932,7 +17338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "junction",
@@ -16976,7 +17383,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "Land Rover™",
@@ -16990,7 +17398,8 @@
         "definition": "a strong vehicle used for travelling over rough ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "lane",
@@ -17087,7 +17496,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "jump the lights",
@@ -17477,7 +17887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "learner",
@@ -17521,7 +17932,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "lamp post",
@@ -17540,7 +17952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "laneway",
@@ -17559,7 +17972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "legroom",
@@ -17582,7 +17996,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "left-hand drive",
@@ -17596,7 +18011,8 @@
         "definition": "with the steering wheel on the left side",
         "examples": []
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "lay-by",
@@ -17628,7 +18044,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "license number",
@@ -17642,7 +18059,8 @@
         "definition": "the series of letters and numbers that are shown on a license plate at the front and back of a vehicle to identify it",
         "examples": []
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "level crossing",
@@ -17661,7 +18079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "license plate",
@@ -17680,7 +18099,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "lollipop lady",
@@ -17694,7 +18114,8 @@
         "definition": "a woman whose job is to help children cross a busy road on their way to and from school by holding up a sign on a stick telling traffic to stop",
         "examples": []
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "limo",
@@ -17712,7 +18133,8 @@
         "definition": "a van or small bus that takes people to and from an airport",
         "examples": []
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "low beams",
@@ -17740,7 +18162,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "low traffic neighbourhood",
@@ -17754,7 +18177,8 @@
         "definition": "an area of a town or city in which vehicles cannot drive on some streets or parts of streets where people live",
         "examples": []
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "lollipop man",
@@ -17768,7 +18192,8 @@
         "definition": "a man whose job is to help children cross a busy road on their way to and from school by holding up a sign on a stick telling traffic to stop",
         "examples": []
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "limousine",
@@ -17799,7 +18224,8 @@
         "definition": "a kind of luxury taxi that you can hire for a few hours, especially for a special event with a group of people",
         "examples": []
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "lift",
@@ -17903,7 +18329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "L-plate",
@@ -17917,7 +18344,8 @@
         "definition": "(in the UK and some other countries) a white sign with a large red letter L on it, that you put on a car when you are learning to drive",
         "examples": []
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "logbook",
@@ -17940,7 +18368,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "lock",
@@ -18045,7 +18474,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "LTN",
@@ -18064,7 +18494,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "main street",
@@ -18087,7 +18518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "main road",
@@ -18106,7 +18538,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "macadam",
@@ -18120,7 +18553,8 @@
         "definition": "a road surface made of layers of broken stones, mixed with tar",
         "examples": []
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "manhole",
@@ -18134,7 +18568,8 @@
         "definition": "a hole in the street that has a cover over it, used when somebody needs to go down to examine the pipes or sewers below the street",
         "examples": []
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "main drag",
@@ -18148,7 +18583,8 @@
         "definition": "the most important or the busiest street in a town",
         "examples": []
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "matatu",
@@ -18162,7 +18598,8 @@
         "definition": "(in Kenya) a small, privately owned bus, often decorated with pictures, words or phrases, that carries passengers and has a driver that you pay to take you somewhere, usually along a fixed route with other stops for people to get on and off",
         "examples": []
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "manual",
@@ -18198,7 +18635,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "marque",
@@ -18217,7 +18655,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "manifold",
@@ -18236,7 +18675,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "median",
@@ -18258,7 +18698,8 @@
         "definition": "a narrow piece of land that separates the two sides of a major road such as a motorway or interstate",
         "examples": []
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "mechanic",
@@ -18308,7 +18749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "mews",
@@ -18327,7 +18769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "milometer",
@@ -18341,7 +18784,8 @@
         "definition": "an instrument in a vehicle that measures the number of miles it has travelled",
         "examples": []
       }
-    ]
+    ],
+    "id": 444
   },
   {
     "word": "mileometer",
@@ -18355,7 +18799,8 @@
         "definition": "an instrument in a vehicle that measures the number of miles it has travelled",
         "examples": []
       }
-    ]
+    ],
+    "id": 445
   },
   {
     "word": "mini-roundabout",
@@ -18369,7 +18814,8 @@
         "definition": "a white circle painted on a road at a place where two or more roads meet, that all traffic must go around in the same direction",
         "examples": []
       }
-    ]
+    ],
+    "id": 446
   },
   {
     "word": "MOT",
@@ -18392,7 +18838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 447
   },
   {
     "word": "moped",
@@ -18406,7 +18853,8 @@
         "definition": "a motorcycle with a small engine and also pedals",
         "examples": []
       }
-    ]
+    ],
+    "id": 448
   },
   {
     "word": "minibus",
@@ -18420,7 +18868,8 @@
         "definition": "a small vehicle with seats for about twelve people",
         "examples": []
       }
-    ]
+    ],
+    "id": 449
   },
   {
     "word": "minivan",
@@ -18434,7 +18883,8 @@
         "definition": "a large car, like a van, designed to carry up to eight people",
         "examples": []
       }
-    ]
+    ],
+    "id": 450
   },
   {
     "word": "milepost",
@@ -18452,7 +18902,8 @@
         "definition": "a very important stage or event in the development of something",
         "examples": []
       }
-    ]
+    ],
+    "id": 451
   },
   {
     "word": "misfire",
@@ -18479,7 +18930,8 @@
         "definition": "to fail to send out a bullet, etc. when fired",
         "examples": []
       }
-    ]
+    ],
+    "id": 452
   },
   {
     "word": "make",
@@ -18514,7 +18966,8 @@
         "definition": "trying to get money or an advantage for yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 453
   },
   {
     "word": "motorhome",
@@ -18528,7 +18981,8 @@
         "definition": "a large vehicle designed for people to live and sleep in when they are travelling",
         "examples": []
       }
-    ]
+    ],
+    "id": 454
   },
   {
     "word": "motor",
@@ -18547,7 +19001,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 455
   },
   {
     "word": "motorist",
@@ -18570,7 +19025,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 456
   },
   {
     "word": "motorcyclist",
@@ -18593,7 +19049,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 457
   },
   {
     "word": "motor vehicle",
@@ -18607,7 +19064,8 @@
         "definition": "any road vehicle driven by an engine",
         "examples": []
       }
-    ]
+    ],
+    "id": 458
   },
   {
     "word": "motor car",
@@ -18630,7 +19088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 459
   },
   {
     "word": "motorbike",
@@ -18653,7 +19112,8 @@
         "definition": "a bicycle that has a small engine",
         "examples": []
       }
-    ]
+    ],
+    "id": 460
   },
   {
     "word": "motorway",
@@ -18692,7 +19152,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 461
   },
   {
     "word": "motor",
@@ -18749,7 +19210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 462
   },
   {
     "word": "motorcycle",
@@ -18784,7 +19246,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 463
   },
   {
     "word": "mountain bike",
@@ -18798,7 +19261,8 @@
         "definition": "a bicycle with a strong frame, wide tyres and many gears, designed for riding on rough ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 464
   },
   {
     "word": "mudflap",
@@ -18812,7 +19276,8 @@
         "definition": "one of a set of pieces of flexible material that are fixed behind the wheels of a car, motorcycle, etc. to prevent them from throwing up mud, stones or water",
         "examples": []
       }
-    ]
+    ],
+    "id": 465
   },
   {
     "word": "moving van",
@@ -18826,7 +19291,8 @@
         "definition": "a large van used for moving furniture and other goods from one home or business to another",
         "examples": []
       }
-    ]
+    ],
+    "id": 466
   },
   {
     "word": "nearside",
@@ -18849,7 +19315,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 467
   },
   {
     "word": "number plate",
@@ -18868,7 +19335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 468
   },
   {
     "word": "navigate",
@@ -18934,7 +19402,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 469
   },
   {
     "word": "muffler",
@@ -18956,7 +19425,8 @@
         "definition": "a thick piece of cloth worn around the neck to keep you warm",
         "examples": []
       }
-    ]
+    ],
+    "id": 470
   },
   {
     "word": "MPV",
@@ -18970,7 +19440,8 @@
         "definition": "a large car like a van (the abbreviation for ‘multipurpose vehicle’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 471
   },
   {
     "word": "nav",
@@ -18993,7 +19464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 472
   },
   {
     "word": "nose to tail",
@@ -19326,7 +19798,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 473
   },
   {
     "word": "obstruct",
@@ -19370,7 +19843,8 @@
         "definition": "to tell a lie or to do something in order to prevent the police, etc. from finding out the truth about a crime",
         "examples": []
       }
-    ]
+    ],
+    "id": 474
   },
   {
     "word": "off-ramp",
@@ -19384,7 +19858,8 @@
         "definition": "a road used for driving off a major road such as an interstate",
         "examples": []
       }
-    ]
+    ],
+    "id": 475
   },
   {
     "word": "off-road",
@@ -19407,7 +19882,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 476
   },
   {
     "word": "offside",
@@ -19439,7 +19915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 477
   },
   {
     "word": "odometer",
@@ -19453,7 +19930,8 @@
         "definition": "an instrument in a vehicle that measures the number of miles it has travelled",
         "examples": []
       }
-    ]
+    ],
+    "id": 478
   },
   {
     "word": "offside",
@@ -19481,7 +19959,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 479
   },
   {
     "word": "off-street",
@@ -19500,7 +19979,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 480
   },
   {
     "word": "obstruction",
@@ -19566,7 +20046,8 @@
         "definition": "the offence of unfairly putting your body in front of a player of the other team so they cannot move to get the ball",
         "examples": []
       }
-    ]
+    ],
+    "id": 481
   },
   {
     "word": "oil",
@@ -19718,7 +20199,8 @@
         "definition": "to try to settle an argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 482
   },
   {
     "word": "on-ramp",
@@ -19732,7 +20214,8 @@
         "definition": "a road used for driving onto a major road such as an interstate",
         "examples": []
       }
-    ]
+    ],
+    "id": 483
   },
   {
     "word": "on-street",
@@ -19746,7 +20229,8 @@
         "definition": "located at the side of a public road rather than in a garage, a drive, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 484
   },
   {
     "word": "orbital",
@@ -19765,7 +20249,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 485
   },
   {
     "word": "outer belt",
@@ -19779,7 +20264,8 @@
         "definition": "a road that is built around a city or town to reduce traffic in the centre",
         "examples": []
       }
-    ]
+    ],
+    "id": 486
   },
   {
     "word": "open-top",
@@ -19793,7 +20279,8 @@
         "definition": "having no roof",
         "examples": []
       }
-    ]
+    ],
+    "id": 487
   },
   {
     "word": "outrider",
@@ -19812,7 +20299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 488
   },
   {
     "word": "overbridge",
@@ -19826,7 +20314,8 @@
         "definition": "a bridge over a railway or road",
         "examples": []
       }
-    ]
+    ],
+    "id": 489
   },
   {
     "word": "overpass",
@@ -19840,7 +20329,8 @@
         "definition": "a bridge that carries one road over another one",
         "examples": []
       }
-    ]
+    ],
+    "id": 490
   },
   {
     "word": "outside lane",
@@ -19854,7 +20344,8 @@
         "definition": "the part of a major road such as a motorway or interstate nearest the middle of the road, where vehicles drive fastest and can go past vehicles ahead",
         "examples": []
       }
-    ]
+    ],
+    "id": 491
   },
   {
     "word": "overtake",
@@ -19911,7 +20402,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 492
   },
   {
     "word": "outside",
@@ -19999,7 +20491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 493
   },
   {
     "word": "on the road",
@@ -20234,7 +20727,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 494
   },
   {
     "word": "paddy wagon",
@@ -20248,7 +20742,8 @@
         "definition": "a police van for transporting prisoners in",
         "examples": []
       }
-    ]
+    ],
+    "id": 495
   },
   {
     "word": "paintwork",
@@ -20271,7 +20766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 496
   },
   {
     "word": "panel van",
@@ -20285,7 +20781,8 @@
         "definition": "a small van, especially one without windows at the sides or seats for passengers",
         "examples": []
       }
-    ]
+    ],
+    "id": 497
   },
   {
     "word": "park",
@@ -20371,7 +20868,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 498
   },
   {
     "word": "park and ride",
@@ -20398,7 +20896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 499
   },
   {
     "word": "parkade",
@@ -20412,7 +20911,8 @@
         "definition": "a parking garage for many cars",
         "examples": []
       }
-    ]
+    ],
+    "id": 500
   },
   {
     "word": "parade",
@@ -20487,7 +20987,8 @@
         "definition": "to prevent somebody from enjoying an event; to cause somebody's plans to fail",
         "examples": []
       }
-    ]
+    ],
+    "id": 501
   },
   {
     "word": "parking",
@@ -20551,7 +21052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 502
   },
   {
     "word": "parking brake",
@@ -20565,7 +21067,8 @@
         "definition": "a brake in a vehicle that is operated by hand, designed to be used when the vehicle has already stopped",
         "examples": []
       }
-    ]
+    ],
+    "id": 503
   },
   {
     "word": "parking lot",
@@ -20579,7 +21082,8 @@
         "definition": "an area where people can leave their cars",
         "examples": []
       }
-    ]
+    ],
+    "id": 504
   },
   {
     "word": "parking meter",
@@ -20593,7 +21097,8 @@
         "definition": "a machine next to the road that you put money into when you park your car next to it",
         "examples": []
       }
-    ]
+    ],
+    "id": 505
   },
   {
     "word": "park",
@@ -20702,7 +21207,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 506
   },
   {
     "word": "parking ticket",
@@ -20716,7 +21222,8 @@
         "definition": "an official notice that is put on your car when you have parked illegally, ordering you to pay money",
         "examples": []
       }
-    ]
+    ],
+    "id": 507
   },
   {
     "word": "parkway",
@@ -20748,7 +21255,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 508
   },
   {
     "word": "pay and display",
@@ -20762,7 +21270,8 @@
         "definition": "a system of car parking in which you buy a ticket from a machine for a period of time and put it in the window of the car",
         "examples": []
       }
-    ]
+    ],
+    "id": 509
   },
   {
     "word": "passing lane",
@@ -20776,7 +21285,8 @@
         "definition": "the part of a major road such as a motorway or interstate nearest the middle of the road, where vehicles drive fastest and can go past vehicles ahead",
         "examples": []
       }
-    ]
+    ],
+    "id": 510
   },
   {
     "word": "passenger seat",
@@ -20795,7 +21305,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 511
   },
   {
     "word": "patrol wagon",
@@ -20809,7 +21320,8 @@
         "definition": "a police van for transporting prisoners in",
         "examples": []
       }
-    ]
+    ],
+    "id": 512
   },
   {
     "word": "pavement",
@@ -20859,7 +21371,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 513
   },
   {
     "word": "passenger",
@@ -20899,7 +21412,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 514
   },
   {
     "word": "passable",
@@ -20939,7 +21453,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 515
   },
   {
     "word": "pass",
@@ -21074,7 +21589,8 @@
         "definition": "to try to start a sexual relationship with somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 516
   },
   {
     "word": "pedestrian crossing",
@@ -21088,7 +21604,8 @@
         "definition": "a part of a road where vehicles must stop to allow people to cross",
         "examples": []
       }
-    ]
+    ],
+    "id": 517
   },
   {
     "word": "pedal",
@@ -21146,7 +21663,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 518
   },
   {
     "word": "pedestrianize",
@@ -21169,7 +21687,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 519
   },
   {
     "word": "pedestrianization",
@@ -21188,7 +21707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 520
   },
   {
     "word": "pedestrian precinct",
@@ -21202,7 +21722,8 @@
         "definition": "a part of a town, especially a shopping area, that vehicles are not allowed to enter",
         "examples": []
       }
-    ]
+    ],
+    "id": 521
   },
   {
     "word": "people carrier",
@@ -21216,7 +21737,8 @@
         "definition": "a large car, like a van, designed to carry up to eight people",
         "examples": []
       }
-    ]
+    ],
+    "id": 522
   },
   {
     "word": "petrol",
@@ -21255,7 +21777,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 523
   },
   {
     "word": "pelican crossing",
@@ -21269,7 +21792,8 @@
         "definition": "(in the UK) a place on a road where you can stop the traffic and cross by operating a set of traffic lights",
         "examples": []
       }
-    ]
+    ],
+    "id": 524
   },
   {
     "word": "petrol tank",
@@ -21292,7 +21816,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 525
   },
   {
     "word": "personnel carrier",
@@ -21306,7 +21831,8 @@
         "definition": "a military vehicle for carrying soldiers",
         "examples": []
       }
-    ]
+    ],
+    "id": 526
   },
   {
     "word": "petrol station",
@@ -21320,7 +21846,8 @@
         "definition": "a place at the side of a road where you take your car to buy petrol, oil, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 527
   },
   {
     "word": "pick up",
@@ -21568,7 +22095,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 528
   },
   {
     "word": "pickup",
@@ -21617,7 +22145,8 @@
         "definition": "a vehicle’s ability to accelerate (= increase in speed)",
         "examples": []
       }
-    ]
+    ],
+    "id": 529
   },
   {
     "word": "PHEV",
@@ -21636,7 +22165,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 530
   },
   {
     "word": "pinch point",
@@ -21659,7 +22189,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 531
   },
   {
     "word": "plow into",
@@ -21687,7 +22218,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 532
   },
   {
     "word": "pillion",
@@ -21710,7 +22242,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 533
   },
   {
     "word": "plug-in hybrid electric vehicle",
@@ -21729,7 +22262,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 534
   },
   {
     "word": "pillion",
@@ -21748,7 +22282,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 535
   },
   {
     "word": "plough into",
@@ -21776,7 +22311,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 536
   },
   {
     "word": "pile-up",
@@ -21803,7 +22339,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 537
   },
   {
     "word": "power-assisted steering",
@@ -21817,7 +22354,8 @@
         "definition": "a system that uses power from the engine to help the driver change direction",
         "examples": []
       }
-    ]
+    ],
+    "id": 538
   },
   {
     "word": "pull out",
@@ -21858,7 +22396,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 539
   },
   {
     "word": "point duty",
@@ -21877,7 +22416,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 540
   },
   {
     "word": "pull off",
@@ -21904,7 +22444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 541
   },
   {
     "word": "pull in",
@@ -21940,7 +22481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 542
   },
   {
     "word": "power steering",
@@ -21959,7 +22501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 543
   },
   {
     "word": "pothole",
@@ -21977,7 +22520,8 @@
         "definition": "a deep hole that is formed in rock, especially by the action of water",
         "examples": []
       }
-    ]
+    ],
+    "id": 544
   },
   {
     "word": "provisional licence",
@@ -21991,7 +22535,8 @@
         "definition": "an official document that you must have when you start to learn to drive",
         "examples": []
       }
-    ]
+    ],
+    "id": 545
   },
   {
     "word": "production line",
@@ -22014,7 +22559,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 546
   },
   {
     "word": "priority",
@@ -22095,7 +22641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 547
   },
   {
     "word": "puncture",
@@ -22131,7 +22678,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 548
   },
   {
     "word": "pull up",
@@ -22154,7 +22702,8 @@
         "definition": "to criticize somebody for something that they have done wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 549
   },
   {
     "word": "push-start",
@@ -22168,7 +22717,8 @@
         "definition": "an act of pushing a vehicle in order to make the engine start",
         "examples": []
       }
-    ]
+    ],
+    "id": 550
   },
   {
     "word": "purr",
@@ -22209,7 +22759,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 551
   },
   {
     "word": "pull over",
@@ -22232,7 +22783,8 @@
         "definition": "to make a driver or vehicle move to the side of the road",
         "examples": []
       }
-    ]
+    ],
+    "id": 552
   },
   {
     "word": "race car",
@@ -22246,7 +22798,8 @@
         "definition": "a car that has been specially designed for motor racing",
         "examples": []
       }
-    ]
+    ],
+    "id": 553
   },
   {
     "word": "quad bike",
@@ -22260,7 +22813,8 @@
         "definition": "a motorcycle with four large wheels, used for riding over rough ground, often for fun",
         "examples": []
       }
-    ]
+    ],
+    "id": 554
   },
   {
     "word": "push-start",
@@ -22274,7 +22828,8 @@
         "definition": "to push a vehicle in order to make the engine start",
         "examples": []
       }
-    ]
+    ],
+    "id": 555
   },
   {
     "word": "racer",
@@ -22310,7 +22865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 556
   },
   {
     "word": "queue",
@@ -22377,7 +22933,8 @@
         "definition": "to go to the front of a line of people without waiting for your turn",
         "examples": []
       }
-    ]
+    ],
+    "id": 557
   },
   {
     "word": "racing car",
@@ -22391,7 +22948,8 @@
         "definition": "a car that has been specially designed for motor racing",
         "examples": []
       }
-    ]
+    ],
+    "id": 558
   },
   {
     "word": "rat run",
@@ -22410,7 +22968,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 559
   },
   {
     "word": "rear end",
@@ -22438,7 +22997,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 560
   },
   {
     "word": "radiator",
@@ -22470,7 +23030,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 561
   },
   {
     "word": "radial",
@@ -22484,7 +23045,8 @@
         "definition": "a car tyre with strong cords inside the material of the tyre that are set at an angle towards the centre of the wheel and make the tyre stronger and safer",
         "examples": []
       }
-    ]
+    ],
+    "id": 562
   },
   {
     "word": "radar trap",
@@ -22498,7 +23060,8 @@
         "definition": "a place on a road where police use special equipment to catch drivers who are going faster than the legal limit",
         "examples": []
       }
-    ]
+    ],
+    "id": 563
   },
   {
     "word": "ramp",
@@ -22539,7 +23102,8 @@
         "definition": "the long stage that models walk on during a fashion show",
         "examples": []
       }
-    ]
+    ],
+    "id": 564
   },
   {
     "word": "rear-end",
@@ -22558,7 +23122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 565
   },
   {
     "word": "ram",
@@ -22608,7 +23173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 566
   },
   {
     "word": "railroad crossing",
@@ -22622,7 +23188,8 @@
         "definition": "a place where a road crosses a railroad at the same level (not on a bridge)",
         "examples": []
       }
-    ]
+    ],
+    "id": 567
   },
   {
     "word": "reg",
@@ -22641,7 +23208,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 568
   },
   {
     "word": "rear-view mirror",
@@ -22655,7 +23223,8 @@
         "definition": "a mirror in a car or other vehicle that allows the driver to see the traffic behind",
         "examples": []
       }
-    ]
+    ],
+    "id": 569
   },
   {
     "word": "rear-wheel drive",
@@ -22669,7 +23238,8 @@
         "definition": "a system in which power from the engine is sent to the back wheels of a vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 570
   },
   {
     "word": "registration number",
@@ -22688,7 +23258,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 571
   },
   {
     "word": "rental car",
@@ -22707,7 +23278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 572
   },
   {
     "word": "red light",
@@ -22726,7 +23298,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 573
   },
   {
     "word": "removal van",
@@ -22740,7 +23313,8 @@
         "definition": "a large van used for moving furniture and other goods from one home or business to another",
         "examples": []
       }
-    ]
+    ],
+    "id": 574
   },
   {
     "word": "relief road",
@@ -22767,7 +23341,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 575
   },
   {
     "word": "repair",
@@ -22847,7 +23422,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 576
   },
   {
     "word": "recreational vehicle",
@@ -22861,7 +23437,8 @@
         "definition": "a large vehicle designed for people to live and sleep in when they are travelling",
         "examples": []
       }
-    ]
+    ],
+    "id": 577
   },
   {
     "word": "repair",
@@ -22937,7 +23514,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 578
   },
   {
     "word": "reroute",
@@ -22968,7 +23546,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 579
   },
   {
     "word": "respray",
@@ -22982,7 +23561,8 @@
         "definition": "the act of changing the colour of something, especially a car, by spraying it with paint",
         "examples": []
       }
-    ]
+    ],
+    "id": 580
   },
   {
     "word": "rest stop",
@@ -22996,7 +23576,8 @@
         "definition": "an area next to an important road where people can stop their cars to rest, eat food, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 581
   },
   {
     "word": "respray",
@@ -23010,7 +23591,8 @@
         "definition": "to change the colour of something, especially a car, by spraying it with paint",
         "examples": []
       }
-    ]
+    ],
+    "id": 582
   },
   {
     "word": "rickshaw",
@@ -23024,7 +23606,8 @@
         "definition": "a small, light vehicle with two wheels used especially in some Asian countries to carry passengers. The rickshaw is pulled by somebody walking or riding a bicycle.",
         "examples": []
       }
-    ]
+    ],
+    "id": 583
   },
   {
     "word": "resurface",
@@ -23051,7 +23634,8 @@
         "definition": "to put a new surface on a road, path, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 584
   },
   {
     "word": "reverse",
@@ -23151,7 +23735,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 585
   },
   {
     "word": "ride",
@@ -23345,7 +23930,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 586
   },
   {
     "word": "reverse",
@@ -23462,7 +24048,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 587
   },
   {
     "word": "ride-hail",
@@ -23481,7 +24068,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 588
   },
   {
     "word": "ride-sharing",
@@ -23500,7 +24088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 589
   },
   {
     "word": "ride-share",
@@ -23528,7 +24117,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 590
   },
   {
     "word": "right-hand drive",
@@ -23542,7 +24132,8 @@
         "definition": "with the driver’s seat and steering wheel on the right side",
         "examples": []
       }
-    ]
+    ],
+    "id": 591
   },
   {
     "word": "rider",
@@ -23586,7 +24177,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 592
   },
   {
     "word": "right of way",
@@ -23635,7 +24227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 593
   },
   {
     "word": "ring road",
@@ -23658,7 +24251,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 594
   },
   {
     "word": "ride-share",
@@ -23677,7 +24271,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 595
   },
   {
     "word": "roadblock",
@@ -23709,7 +24304,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 596
   },
   {
     "word": "ride-hailing",
@@ -23728,7 +24324,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 597
   },
   {
     "word": "road",
@@ -23963,7 +24560,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 598
   },
   {
     "word": "road pricing",
@@ -23977,7 +24575,8 @@
         "definition": "the system of making drivers pay to use busy roads at certain times",
         "examples": []
       }
-    ]
+    ],
+    "id": 599
   },
   {
     "word": "roadkill",
@@ -23995,7 +24594,8 @@
         "definition": "the killing of an animal by a car hitting it on the road",
         "examples": []
       }
-    ]
+    ],
+    "id": 600
   },
   {
     "word": "road hog",
@@ -24009,7 +24609,8 @@
         "definition": "a person who drives in a dangerous way without thinking about the safety of other road users",
         "examples": []
       }
-    ]
+    ],
+    "id": 601
   },
   {
     "word": "road sense",
@@ -24028,7 +24629,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 602
   },
   {
     "word": "road sign",
@@ -24047,7 +24649,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 603
   },
   {
     "word": "roadside",
@@ -24078,7 +24681,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 604
   },
   {
     "word": "road rage",
@@ -24101,7 +24705,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 605
   },
   {
     "word": "roadholding",
@@ -24115,7 +24720,8 @@
         "definition": "the ability of a car to remain steady when it goes around a corner at a fast speed",
         "examples": []
       }
-    ]
+    ],
+    "id": 606
   },
   {
     "word": "roadster",
@@ -24129,7 +24735,8 @@
         "definition": "a car with no roof and two seats",
         "examples": []
       }
-    ]
+    ],
+    "id": 607
   },
   {
     "word": "road map",
@@ -24161,7 +24768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 608
   },
   {
     "word": "road test",
@@ -24188,7 +24796,8 @@
         "definition": "a test that must be passed before you are qualified to drive a car, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 609
   },
   {
     "word": "road tax",
@@ -24211,7 +24820,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 610
   },
   {
     "word": "road-test",
@@ -24234,7 +24844,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 611
   },
   {
     "word": "roadworthy",
@@ -24248,7 +24859,8 @@
         "definition": "in a safe condition to drive",
         "examples": []
       }
-    ]
+    ],
+    "id": 612
   },
   {
     "word": "roadworks",
@@ -24262,7 +24874,8 @@
         "definition": "repairs that are being done to the road; an area where these repairs are being done",
         "examples": []
       }
-    ]
+    ],
+    "id": 613
   },
   {
     "word": "road trip",
@@ -24276,7 +24889,8 @@
         "definition": "a trip made in a car over a long distance",
         "examples": []
       }
-    ]
+    ],
+    "id": 614
   },
   {
     "word": "roadworthiness",
@@ -24290,7 +24904,8 @@
         "definition": "the quality in a vehicle of being in a safe condition to drive",
         "examples": []
       }
-    ]
+    ],
+    "id": 615
   },
   {
     "word": "roadway",
@@ -24304,7 +24919,8 @@
         "definition": "a road or the part of a road used by vehicles",
         "examples": []
       }
-    ]
+    ],
+    "id": 616
   },
   {
     "word": "road train",
@@ -24318,7 +24934,8 @@
         "definition": "a large lorry pulling one or more trailers",
         "examples": []
       }
-    ]
+    ],
+    "id": 617
   },
   {
     "word": "roll bar",
@@ -24332,7 +24949,8 @@
         "definition": "a metal bar over the top of a car without a roof, used to make the car stronger and to protect passengers if the car turns over",
         "examples": []
       }
-    ]
+    ],
+    "id": 618
   },
   {
     "word": "roar",
@@ -24432,7 +25050,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 619
   },
   {
     "word": "rollover",
@@ -24459,7 +25078,8 @@
         "definition": "the turning over of a vehicle during an accident",
         "examples": []
       }
-    ]
+    ],
+    "id": 620
   },
   {
     "word": "roof",
@@ -24602,7 +25222,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 621
   },
   {
     "word": "rotary",
@@ -24616,7 +25237,8 @@
         "definition": "a place where two or more roads meet, forming a circle that all traffic must go around in the same direction",
         "examples": []
       }
-    ]
+    ],
+    "id": 622
   },
   {
     "word": "roof rack",
@@ -24635,7 +25257,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 623
   },
   {
     "word": "roundabout",
@@ -24687,7 +25310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 624
   },
   {
     "word": "rumble strip",
@@ -24701,7 +25325,8 @@
         "definition": "a series of raised narrow areas across a road or along its edge that make a loud noise when a vehicle drives over them in order to warn the driver to go slower or that they are too close to the edge of the road",
         "examples": []
       }
-    ]
+    ],
+    "id": 625
   },
   {
     "word": "runabout",
@@ -24715,7 +25340,8 @@
         "definition": "a small car, especially one used for short journeys",
         "examples": []
       }
-    ]
+    ],
+    "id": 626
   },
   {
     "word": "RTA",
@@ -24729,7 +25355,8 @@
         "definition": "road traffic accident",
         "examples": []
       }
-    ]
+    ],
+    "id": 627
   },
   {
     "word": "run over",
@@ -24778,7 +25405,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 628
   },
   {
     "word": "rush hour",
@@ -24805,7 +25433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 629
   },
   {
     "word": "round",
@@ -24845,7 +25474,8 @@
         "definition": "to increase or decrease a number to the next highest or lowest whole number",
         "examples": []
       }
-    ]
+    ],
+    "id": 630
   },
   {
     "word": "rutted",
@@ -24864,7 +25494,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 631
   },
   {
     "word": "safety belt",
@@ -24878,7 +25509,8 @@
         "definition": "a belt that is attached to the seat in a car or a plane and that you fasten around yourself so that you are not thrown out of the seat if there is an accident",
         "examples": []
       }
-    ]
+    ],
+    "id": 632
   },
   {
     "word": "saloon",
@@ -24927,7 +25559,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 633
   },
   {
     "word": "salt truck",
@@ -24941,7 +25574,8 @@
         "definition": "a large vehicle used for putting salt, sand or grit on the roads in winter when there is ice on them",
         "examples": []
       }
-    ]
+    ],
+    "id": 634
   },
   {
     "word": "salvage yard",
@@ -24960,7 +25594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 635
   },
   {
     "word": "satnav",
@@ -24987,7 +25622,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 636
   },
   {
     "word": "scrapyard",
@@ -25001,7 +25637,8 @@
         "definition": "a place where old cars, machines, etc. are collected, so that parts of them, or the metal they are made of, can be sold to be used again",
         "examples": []
       }
-    ]
+    ],
+    "id": 637
   },
   {
     "word": "scrap",
@@ -25088,7 +25725,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 638
   },
   {
     "word": "self-driving",
@@ -25107,7 +25745,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 639
   },
   {
     "word": "sedan",
@@ -25121,7 +25760,8 @@
         "definition": "a car with four doors and a boot (= space at the back for carrying things) which is separated from the part where the driver and passengers sit",
         "examples": []
       }
-    ]
+    ],
+    "id": 640
   },
   {
     "word": "run",
@@ -25739,7 +26379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 641
   },
   {
     "word": "seat belt",
@@ -25758,7 +26399,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 642
   },
   {
     "word": "second-hand",
@@ -25790,7 +26432,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 643
   },
   {
     "word": "semi-trailer",
@@ -25804,7 +26447,8 @@
         "definition": "a trailer that has wheels at the back and is supported at the front by the vehicle that is pulling it",
         "examples": []
       }
-    ]
+    ],
+    "id": 644
   },
   {
     "word": "service road",
@@ -25818,7 +26462,8 @@
         "definition": "a side road that runs next to a main road, that you use to reach houses, shops, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 645
   },
   {
     "word": "service",
@@ -26180,7 +26825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 646
   },
   {
     "word": "service station",
@@ -26203,7 +26849,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 647
   },
   {
     "word": "service",
@@ -26248,7 +26895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 648
   },
   {
     "word": "shed",
@@ -26355,7 +27003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 649
   },
   {
     "word": "showroom",
@@ -26374,7 +27023,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 650
   },
   {
     "word": "shock absorber",
@@ -26388,7 +27038,8 @@
         "definition": "a device that is fitted to each wheel of a vehicle in order to reduce the effects of travelling over rough ground, so that passengers can be more comfortable",
         "examples": []
       }
-    ]
+    ],
+    "id": 651
   },
   {
     "word": "sidecar",
@@ -26402,7 +27053,8 @@
         "definition": "a small vehicle attached to the side of a motorcycle in which a passenger can ride",
         "examples": []
       }
-    ]
+    ],
+    "id": 652
   },
   {
     "word": "shunt",
@@ -26425,7 +27077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 653
   },
   {
     "word": "side road",
@@ -26439,7 +27092,8 @@
         "definition": "a smaller and less important road leading off a main road",
         "examples": []
       }
-    ]
+    ],
+    "id": 654
   },
   {
     "word": "side street",
@@ -26462,7 +27116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 655
   },
   {
     "word": "shoulder",
@@ -26664,7 +27319,8 @@
         "definition": "if you say something straight from the shoulder, you are being very honest and direct, even if what you are saying is critical",
         "examples": []
       }
-    ]
+    ],
+    "id": 656
   },
   {
     "word": "sidewalk",
@@ -26683,7 +27339,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 657
   },
   {
     "word": "signal",
@@ -26825,7 +27482,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 658
   },
   {
     "word": "silencer",
@@ -26843,7 +27501,8 @@
         "definition": "a device that is fixed to the end of a gun in order to reduce the amount of noise that it makes when it is fired",
         "examples": []
       }
-    ]
+    ],
+    "id": 659
   },
   {
     "word": "signpost",
@@ -26875,7 +27534,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 660
   },
   {
     "word": "signpost",
@@ -26898,7 +27558,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 661
   },
   {
     "word": "skid",
@@ -26929,7 +27590,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 662
   },
   {
     "word": "slip road",
@@ -26943,7 +27605,8 @@
         "definition": "a road used for driving onto or off a major road such as a motorway or interstate",
         "examples": []
       }
-    ]
+    ],
+    "id": 663
   },
   {
     "word": "skid",
@@ -26988,7 +27651,8 @@
         "definition": "to stop somebody/something from being successful or making progress",
         "examples": []
       }
-    ]
+    ],
+    "id": 664
   },
   {
     "word": "sleeping policeman",
@@ -27002,7 +27666,8 @@
         "definition": "a speed hump (= a raised area across a road that is put there to make traffic go slower)",
         "examples": []
       }
-    ]
+    ],
+    "id": 665
   },
   {
     "word": "slam",
@@ -27084,7 +27749,8 @@
         "definition": "to refuse to talk to somebody or meet them, in a rude way",
         "examples": []
       }
-    ]
+    ],
+    "id": 666
   },
   {
     "word": "slow lane",
@@ -27107,7 +27773,8 @@
         "definition": "not making progress as fast as other people, countries, companies, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 667
   },
   {
     "word": "slow",
@@ -27170,7 +27837,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 668
   },
   {
     "word": "smart motorway",
@@ -27189,7 +27857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 669
   },
   {
     "word": "snarl-up",
@@ -27208,7 +27877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 670
   },
   {
     "word": "soup up",
@@ -27222,7 +27892,8 @@
         "definition": "to make changes to something such as a car or computer, so that it is more powerful or exciting than before",
         "examples": []
       }
-    ]
+    ],
+    "id": 671
   },
   {
     "word": "soft-top",
@@ -27236,7 +27907,8 @@
         "definition": "a type of car that has a soft roof that can be folded down or removed; the roof of such a car",
         "examples": []
       }
-    ]
+    ],
+    "id": 672
   },
   {
     "word": "smash-up",
@@ -27250,7 +27922,8 @@
         "definition": "a crash in which vehicles are very badly damaged",
         "examples": []
       }
-    ]
+    ],
+    "id": 673
   },
   {
     "word": "snowplough",
@@ -27264,7 +27937,8 @@
         "definition": "a vehicle or machine for cleaning snow from roads or railways",
         "examples": []
       }
-    ]
+    ],
+    "id": 674
   },
   {
     "word": "smash",
@@ -27378,7 +28052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 675
   },
   {
     "word": "spare tyre",
@@ -27401,7 +28076,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 676
   },
   {
     "word": "soft shoulder",
@@ -27415,7 +28091,8 @@
         "definition": "a narrow piece of ground with a soft surface at the edge of a road",
         "examples": []
       }
-    ]
+    ],
+    "id": 677
   },
   {
     "word": "spare part",
@@ -27434,7 +28111,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 678
   },
   {
     "word": "spark plug",
@@ -27448,7 +28126,8 @@
         "definition": "a part in a car engine that produces a spark (= a flash of electricity) which makes the fuel burn and starts the engine",
         "examples": []
       }
-    ]
+    ],
+    "id": 679
   },
   {
     "word": "speed hump",
@@ -27462,7 +28141,8 @@
         "definition": "a raised area across a road that is put there to make traffic go slower",
         "examples": []
       }
-    ]
+    ],
+    "id": 680
   },
   {
     "word": "speed camera",
@@ -27476,7 +28156,8 @@
         "definition": "a machine which takes pictures of vehicles that are being driven faster than the legal limit. The pictures are then used as evidence so that the drivers can be punished.",
         "examples": []
       }
-    ]
+    ],
+    "id": 681
   },
   {
     "word": "speeding",
@@ -27503,7 +28184,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 682
   },
   {
     "word": "speedometer",
@@ -27517,7 +28199,8 @@
         "definition": "an instrument in a vehicle which shows how fast the vehicle is going",
         "examples": []
       }
-    ]
+    ],
+    "id": 683
   },
   {
     "word": "speed limit",
@@ -27552,7 +28235,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 684
   },
   {
     "word": "sport utility vehicle",
@@ -27566,7 +28250,8 @@
         "definition": "a type of large car, often with four-wheel drive and made originally for travelling over rough ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 685
   },
   {
     "word": "sports car",
@@ -27580,7 +28265,8 @@
         "definition": "a low, fast car, often with a roof that can be folded back",
         "examples": []
       }
-    ]
+    ],
+    "id": 686
   },
   {
     "word": "spoiler",
@@ -27624,7 +28310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 687
   },
   {
     "word": "speed trap",
@@ -27638,7 +28325,8 @@
         "definition": "a place on a road where police use special equipment to catch drivers who are going faster than the legal limit",
         "examples": []
       }
-    ]
+    ],
+    "id": 688
   },
   {
     "word": "sporty",
@@ -27675,7 +28363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 689
   },
   {
     "word": "stall",
@@ -27745,7 +28434,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 690
   },
   {
     "word": "squad car",
@@ -27759,7 +28449,8 @@
         "definition": "a police car",
         "examples": []
       }
-    ]
+    ],
+    "id": 691
   },
   {
     "word": "steamroller",
@@ -27773,7 +28464,8 @@
         "definition": "a large slow vehicle with a heavy roller, used for making roads flat",
         "examples": []
       }
-    ]
+    ],
+    "id": 692
   },
   {
     "word": "steering wheel",
@@ -27800,7 +28492,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 693
   },
   {
     "word": "station wagon",
@@ -27814,7 +28507,8 @@
         "definition": "a car with a lot of space behind the back seats and a door at the back for loading large items",
         "examples": []
       }
-    ]
+    ],
+    "id": 694
   },
   {
     "word": "stop light",
@@ -27836,7 +28530,8 @@
         "definition": "a red light on the back of a vehicle that comes on when the brakes are used",
         "examples": []
       }
-    ]
+    ],
+    "id": 695
   },
   {
     "word": "steer",
@@ -27906,7 +28601,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 696
   },
   {
     "word": "stick shift",
@@ -27924,7 +28620,8 @@
         "definition": "a vehicle that has a stick shift",
         "examples": []
       }
-    ]
+    ],
+    "id": 697
   },
   {
     "word": "steering",
@@ -27938,7 +28635,8 @@
         "definition": "the equipment in a vehicle that you use to control the direction it goes in",
         "examples": []
       }
-    ]
+    ],
+    "id": 698
   },
   {
     "word": "stop street",
@@ -27952,7 +28650,8 @@
         "definition": "a place where one road joins or crosses another at which there is a sign indicating that vehicles must stop before continuing",
         "examples": []
       }
-    ]
+    ],
+    "id": 699
   },
   {
     "word": "stop",
@@ -28223,7 +28922,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 700
   },
   {
     "word": "streetcar",
@@ -28237,7 +28937,8 @@
         "definition": "a vehicle driven by electricity, that runs on rails along the streets of a town and carries passengers",
         "examples": []
       }
-    ]
+    ],
+    "id": 701
   },
   {
     "word": "street",
@@ -28389,7 +29090,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 702
   },
   {
     "word": "stretch limo",
@@ -28403,7 +29105,8 @@
         "definition": "a very large car that has been made longer so that it can have extra seats",
         "examples": []
       }
-    ]
+    ],
+    "id": 703
   },
   {
     "word": "street light",
@@ -28426,7 +29129,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 704
   },
   {
     "word": "strip",
@@ -28509,7 +29213,8 @@
         "definition": "to speak angrily to somebody who has done something wrong",
         "examples": []
       }
-    ]
+    ],
+    "id": 705
   },
   {
     "word": "strip mall",
@@ -28523,7 +29228,8 @@
         "definition": "a line of shops and restaurants next to a main road",
         "examples": []
       }
-    ]
+    ],
+    "id": 706
   },
   {
     "word": "stripped-down",
@@ -28546,7 +29252,8 @@
         "definition": "taken to pieces, with all the parts removed",
         "examples": []
       }
-    ]
+    ],
+    "id": 707
   },
   {
     "word": "subcompact",
@@ -28560,7 +29267,8 @@
         "definition": "a small car, smaller than a compact",
         "examples": []
       }
-    ]
+    ],
+    "id": 708
   },
   {
     "word": "subway",
@@ -28604,7 +29312,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 709
   },
   {
     "word": "sunroof",
@@ -28618,7 +29327,8 @@
         "definition": "a part of the roof of a car that you can open to let air and light in",
         "examples": []
       }
-    ]
+    ],
+    "id": 710
   },
   {
     "word": "surface",
@@ -28734,7 +29444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 711
   },
   {
     "word": "tail back",
@@ -28753,7 +29464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 712
   },
   {
     "word": "SUV",
@@ -28767,7 +29479,8 @@
         "definition": "sport utility vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 713
   },
   {
     "word": "tailback",
@@ -28798,7 +29511,8 @@
         "definition": "one of the two attacking players in American football whose position is behind the quarterback and next to the full backs; the position a tailback plays at",
         "examples": []
       }
-    ]
+    ],
+    "id": 714
   },
   {
     "word": "tailgate",
@@ -28816,7 +29530,8 @@
         "definition": "the door that opens upwards at the back of a car (called a hatchback) that has three or five doors",
         "examples": []
       }
-    ]
+    ],
+    "id": 715
   },
   {
     "word": "tailgate",
@@ -28834,7 +29549,8 @@
         "definition": "to eat food and drinks outdoors, served from the tailgate of a car",
         "examples": []
       }
-    ]
+    ],
+    "id": 716
   },
   {
     "word": "suspension",
@@ -28896,7 +29612,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 717
   },
   {
     "word": "swerve",
@@ -28923,7 +29640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 718
   },
   {
     "word": "switchback",
@@ -28945,7 +29663,8 @@
         "definition": "a roller coaster (= a track at a fairground that goes up and down very steep slopes and that people ride on in a small train for fun and excitement)",
         "examples": []
       }
-    ]
+    ],
+    "id": 719
   },
   {
     "word": "tail light",
@@ -28959,7 +29678,8 @@
         "definition": "a red light at the back of a car, bicycle or train",
         "examples": []
       }
-    ]
+    ],
+    "id": 720
   },
   {
     "word": "tank",
@@ -29012,7 +29732,8 @@
         "definition": "an artificial pool, lake or reservoir",
         "examples": []
       }
-    ]
+    ],
+    "id": 721
   },
   {
     "word": "tar",
@@ -29043,7 +29764,8 @@
         "definition": "to cause something good to fail because you did not spend a small but necessary amount of money or time on a small but essential part of it",
         "examples": []
       }
-    ]
+    ],
+    "id": 722
   },
   {
     "word": "tandem",
@@ -29074,7 +29796,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 723
   },
   {
     "word": "Tarmac™",
@@ -29097,7 +29820,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 724
   },
   {
     "word": "teamster",
@@ -29111,7 +29835,8 @@
         "definition": "a person whose job is driving a truck",
         "examples": []
       }
-    ]
+    ],
+    "id": 725
   },
   {
     "word": "tank up",
@@ -29134,7 +29859,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 726
   },
   {
     "word": "test drive",
@@ -29148,7 +29874,8 @@
         "definition": "an occasion when you drive a vehicle that you are thinking of buying so that you can see how well it works and if you like it",
         "examples": []
       }
-    ]
+    ],
+    "id": 727
   },
   {
     "word": "taxi",
@@ -29187,7 +29914,8 @@
         "definition": "a small bus with a driver that you pay to take you somewhere. Taxis usually have fixed routes and stop wherever passengers need to get on or off.",
         "examples": []
       }
-    ]
+    ],
+    "id": 728
   },
   {
     "word": "tax disc",
@@ -29201,7 +29929,8 @@
         "definition": "a small circle of paper that drivers had to put in the window of a vehicle to show they had paid the tax that allowed them to use the vehicle on public roads. In 2014 the paper tax disc was replaced with online payment and recording of the tax.",
         "examples": []
       }
-    ]
+    ],
+    "id": 729
   },
   {
     "word": "tanker",
@@ -29220,7 +29949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 730
   },
   {
     "word": "throttle",
@@ -29247,7 +29977,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 731
   },
   {
     "word": "T-intersection",
@@ -29261,7 +29992,8 @@
         "definition": "a place where one road joins another but does not cross it, so that the roads form the shape of the letter T",
         "examples": []
       }
-    ]
+    ],
+    "id": 732
   },
   {
     "word": "three-point turn",
@@ -29275,7 +30007,8 @@
         "definition": "a method of turning a car in a small space so that it faces in the opposite direction, by driving forwards, then backwards, then forwards again, in a series of curves",
         "examples": []
       }
-    ]
+    ],
+    "id": 733
   },
   {
     "word": "tire",
@@ -29326,7 +30059,8 @@
         "definition": "to test the quality of something to see whether it is suitable for you before you buy it",
         "examples": []
       }
-    ]
+    ],
+    "id": 734
   },
   {
     "word": "tipper",
@@ -29349,7 +30083,8 @@
         "definition": "a lorry with a container part that can be moved into a sloping position so that its load can slide off at the back",
         "examples": []
       }
-    ]
+    ],
+    "id": 735
   },
   {
     "word": "test-drive",
@@ -29363,7 +30098,8 @@
         "definition": "to drive a vehicle that you are thinking of buying so that you can see how well it works and if you like it",
         "examples": []
       }
-    ]
+    ],
+    "id": 736
   },
   {
     "word": "thoroughfare",
@@ -29377,7 +30113,8 @@
         "definition": "a public road or street used by traffic, especially a main road in a city or town",
         "examples": []
       }
-    ]
+    ],
+    "id": 737
   },
   {
     "word": "toll",
@@ -29442,7 +30179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 738
   },
   {
     "word": "T-junction",
@@ -29456,7 +30194,8 @@
         "definition": "a place where one road joins another but does not cross it, so that the roads form the shape of the letter T",
         "examples": []
       }
-    ]
+    ],
+    "id": 739
   },
   {
     "word": "tollbooth",
@@ -29470,7 +30209,8 @@
         "definition": "a small building by the side of a road where you pay to drive on a road, go over a bridge, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 740
   },
   {
     "word": "toll plaza",
@@ -29484,7 +30224,8 @@
         "definition": "a row of tollbooths across a road",
         "examples": []
       }
-    ]
+    ],
+    "id": 741
   },
   {
     "word": "through",
@@ -29528,7 +30269,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 742
   },
   {
     "word": "tourer",
@@ -29551,7 +30293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 743
   },
   {
     "word": "total",
@@ -29592,7 +30335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 744
   },
   {
     "word": "tow truck",
@@ -29606,7 +30350,8 @@
         "definition": "a truck that is used for taking cars away to be repaired when they have had a breakdown",
         "examples": []
       }
-    ]
+    ],
+    "id": 745
   },
   {
     "word": "toot",
@@ -29637,7 +30382,8 @@
         "definition": "to praise your own abilities and achievements",
         "examples": []
       }
-    ]
+    ],
+    "id": 746
   },
   {
     "word": "tractor",
@@ -29664,7 +30410,8 @@
         "definition": "the front part of a tractor-trailer, where the driver sits",
         "examples": []
       }
-    ]
+    ],
+    "id": 747
   },
   {
     "word": "toot",
@@ -29683,7 +30430,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 748
   },
   {
     "word": "track",
@@ -29947,7 +30695,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 749
   },
   {
     "word": "traffic circle",
@@ -29961,7 +30710,8 @@
         "definition": "a place where two or more roads meet, forming a circle that all traffic must go around in the same direction",
         "examples": []
       }
-    ]
+    ],
+    "id": 750
   },
   {
     "word": "tractor-trailer",
@@ -29975,7 +30725,8 @@
         "definition": "a large truck with two sections, one in front where the driver sits and one behind for carrying goods. The sections are connected by a flexible joint so that the tractor-trailer can turn corners more easily.",
         "examples": []
       }
-    ]
+    ],
+    "id": 751
   },
   {
     "word": "traffic",
@@ -30086,7 +30837,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 752
   },
   {
     "word": "traffic warden",
@@ -30100,7 +30852,8 @@
         "definition": "a person whose job is to check that people do not park their cars in the wrong place or for longer than is allowed, and to place tickets on vehicles that are parked illegally to make the owners pay a fine",
         "examples": []
       }
-    ]
+    ],
+    "id": 753
   },
   {
     "word": "traffic light",
@@ -30123,7 +30876,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 754
   },
   {
     "word": "traffic cone",
@@ -30137,7 +30891,8 @@
         "definition": "a plastic object like a cone in shape and often red and white, or yellow in colour, used on roads to show where vehicles are not allowed to go, for example while repairs are being done",
         "examples": []
       }
-    ]
+    ],
+    "id": 755
   },
   {
     "word": "traffic island",
@@ -30151,7 +30906,8 @@
         "definition": "an area in the middle of a road where you can stand and wait for cars to go past until it is safe for you to cross",
         "examples": []
       }
-    ]
+    ],
+    "id": 756
   },
   {
     "word": "trailer",
@@ -30196,7 +30952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 757
   },
   {
     "word": "trailer truck",
@@ -30210,7 +30967,8 @@
         "definition": "a large truck with two sections, one in front where the driver sits and one behind for carrying goods. The sections are connected by a flexible joint so that the trailer truck can turn corners more easily.",
         "examples": []
       }
-    ]
+    ],
+    "id": 758
   },
   {
     "word": "traffic jam",
@@ -30229,7 +30987,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 759
   },
   {
     "word": "tramlines",
@@ -30247,7 +31006,8 @@
         "definition": "the pair of straight lines on a tennis or badminton court that mark the extra area that is used when four people are playing",
         "examples": []
       }
-    ]
+    ],
+    "id": 760
   },
   {
     "word": "tram",
@@ -30270,7 +31030,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 761
   },
   {
     "word": "Transit™",
@@ -30293,7 +31054,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 762
   },
   {
     "word": "travel-sick",
@@ -30307,7 +31069,8 @@
         "definition": "feeling sick because you are travelling in a vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 763
   },
   {
     "word": "travel sickness",
@@ -30321,7 +31084,8 @@
         "definition": "the unpleasant feeling that you are going to vomit caused by travelling in a vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 764
   },
   {
     "word": "tread",
@@ -30353,7 +31117,8 @@
         "definition": "the upper surface of a step or stair",
         "examples": []
       }
-    ]
+    ],
+    "id": 765
   },
   {
     "word": "tricycle",
@@ -30367,7 +31132,8 @@
         "definition": "a vehicle similar to a bicycle, but with one wheel at the front and two at the back",
         "examples": []
       }
-    ]
+    ],
+    "id": 766
   },
   {
     "word": "trike",
@@ -30381,7 +31147,8 @@
         "definition": "a tricycle (= a vehicle similar to a bicycle, but with one wheel at the front and two at the back)",
         "examples": []
       }
-    ]
+    ],
+    "id": 767
   },
   {
     "word": "truck stop",
@@ -30395,7 +31162,8 @@
         "definition": "a place at the side of a main road where truck drivers can stop for a time and can rest, get something to eat, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 768
   },
   {
     "word": "trolleybus",
@@ -30409,7 +31177,8 @@
         "definition": "a bus driven by electricity from a cable above the street",
         "examples": []
       }
-    ]
+    ],
+    "id": 769
   },
   {
     "word": "trucker",
@@ -30423,7 +31192,8 @@
         "definition": "a person whose job is driving a truck",
         "examples": []
       }
-    ]
+    ],
+    "id": 770
   },
   {
     "word": "trunk road",
@@ -30446,7 +31216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 771
   },
   {
     "word": "truck",
@@ -30516,7 +31287,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 772
   },
   {
     "word": "truck",
@@ -30535,7 +31307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 773
   },
   {
     "word": "trunk",
@@ -30592,7 +31365,8 @@
         "definition": "the main part of the human body apart from the head, arms and legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 774
   },
   {
     "word": "tunnel",
@@ -30649,7 +31423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 775
   },
   {
     "word": "turn off",
@@ -30711,7 +31486,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 776
   },
   {
     "word": "two-seater",
@@ -30725,7 +31501,8 @@
         "definition": "a vehicle, an aircraft or a piece of furniture with seats for two people",
         "examples": []
       }
-    ]
+    ],
+    "id": 777
   },
   {
     "word": "turnpike",
@@ -30748,7 +31525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 778
   },
   {
     "word": "turn signal",
@@ -30762,7 +31540,8 @@
         "definition": "a light on a vehicle that flashes to show that the vehicle is going to turn left or right",
         "examples": []
       }
-    ]
+    ],
+    "id": 779
   },
   {
     "word": "turn-off",
@@ -30798,7 +31577,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 780
   },
   {
     "word": "twisty",
@@ -30817,7 +31597,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 781
   },
   {
     "word": "twist",
@@ -30903,7 +31684,8 @@
         "definition": "crazy",
         "examples": []
       }
-    ]
+    ],
+    "id": 782
   },
   {
     "word": "tyre",
@@ -30966,7 +31748,8 @@
         "definition": "to test the quality of something to see whether it is suitable for you before you buy it",
         "examples": []
       }
-    ]
+    ],
+    "id": 783
   },
   {
     "word": "turn",
@@ -31285,7 +32068,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 784
   },
   {
     "word": "underpass",
@@ -31299,7 +32083,8 @@
         "definition": "a road or path that goes under another road or railway track",
         "examples": []
       }
-    ]
+    ],
+    "id": 785
   },
   {
     "word": "U-ey",
@@ -31318,7 +32103,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 786
   },
   {
     "word": "U-turn",
@@ -31354,7 +32140,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 787
   },
   {
     "word": "ute",
@@ -31368,7 +32155,8 @@
         "definition": "a vehicle with low sides and no roof at the back used, for example, by farmers",
         "examples": []
       }
-    ]
+    ],
+    "id": 788
   },
   {
     "word": "utility vehicle",
@@ -31382,7 +32170,8 @@
         "definition": "a small truck with low sides designed for carrying light loads",
         "examples": []
       }
-    ]
+    ],
+    "id": 789
   },
   {
     "word": "valet",
@@ -31409,7 +32198,8 @@
         "definition": "a person who parks your car for you at a hotel or restaurant",
         "examples": []
       }
-    ]
+    ],
+    "id": 790
   },
   {
     "word": "used",
@@ -31445,7 +32235,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 791
   },
   {
     "word": "valet",
@@ -31468,7 +32259,8 @@
         "definition": "to perform the duties of a valet",
         "examples": []
       }
-    ]
+    ],
+    "id": 792
   },
   {
     "word": "turn",
@@ -31763,7 +32555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 793
   },
   {
     "word": "vehicle",
@@ -31816,7 +32609,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 794
   },
   {
     "word": "verge",
@@ -31856,7 +32650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 795
   },
   {
     "word": "van",
@@ -31925,7 +32720,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 796
   },
   {
     "word": "viaduct",
@@ -31948,7 +32744,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 797
   },
   {
     "word": "warning triangle",
@@ -31962,7 +32759,8 @@
         "definition": "a red triangle that a driver puts on the road next to his or her car as a warning to other drivers when the car has stopped because of a fault, an accident, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 798
   },
   {
     "word": "veteran car",
@@ -31976,7 +32774,8 @@
         "definition": "a car made before 1919",
         "examples": []
       }
-    ]
+    ],
+    "id": 799
   },
   {
     "word": "visor",
@@ -32002,7 +32801,8 @@
         "definition": "the stiff front part of a cap that sticks out above your eyes",
         "examples": []
       }
-    ]
+    ],
+    "id": 800
   },
   {
     "word": "wagon",
@@ -32046,7 +32846,8 @@
         "definition": "to not drink alcohol, either for a short time or permanently",
         "examples": []
       }
-    ]
+    ],
+    "id": 801
   },
   {
     "word": "veer",
@@ -32091,7 +32892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 802
   },
   {
     "word": "vintage",
@@ -32140,7 +32942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 803
   },
   {
     "word": "warranty",
@@ -32163,7 +32966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 804
   },
   {
     "word": "wheel arch",
@@ -32177,7 +32981,8 @@
         "definition": "a space in the body of a vehicle over a wheel, like an arch in shape",
         "examples": []
       }
-    ]
+    ],
+    "id": 805
   },
   {
     "word": "wheel",
@@ -32350,7 +33155,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 806
   },
   {
     "word": "windshield",
@@ -32368,7 +33174,8 @@
         "definition": "a glass or plastic screen that provides protection from the wind, for example at the front of a motorcycle",
         "examples": []
       }
-    ]
+    ],
+    "id": 807
   },
   {
     "word": "wheel clamp",
@@ -32382,7 +33189,8 @@
         "definition": "a device that is attached to the wheel of a car that has been parked illegally, so that it cannot be driven away",
         "examples": []
       }
-    ]
+    ],
+    "id": 808
   },
   {
     "word": "wing mirror",
@@ -32396,7 +33204,8 @@
         "definition": "a mirror that sticks out from the side of a vehicle and allows the driver to see behind the vehicle",
         "examples": []
       }
-    ]
+    ],
+    "id": 809
   },
   {
     "word": "wind",
@@ -32496,7 +33305,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 810
   },
   {
     "word": "whiplash injury",
@@ -32515,7 +33325,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 811
   },
   {
     "word": "winding",
@@ -32538,7 +33349,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 812
   },
   {
     "word": "windscreen wiper",
@@ -32552,7 +33364,8 @@
         "definition": "a long metal part with a rubber edge that moves across a windscreen to make it clear of rain, snow, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 813
   },
   {
     "word": "wing",
@@ -32727,7 +33540,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 814
   },
   {
     "word": "Winnebago™",
@@ -32741,7 +33555,8 @@
         "definition": "a large vehicle designed for people to live and sleep in when they are camping; a type of RV",
         "examples": []
       }
-    ]
+    ],
+    "id": 815
   },
   {
     "word": "wiper",
@@ -32760,7 +33575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 816
   },
   {
     "word": "yellow line",
@@ -32779,7 +33595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 817
   },
   {
     "word": "write-off",
@@ -32811,7 +33628,8 @@
         "definition": "an act of cancelling a debt and accepting that it will never be paid",
         "examples": []
       }
-    ]
+    ],
+    "id": 818
   },
   {
     "word": "wreck",
@@ -32882,7 +33700,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 819
   },
   {
     "word": "zebra crossing",
@@ -32896,7 +33715,8 @@
         "definition": "an area of road marked with broad black and white lines where vehicles must stop for people to walk across",
         "examples": []
       }
-    ]
+    ],
+    "id": 820
   },
   {
     "word": "yield",
@@ -32983,7 +33803,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 821
   },
   {
     "word": "zero-emission",
@@ -33002,7 +33823,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 822
   },
   {
     "word": "wreckage",
@@ -33029,6 +33851,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 823
   }
 ]

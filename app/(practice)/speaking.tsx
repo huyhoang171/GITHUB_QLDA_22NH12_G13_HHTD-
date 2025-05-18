@@ -63,50 +63,7 @@ export default function SpeakingTopics() {
           ))}
         </View>
         
-        {/* How to Practice Section with cards layout */}
-        <View style={styles.sectionHeader}>
-          <Text style={styles.sectionTitle}>How to Practice</Text>
-          <Text style={styles.sectionSubtitle}>Follow these steps for best results</Text>
-        </View>
-        
-        <View style={styles.howToContainer}>
-          <View style={styles.stepCard}>
-            <View style={styles.stepNumber}>
-              <Text style={styles.stepNumberText}>1</Text>
-            </View>
-            <Text style={styles.stepTitle}>Listen</Text>
-            <Text style={styles.stepDescription}>Listen carefully to native pronunciation examples</Text>
-          </View>
-          
-          <View style={styles.stepCard}>
-            <View style={styles.stepNumber}>
-              <Text style={styles.stepNumberText}>2</Text>
-            </View>
-            <Text style={styles.stepTitle}>Record</Text>
-            <Text style={styles.stepDescription}>Record yourself saying the same phrase</Text>
-          </View>
-          
-          <View style={styles.stepCard}>
-            <View style={styles.stepNumber}>
-              <Text style={styles.stepNumberText}>3</Text>
-            </View>
-            <Text style={styles.stepTitle}>Compare</Text>
-            <Text style={styles.stepDescription}>Get feedback on accuracy and improve</Text>
-          </View>
-        </View>
-        
-        {/* Tips card */}
-        <View style={styles.tipsCard}>
-          <View style={styles.tipsIconContainer}>
-            <Text style={styles.tipsIcon}>💡</Text>
-          </View>
-          <View style={styles.tipsContent}>
-            <Text style={styles.tipsTitle}>Pro Tip</Text>
-            <Text style={styles.tipsDescription}>
-              Practice daily for just 10 minutes to see significant improvement in your pronunciation and fluency.
-            </Text>
-          </View>
-        </View>
+       
       </ScrollView>
     </SafeAreaView>
   );

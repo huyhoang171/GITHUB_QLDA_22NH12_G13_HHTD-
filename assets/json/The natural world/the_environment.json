@@ -16,7 +16,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "airlift",
@@ -35,7 +36,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "asbestos",
@@ -49,7 +51,8 @@
         "definition": "a soft grey mineral that does not burn and can be woven into material, used especially in the past in building as a protection against fire or to prevent heat loss. Asbestos is dangerous if you breathe it in.",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "aerosol",
@@ -72,7 +75,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "alternative fuel",
@@ -91,7 +95,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "airlift",
@@ -114,7 +119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "air quality",
@@ -133,7 +139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "atomic energy",
@@ -147,7 +154,8 @@
         "definition": "a powerful form of energy produced by changing matter into energy by splitting the nuclei (= central parts) of atoms. It is used to produce electricity.",
         "examples": []
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "aftershock",
@@ -166,7 +174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "biofuel",
@@ -189,7 +198,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "avalanche",
@@ -216,7 +226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "biodegradable",
@@ -239,7 +250,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "biohazard",
@@ -253,7 +265,8 @@
         "definition": "a risk to human health or to the environment from a biological source",
         "examples": []
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "biodiversity",
@@ -272,7 +285,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "biome",
@@ -286,7 +300,8 @@
         "definition": "the characteristic plants and animals that exist in a particular type of environment, for example in a forest or desert",
         "examples": []
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "aid",
@@ -357,7 +372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "biogas",
@@ -371,7 +387,8 @@
         "definition": "gas, especially methane, that is produced by dead plants and that can be burned to produce heat",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "bottle bank",
@@ -385,7 +402,8 @@
         "definition": "a large container in a public place where people can leave their empty bottles so that the glass can be used again (= recycled); a public place with several of these containers",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "act of God",
@@ -567,7 +585,8 @@
         "definition": "to tell somebody with force that they must not do something",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "carbon credit",
@@ -595,7 +614,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "cap and trade",
@@ -618,7 +638,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "carbon debt",
@@ -641,7 +662,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "air",
@@ -927,7 +949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "blackout",
@@ -985,7 +1008,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "blizzard",
@@ -1021,7 +1045,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "biological diversity",
@@ -1035,7 +1060,8 @@
         "definition": "the existence of a large number of different kinds of animals and plants which make a balanced environment",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "carbon monoxide",
@@ -1049,7 +1075,8 @@
         "definition": "a poisonous gas formed when carbon burns partly but not completely. It is produced when petrol is burned in car engines.",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "carbon",
@@ -1093,7 +1120,8 @@
         "definition": "a piece of carbon paper",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "carbon footprint",
@@ -1124,7 +1152,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "carbon dioxide",
@@ -1147,7 +1176,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "carbon capture and storage",
@@ -1161,7 +1191,8 @@
         "definition": "the process of collecting carbon dioxide produced by burning coal, oil, etc. and other industrial processes, and storing it so that it does not affect the atmosphere",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "carbon sequestration",
@@ -1175,7 +1206,8 @@
         "definition": "the process of storing carbon dioxide that has been collected and removed from the atmosphere, in solid or liquid form",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "cable",
@@ -1239,7 +1271,8 @@
         "definition": "a message sent by electrical signals and printed out",
         "examples": []
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "clean-up",
@@ -1266,7 +1299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "cataclysm",
@@ -1285,7 +1319,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "carbon offset",
@@ -1316,7 +1351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "carbon trading",
@@ -1339,7 +1375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "CFC",
@@ -1353,7 +1390,8 @@
         "definition": "a type of gas previously used especially in aerosols (= types of container that release liquid in very small drops). CFCs are harmful to the earth’s ozone layer and are generally no longer used in these products. (the abbreviation for ‘chlorofluorocarbon’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "carbon-neutral",
@@ -1380,7 +1418,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "catalytic converter",
@@ -1399,7 +1438,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "clean up",
@@ -1473,7 +1513,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "clean",
@@ -1760,7 +1801,8 @@
         "definition": "to agree to forget about past mistakes or arguments and start again with a relationship",
         "examples": []
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "climate action",
@@ -1783,7 +1825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "climate denial",
@@ -1802,7 +1845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "climate change",
@@ -1825,7 +1869,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "climate change denial",
@@ -1844,7 +1889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "climate crisis",
@@ -1863,7 +1909,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "climate emergency",
@@ -1882,7 +1929,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "climate strike",
@@ -1901,7 +1949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "climate",
@@ -1962,7 +2011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "conservation area",
@@ -1976,7 +2026,8 @@
         "definition": "(in the UK) an area where the natural environment or the buildings are protected by law from being damaged or changed",
         "examples": []
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "conservationist",
@@ -1995,7 +2046,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "consume",
@@ -2057,7 +2109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "contamination",
@@ -2093,7 +2146,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "conserve",
@@ -2125,7 +2179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "contaminate",
@@ -2165,7 +2220,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "consumption",
@@ -2221,7 +2277,8 @@
         "definition": "a serious disease of the lungs",
         "examples": []
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "conservancy",
@@ -2253,7 +2310,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "conservation",
@@ -2302,7 +2360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "coal",
@@ -2367,7 +2426,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "cooling tower",
@@ -2381,7 +2441,8 @@
         "definition": "a large high round building used in industry for cooling water before it is used again",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "cyclone",
@@ -2409,7 +2470,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "compost",
@@ -2432,7 +2494,8 @@
         "definition": "to put compost on or in something",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "derrick",
@@ -2450,7 +2513,8 @@
         "definition": "a tall structure over an oil well for holding the drill (= the machine that makes the hole in the ground for getting the oil out)",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "disaster area",
@@ -2486,7 +2550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "dam",
@@ -2534,7 +2599,8 @@
         "definition": "a small rubber sheet used to protect the mouth during sex",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "death toll",
@@ -2553,7 +2619,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "crude",
@@ -2572,7 +2639,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "dumper",
@@ -2586,7 +2654,8 @@
         "definition": "a person who throws away dangerous or harmful things, especially in the wrong place",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "drill",
@@ -2661,7 +2730,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "disposal",
@@ -2714,7 +2784,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "drought",
@@ -2750,7 +2821,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "diversity",
@@ -2795,7 +2867,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "dust storm",
@@ -2809,7 +2882,8 @@
         "definition": "a storm that carries clouds of dust in the wind over a wide area",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "earthquake",
@@ -2844,7 +2918,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "deforestation",
@@ -2863,7 +2938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "dumping",
@@ -2882,7 +2958,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "eco-friendly",
@@ -2901,7 +2978,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "ecologist",
@@ -2919,7 +2997,8 @@
         "definition": "a person who is interested in ecology and believes the environment should be protected",
         "examples": []
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "ecology",
@@ -2950,7 +3029,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "eco-anxiety",
@@ -2969,7 +3049,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "ecological",
@@ -3001,7 +3082,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "eco-warrior",
@@ -3024,7 +3106,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "effluent",
@@ -3038,7 +3121,8 @@
         "definition": "liquid waste, especially chemicals produced by factories, or sewage",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "emissions trading",
@@ -3052,7 +3136,8 @@
         "definition": "a system that gives countries and organizations the right to produce a particular amount of carbon dioxide and other gases that cause global warming, and allows them to sell this right",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "dump",
@@ -3123,7 +3208,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "electricity",
@@ -3182,7 +3268,8 @@
         "definition": "a feeling of great emotion, excitement, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "electrical storm",
@@ -3196,7 +3283,8 @@
         "definition": "a violent storm in which electricity is produced in the atmosphere",
         "examples": []
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "energy-saving",
@@ -3219,7 +3307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "emergency services",
@@ -3238,7 +3327,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "ecoterrorism",
@@ -3256,7 +3346,8 @@
         "definition": "deliberate damage to the environment, done in order to draw attention to a political issue",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "ecosystem",
@@ -3275,7 +3366,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "epicentre",
@@ -3293,7 +3385,8 @@
         "definition": "the central point of something",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "environmentalist",
@@ -3307,7 +3400,8 @@
         "definition": "a person who is interested in the natural environment and wants to improve and protect it",
         "examples": []
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "environmentally friendly",
@@ -3326,7 +3420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "eruption",
@@ -3372,7 +3467,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "environmentalism",
@@ -3391,7 +3487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "energy",
@@ -3497,7 +3594,8 @@
         "definition": "a person who is full of energy and enthusiasm",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "environment",
@@ -3570,7 +3668,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "eruptive",
@@ -3584,7 +3683,8 @@
         "definition": "relating to or produced by the eruption of a volcano",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "environmental",
@@ -3636,7 +3736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "ecotourism",
@@ -3655,7 +3756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "exhaust",
@@ -3687,7 +3789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "fast breeder",
@@ -3701,7 +3804,8 @@
         "definition": "a reactor in a nuclear power station in which the reaction that produces energy is not made slower",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "emission",
@@ -3733,7 +3837,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "fallout",
@@ -3756,7 +3861,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "first responder",
@@ -3779,7 +3885,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "flash flood",
@@ -3798,7 +3905,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "flooding",
@@ -3825,7 +3933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "erupt",
@@ -3895,7 +4004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "food mile",
@@ -3918,7 +4028,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "flight shame",
@@ -3937,7 +4048,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "forever chemical",
@@ -3956,7 +4068,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "fossil fuel",
@@ -3983,7 +4096,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "eye",
@@ -4756,7 +4870,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "focus",
@@ -4840,7 +4955,8 @@
         "definition": "the point at which an earthquake starts to happen",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "fuel",
@@ -4912,7 +5028,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "fuel cell",
@@ -4931,7 +5048,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "fracking",
@@ -4950,7 +5068,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "fuel efficiency",
@@ -4969,7 +5088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "fell",
@@ -5005,7 +5125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "floodwater",
@@ -5028,7 +5149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "game reserve",
@@ -5042,7 +5164,8 @@
         "definition": "a large area of land where wild animals can live in safety",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "fuel-efficient",
@@ -5061,7 +5184,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "Gaia",
@@ -5075,7 +5199,8 @@
         "definition": "the Earth, considered as a single natural system that organizes and controls itself",
         "examples": []
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "frack",
@@ -5102,7 +5227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "fumes",
@@ -5133,7 +5259,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "garbage patch",
@@ -5152,7 +5279,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "fuel rod",
@@ -5166,7 +5294,8 @@
         "definition": "a long thin part containing fuel used in a nuclear power station",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "geothermal",
@@ -5189,7 +5318,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "garbage",
@@ -5234,7 +5364,8 @@
         "definition": "used to express the idea that if wrong or poor quality data, material or effort is put into something, wrong or poor quality results will come out of it",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "flood",
@@ -5311,7 +5442,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "global warming",
@@ -5330,7 +5462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "generate",
@@ -5383,7 +5516,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "generation",
@@ -5511,7 +5645,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "green audit",
@@ -5525,7 +5660,8 @@
         "definition": "an official examination of the effect of a company’s business on the environment",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "green belt",
@@ -5552,7 +5688,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "green manure",
@@ -5571,7 +5708,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "green",
@@ -5599,7 +5737,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "greenhouse effect",
@@ -5622,7 +5761,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "habitat",
@@ -5649,7 +5789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "global heating",
@@ -5672,7 +5813,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "greenhouse gas",
@@ -5691,7 +5833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "green",
@@ -5791,7 +5934,8 @@
         "definition": "very jealous (= angry or unhappy because you wish you had something that somebody else has )",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "gas",
@@ -5932,7 +6076,8 @@
         "definition": "to be doing something very well and successfully",
         "examples": []
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "hazmat suit",
@@ -5946,7 +6091,8 @@
         "definition": "a special suit that protects a person's body when they are dealing with dangerous substances",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "hydroelectricity",
@@ -5960,7 +6106,8 @@
         "definition": "electricity produced using the power of water",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "hydroelectric",
@@ -5983,7 +6130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "leach",
@@ -6011,7 +6159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "leaded",
@@ -6034,7 +6183,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "hurricane",
@@ -6073,7 +6223,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "hazmat",
@@ -6101,7 +6252,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "greenwash",
@@ -6120,7 +6272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "landslide",
@@ -6156,7 +6309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "hydropower",
@@ -6175,7 +6329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "logging",
@@ -6189,7 +6344,8 @@
         "definition": "the work or business of cutting down trees for their wood",
         "examples": []
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "landfill",
@@ -6225,7 +6381,8 @@
         "definition": "waste material that will be buried",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "log",
@@ -6257,7 +6414,8 @@
         "definition": "to cut down trees in a forest for their wood",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "low-carbon",
@@ -6284,7 +6442,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "lava",
@@ -6307,7 +6466,8 @@
         "definition": "this type of rock when it has cooled and become hard",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "nanoplastic",
@@ -6330,7 +6490,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "natural disaster",
@@ -6365,7 +6526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "low-impact",
@@ -6393,7 +6555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "microplastic",
@@ -6416,7 +6579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "nitrogen cycle",
@@ -6430,7 +6594,8 @@
         "definition": "the processes by which nitrogen is passed from one part of the environment to another, for example when plants decay (= become destroyed by natural processes)",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "magnitude",
@@ -6475,7 +6640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "national park",
@@ -6498,7 +6664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "nature reserve",
@@ -6517,7 +6684,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "nitrogen-fixing",
@@ -6536,7 +6704,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "nitrogen fixation",
@@ -6550,7 +6719,8 @@
         "definition": "the chemical process by which nitrogen from the atmosphere is changed by bacteria into compounds in the soil that plants and other living things can use, especially as part of the nitrogen cycle",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "non-biodegradable",
@@ -6564,7 +6734,8 @@
         "definition": "a substance or chemical that is non-biodegradable cannot be changed by the action of bacteria to a natural state that does not harm the environment",
         "examples": []
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "nature",
@@ -6755,7 +6926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "managed",
@@ -6778,7 +6950,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "natural",
@@ -6974,7 +7147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "nuclear energy",
@@ -6988,7 +7162,8 @@
         "definition": "a powerful form of energy produced by changing matter into energy by splitting the nuclei (= central parts) of atoms. It is used to produce electricity.",
         "examples": []
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "nuclear power",
@@ -7002,7 +7177,8 @@
         "definition": "a powerful form of energy produced by changing matter into energy by splitting the nuclei (= central parts) of atoms. It is used to produce electricity.",
         "examples": []
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "nuclear reactor",
@@ -7016,7 +7192,8 @@
         "definition": "a large structure used to produce nuclear energy",
         "examples": []
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "nurdle",
@@ -7039,7 +7216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "nuclear",
@@ -7136,7 +7314,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "net zero",
@@ -7159,7 +7338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "oil well",
@@ -7178,7 +7358,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "overfish",
@@ -7201,7 +7382,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "overfishing",
@@ -7220,7 +7402,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "oil rig",
@@ -7234,7 +7417,8 @@
         "definition": "a large structure with equipment for getting oil from under the ground or under the sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "oil slick",
@@ -7253,7 +7437,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "particulate",
@@ -7272,7 +7457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "ozone-friendly",
@@ -7286,7 +7472,8 @@
         "definition": "not containing substances that will damage the ozone layer",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "oil",
@@ -7438,7 +7625,8 @@
         "definition": "to try to settle an argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "particulate",
@@ -7457,7 +7645,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "non-renewable",
@@ -7497,7 +7686,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "ozone hole",
@@ -7511,7 +7701,8 @@
         "definition": "an area in the ozone layer where the amount of ozone has been very much reduced so that harmful radiation from the sun can pass through it",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "ozone layer",
@@ -7534,7 +7725,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "petrol",
@@ -7573,7 +7765,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "PET",
@@ -7600,7 +7793,8 @@
         "definition": "a British test, now called ‘B1 Preliminary’, that measures a person’s ability to speak and write English as a foreign language at an intermediate level (the abbreviation for ‘Preliminary English Test’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "PM10",
@@ -7619,7 +7813,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "PM2.5",
@@ -7638,7 +7833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "polluter",
@@ -7652,7 +7848,8 @@
         "definition": "a person, company, country, etc. that causes pollution",
         "examples": []
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "plume",
@@ -7701,7 +7898,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "pollution",
@@ -7754,7 +7952,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "poisonous",
@@ -7811,7 +8010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "power station",
@@ -7834,7 +8034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "plastic",
@@ -7886,7 +8087,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "pollute",
@@ -7913,7 +8115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "protection",
@@ -8024,7 +8227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "protect",
@@ -8127,7 +8331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "reactor",
@@ -8146,7 +8351,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "recycle",
@@ -8202,7 +8408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "radioactive",
@@ -8216,7 +8423,8 @@
         "definition": "sending out powerful and very dangerous rays when the nuclei (= central parts) of atoms are broken up",
         "examples": []
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "power plant",
@@ -8230,7 +8438,8 @@
         "definition": "a building or group of buildings where electricity is produced",
         "examples": []
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "refine",
@@ -8262,7 +8471,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "pylon",
@@ -8276,7 +8486,8 @@
         "definition": "a tall metal structure that is used for carrying electricity wires high above the ground",
         "examples": []
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "recycling",
@@ -8299,7 +8510,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "power",
@@ -8681,7 +8893,8 @@
         "definition": "to win an election by a large number of votes; to make somebody win an election with a large number of votes",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "reservist",
@@ -8695,7 +8908,8 @@
         "definition": "a soldier, etc. who is a member of the reserves (= a military force that can be used in an emergency)",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "refinery",
@@ -8722,7 +8936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "rewilding",
@@ -8745,7 +8960,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "reuse",
@@ -8768,7 +8984,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "renewable",
@@ -8800,7 +9017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "reuse",
@@ -8819,7 +9037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "salvage",
@@ -8851,7 +9070,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "sanctuary",
@@ -8921,7 +9141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "reintroduce",
@@ -8953,7 +9174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "rubbish",
@@ -9038,7 +9260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "seaquake",
@@ -9052,7 +9275,8 @@
         "definition": "a sudden powerful movement of the sea, caused by an earthquake or by volcanic activity under the sea",
         "examples": []
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "rig",
@@ -9092,7 +9316,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "shelter in place",
@@ -9153,7 +9378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "reserve",
@@ -9274,7 +9500,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "slick",
@@ -9302,7 +9529,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "relief",
@@ -9514,7 +9742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "sandstorm",
@@ -9528,7 +9757,8 @@
         "definition": "a storm in a desert in which sand is blown into the air by strong winds",
         "examples": []
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "resource",
@@ -9617,7 +9847,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "shock",
@@ -9773,7 +10004,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "shock wave",
@@ -9796,7 +10028,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "solar",
@@ -9840,7 +10073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "soot",
@@ -9867,7 +10101,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "solar panel",
@@ -9881,7 +10116,8 @@
         "definition": "a piece of equipment, often on the roof of a building, that uses light and heat energy from the sun to produce hot water and electricity",
         "examples": []
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "snowslide",
@@ -9895,7 +10131,8 @@
         "definition": "a mass of snow, ice and rock that falls down the side of a mountain",
         "examples": []
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "substation",
@@ -9909,7 +10146,8 @@
         "definition": "a place where the strength of electric power from a power station is reduced before it is passed on to homes and businesses",
         "examples": []
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "solar cell",
@@ -9923,7 +10161,8 @@
         "definition": "a device that receives light and heat energy from the sun and changes it into electricity",
         "examples": []
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "smog",
@@ -9942,7 +10181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "smoke",
@@ -10053,7 +10293,8 @@
         "definition": "a decision that people describe as being made in a smoke-filled room is made by a small group of people at a private meeting, rather than in an open and democratic way",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "sustainable",
@@ -10093,7 +10334,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "storm",
@@ -10205,7 +10447,8 @@
         "definition": "to attack a place suddenly and capture it",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "temblor",
@@ -10219,7 +10462,8 @@
         "definition": "an earthquake (= a sudden, violent shaking of the earth’s surface)",
         "examples": []
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "tidal wave",
@@ -10251,7 +10495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "toll",
@@ -10316,7 +10561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "thunderstorm",
@@ -10339,7 +10585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "tanker",
@@ -10358,7 +10605,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "tremor",
@@ -10394,7 +10642,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "tsunami",
@@ -10417,7 +10666,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "toxic",
@@ -10469,7 +10719,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "tank",
@@ -10522,7 +10773,8 @@
         "definition": "an artificial pool, lake or reservoir",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "twister",
@@ -10541,7 +10793,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "tornado",
@@ -10564,7 +10817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "toxicity",
@@ -10601,7 +10855,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "trash",
@@ -10637,7 +10892,8 @@
         "definition": "an offensive word used to describe people that you do not respect",
         "examples": []
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "turbine",
@@ -10660,7 +10916,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "typhoon",
@@ -10679,7 +10936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "unleaded",
@@ -10693,7 +10951,8 @@
         "definition": "not containing lead and therefore less harmful to the environment",
         "examples": []
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "unleaded",
@@ -10712,7 +10971,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "volcanic",
@@ -10739,7 +10999,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "volcano",
@@ -10770,7 +11031,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "windstorm",
@@ -10784,7 +11046,8 @@
         "definition": "a storm where there is very strong wind but little rain or snow",
         "examples": []
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "waterspout",
@@ -10798,7 +11061,8 @@
         "definition": "a column of water that is pulled up from the sea during a storm by a column of air that turns round and round rapidly",
         "examples": []
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "wildfire",
@@ -10830,7 +11094,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "wildlife corridor",
@@ -10849,7 +11114,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "wind turbine",
@@ -10863,7 +11129,8 @@
         "definition": "a type of modern windmill used for producing electricity",
         "examples": []
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "zero-emission",
@@ -10882,7 +11149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "zero-carbon",
@@ -10901,7 +11169,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "waste",
@@ -11009,7 +11278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "wind farm",
@@ -11032,6 +11302,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   }
 ]

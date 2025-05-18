@@ -20,7 +20,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "astrobiologist",
@@ -34,7 +35,8 @@
         "definition": "a scientist who studies life on other planets",
         "examples": []
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "astrobiology",
@@ -48,7 +50,8 @@
         "definition": "the scientific study of life on other planets",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "astrophysics",
@@ -62,7 +65,8 @@
         "definition": "the scientific study of the physical and chemical structure of the stars, planets, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "alien",
@@ -124,7 +128,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "alien",
@@ -152,7 +157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "astronomy",
@@ -166,7 +172,8 @@
         "definition": "the scientific study of the sun, moon, stars, planets, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "astronomer",
@@ -189,7 +196,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "astronaut",
@@ -208,7 +216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "aurora australis",
@@ -222,7 +231,8 @@
         "definition": "bands of coloured light that are sometimes seen in the sky at night in the most southern countries of the world",
         "examples": []
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "asteroid",
@@ -236,7 +246,8 @@
         "definition": "any one of the many small planets that go around the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "atmosphere",
@@ -346,7 +357,8 @@
         "definition": "a situation when people do not say anything, but feel embarrassed or uncomfortable",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "atmospheric",
@@ -382,7 +394,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "aurora borealis",
@@ -396,7 +409,8 @@
         "definition": "bands of coloured light, mainly green and red, that are sometimes seen in the sky at night in the most northern countries of the world",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "biosphere",
@@ -410,7 +424,8 @@
         "definition": "the part of the earth’s surface and atmosphere in which plants and animals can live",
         "examples": []
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "blast off",
@@ -429,7 +444,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "comet",
@@ -443,7 +459,8 @@
         "definition": "a mass of ice and dust that moves around the sun and looks like a bright star with a tail",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "black hole",
@@ -466,7 +483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "come up",
@@ -568,7 +586,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "blast-off",
@@ -587,7 +606,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "axis",
@@ -653,7 +673,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "Big Bang",
@@ -667,7 +688,8 @@
         "definition": "the single large event, followed by a rapid expansion, that most scientists suggest created the universe",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "booster",
@@ -712,7 +734,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "come out",
@@ -846,7 +869,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "constellation",
@@ -874,7 +898,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "cosmonaut",
@@ -888,7 +913,8 @@
         "definition": "an astronaut from the former Soviet Union",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "corona",
@@ -911,7 +937,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "cosmic",
@@ -939,7 +966,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "cosmic dust",
@@ -953,7 +981,8 @@
         "definition": "very small pieces of matter floating in space",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "crescent",
@@ -989,7 +1018,8 @@
         "definition": "the curved shape that is used as a symbol of Islam",
         "examples": []
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "cosmos",
@@ -1012,7 +1042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "exoplanet",
@@ -1031,7 +1062,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "dark matter",
@@ -1045,7 +1077,8 @@
         "definition": "according to some theories, material that exists in space but does not reflect any light",
         "examples": []
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "cosmic rays",
@@ -1059,7 +1092,8 @@
         "definition": "rays that reach the earth from outer space",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "countdown",
@@ -1082,7 +1116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "eclipse",
@@ -1118,7 +1153,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "falling star",
@@ -1132,7 +1168,8 @@
         "definition": "a small meteor (= a piece of rock in outer space) that travels very fast and burns with a bright light as it enters the earth’s atmosphere",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "extraterrestrial",
@@ -1146,7 +1183,8 @@
         "definition": "(in stories) a creature that comes from another planet; a creature that may exist on another planet",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "extraterrestrial",
@@ -1165,7 +1203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "dock",
@@ -1224,7 +1263,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "flying saucer",
@@ -1238,7 +1278,8 @@
         "definition": "a round spacecraft that some people claim to have seen and that some people believe comes from another planet",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "full moon",
@@ -1261,7 +1302,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "go around",
@@ -1324,7 +1366,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "earth",
@@ -1495,7 +1538,8 @@
         "definition": "to destroy or remove somebody/something completely",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "galaxy",
@@ -1527,7 +1571,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "half-moon",
@@ -1545,7 +1590,8 @@
         "definition": "a thing that is like a half-moon in shape",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "hyperspace",
@@ -1563,7 +1609,8 @@
         "definition": "a situation in which it is possible to travel faster than light",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "gravity",
@@ -1604,7 +1651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "intergalactic",
@@ -1623,7 +1671,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "interstellar",
@@ -1637,7 +1686,8 @@
         "definition": "between the stars in the sky",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "interplanetary",
@@ -1656,7 +1706,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "ionosphere",
@@ -1670,7 +1721,8 @@
         "definition": "a layer of the earth’s atmosphere between about 80 and 1 000 kilometres above the surface of the earth that reflects radio waves around the earth",
         "examples": []
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "go round",
@@ -1733,7 +1785,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "go down",
@@ -1875,7 +1928,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "Jupiter",
@@ -1889,7 +1943,8 @@
         "definition": "the largest planet of the solar system, fifth in order of distance from the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "landing",
@@ -1941,7 +1996,8 @@
         "definition": "a flat wooden platform on the water where boats let people get on and off, and load and unload goods",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "launch vehicle",
@@ -1960,7 +2016,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "launch",
@@ -2021,7 +2078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "lift-off",
@@ -2040,7 +2098,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "land",
@@ -2201,7 +2260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "launch",
@@ -2322,7 +2382,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "magnetic storm",
@@ -2336,7 +2397,8 @@
         "definition": "a situation in which the magnetic field of the earth or of another planet, star, etc. is disturbed",
         "examples": []
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "lift off",
@@ -2350,7 +2412,8 @@
         "definition": "to leave the ground and rise into the air",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "lunar",
@@ -2369,7 +2432,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "mesosphere",
@@ -2383,7 +2447,8 @@
         "definition": "the part of the earth’s atmosphere that is between 50 and 80 kilometres from the ground, between the stratosphere and the thermosphere",
         "examples": []
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "light year",
@@ -2415,7 +2480,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "Mars",
@@ -2429,7 +2495,8 @@
         "definition": "the planet in the solar system that is fourth in order of distance from the sun, between the Earth and Jupiter",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "Mercury",
@@ -2443,7 +2510,8 @@
         "definition": "the smallest planet in the solar system, nearest to the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "Martian",
@@ -2457,7 +2525,8 @@
         "definition": "an imaginary creature from the planet Mars",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "Martian",
@@ -2471,7 +2540,8 @@
         "definition": "related to or coming from the planet Mars",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "meteorite",
@@ -2485,7 +2555,8 @@
         "definition": "a piece of rock from outer space that hits the earth’s surface",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "meteor",
@@ -2504,7 +2575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "Milky Way",
@@ -2526,7 +2598,8 @@
         "definition": "a chocolate bar with a soft, light centre and caramel inside it. In Britain it is sold as a Mars Bar.",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "meteoroid",
@@ -2540,7 +2613,8 @@
         "definition": "a small piece of rock in space that would become a meteor if it entered the earth’s atmosphere",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "NASA",
@@ -2554,7 +2628,8 @@
         "definition": "National Aeronautics and Space Administration (a US government organization that does research into space and organizes space travel)",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "moonlight",
@@ -2581,7 +2656,8 @@
         "definition": "to leave a place suddenly and secretly, especially at night, usually in order to avoid paying money that you owe to somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "Neptune",
@@ -2595,7 +2671,8 @@
         "definition": "a planet in the solar system that is 8th in order of distance from the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "nebula",
@@ -2609,7 +2686,8 @@
         "definition": "a mass of dust or gas that can be seen in the night sky, often appearing very bright; a bright area in the night sky caused by a large cloud of stars that are far away",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "new moon",
@@ -2627,7 +2705,8 @@
         "definition": "the time of the month when the moon has this shape",
         "examples": []
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "Northern Lights",
@@ -2641,7 +2720,8 @@
         "definition": "bands of coloured light, mainly green and red, that are sometimes seen in the sky at night in the most northern countries of the world",
         "examples": []
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "moon",
@@ -2743,7 +2823,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "orbit",
@@ -2779,7 +2860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "mission",
@@ -2914,7 +2996,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "orbital",
@@ -2932,7 +3015,8 @@
         "definition": "built around the edge of a town or city to reduce the amount of traffic travelling through the centre",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "ozone hole",
@@ -2946,7 +3030,8 @@
         "definition": "an area in the ozone layer where the amount of ozone has been very much reduced so that harmful radiation from the sun can pass through it",
         "examples": []
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "penumbra",
@@ -2964,7 +3049,8 @@
         "definition": "the shadow made by the earth or the moon during a partial eclipse",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "outer space",
@@ -2983,7 +3069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "planet",
@@ -3032,7 +3119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "ozone layer",
@@ -3055,7 +3143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "radiation belt",
@@ -3074,7 +3163,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "Pluto",
@@ -3088,7 +3178,8 @@
         "definition": "one of a number of round objects in space that are not as large as planets but which go around the sun. In August 2006, the International Astronomical Union declared that Pluto should be called a dwarf planet because it is smaller and has different characteristics from the other planets in our solar system; in 2008 it declared that dwarf planets further from the sun than Neptune could also be called plutoids.",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "red dwarf",
@@ -3102,7 +3193,8 @@
         "definition": "a small, old star that is not very hot",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "probe",
@@ -3137,7 +3229,8 @@
         "definition": "a small device put inside something and used by scientists to test something or record information",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "pod",
@@ -3190,7 +3283,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "ray",
@@ -3251,7 +3345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "plate",
@@ -3442,7 +3537,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "orbit",
@@ -3469,7 +3565,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "rotation",
@@ -3522,7 +3619,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "Saturn",
@@ -3544,7 +3642,8 @@
         "definition": "a popular make of small US car that is cheap to run, produced by General Motors since 1990",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "solar year",
@@ -3558,7 +3657,8 @@
         "definition": "the time it takes the earth to go around the sun once, approximately 365¼ days",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "shine",
@@ -3669,7 +3769,8 @@
         "definition": "usually used in orders to tell somebody to get out of bed and be active",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "shooting star",
@@ -3683,7 +3784,8 @@
         "definition": "a small meteor (= a piece of rock in outer space) that travels very fast and burns with a bright light as it enters the earth’s atmosphere",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "solar system",
@@ -3706,7 +3808,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "solar",
@@ -3750,7 +3853,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "satellite",
@@ -3823,7 +3927,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "rise",
@@ -4110,7 +4215,8 @@
         "definition": "usually used in orders to tell somebody to get out of bed and be active",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "rocket",
@@ -4162,7 +4268,8 @@
         "definition": "to speak angrily to somebody because they have done something wrong; to be spoken to angrily for this reason",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "Southern Cross",
@@ -4176,7 +4283,8 @@
         "definition": "a group of stars in the shape of a cross that can be seen from the southern hemisphere",
         "examples": []
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "Southern Lights",
@@ -4190,7 +4298,8 @@
         "definition": "bands of coloured light that are sometimes seen in the sky at night in the most southern countries of the world",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "spaceship",
@@ -4204,7 +4313,8 @@
         "definition": "a vehicle that travels in space, carrying people",
         "examples": []
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "spacesuit",
@@ -4218,7 +4328,8 @@
         "definition": "a special suit that covers the whole body and has a supply of air, allowing somebody to survive and move around in space",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "space probe",
@@ -4232,7 +4343,8 @@
         "definition": "a spacecraft without people on board that obtains information and sends it back to earth",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "spacecraft",
@@ -4259,7 +4371,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "spaceman",
@@ -4277,7 +4390,8 @@
         "definition": "(in stories) a creature that visits the earth from another planet",
         "examples": []
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "space shuttle",
@@ -4291,7 +4405,8 @@
         "definition": "a spacecraft designed to make repeated journeys, for example between the earth and a space station",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "space station",
@@ -4305,7 +4420,8 @@
         "definition": "a large structure that is sent into space and remains above the earth as a base for people working and travelling in space",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "space-time",
@@ -4319,7 +4435,8 @@
         "definition": "the universe considered as a continuum with four measurements—length, width, depth and time—inside which any event or physical object is located",
         "examples": []
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "spacewalk",
@@ -4333,7 +4450,8 @@
         "definition": "a period of time that an astronaut spends in space outside a spacecraft",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "space",
@@ -4646,7 +4764,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "spacewoman",
@@ -4660,7 +4779,8 @@
         "definition": "a woman who travels into space; an astronaut",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "sputnik",
@@ -4674,7 +4794,8 @@
         "definition": "a satellite of the type that was put into space by the Soviet Union",
         "examples": []
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "sunbeam",
@@ -4688,7 +4809,8 @@
         "definition": "a stream of light from the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "stratosphere",
@@ -4711,7 +4833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "stratospheric",
@@ -4739,7 +4862,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "sunray",
@@ -4753,7 +4877,8 @@
         "definition": "a ray of light from the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "sunlight",
@@ -4780,7 +4905,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "star",
@@ -4963,7 +5089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "sun",
@@ -5093,7 +5220,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "sunrise",
@@ -5129,7 +5257,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "sunset",
@@ -5166,7 +5295,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "sunup",
@@ -5180,7 +5310,8 @@
         "definition": "the time when the sun rises and day begins",
         "examples": []
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "thermosphere",
@@ -5194,7 +5325,8 @@
         "definition": "the region of the atmosphere above the mesosphere",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "take off",
@@ -5322,7 +5454,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "troposphere",
@@ -5336,7 +5469,8 @@
         "definition": "the lowest layer of the earth’s atmosphere, between the surface of the earth and about 6–10 kilometres above the surface",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "take-off",
@@ -5375,7 +5509,8 @@
         "definition": "if you do a take-off of somebody, you copy the way they speak or behave, in a humorous way to entertain people",
         "examples": []
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "Venus",
@@ -5389,7 +5524,8 @@
         "definition": "the planet in the solar system that is second in order of distance from the sun, between Mercury and the Earth",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "UFO",
@@ -5403,7 +5539,8 @@
         "definition": "a strange object that some people claim to have seen in the sky and believe is a spacecraft from another planet (the abbreviation for ‘unidentified flying object’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "voyage",
@@ -5438,7 +5575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "twilight",
@@ -5495,7 +5633,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "weightlessness",
@@ -5514,7 +5653,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "Uranus",
@@ -5528,7 +5668,8 @@
         "definition": "the planet in the solar system that is 7th in order of distance from the sun",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "weightless",
@@ -5547,7 +5688,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "wane",
@@ -5587,7 +5729,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "telescope",
@@ -5606,7 +5749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "universe",
@@ -5659,7 +5803,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "wormhole",
@@ -5677,7 +5822,8 @@
         "definition": "a possible connection between regions of space-time that are far apart",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "white dwarf",
@@ -5691,7 +5837,8 @@
         "definition": "a small star that is near the end of its life and is very dense (= solid and heavy)",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "zodiac",
@@ -5714,7 +5861,8 @@
         "definition": "a diagram of these twelve parts, and signs that some people believe can be used to predict how the planets will influence our lives",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "zenith",
@@ -5742,7 +5890,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "wax",
@@ -5804,6 +5953,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   }
 ]

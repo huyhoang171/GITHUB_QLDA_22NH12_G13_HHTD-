@@ -24,7 +24,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "a/an/the soft/easy option",
@@ -188,7 +189,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "accountability",
@@ -211,7 +213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "acquittal",
@@ -234,7 +237,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "absolute",
@@ -342,7 +346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "adjudge",
@@ -373,7 +378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "abide",
@@ -409,7 +415,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "a buyer’s market",
@@ -446,7 +453,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "adjudicator",
@@ -474,7 +482,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "adjudication",
@@ -506,7 +515,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "adjudicate",
@@ -538,7 +548,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "allergic",
@@ -575,7 +586,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "an/a/the easy/soft option",
@@ -821,7 +833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "adoption",
@@ -874,7 +887,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "alternatively",
@@ -893,7 +907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "an acquired taste",
@@ -966,7 +981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "appeal",
@@ -1056,7 +1072,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "appellant",
@@ -1070,7 +1087,8 @@
         "definition": "a person who appeals against a decision made in court",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "admiration",
@@ -1097,7 +1115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "antipathetic",
@@ -1116,7 +1135,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "averse",
@@ -1144,7 +1164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "antipathy",
@@ -1171,7 +1192,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "anathema",
@@ -1190,7 +1212,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "appellate court",
@@ -1204,7 +1227,8 @@
         "definition": "a court in which people can appeal against decisions made in other courts of law",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "aversion",
@@ -1227,7 +1251,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "award",
@@ -1266,7 +1291,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "award",
@@ -1360,7 +1386,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "appeal",
@@ -1474,7 +1501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "be spoilt for choice",
@@ -1501,7 +1529,8 @@
         "definition": "to have such a lot of things to choose from that it is very difficult to make a decision",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "avenue",
@@ -1550,7 +1579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "bag",
@@ -1630,7 +1660,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "alternative",
@@ -1673,7 +1704,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "adore",
@@ -1709,7 +1741,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "be sweet on somebody",
@@ -1919,7 +1952,8 @@
         "definition": "the pleasant feeling of being successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "beggars can’t be choosers",
@@ -1955,7 +1989,8 @@
         "definition": "wishing for something does not make it happen",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "blind test",
@@ -1974,7 +2009,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "clincher",
@@ -1997,7 +2033,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "by default",
@@ -2068,7 +2105,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "change your/somebody’s mind",
@@ -2413,7 +2451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "be your own master/mistress",
@@ -2582,7 +2621,8 @@
         "definition": "to support two different parties, principles, etc. at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "choice",
@@ -2731,7 +2771,8 @@
         "definition": "used for saying that there is very little difference between two or more things that you can choose",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "contest",
@@ -2779,7 +2820,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "criterion",
@@ -2810,7 +2852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "choose",
@@ -2911,7 +2954,8 @@
         "definition": "there is very little difference between two or more things or people",
         "examples": []
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "commit",
@@ -3050,7 +3094,8 @@
         "definition": "to write something down",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "between the devil and the deep blue sea",
@@ -3204,7 +3249,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "consultation",
@@ -3258,7 +3304,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "consider",
@@ -3410,7 +3457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "decision",
@@ -3520,7 +3568,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "decide",
@@ -3658,7 +3707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "call",
@@ -3909,7 +3959,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "consult",
@@ -3974,7 +4025,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "decision theory",
@@ -3988,7 +4040,8 @@
         "definition": "the study of making the best decision according to what you calculate you will lose or gain from each choice",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "decree",
@@ -4024,7 +4077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "default",
@@ -4056,7 +4110,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "dislike",
@@ -4103,7 +4158,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "delegate",
@@ -4135,7 +4191,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "dilemma",
@@ -4183,7 +4240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "default",
@@ -4254,7 +4312,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "come down on one side of the fence or the other",
@@ -4994,7 +5053,8 @@
         "definition": "used to talk about two ways of looking at the same situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "despise",
@@ -5025,7 +5085,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "disgust",
@@ -5068,7 +5129,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "dissent",
@@ -5108,7 +5170,8 @@
         "definition": "a judge’s statement giving reasons why they disagree with a decision made by the other judges in a court case",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "deliberate",
@@ -5143,7 +5206,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "dislike",
@@ -5179,7 +5243,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "either",
@@ -5228,7 +5293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "decision-maker",
@@ -5251,7 +5317,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "enamoured",
@@ -5278,7 +5345,8 @@
         "definition": "in love with somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "drag your feet/heels",
@@ -5430,7 +5498,8 @@
         "definition": "to improve your situation yourself, without help from other people",
         "examples": []
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "favour",
@@ -5517,7 +5586,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "faddiness",
@@ -5531,7 +5601,8 @@
         "definition": "the fact of liking some things and not others, especially food, in a way that other people think is unreasonable",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "determined",
@@ -5592,7 +5663,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "favoured",
@@ -5629,7 +5701,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "enemy",
@@ -5735,7 +5808,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "find for",
@@ -5754,7 +5828,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "find against",
@@ -5773,7 +5848,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "finding",
@@ -5825,7 +5901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "find",
@@ -6217,7 +6294,8 @@
         "definition": "to accept somebody as they are without expecting them to behave in a special way or have special qualities",
         "examples": []
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "finicky",
@@ -6245,7 +6323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "go before",
@@ -6273,7 +6352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "force the issue",
@@ -6431,7 +6511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "faddy",
@@ -6454,7 +6535,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "go for",
@@ -6539,7 +6621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "frenemy",
@@ -6558,7 +6641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "grow on",
@@ -6581,7 +6665,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "go off",
@@ -6683,7 +6768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "hate, be sick of, etc. the sight of somebody/something",
@@ -7089,7 +7175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "hand down",
@@ -7125,7 +7212,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "give me something/somebody (any day/time)",
@@ -7598,7 +7686,8 @@
         "definition": "what is happening?; what is the news?",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "for your liking",
@@ -7651,7 +7740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "have a soft spot for somebody/something",
@@ -7872,7 +7962,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "have a sweet tooth",
@@ -8082,7 +8173,8 @@
         "definition": "the pleasant feeling of being successful",
         "examples": []
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "hate",
@@ -8214,7 +8306,8 @@
         "definition": "to dislike somebody very much",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "have against",
@@ -8233,7 +8326,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "grudge",
@@ -8272,7 +8366,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "have a thing about somebody/something",
@@ -9086,7 +9181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "have no use for somebody",
@@ -9294,7 +9390,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "free will",
@@ -9317,7 +9414,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "hedge your bets",
@@ -9379,7 +9477,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "have a think (about something)",
@@ -9411,7 +9510,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "have a lot of time for somebody/something",
@@ -10671,7 +10771,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "hum and haw",
@@ -10737,7 +10838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "hem and haw",
@@ -10765,7 +10867,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "hate",
@@ -10809,7 +10912,8 @@
         "definition": "something that you particularly dislike",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "inclined",
@@ -10879,7 +10983,8 @@
         "definition": "sloping; at an angle",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "I, etc. would sooner do something (than something else)",
@@ -11070,7 +11175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "Hobson’s choice",
@@ -11084,7 +11190,8 @@
         "definition": "a situation in which somebody has no choice because if they do not accept what is offered, they will get nothing",
         "examples": []
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "incisive",
@@ -11116,7 +11223,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "hustle",
@@ -11173,7 +11281,8 @@
         "definition": "to work as a prostitute",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "heart",
@@ -11200,7 +11309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "inconclusive",
@@ -11235,7 +11345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "indecisive",
@@ -11267,7 +11378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "have no time for somebody/something",
@@ -12527,7 +12639,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "it’s six of one and half a dozen of the other",
@@ -12620,7 +12733,8 @@
         "definition": "used to say that there is not much real difference between two possible choices",
         "examples": []
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "in somebody’s favour",
@@ -12842,7 +12956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "I’m easy",
@@ -13088,7 +13203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "head",
@@ -13889,7 +14005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "joint resolution",
@@ -13903,7 +14020,8 @@
         "definition": "(in the US) a decision that has been approved by the Senate and the House of Representatives",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "inflexible",
@@ -13947,7 +14065,8 @@
         "definition": "difficult or impossible to bend",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "it’s as broad as it’s long",
@@ -14114,7 +14233,8 @@
         "definition": "to describe something in a general way, ignoring the details",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "judgement call",
@@ -14128,7 +14248,8 @@
         "definition": "a decision you have to make where there is no clear rule about what the right thing to do is, so that you have to use your own judgement",
         "examples": []
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "judicial review",
@@ -14155,7 +14276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "leaning",
@@ -14178,7 +14300,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "lean toward",
@@ -14197,7 +14320,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "lean to",
@@ -14216,7 +14340,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "like",
@@ -14450,7 +14575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "love",
@@ -14580,7 +14706,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "keep/leave your options open",
@@ -14744,7 +14871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "judge",
@@ -14829,7 +14957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "majority verdict",
@@ -14843,7 +14972,8 @@
         "definition": "a decision made by a jury in a court case that most members, but not all, agree with",
         "examples": []
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "jurisdiction",
@@ -14879,7 +15009,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "judgement",
@@ -14990,7 +15121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "mad",
@@ -15169,7 +15301,8 @@
         "definition": "completely crazy",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "lean towards",
@@ -15188,7 +15321,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "make allowance(s) for something",
@@ -15267,7 +15401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "miscarriage of justice",
@@ -15281,7 +15416,8 @@
         "definition": "a situation in which a court makes a wrong decision, especially when somebody is punished when they are innocent",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "list box",
@@ -15295,7 +15431,8 @@
         "definition": "a list of choices in a box on a computer screen",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "misogynistic",
@@ -15314,7 +15451,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "keen",
@@ -15473,7 +15611,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "not budge/give/move an inch",
@@ -15614,7 +15753,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "jurisdictional",
@@ -15642,7 +15782,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "no-brainer",
@@ -15665,7 +15806,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "misogynist",
@@ -15679,7 +15821,8 @@
         "definition": "a person who hates or dislikes women or believes they are not as good as men",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "negotiable",
@@ -15706,7 +15849,8 @@
         "definition": "that you can exchange for money or give to another person in exchange for money",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "nail down",
@@ -15738,7 +15882,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "override",
@@ -15775,7 +15920,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "narrow down",
@@ -15802,7 +15948,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "like",
@@ -15872,7 +16019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "overrule",
@@ -15895,7 +16043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "overturn",
@@ -15948,7 +16097,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "open verdict",
@@ -15967,7 +16117,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "-phile",
@@ -15990,7 +16141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "passion",
@@ -16081,7 +16233,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "penchant",
@@ -16100,7 +16253,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "option",
@@ -16264,7 +16418,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "on the horns of a dilemma",
@@ -16371,7 +16526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "partiality",
@@ -16399,7 +16555,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "overfond",
@@ -16413,7 +16570,8 @@
         "definition": "liking somebody/something too much",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "picky",
@@ -16436,7 +16594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "-phobe",
@@ -16459,7 +16618,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "pick",
@@ -16705,7 +16865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "partial",
@@ -16746,7 +16907,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "pick and choose",
@@ -16992,7 +17154,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "preferable",
@@ -17019,7 +17182,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "preferably",
@@ -17038,7 +17202,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "preference",
@@ -17100,7 +17265,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "pick a winner",
@@ -17346,7 +17512,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "potty",
@@ -17374,7 +17541,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "quorate",
@@ -17388,7 +17556,8 @@
         "definition": "a meeting that is quorate has enough people present for them to make official decisions by voting",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "quorum",
@@ -17415,7 +17584,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "put off",
@@ -17499,7 +17669,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "prefer",
@@ -17595,7 +17766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "please",
@@ -17720,7 +17892,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "prejudice",
@@ -17760,7 +17933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "prejudiced",
@@ -17787,7 +17961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "reconsideration",
@@ -17806,7 +17981,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "reconsider",
@@ -17837,7 +18013,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "repulsion",
@@ -17860,7 +18037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "repugnance",
@@ -17879,7 +18057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "return",
@@ -18091,7 +18270,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "reverse",
@@ -18208,7 +18388,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "railroad",
@@ -18253,7 +18434,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "resolution",
@@ -18340,7 +18522,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "rowback",
@@ -18359,7 +18542,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "resistance",
@@ -18442,7 +18626,8 @@
         "definition": "(to choose, etc.) the easiest way of doing something",
         "examples": []
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "rubber-stamp",
@@ -18461,7 +18646,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "remit to",
@@ -18480,7 +18666,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "resolve",
@@ -18569,7 +18756,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "ruling",
@@ -18592,7 +18780,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "retreat",
@@ -18672,7 +18861,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "Rubicon",
@@ -18691,7 +18881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "rubber stamp",
@@ -18714,7 +18905,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "say",
@@ -18750,7 +18942,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "somebody’s pet hate",
@@ -18794,7 +18987,8 @@
         "definition": "something that you particularly dislike",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "somebody’s pet hate",
@@ -18817,7 +19011,8 @@
         "definition": "something that you particularly dislike",
         "examples": []
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "rule",
@@ -18954,7 +19149,8 @@
         "definition": "to control a person or a group of people very severely",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "straight",
@@ -19162,7 +19358,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "tail",
@@ -19311,7 +19508,8 @@
         "definition": "feeling ashamed or unhappy because you have been defeated or punished",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "somebody’s pet peeve",
@@ -19325,7 +19523,8 @@
         "definition": "something that you particularly dislike",
         "examples": []
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "take against",
@@ -19339,7 +19538,8 @@
         "definition": "to start not liking somebody/something for no clear reason",
         "examples": []
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "settle on",
@@ -19371,7 +19571,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "sleep on",
@@ -19390,7 +19591,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "take a chance (on something)",
@@ -19747,7 +19949,8 @@
         "definition": "with the hope of using a particular situation in order to gain some advantage for yourself",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "take account of something",
@@ -20056,7 +20259,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "take a fancy to somebody/something",
@@ -20132,7 +20336,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "take something under advisement",
@@ -20160,7 +20365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "think over",
@@ -20183,7 +20389,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "take a shine to somebody/something",
@@ -20232,7 +20439,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "toss-up",
@@ -20251,7 +20459,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "take to",
@@ -20301,7 +20510,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "the lesser of two evils",
@@ -20353,7 +20563,8 @@
         "definition": "the less unpleasant of two unpleasant choices",
         "examples": []
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "toughie",
@@ -20371,7 +20582,8 @@
         "definition": "a very difficult choice or question",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "think twice about something/about doing something",
@@ -20865,7 +21077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "unanimous",
@@ -20917,7 +21130,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "taste",
@@ -21092,7 +21306,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "versus",
@@ -21124,7 +21339,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "uphold",
@@ -21160,7 +21376,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "that’s that",
@@ -21341,7 +21558,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "take something into consideration",
@@ -21469,7 +21687,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "verdict",
@@ -21509,7 +21728,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "waverer",
@@ -21528,7 +21748,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "warm to",
@@ -21556,7 +21777,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "volition",
@@ -21575,7 +21797,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "waver",
@@ -21619,7 +21842,8 @@
         "definition": "to move in an unsteady way",
         "examples": []
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "undecided",
@@ -21655,7 +21879,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "vote",
@@ -21786,7 +22011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "vote",
@@ -21914,7 +22140,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "when push comes to shove",
@@ -22003,7 +22230,8 @@
         "definition": "when there is no other choice; when everything else has failed",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "veto",
@@ -22039,7 +22267,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "whether",
@@ -22091,7 +22320,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "would",
@@ -22291,7 +22521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "warm towards",
@@ -22319,7 +22550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "would rather… (than)",
@@ -22480,7 +22712,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "weigh",
@@ -22591,6 +22824,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   }
 ]

@@ -23,6 +23,7 @@ import { BlurView } from 'expo-blur';
 import { useFonts, Poppins_400Regular, Poppins_500Medium, Poppins_600SemiBold, Poppins_700Bold } from '@expo-google-fonts/poppins';
 import { Ionicons, FontAwesome } from '@expo/vector-icons';
 import { CommonActions } from '@react-navigation/native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const { width, height } = Dimensions.get('window');
 
@@ -103,12 +104,141 @@ const LoginScreen = () => {
     }, 300); // đợi bàn phím hiện ra
   };
 
+
   const handleLogin = async () => {
     Keyboard.dismiss();
     try {
       const response = await checkLogin(email, password);
       if (response.success) {
-        const targetRoute = response.role === 'Admin' ? 'admin-dashboard' : '(practice)';
+
+        // 🌐 Gọi mock API lấy tiến độ học
+        const progressList = [
+          { subtopicId: 'animals', progress: 400 },
+          { subtopicId: 'birds', progress: 0 },
+          { subtopicId: 'fish_and_shellfish', progress: 0 },
+          { subtopicId: 'insects_worms_etc', progress: 0 },
+          { subtopicId: 'appearance', progress: 0 },
+          { subtopicId: 'body', progress: 0 },
+          { subtopicId: 'clothes_and_fashion', progress: 0 },
+          { subtopicId: 'colours_and_shapes', progress: 0 },
+          { subtopicId: 'language', progress: 0 },
+          { subtopicId: 'phones_email_and_the_internet', progress: 0 },
+          { subtopicId: 'art', progress: 0 },
+          { subtopicId: 'film_and_theatre', progress: 0 },
+          { subtopicId: 'literature_and_writing', progress: 0 },
+          { subtopicId: 'music', progress: 0 },
+          { subtopicId: 'tv_radio_and_news', progress: 0 },
+          { subtopicId: 'cooking_and_eating', progress: 0 },
+          { subtopicId: 'drinks', progress: 0 },
+          { subtopicId: 'food', progress: 0 },
+          { subtopicId: 'discussion_and_agreement', progress: 0 },
+          { subtopicId: 'doubt-guessing_and_certainty', progress: 0 },
+          { subtopicId: 'opinion_and_argument', progress: 0 },
+          { subtopicId: 'permission_and_obligation', progress: 0 },
+          { subtopicId: 'preferences_and_decisions', progress: 0 },
+          { subtopicId: 'suggestions_and_advice', progress: 0 },
+          { subtopicId: 'disability', progress: 0 },
+          { subtopicId: 'health_and_fitness', progress: 0 },
+          { subtopicId: 'health_problems', progress: 0 },
+          { subtopicId: 'healthcare', progress: 0 },
+          { subtopicId: 'mental_health', progress: 0 },
+          { subtopicId: 'buildings', progress: 0 },
+          { subtopicId: 'gardens', progress: 0 },
+          { subtopicId: 'house_and_homes', progress: 0 },
+          { subtopicId: 'games_and_toys', progress: 0 },
+          { subtopicId: 'hobbies', progress: 0 },
+          { subtopicId: 'shopping', progress: 0 },
+          { subtopicId: 'change_cause_and_effect', progress: 0 },
+          { subtopicId: 'danger', progress: 0 },
+          { subtopicId: 'difficulty_and_failure', progress: 0 },
+          { subtopicId: 'success', progress: 0 },
+          { subtopicId: 'education', progress: 0 },
+          { subtopicId: 'family_and_relationships', progress: 0 },
+          { subtopicId: 'feelings', progress: 0 },
+          { subtopicId: 'life_stages', progress: 0 },
+          { subtopicId: 'personal_qualities', progress: 0 },
+          { subtopicId: 'crime_and_punishment', progress: 0 },
+          { subtopicId: 'law_and_justice', progress: 0 },
+          { subtopicId: 'people_in_society', progress: 0 },
+          { subtopicId: 'politics', progress: 0 },
+          { subtopicId: 'religion_and_festivals', progress: 0 },
+          { subtopicId: 'social_issues', progress: 0 },
+          { subtopicId: 'biology', progress: 0 },
+          { subtopicId: 'computers', progress: 0 },
+          { subtopicId: 'engineering', progress: 0 },
+          { subtopicId: 'maths_and_measurement', progress: 0 },
+          { subtopicId: 'physics_and_chemistry', progress: 0 },
+          { subtopicId: 'scientific_research', progress: 0 },
+          { subtopicId: 'sports_ball_and_racket_sports', progress: 0 },
+          { subtopicId: 'sports_other_sports', progress: 0 },
+          { subtopicId: 'sports_water_sports', progress: 0 },
+          { subtopicId: 'farming', progress: 0 },
+          { subtopicId: 'geography', progress: 0 },
+          { subtopicId: 'plants_and_trees', progress: 0 },
+          { subtopicId: 'the_environment', progress: 0 },
+          { subtopicId: 'weather', progress: 0 },
+          { subtopicId: 'history', progress: 0 },
+          { subtopicId: 'space', progress: 0 },
+          { subtopicId: 'time', progress: 0 },
+          { subtopicId: 'holidays', progress: 0 },
+          { subtopicId: 'transport_by_air', progress: 0 },
+          { subtopicId: 'transport_by_bus_and_train', progress: 0 },
+          { subtopicId: 'transport_by_car_or_lorry', progress: 0 },
+          { subtopicId: 'transport_by_water', progress: 0 },
+          { subtopicId: 'business', progress: 0 },
+          { subtopicId: 'jobs', progress: 0 },
+          { subtopicId: 'money', progress: 0 },
+          { subtopicId: 'working_life', progress: 0 },
+        ];
+
+         // 🌐 Gọi mock API lấy tiến độ học grammar
+        const progressListGrammar = [
+          { subtopicId: '1', progress: 1 },
+          { subtopicId: '2', progress: 1 },
+          { subtopicId: '3', progress: 0 },
+          { subtopicId: '4', progress: 0 },
+          { subtopicId: '5', progress: 0 },
+          { subtopicId: '6', progress: 0 },
+          { subtopicId: '7', progress: 0 },
+          { subtopicId: '8', progress: 0 },
+          { subtopicId: '9', progress: 0 },
+          { subtopicId: '10', progress: 0 },
+          { subtopicId: '11', progress: 0 },
+          { subtopicId: '12', progress: 0 },
+          { subtopicId: '13', progress: 0 },
+          { subtopicId: '14', progress: 0 },
+          { subtopicId: '15', progress: 0 },
+          { subtopicId: '16', progress: 0 },
+          { subtopicId: '17', progress: 0 },
+          { subtopicId: '18', progress: 0 },
+          { subtopicId: '19', progress: 0 },
+          { subtopicId: '20', progress: 0 },
+          { subtopicId: '21', progress: 0 },
+          { subtopicId: '22', progress: 0 },
+          { subtopicId: '23', progress: 0 },
+          { subtopicId: '24', progress: 0 },
+          { subtopicId: '25', progress: 0 },
+          { subtopicId: '26', progress: 0 },
+          { subtopicId: '27', progress: 0 },
+          { subtopicId: '28', progress: 0 },
+          { subtopicId: '29', progress: 0 },
+          { subtopicId: '30', progress: 0 },
+          { subtopicId: '31', progress: 0 },
+          { subtopicId: '32', progress: 0 },
+          { subtopicId: '33', progress: 0 },
+          { subtopicId: '34', progress: 0 },
+          { subtopicId: '35', progress: 1 },
+          { subtopicId: '36', progress: 0 },
+          { subtopicId: '37', progress: 0 },
+        ]
+
+
+        // 💾 Lưu vào AsyncStorage (cache)
+        await AsyncStorage.setItem('progressList', JSON.stringify(progressList));
+        await AsyncStorage.setItem('progressListGrammar', JSON.stringify(progressListGrammar));
+
+
+        const targetRoute = '(practice)';
 
         navigation.dispatch(
           CommonActions.reset({

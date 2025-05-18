@@ -12,24 +12,23 @@ import {
 } from 'react-native';
 import { FontAwesome5 } from '@expo/vector-icons';
 import { VocabularyItem } from '../app/types/vocabularyType';
-import { blue, red } from 'react-native-reanimated/lib/typescript/Colors';
-import { styles} from '../app/styles/vocabularyStyle'
+import { styles } from '../app/styles/vocabularyStyle';
 import { vocabularyFiles } from '../constants/Topic';
 import { translateSenses } from '../hooks/useVocabulary';
 
 const COLORS = {
-  primary: '#00C5CD',      // Màu chính đậm hơn để nút, border, icon
-  primaryLight: 'rgba(1, 132, 146, 0.15)', // Màu chính nhạt hơn cho background
-  primaryUltraLight: 'rgba(4, 74, 82, 0.07)', // Màu chính rất nhạt cho background
-  secondary: '#20B2AA',    // Màu phụ cho các nút thứ cấp
-  text: '#2D3748',         // Màu chữ chính
-  textLight: '#718096',    // Màu chữ nhạt
-  background: '#FFFFFF',   // Màu nền chính
-  backgroundLight: '#F7FAFC', // Màu nền nhạt
-  error: '#FF6B6B',        // Màu lỗi
-  white: '#FFFFFF',         // Màu trắng
-  red: '#FF0000',         // Màu đỏ
-  blue: '#0000FF',         // Màu xanh dương
+  primary: '#00C5CD',
+  primaryLight: 'rgba(1, 132, 146, 0.15)',
+  primaryUltraLight: 'rgba(4, 74, 82, 0.07)',
+  secondary: '#20B2AA',
+  text: '#2D3748',
+  textLight: '#718096',
+  background: '#FFFFFF',
+  backgroundLight: '#F7FAFC',
+  error: '#FF6B6B',
+  white: '#FFFFFF',
+  red: '#FF0000',
+  blue: '#0000FF',
 };
 
 interface VocabularyCardProps {
@@ -47,6 +46,8 @@ interface VocabularyCardProps {
   onResetTranslation: () => void;
   onRetryTranslation: () => void;
   currentTopic: string;
+  isPreviousDisabled: boolean;
+  wordIndex: number; // Prop mới để hiển thị số thứ tự
   setShowAnswer: (show: boolean) => void;
   setTranslationError: (error: string | null) => void;
   setIsTranslating: (isTranslating: boolean) => void;
@@ -69,6 +70,8 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
   onResetTranslation,
   onRetryTranslation,
   currentTopic,
+  isPreviousDisabled,
+  wordIndex,
   setShowAnswer,
   setTranslationError,
   setIsTranslating,
@@ -90,7 +93,6 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
     const results: VocabularyItem[] = [];
     const searchTerm = query.toLowerCase();
 
-    // Chỉ tìm kiếm trong topic hiện tại
     const currentTopicData = vocabularyFiles[currentTopic];
     if (currentTopicData) {
       Object.entries(currentTopicData).forEach(([subtopic, words]) => {
@@ -124,7 +126,6 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
     setSelectedSearchItem(selectedItem);
     setSearchQuery('');
     setSearchResults([]);
-    // Reset tất cả các trạng thái
     setShowAnswer(false);
     onResetTranslation();
     setTranslationError(null);
@@ -136,7 +137,6 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
   return (
     <ScrollView style={styles.scrollView} showsVerticalScrollIndicator={false}>
       <View style={styles.containerVocabularyCard}>
-        {/* Search Bar */}
         <View style={styles.searchContainer}>
           <TextInput
             style={styles.searchInput}
@@ -144,7 +144,6 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
             value={searchQuery}
             onChangeText={setSearchQuery}
             onSubmitEditing={() => {
-              // Reset tất cả các trạng thái khi submit search
               setShowAnswer(false);
               onResetTranslation();
               setTranslationError(null);
@@ -154,7 +153,6 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
           <FontAwesome5 name="search" size={20} color={COLORS.primary} style={styles.searchIcon} />
         </View>
 
-        {/* Search Results */}
         {searchQuery && (
           <View style={styles.searchResultsContainer}>
             {isSearching ? (
@@ -182,8 +180,10 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
         )}
 
         <View style={styles.card}>
-          {/* Header với từ vựng */}
           <View style={styles.wordHeader}>
+            {!selectedSearchItem && (
+              <Text style={styles.wordIndex}>#{wordIndex}</Text> // Hiển thị số thứ tự
+            )}
             <Text style={styles.word}>{displayItem.word}</Text>
             {isTranslating ? (
               <View style={styles.loadingContainer}>
@@ -194,7 +194,6 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
             ) : null}
           </View>
 
-          {/* Phần phát âm với hiệu ứng nổi bật */}
           <View style={styles.pronunciationContainer}>
             <View style={styles.pronunciationCard}>
               <View style={styles.pronunciationHeader}>
@@ -203,7 +202,7 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
                   style={styles.playButton}
                   onPress={() => onPlaySound(displayItem.phonetic)}
                 >
-                  <FontAwesome5 name="volume-up" size={18} color= {COLORS.red} />
+                  <FontAwesome5 name="volume-up" size={18} color={COLORS.red} />
                 </TouchableOpacity>
               </View>
               <Text style={styles.phoneticText}>{displayItem.phonetic_text}</Text>
@@ -216,14 +215,13 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
                   style={styles.playButton}
                   onPress={() => onPlaySound(displayItem.phonetic_am)}
                 >
-                  <FontAwesome5 name="volume-up" size={18} color={COLORS.blue} />
+                  <FontAwesome5 name="volume-up" size={18} color={COLORS.red} />
                 </TouchableOpacity>
               </View>
               <Text style={styles.phoneticText}>{displayItem.phonetic_am_text}</Text>
             </View>
           </View>
 
-          {/* Content - Nghĩa và ví dụ */}
           {showAnswer ? (
             <View style={styles.contentSection}>
               <View style={styles.definitionBox}>
@@ -302,10 +300,13 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
             </TouchableOpacity>
           )}
 
-          {/* Navigation buttons - only show if not in search mode */}
           {!selectedSearchItem ? (
             <View style={styles.navigationButtons}>
-              <TouchableOpacity style={[styles.navButton, styles.prevButton]} onPress={onPrevious}>
+              <TouchableOpacity
+                style={[styles.navButton, styles.prevButton, isPreviousDisabled && styles.disabledButton]}
+                onPress={onPrevious}
+                disabled={isPreviousDisabled}
+              >
                 <FontAwesome5 name="chevron-left" size={16} color={COLORS.primary} />
                 <Text style={styles.navButtonText}>Trước</Text>
               </TouchableOpacity>
@@ -319,7 +320,6 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
               style={[styles.navButton, styles.allButton]} 
               onPress={() => {
                 setSelectedSearchItem(null);
-                // Reset các trạng thái
                 onResetTranslation();
                 setShowAnswer(false);
               }}

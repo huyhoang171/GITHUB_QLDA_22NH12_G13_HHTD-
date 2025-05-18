@@ -48,7 +48,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "afternoons",
@@ -67,7 +68,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "afternoon",
@@ -118,7 +120,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "24-hour clock",
@@ -132,7 +135,8 @@
         "definition": "the system of using twenty-four numbers to talk about the hours of the day, instead of dividing it into two units of twelve hours",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "aeon",
@@ -164,7 +168,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "afterwards",
@@ -195,7 +200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "academic year",
@@ -214,7 +220,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "AD",
@@ -241,7 +248,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "AH",
@@ -260,7 +268,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "annually",
@@ -279,7 +288,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "alternate",
@@ -319,7 +329,8 @@
         "definition": "that can be used instead of something else",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "April",
@@ -370,7 +381,8 @@
         "definition": "a first name for girls",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "annual",
@@ -426,7 +438,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "ahead of",
@@ -471,7 +484,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "all-day",
@@ -494,7 +508,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "age",
@@ -763,7 +778,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "after",
@@ -966,7 +982,8 @@
         "definition": "to have just done something",
         "examples": []
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "Atlantic Daylight Time",
@@ -980,7 +997,8 @@
         "definition": "the time used in summer in an area that includes the east of Canada, Puerto Rico and the Virgin Islands, that is three hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "AST",
@@ -994,7 +1012,8 @@
         "definition": "Atlantic Standard Time (= the time used in winter in an area that includes the east of Canada, Puerto Rico and the Virgin Islands that is four hours earlier than UTC)",
         "examples": []
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "around-the-clock",
@@ -1008,7 +1027,8 @@
         "definition": "lasting or happening all day and night",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "August",
@@ -1051,7 +1071,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "Atlantic Standard Time",
@@ -1065,7 +1086,8 @@
         "definition": "the time used in winter in an area that includes the east of Canada, Puerto Rico and the Virgin Islands that is four hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "bank holiday",
@@ -1092,7 +1114,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "autumn",
@@ -1143,7 +1166,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "a week yesterday, last Monday, etc.",
@@ -1416,7 +1440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "BC",
@@ -1439,7 +1464,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "BCE",
@@ -1462,7 +1488,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "beforehand",
@@ -1489,7 +1516,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "before",
@@ -1609,7 +1637,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "before",
@@ -1667,7 +1696,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "before",
@@ -1698,7 +1728,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "biannual",
@@ -1717,7 +1748,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "bicentenary",
@@ -1736,7 +1768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "bicentenary",
@@ -1759,7 +1792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "as from…/as of…",
@@ -1985,7 +2019,8 @@
         "definition": "if you are going to be punished for doing something wrong, whether it is a big or small thing, you may as well do the big thing",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "beyond",
@@ -2065,7 +2100,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "bicentennial",
@@ -2079,7 +2115,8 @@
         "definition": "the year, or the day, when you celebrate an important event that happened exactly 200 years earlier",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "bimonthly",
@@ -2098,7 +2135,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "biennial",
@@ -2117,7 +2155,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "bicentennial",
@@ -2136,7 +2175,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "biennially",
@@ -2155,7 +2195,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "calendar month",
@@ -2173,7 +2214,8 @@
         "definition": "a period of time from a particular date in one month to the same date in the next one",
         "examples": []
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "British Summer Time",
@@ -2187,7 +2229,8 @@
         "definition": "the time used in the UK in summer that is one hour ahead of UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "calendar",
@@ -2245,7 +2288,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "Central Daylight Time",
@@ -2259,7 +2303,8 @@
         "definition": "the time used in summer in the central US and Canada, which is five hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "centenary",
@@ -2286,7 +2331,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "calendar year",
@@ -2300,7 +2346,8 @@
         "definition": "the period of time from 1 January to 31 December in the same year",
         "examples": []
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "at times",
@@ -3560,7 +3607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "Central European Time",
@@ -3574,7 +3622,8 @@
         "definition": "the time used in winter in central and part of western Europe, which is one hour later than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "Central European Summer Time",
@@ -3588,7 +3637,8 @@
         "definition": "the time used in summer in central and part of western Europe, which is two hours later than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "all the time",
@@ -4848,7 +4898,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "chronological",
@@ -4871,7 +4922,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "behind the times",
@@ -6131,7 +6183,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "continual",
@@ -6171,7 +6224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "Central Standard Time",
@@ -6185,7 +6239,8 @@
         "definition": "the time used in winter in the central US and Canada, which is six hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "CE",
@@ -6203,7 +6258,8 @@
         "definition": "Common Era (the period since the birth of Christ when the Christian calendar starts counting years). CE can be used to give dates in the same way as AD.",
         "examples": []
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "at the same time",
@@ -7463,7 +7519,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "chapter",
@@ -7575,7 +7632,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "century",
@@ -7688,7 +7746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "continually",
@@ -7720,7 +7779,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "ahead of/behind time",
@@ -8980,7 +9040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "continuous",
@@ -9054,7 +9115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "daily",
@@ -9081,7 +9143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "dawn",
@@ -9154,7 +9217,8 @@
         "definition": "the moment in the early hours of the morning when it begins to get light",
         "examples": []
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "daily",
@@ -9210,7 +9274,8 @@
         "definition": "the basic things that you need to live, especially food",
         "examples": []
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "Coordinated Universal Time",
@@ -9224,7 +9289,8 @@
         "definition": "the time based on atomic clocks, used as the basis for legal time in most countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "continuously",
@@ -9260,7 +9326,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "daybreak",
@@ -9279,7 +9346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "date",
@@ -9456,7 +9524,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "diurnal",
@@ -9484,7 +9553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "during",
@@ -9524,7 +9594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "decade",
@@ -9559,7 +9630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "day-to-day",
@@ -9587,7 +9659,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "December",
@@ -9630,7 +9703,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "daylight",
@@ -9679,7 +9753,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "daylight saving time",
@@ -9693,7 +9768,8 @@
         "definition": "the period during which in some countries the clocks are put forward one hour, so that it is light for an extra hour in the evening",
         "examples": []
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "daytime",
@@ -9724,7 +9800,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "day in, day out",
@@ -10575,7 +10652,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "dusk",
@@ -10606,7 +10684,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "elapse",
@@ -10625,7 +10704,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "Eastern Standard Time",
@@ -10639,7 +10719,8 @@
         "definition": "the time used in the winter in the eastern US and Canada, which is five hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "Eastern Daylight Time",
@@ -10653,7 +10734,8 @@
         "definition": "the time used in the summer in the eastern US and Canada, which is four hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "eon",
@@ -10681,7 +10763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "epoch",
@@ -10709,7 +10792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "equinox",
@@ -10728,7 +10812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "early",
@@ -10915,7 +11000,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "day",
@@ -11766,7 +11852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "eve",
@@ -11806,7 +11893,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "evening",
@@ -11894,7 +11982,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "eventually",
@@ -11921,7 +12010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "era",
@@ -11956,7 +12046,8 @@
         "definition": "a length of time that is a division of an aeon",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "eternity",
@@ -11988,7 +12079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "eventual",
@@ -12015,7 +12107,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "(every) now and again/then",
@@ -12191,7 +12284,8 @@
         "definition": "used to say that you do not know what to do next in a particular situation",
         "examples": []
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "(every) now and then/again",
@@ -12371,7 +12465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "every other",
@@ -12482,7 +12577,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "financial year",
@@ -12501,7 +12597,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "February",
@@ -12544,7 +12641,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "for the meanwhile/meantime",
@@ -12572,7 +12670,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "fiscal year",
@@ -12586,7 +12685,8 @@
         "definition": "a period of twelve months over which the accounts and taxes of a company or a person are calculated",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "fortnight",
@@ -12625,7 +12725,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "for the meantime/meanwhile",
@@ -12657,7 +12758,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "frequent",
@@ -12688,7 +12790,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "far",
@@ -13154,7 +13257,8 @@
         "definition": "used to comment on something that was almost successful but in fact failed",
         "examples": []
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "Friday",
@@ -13241,7 +13345,8 @@
         "definition": "a character in Daniel Defoe's novel Robinson Crusoe. He becomes Crusoe's faithful servant after Crusoe saves him from being eaten by cannibals. The phrase Man Friday or Girl Friday was sometimes used to describe an assistant who did many different jobs in an office, but is now quite old-fashioned.",
         "examples": []
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "for the moment/present",
@@ -13579,7 +13684,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "from that day/time forth",
@@ -13638,7 +13744,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "GMT",
@@ -13652,7 +13759,8 @@
         "definition": "Greenwich Mean Time (the time at Greenwich in England on the line of 0° longitude, used in the past for calculating time everywhere in the world)",
         "examples": []
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "half-century",
@@ -13670,7 +13778,8 @@
         "definition": "a score of 50",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "fall",
@@ -13842,7 +13951,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "Gregorian calendar",
@@ -13856,7 +13966,8 @@
         "definition": "the system used since 1582 in Western countries of arranging the months in the year and the days in the months and of counting the years from the birth of Christ",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "half hour",
@@ -13879,7 +13990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "half-hourly",
@@ -13898,7 +14010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "half-yearly",
@@ -13917,7 +14030,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "half-hourly",
@@ -13936,7 +14050,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "half-yearly",
@@ -13963,7 +14078,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "half past one, two, etc.",
@@ -14033,7 +14149,8 @@
         "definition": "30 minutes after any hour on the clock",
         "examples": []
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "hourly",
@@ -14065,7 +14182,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "hourly",
@@ -14088,7 +14206,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "hour",
@@ -14388,7 +14507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "immediate",
@@ -14504,7 +14624,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "immediately",
@@ -14581,7 +14702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "indefinite",
@@ -14613,7 +14735,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "indefinitely",
@@ -14636,7 +14759,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "in future",
@@ -14789,7 +14913,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "in due course",
@@ -14948,7 +15073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "instant",
@@ -14997,7 +15123,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "instant",
@@ -15033,7 +15160,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "from one day to the next",
@@ -15884,7 +16012,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "from day to day",
@@ -16735,7 +16864,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "for the time being",
@@ -17995,7 +18125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "in/over the course of…",
@@ -18435,7 +18566,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "from that time/day forth",
@@ -19695,7 +19827,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "from time to time",
@@ -20955,7 +21088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "in the fullness of time",
@@ -21001,7 +21135,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "in the meantime/meanwhile",
@@ -21033,7 +21168,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "in",
@@ -21370,7 +21506,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "Julian calendar",
@@ -21384,7 +21521,8 @@
         "definition": "the system of arranging days and months in the year introduced by Julius Caesar, and used in Western countries until the Gregorian calendar replaced it",
         "examples": []
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "January",
@@ -21431,7 +21569,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "in the meanwhile/meantime",
@@ -21459,7 +21598,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "in good time",
@@ -22719,7 +22859,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "in the morning",
@@ -22885,7 +23026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "in the end",
@@ -23511,7 +23653,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "June",
@@ -23558,7 +23701,8 @@
         "definition": "a first name for girls",
         "examples": []
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "in the course of time",
@@ -23998,7 +24142,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "July",
@@ -24041,7 +24186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "keep… hours",
@@ -24341,7 +24487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "lateness",
@@ -24378,7 +24525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "last",
@@ -24618,7 +24766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "lately",
@@ -24649,7 +24798,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "last",
@@ -24751,7 +24901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "just",
@@ -25238,7 +25389,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "late",
@@ -25381,7 +25533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "late",
@@ -25514,7 +25667,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "later",
@@ -25562,7 +25716,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "local time",
@@ -25581,7 +25736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "long-term",
@@ -25636,7 +25792,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "lunar cycle",
@@ -25650,7 +25807,8 @@
         "definition": "a period of 19 years, after which the new moon and full moon return to the same day of the year",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "latter",
@@ -25699,7 +25857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "latterly",
@@ -25727,7 +25886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "later on",
@@ -25815,7 +25975,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "leap year",
@@ -25829,7 +25990,8 @@
         "definition": "one year in every four years when February has 29 days instead of 28",
         "examples": []
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "lunar day",
@@ -25843,7 +26005,8 @@
         "definition": "the time it takes for the moon to go around the earth and pass the same point on the earth’s surface a second time (about 24 hours and 50 minutes)",
         "examples": []
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "lunar year",
@@ -25857,7 +26020,8 @@
         "definition": "a period of twelve lunar months (about 354 days)",
         "examples": []
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "lunar month",
@@ -25871,7 +26035,8 @@
         "definition": "the average time between one new moon and the next (about 29½ days)",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "March",
@@ -25927,7 +26092,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "May",
@@ -25970,7 +26136,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "lunchtime",
@@ -25997,7 +26164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "in time",
@@ -27257,7 +27425,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "in time (for something/to do something)",
@@ -28517,7 +28686,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "microsecond",
@@ -28531,7 +28701,8 @@
         "definition": "one millionth of a second",
         "examples": []
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "MDT",
@@ -28545,7 +28716,8 @@
         "definition": "Mountain Daylight Time",
         "examples": []
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "medium-term",
@@ -28564,7 +28736,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "midday",
@@ -28595,7 +28768,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "midway",
@@ -28627,7 +28801,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "millennium",
@@ -28659,7 +28834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "midsummer",
@@ -28678,7 +28854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "midnight",
@@ -28729,7 +28906,8 @@
         "definition": "to leave a place suddenly and secretly, especially at night, usually in order to avoid paying money that you owe to somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "millennial",
@@ -28775,7 +28953,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "midwinter",
@@ -28798,7 +28977,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "millisecond",
@@ -28817,7 +28997,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "minute",
@@ -29109,7 +29290,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "minute hand",
@@ -29123,7 +29305,8 @@
         "definition": "the hand on a watch or clock that points to the minutes",
         "examples": []
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "mo",
@@ -29155,7 +29338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "monthly",
@@ -29191,7 +29375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "monthly",
@@ -29210,7 +29395,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "morrow",
@@ -29233,7 +29419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "Mountain Daylight Time",
@@ -29247,7 +29434,8 @@
         "definition": "the time used in summer in parts of the US and Canada near the Rocky Mountains that is six hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "Monday",
@@ -29330,7 +29518,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "month",
@@ -29477,7 +29666,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "Mountain Standard Time",
@@ -29491,7 +29681,8 @@
         "definition": "the time used in winter in parts of the US and Canada near the Rocky Mountains that is seven hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "morning, noon and night",
@@ -29657,7 +29848,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "moment",
@@ -29995,7 +30187,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "morning",
@@ -30161,7 +30354,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "nanosecond",
@@ -30175,7 +30369,8 @@
         "definition": "one thousand millionth of a second",
         "examples": []
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "near",
@@ -30288,7 +30483,8 @@
         "definition": "having a lot of importance and interest for somebody",
         "examples": []
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "night-time",
@@ -30307,7 +30503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "noontide",
@@ -30321,7 +30518,8 @@
         "definition": "around 12 o’clock in the middle of the day",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "noon",
@@ -30369,7 +30567,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "nightly",
@@ -30388,7 +30587,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "never",
@@ -30507,7 +30707,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "November",
@@ -30550,7 +30751,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "noughties",
@@ -30564,7 +30766,8 @@
         "definition": "the years from 2000 to 2009",
         "examples": []
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "next up",
@@ -30630,7 +30833,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "occasional",
@@ -30661,7 +30865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "night",
@@ -30931,7 +31136,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "October",
@@ -30974,7 +31180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "o’clock",
@@ -30997,7 +31204,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "Pacific Standard Time",
@@ -31011,7 +31219,8 @@
         "definition": "the time used in winter in the western parts of Canada and the US that is eight hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "perennial",
@@ -31042,7 +31251,8 @@
         "definition": "living for two years or more",
         "examples": []
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "often",
@@ -31137,7 +31347,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "Pacific Daylight Time",
@@ -31151,7 +31362,8 @@
         "definition": "the time used in summer in the western parts of Canada and the US that is seven hours earlier than UTC",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "past",
@@ -31241,7 +31453,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "period",
@@ -31388,7 +31601,8 @@
         "definition": "the mark ( . ) used at the end of a sentence and in some abbreviations, for example e.g.",
         "examples": []
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "predawn",
@@ -31407,7 +31621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "perpetual",
@@ -31460,7 +31675,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "recent",
@@ -31503,7 +31719,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "rare",
@@ -31596,7 +31813,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "recently",
@@ -31659,7 +31877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "present",
@@ -31761,7 +31980,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "quarter",
@@ -31933,7 +32153,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "regular",
@@ -32151,7 +32372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "regularly",
@@ -32212,7 +32434,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "seasonality",
@@ -32231,7 +32454,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "round-the-clock",
@@ -32250,7 +32474,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "seasonal",
@@ -32282,7 +32507,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "Saturday",
@@ -32365,7 +32591,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "season",
@@ -32548,7 +32775,8 @@
         "definition": "used during the Christmas period to wish somebody a pleasant holiday",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "sec",
@@ -32571,7 +32799,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "second",
@@ -32738,7 +32967,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "session",
@@ -32842,7 +33072,8 @@
         "definition": "an occasion when people meet to play music, especially Irish music, in a pub",
         "examples": []
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "second hand",
@@ -32856,7 +33087,8 @@
         "definition": "the hand on some watches and clocks that shows seconds",
         "examples": []
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "semester",
@@ -32875,7 +33107,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "September",
@@ -32918,7 +33151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "short-term",
@@ -32953,7 +33187,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "short-range",
@@ -32981,7 +33216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "since",
@@ -33033,7 +33269,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "simultaneously",
@@ -33056,7 +33293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "since",
@@ -33100,7 +33338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "simultaneous",
@@ -33131,7 +33370,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "solar year",
@@ -33145,7 +33385,8 @@
         "definition": "the time it takes the earth to go around the sun once, approximately 365¼ days",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "solstice",
@@ -33164,7 +33405,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "sometimes",
@@ -33215,7 +33457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "springtime",
@@ -33234,7 +33477,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "spell",
@@ -33329,7 +33573,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "sudden",
@@ -33377,7 +33622,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "spasmodic",
@@ -33413,7 +33659,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "subsequently",
@@ -33440,7 +33687,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "of all time",
@@ -34700,7 +34948,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "stretch",
@@ -34818,7 +35067,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "spring",
@@ -34930,7 +35180,8 @@
         "definition": "very cheerful",
         "examples": []
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "on",
@@ -35242,7 +35493,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "on time",
@@ -36502,7 +36754,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "suddenly",
@@ -36541,7 +36794,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "summer time",
@@ -36555,7 +36809,8 @@
         "definition": "the period during which in some countries the clocks are put forward one hour, so that it is light for an extra hour in the evening",
         "examples": []
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "summer",
@@ -36642,7 +36897,8 @@
         "definition": "you must not take too seriously a small sign that something is happening or will happen in the future, because the situation could change",
         "examples": []
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "summertime",
@@ -36661,7 +36917,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "sunrise",
@@ -36697,7 +36954,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "sunset",
@@ -36734,7 +36992,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "Sunday",
@@ -36843,7 +37102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "termly",
@@ -36866,7 +37126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "tax year",
@@ -36880,7 +37141,8 @@
         "definition": "a period of twelve months over which the accounts and taxes of a company or a person are calculated. The British tax year begins on 6 April.",
         "examples": []
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "term time",
@@ -36899,7 +37161,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "term",
@@ -37046,7 +37309,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "term-time",
@@ -37065,7 +37329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "the other day/morning/evening/week",
@@ -37222,7 +37487,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "the small/early hours",
@@ -37522,7 +37788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "through",
@@ -37619,7 +37886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "time zone",
@@ -37638,7 +37906,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "Thursday",
@@ -37721,7 +37990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "time lag",
@@ -37740,7 +38010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "time span",
@@ -37759,7 +38030,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "throughout",
@@ -37795,7 +38067,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "today",
@@ -37843,7 +38116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "to date",
@@ -38020,7 +38294,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "today",
@@ -38084,7 +38359,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "triennial",
@@ -38098,7 +38374,8 @@
         "definition": "happening every three years",
         "examples": []
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "tonight",
@@ -38121,7 +38398,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "trimester",
@@ -38149,7 +38427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "Universal Coordinated Time",
@@ -38163,7 +38442,8 @@
         "definition": "the time based on atomic clocks, used as the basis for legal time in most countries",
         "examples": []
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "tomorrow",
@@ -38244,7 +38524,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "Tuesday",
@@ -38327,7 +38608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "twelvemonth",
@@ -38341,7 +38623,8 @@
         "definition": "a year",
         "examples": []
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "today, tomorrow, Monday, etc. week",
@@ -38614,7 +38897,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "tomorrow",
@@ -38654,7 +38938,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "twenty-four seven",
@@ -38673,7 +38958,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "usually",
@@ -38736,7 +39022,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "UTC",
@@ -38750,7 +39037,8 @@
         "definition": "Universal Time Coordinated (the time based on atomic clocks, used as the basis for legal time in most countries, also known as Coordinated Universal Time or Universal Coordinated Time)",
         "examples": []
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "weekdays",
@@ -38769,7 +39057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "Victoria Day",
@@ -38783,7 +39072,8 @@
         "definition": "a public holiday on the Monday before May 25",
         "examples": []
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "Wednesday",
@@ -38866,7 +39156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "weekday",
@@ -38885,7 +39176,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "weekend",
@@ -38973,7 +39265,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "weekly",
@@ -38996,7 +39289,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "week",
@@ -39269,7 +39563,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "wintertime",
@@ -39288,7 +39583,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "year-long",
@@ -39307,7 +39603,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "while",
@@ -39392,7 +39689,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "winter",
@@ -39447,7 +39745,8 @@
         "definition": "in the coldest part of winter",
         "examples": []
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "yearly",
@@ -39466,7 +39765,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "yearly",
@@ -39494,7 +39794,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "year-round",
@@ -39513,7 +39814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "yesterday",
@@ -39569,7 +39871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "year",
@@ -39921,7 +40224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "yesterday",
@@ -39969,7 +40273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "year by year",
@@ -40321,7 +40626,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "year after year",
@@ -40673,7 +40979,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "yet",
@@ -40825,7 +41132,8 @@
         "definition": "used to comment on something that was almost successful but in fact failed",
         "examples": []
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "year in, year out",
@@ -41177,7 +41485,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "yonks",
@@ -41196,7 +41505,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "time after time",
@@ -42456,7 +42766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "time",
@@ -43716,6 +44027,7 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   }
 ]

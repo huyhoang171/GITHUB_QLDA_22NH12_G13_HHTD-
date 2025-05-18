@@ -42,7 +42,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "abstract",
@@ -83,7 +84,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "academicism",
@@ -97,7 +99,8 @@
         "definition": "the use of formal rules and traditions in art or literature",
         "examples": []
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "Afrofuturist",
@@ -116,7 +119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "altarpiece",
@@ -130,7 +134,8 @@
         "definition": "a painting or other piece of art located near the altar in a church",
         "examples": []
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "Afrofuturism",
@@ -149,7 +154,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "artist",
@@ -209,7 +215,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "artwork",
@@ -241,7 +248,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "Afrofuturist",
@@ -260,7 +268,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "assemblage",
@@ -306,7 +315,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "art gallery",
@@ -320,7 +330,8 @@
         "definition": "a building where paintings and other works of art are shown to the public",
         "examples": []
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "atelier",
@@ -334,7 +345,8 @@
         "definition": "a room or building in which an artist works",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "auctioneer",
@@ -353,7 +365,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "artistic",
@@ -414,7 +427,8 @@
         "definition": "the freedom of artists or writers to change facts in order to make a story, painting, etc. more interesting or beautiful",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "auction house",
@@ -428,7 +442,8 @@
         "definition": "a company that sells things in auctions",
         "examples": []
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "background",
@@ -576,7 +591,8 @@
         "definition": "to behave quietly when you are with a group of people so that they do not notice you",
         "examples": []
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "auction",
@@ -607,7 +623,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "art",
@@ -745,7 +762,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "avant-garde",
@@ -773,7 +791,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "baroque",
@@ -796,7 +815,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "auction room",
@@ -810,7 +830,8 @@
         "definition": "a building in which auctions are held",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "bid",
@@ -881,7 +902,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "batik",
@@ -904,7 +926,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "bricolage",
@@ -922,7 +945,8 @@
         "definition": "a piece of art that has been made in this way",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "burnt ochre",
@@ -940,7 +964,8 @@
         "definition": "a yellow-brown pigment, used in art",
         "examples": []
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "brass rubbing",
@@ -954,7 +979,8 @@
         "definition": "the art of rubbing a soft pencil or chalk on a piece of paper placed over a brass in a church; the pattern you get by doing this",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "burnt sienna",
@@ -972,7 +998,8 @@
         "definition": "a deep red-brown pigment, used in art",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "brushwork",
@@ -991,7 +1018,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "brush",
@@ -1090,7 +1118,8 @@
         "definition": "to describe something in a general way, ignoring the details",
         "examples": []
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "bronze",
@@ -1143,7 +1172,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "bas-relief",
@@ -1157,7 +1187,8 @@
         "definition": "a form of sculpture in which the shapes are cut so that they are slightly raised from the background; a sculpture made in this way",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "burnt umber",
@@ -1175,7 +1206,8 @@
         "definition": "a dark brown pigment, used in art",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "bid",
@@ -1232,7 +1264,8 @@
         "definition": "a statement of the number of points a player thinks they will win",
         "examples": []
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "canvas",
@@ -1282,7 +1315,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "charcoal",
@@ -1309,7 +1343,8 @@
         "definition": "a very dark grey colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "cave painting",
@@ -1332,7 +1367,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "capture",
@@ -1428,7 +1464,8 @@
         "definition": "to put something into a computer in a form it can use",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "calligraphy",
@@ -1447,7 +1484,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "bust",
@@ -1531,7 +1569,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "ceramic",
@@ -1554,7 +1593,8 @@
         "definition": "the art of making and decorating ceramics",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "cartoon",
@@ -1607,7 +1647,8 @@
         "definition": "a drawing made by an artist as a preparation for a painting",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "carving",
@@ -1634,7 +1675,8 @@
         "definition": "the art of making objects in this way",
         "examples": []
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "carve",
@@ -1721,7 +1763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "classical",
@@ -1805,7 +1848,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "classicism",
@@ -1823,7 +1867,8 @@
         "definition": "a style or form that has simple, natural qualities and attractive combinations of parts",
         "examples": []
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "cityscape",
@@ -1837,7 +1882,8 @@
         "definition": "the appearance of a city or urban area, especially in a picture; a picture of a city",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "clay",
@@ -1873,7 +1919,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "connoisseur",
@@ -1900,7 +1947,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "collect",
@@ -2101,7 +2149,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "conservator",
@@ -2115,7 +2164,8 @@
         "definition": "a person who is responsible for repairing and preserving works of art, buildings and other things of cultural interest",
         "examples": []
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "composition",
@@ -2181,7 +2231,8 @@
         "definition": "the arrangement of people or objects in a painting or photograph",
         "examples": []
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "collage",
@@ -2222,7 +2273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "collection",
@@ -2330,7 +2382,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "collector",
@@ -2361,7 +2414,8 @@
         "definition": "(in India) the chief government official of a district, responsible for general administration, development programmes, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "contrast",
@@ -2443,7 +2497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "curator",
@@ -2470,7 +2525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "crayon",
@@ -2497,7 +2553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "Dadaism",
@@ -2511,7 +2568,8 @@
         "definition": "the Dada movement",
         "examples": []
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "crayon",
@@ -2525,7 +2583,8 @@
         "definition": "to draw or colour something using a crayon",
         "examples": []
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "Dada",
@@ -2539,7 +2598,8 @@
         "definition": "an early 20th century movement in art, literature, music and film that made fun of social and artistic behaviour and traditions",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "daub",
@@ -2570,7 +2630,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "design",
@@ -2691,7 +2752,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "diptych",
@@ -2705,7 +2767,8 @@
         "definition": "a painting, especially a religious one, with two wooden panels that can be closed like a book",
         "examples": []
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "decorative",
@@ -2736,7 +2799,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "depict",
@@ -2772,7 +2836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "depth",
@@ -2994,7 +3059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "draw",
@@ -3482,7 +3548,8 @@
         "definition": "to speak to somebody in private, especially in order to warn or tell them about something",
         "examples": []
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "engraving",
@@ -3500,7 +3567,8 @@
         "definition": "the art or process of cutting designs on wood, stone, metal, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "detail",
@@ -3615,7 +3683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "easel",
@@ -3629,7 +3698,8 @@
         "definition": "a wooden frame to hold a picture while it is being painted",
         "examples": []
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "engraver",
@@ -3643,7 +3713,8 @@
         "definition": "a person whose job is to cut words or designs on wood, stone, metal, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "embroidery",
@@ -3670,7 +3741,8 @@
         "definition": "the skill or activity of decorating cloth in this way",
         "examples": []
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "decorate",
@@ -3756,7 +3828,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "etching",
@@ -3779,7 +3852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "environmental art",
@@ -3793,7 +3867,8 @@
         "definition": "art that is meant to enhance the environment or draw attention to environmental issues",
         "examples": []
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "exhibit",
@@ -3837,7 +3912,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "drawing",
@@ -3901,7 +3977,8 @@
         "definition": "a competition in which the winners are chosen in a drawing",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "exhibit",
@@ -3955,7 +4032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "eroticism",
@@ -3974,7 +4052,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "execute",
@@ -4045,7 +4124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "expressionist",
@@ -4059,7 +4139,8 @@
         "definition": "an artist, writer, musician, etc. who worked in the style of expressionism in early 20th century art, theatre, cinema and music",
         "examples": []
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "fake",
@@ -4086,7 +4167,8 @@
         "definition": "a person who pretends to be what they are not in order to cheat people",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "etch",
@@ -4139,7 +4221,8 @@
         "definition": "if something is etched on your heart, memory, etc. you remember it because it has made a strong impression on you",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "expressionism",
@@ -4153,7 +4236,8 @@
         "definition": "a style and movement in early 20th century art, theatre, cinema and music that tries to express people’s feelings and emotions rather than showing events or objects in a realistic way",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "exhibition",
@@ -4251,7 +4335,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "Fauvism",
@@ -4265,7 +4350,8 @@
         "definition": "a style of painting that uses bright colours and in which objects and people are represented in a non-realistic way. It was popular in Paris for a short period from 1905.",
         "examples": []
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "figurative",
@@ -4288,7 +4374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "formalism",
@@ -4307,7 +4394,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "finish",
@@ -4402,7 +4490,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "foreground",
@@ -4447,7 +4536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "finger-painting",
@@ -4461,7 +4551,8 @@
         "definition": "a style of painting in which you use your fingers instead of brushes; a painting made using this technique",
         "examples": []
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "frame",
@@ -4532,7 +4623,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "fire",
@@ -4665,7 +4757,8 @@
         "definition": "using all your energy to do something; working as well as possible",
         "examples": []
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "formalist",
@@ -4684,7 +4777,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "frieze",
@@ -4707,7 +4801,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "Futurist",
@@ -4730,7 +4825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "figure",
@@ -4986,7 +5082,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "Futurism",
@@ -5000,7 +5097,8 @@
         "definition": "a movement in art and literature in the 1920s and 30s that did not try to show realistic figures and scenes but aimed to express confidence in the modern world, particularly in modern machines",
         "examples": []
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "glass-blowing",
@@ -5014,7 +5112,8 @@
         "definition": "the art or activity of blowing hot glass into shapes using a special tube",
         "examples": []
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "gild",
@@ -5046,7 +5145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "genre painting",
@@ -5060,7 +5160,8 @@
         "definition": "a style of painting showing scenes from ordinary life, especially associated with 17th century Dutch and Flemish artists; a painting done in this style",
         "examples": []
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "gouache",
@@ -5078,7 +5179,8 @@
         "definition": "a picture painted using this method",
         "examples": []
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "graphics",
@@ -5114,7 +5216,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "graffiti",
@@ -5141,7 +5244,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "frame",
@@ -5271,7 +5375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "gallery",
@@ -5344,7 +5449,8 @@
         "definition": "to behave in an exaggerated way to attract people’s attention",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "fresco",
@@ -5367,7 +5473,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "Gothic",
@@ -5402,7 +5509,8 @@
         "definition": "connected with goths",
         "examples": []
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "graphic artist",
@@ -5416,7 +5524,8 @@
         "definition": "an artist whose work is based on lines and shading, rather than three-dimensional work or the use of colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "highbrow",
@@ -5447,7 +5556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "haut-relief",
@@ -5461,7 +5571,8 @@
         "definition": "a method used in sculpture in which a picture is carved to stand out a lot from a surface",
         "examples": []
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "ikon",
@@ -5475,7 +5586,8 @@
         "definition": "a painting or statue of a holy person that is also thought of as a holy object",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "hologram",
@@ -5489,7 +5601,8 @@
         "definition": "a special type of image that appears to be three-dimensional (= solid rather than flat), especially one created using lasers",
         "examples": []
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "impasto",
@@ -5507,7 +5620,8 @@
         "definition": "a picture painted using this method",
         "examples": []
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "harmony",
@@ -5564,7 +5678,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "ink",
@@ -5600,7 +5715,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "Impressionist",
@@ -5623,7 +5739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "Impressionism",
@@ -5637,7 +5754,8 @@
         "definition": "a style in painting developed in France in the late 19th century that uses colour to show the effects of light on things and to suggest atmosphere rather than showing exact details",
         "examples": []
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "ink",
@@ -5673,7 +5791,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "illustration",
@@ -5730,7 +5849,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "icon",
@@ -5774,7 +5894,8 @@
         "definition": "a painting or statue of a holy person that is also thought of as a holy object",
         "examples": []
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "inspiration",
@@ -5848,7 +5969,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "installation",
@@ -5911,7 +6033,8 @@
         "definition": "a piece of modern sculpture that is made using sound, light, etc. as well as objects",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "intaglio",
@@ -5934,7 +6057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "kiln",
@@ -5957,7 +6081,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "likeness",
@@ -5993,7 +6118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "kitsch",
@@ -6007,7 +6133,8 @@
         "definition": "works of art or objects that are popular but that are considered to have no real artistic value or not to be in good taste, for example because they are sentimental",
         "examples": []
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "inspire",
@@ -6068,7 +6195,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "lowbrow",
@@ -6091,7 +6219,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "magnum opus",
@@ -6110,7 +6239,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "life drawing",
@@ -6142,7 +6272,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "line drawing",
@@ -6156,7 +6287,8 @@
         "definition": "a drawing that consists only of lines",
         "examples": []
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "kinetic art",
@@ -6170,7 +6302,8 @@
         "definition": "art, especially sculpture, with parts that move",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "mannerism",
@@ -6197,7 +6330,8 @@
         "definition": "a style in 16th century Italian art that did not show things in a natural way but made them look strange or out of their usual shape",
         "examples": []
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "landscape",
@@ -6276,7 +6410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "master",
@@ -6445,7 +6580,8 @@
         "definition": "to support two different parties, principles, etc. at the same time",
         "examples": []
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "medium",
@@ -6533,7 +6669,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "masterpiece",
@@ -6556,7 +6693,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "minimalist",
@@ -6579,7 +6717,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "minimalist",
@@ -6593,7 +6732,8 @@
         "definition": "an artist, a musician or a designer who uses very simple ideas or a very small number of simple elements in their work",
         "examples": []
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "modernism",
@@ -6611,7 +6751,8 @@
         "definition": "a style and movement in art, architecture and literature popular in the early 20th century in which modern ideas, methods and materials were used rather than traditional ones",
         "examples": []
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "minimalism",
@@ -6625,7 +6766,8 @@
         "definition": "a style of art, music or design that uses very simple ideas or a very small number of simple elements",
         "examples": []
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "mixed media",
@@ -6644,7 +6786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "model",
@@ -6728,7 +6871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "masterwork",
@@ -6751,7 +6895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "monochrome",
@@ -6778,7 +6923,8 @@
         "definition": "using different shades of one colour",
         "examples": []
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "naturalism",
@@ -6796,7 +6942,8 @@
         "definition": "the theory that everything in the world and life is based on natural causes and laws, and not on spiritual or supernatural ones",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "mural",
@@ -6815,7 +6962,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "muse",
@@ -6838,7 +6986,8 @@
         "definition": "(in ancient Greek and Roman stories) one of the nine goddesses who encouraged poetry, music and other branches of art and literature",
         "examples": []
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "mural",
@@ -6857,7 +7006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "neoclassicism",
@@ -6871,7 +7021,8 @@
         "definition": "a style of art, architecture and design that is strongly influenced by the styles of ancient Greece and Rome. It became popular in Europe and North America in the second half of the 18th century, when many buildings were designed with geometric forms, straight lines and Greek columns.",
         "examples": []
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "needlecraft",
@@ -6885,7 +7036,8 @@
         "definition": "the art and skill of sewing, especially when it is taught as a school subject",
         "examples": []
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "neoclassical",
@@ -6899,7 +7051,8 @@
         "definition": "used to describe art and architecture that is based on the style of ancient Greece or Rome",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "nude",
@@ -6931,7 +7084,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "oil colour",
@@ -6945,7 +7099,8 @@
         "definition": "a type of paint that contains oil",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "mould",
@@ -6990,7 +7145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "oil",
@@ -7142,7 +7298,8 @@
         "definition": "to try to settle an argument",
         "examples": []
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "oil paint",
@@ -7156,6 +7313,7 @@
         "definition": "a type of paint that contains oil",
         "examples": []
       }
-    ]
+    ],
+    "id": 158
   }
 ]

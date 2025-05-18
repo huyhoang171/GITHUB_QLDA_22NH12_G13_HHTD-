@@ -16,7 +16,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 1
   },
   {
     "word": "adulting",
@@ -39,7 +40,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 2
   },
   {
     "word": "adoption",
@@ -92,7 +94,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 3
   },
   {
     "word": "abortion",
@@ -140,7 +143,8 @@
         "definition": "the process of giving birth to a baby before it is fully developed and able to survive",
         "examples": []
       }
-    ]
+    ],
+    "id": 4
   },
   {
     "word": "adulthood",
@@ -159,7 +163,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 5
   },
   {
     "word": "adoptive",
@@ -178,7 +183,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 6
   },
   {
     "word": "adult",
@@ -218,7 +224,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 7
   },
   {
     "word": "abort",
@@ -263,7 +270,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 8
   },
   {
     "word": "adopt",
@@ -367,7 +375,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 9
   },
   {
     "word": "adolescent",
@@ -390,7 +399,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 10
   },
   {
     "word": "adolescence",
@@ -413,7 +423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 11
   },
   {
     "word": "afterbirth",
@@ -427,7 +438,8 @@
         "definition": "the material that comes out of a woman or female animal’s body after a baby has been born, and that was necessary to feed and protect the baby",
         "examples": []
       }
-    ]
+    ],
+    "id": 12
   },
   {
     "word": "arthritis",
@@ -446,7 +458,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 13
   },
   {
     "word": "Alzheimer’s",
@@ -460,7 +473,8 @@
         "definition": "a serious disease, especially affecting older people, that prevents the brain from functioning normally and causes loss of memory, loss of ability to speak clearly, etc. Alzheimer's is a form of dementia.",
         "examples": []
       }
-    ]
+    ],
+    "id": 14
   },
   {
     "word": "anniversary",
@@ -507,7 +521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 15
   },
   {
     "word": "antenatal",
@@ -530,7 +545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 16
   },
   {
     "word": "aged",
@@ -583,7 +599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 17
   },
   {
     "word": "autopsy",
@@ -606,7 +623,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 18
   },
   {
     "word": "ageless",
@@ -634,7 +652,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 19
   },
   {
     "word": "a/somebody’s second childhood",
@@ -717,7 +736,8 @@
         "definition": "a time in the life of an adult person when they behave like a child again",
         "examples": []
       }
-    ]
+    ],
+    "id": 20
   },
   {
     "word": "baby",
@@ -841,7 +861,8 @@
         "definition": "to lose something that you want at the same time as you are trying to get rid of something that you do not want",
         "examples": []
       }
-    ]
+    ],
+    "id": 21
   },
   {
     "word": "au pair",
@@ -868,7 +889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 22
   },
   {
     "word": "ash",
@@ -949,7 +971,8 @@
         "definition": "to behave in a way that shows that you are sorry for something that you have done",
         "examples": []
       }
-    ]
+    ],
+    "id": 23
   },
   {
     "word": "at rest",
@@ -1136,7 +1159,8 @@
         "definition": "used when you are telling a story to say that you do not need to tell the end of it, because everyone knows it already",
         "examples": []
       }
-    ]
+    ],
+    "id": 24
   },
   {
     "word": "arranged marriage",
@@ -1150,7 +1174,8 @@
         "definition": "a marriage in which the parents choose the husband or wife for their child",
         "examples": []
       }
-    ]
+    ],
+    "id": 25
   },
   {
     "word": "baby buggy",
@@ -1168,7 +1193,8 @@
         "definition": "a small vehicle on four wheels for a baby to go out in, pushed by a person on foot",
         "examples": []
       }
-    ]
+    ],
+    "id": 26
   },
   {
     "word": "baby blues",
@@ -1182,7 +1208,8 @@
         "definition": "a depressed feeling that some women get after the birth of a baby",
         "examples": []
       }
-    ]
+    ],
+    "id": 27
   },
   {
     "word": "baby-faced",
@@ -1196,7 +1223,8 @@
         "definition": "with a face that looks young and innocent",
         "examples": []
       }
-    ]
+    ],
+    "id": 28
   },
   {
     "word": "assisted dying",
@@ -1215,7 +1243,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 29
   },
   {
     "word": "babysitting",
@@ -1234,7 +1263,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 30
   },
   {
     "word": "bachelor",
@@ -1278,7 +1308,8 @@
         "definition": "a small apartment suitable for a person living alone",
         "examples": []
       }
-    ]
+    ],
+    "id": 31
   },
   {
     "word": "bachelorette",
@@ -1292,7 +1323,8 @@
         "definition": "a young woman who is not married",
         "examples": []
       }
-    ]
+    ],
+    "id": 32
   },
   {
     "word": "bachelorette party",
@@ -1306,7 +1338,8 @@
         "definition": "a party that a woman has with her (usually female) friends just before she gets married",
         "examples": []
       }
-    ]
+    ],
+    "id": 33
   },
   {
     "word": "babysitter",
@@ -1325,7 +1358,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 34
   },
   {
     "word": "babyhood",
@@ -1339,7 +1373,8 @@
         "definition": "the period of your life when you are a baby",
         "examples": []
       }
-    ]
+    ],
+    "id": 35
   },
   {
     "word": "babysit",
@@ -1362,7 +1397,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 36
   },
   {
     "word": "bachelorhood",
@@ -1376,7 +1412,8 @@
         "definition": "the time in a man’s life when he has never been married",
         "examples": []
       }
-    ]
+    ],
+    "id": 37
   },
   {
     "word": "best man",
@@ -1390,7 +1427,8 @@
         "definition": "a male friend or relative of the bridegroom at a wedding, who helps him during the wedding ceremony",
         "examples": []
       }
-    ]
+    ],
+    "id": 38
   },
   {
     "word": "bigamous",
@@ -1409,7 +1447,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 39
   },
   {
     "word": "best woman",
@@ -1423,7 +1462,8 @@
         "definition": "a female friend or relative of the bridegroom at a wedding, who helps him during the wedding ceremony",
         "examples": []
       }
-    ]
+    ],
+    "id": 40
   },
   {
     "word": "bier",
@@ -1437,7 +1477,8 @@
         "definition": "a frame on which the dead body or the coffin is placed or carried at a funeral",
         "examples": []
       }
-    ]
+    ],
+    "id": 41
   },
   {
     "word": "birthing",
@@ -1456,7 +1497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 42
   },
   {
     "word": "birth father",
@@ -1470,7 +1512,8 @@
         "definition": "the biological father of a child who has been adopted",
         "examples": []
       }
-    ]
+    ],
+    "id": 43
   },
   {
     "word": "be expecting (a baby/child)",
@@ -1651,7 +1694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 44
   },
   {
     "word": "birth",
@@ -1753,7 +1797,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 45
   },
   {
     "word": "bachelor party",
@@ -1767,7 +1812,8 @@
         "definition": "a party that a man has with his (usually male) friends just before he gets married",
         "examples": []
       }
-    ]
+    ],
+    "id": 46
   },
   {
     "word": "be with child",
@@ -1849,7 +1895,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 47
   },
   {
     "word": "birth mother",
@@ -1863,7 +1910,8 @@
         "definition": "the woman who gave birth to a child who has been adopted",
         "examples": []
       }
-    ]
+    ],
+    "id": 48
   },
   {
     "word": "bottle-feed",
@@ -1877,7 +1925,8 @@
         "definition": "to feed a baby with artificial milk from a bottle",
         "examples": []
       }
-    ]
+    ],
+    "id": 49
   },
   {
     "word": "bottle",
@@ -1965,7 +2014,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 50
   },
   {
     "word": "born",
@@ -2137,7 +2187,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 51
   },
   {
     "word": "boyhood",
@@ -2164,7 +2215,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 52
   },
   {
     "word": "boy",
@@ -2289,7 +2341,8 @@
         "definition": "to show or prove who is brave, skilful, etc. and who is not",
         "examples": []
       }
-    ]
+    ],
+    "id": 53
   },
   {
     "word": "birthweight",
@@ -2308,7 +2361,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 54
   },
   {
     "word": "breastfeed",
@@ -2322,7 +2376,8 @@
         "definition": "when a woman breastfeeds, she feeds her baby with milk from her breasts",
         "examples": []
       }
-    ]
+    ],
+    "id": 55
   },
   {
     "word": "bridal",
@@ -2353,7 +2408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 56
   },
   {
     "word": "break",
@@ -2686,7 +2742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 57
   },
   {
     "word": "breadwinner",
@@ -2705,7 +2762,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 58
   },
   {
     "word": "bridegroom",
@@ -2724,7 +2782,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 59
   },
   {
     "word": "breech birth",
@@ -2738,7 +2797,8 @@
         "definition": "a birth in which the baby’s bottom or feet come out of the mother first",
         "examples": []
       }
-    ]
+    ],
+    "id": 60
   },
   {
     "word": "cadaver",
@@ -2752,7 +2812,8 @@
         "definition": "a dead human body",
         "examples": []
       }
-    ]
+    ],
+    "id": 61
   },
   {
     "word": "burial ground",
@@ -2775,7 +2836,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 62
   },
   {
     "word": "burial",
@@ -2806,7 +2868,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 63
   },
   {
     "word": "bring up",
@@ -2877,7 +2940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 64
   },
   {
     "word": "carry",
@@ -3196,7 +3260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 65
   },
   {
     "word": "casket",
@@ -3224,7 +3289,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 66
   },
   {
     "word": "bury",
@@ -3359,7 +3425,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 67
   },
   {
     "word": "catafalque",
@@ -3373,7 +3440,8 @@
         "definition": "a decorated platform on which the dead body of a famous person is placed before a funeral",
         "examples": []
       }
-    ]
+    ],
+    "id": 68
   },
   {
     "word": "bride",
@@ -3400,7 +3468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 69
   },
   {
     "word": "buggy",
@@ -3437,7 +3506,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 70
   },
   {
     "word": "bridesmaid",
@@ -3456,7 +3526,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 71
   },
   {
     "word": "care home",
@@ -3483,7 +3554,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 72
   },
   {
     "word": "centenarian",
@@ -3497,7 +3569,8 @@
         "definition": "a person who is 100 years old or more",
         "examples": []
       }
-    ]
+    ],
+    "id": 73
   },
   {
     "word": "catacombs",
@@ -3511,7 +3584,8 @@
         "definition": "a series of underground tunnels used for burying dead people, especially in ancient times",
         "examples": []
       }
-    ]
+    ],
+    "id": 74
   },
   {
     "word": "certificate",
@@ -3547,7 +3621,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 75
   },
   {
     "word": "care",
@@ -3736,7 +3811,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 76
   },
   {
     "word": "carrycot",
@@ -3750,7 +3826,8 @@
         "definition": "a small bed for a baby, with handles at the sides so you can carry it",
         "examples": []
       }
-    ]
+    ],
+    "id": 77
   },
   {
     "word": "childbearing",
@@ -3773,7 +3850,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 78
   },
   {
     "word": "child",
@@ -3855,7 +3933,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 79
   },
   {
     "word": "cemetery",
@@ -3874,7 +3953,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 80
   },
   {
     "word": "cesarean",
@@ -3897,7 +3977,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 81
   },
   {
     "word": "chapel of rest",
@@ -3911,7 +3992,8 @@
         "definition": "a room at an undertaker's where dead bodies are kept before the funeral",
         "examples": []
       }
-    ]
+    ],
+    "id": 82
   },
   {
     "word": "childhood",
@@ -3994,7 +4076,8 @@
         "definition": "a time in the life of an adult person when they behave like a child again",
         "examples": []
       }
-    ]
+    ],
+    "id": 83
   },
   {
     "word": "childminder",
@@ -4008,7 +4091,8 @@
         "definition": "a person who is paid to care for children while their parents are at work. A childminder usually does this in his or her own home.",
         "examples": []
       }
-    ]
+    ],
+    "id": 84
   },
   {
     "word": "childcare",
@@ -4031,7 +4115,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 85
   },
   {
     "word": "ceremony",
@@ -4117,7 +4202,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 86
   },
   {
     "word": "cesarian",
@@ -4140,7 +4226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 87
   },
   {
     "word": "childbirth",
@@ -4167,7 +4254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 88
   },
   {
     "word": "civil marriage",
@@ -4181,7 +4269,8 @@
         "definition": "a marriage with no religious ceremony",
         "examples": []
       }
-    ]
+    ],
+    "id": 89
   },
   {
     "word": "civil partnership",
@@ -4200,7 +4289,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 90
   },
   {
     "word": "conceive",
@@ -4257,7 +4347,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 91
   },
   {
     "word": "childish",
@@ -4285,7 +4376,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 92
   },
   {
     "word": "confinement",
@@ -4317,7 +4409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 93
   },
   {
     "word": "coffin",
@@ -4349,7 +4442,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 94
   },
   {
     "word": "childproof",
@@ -4368,7 +4462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 95
   },
   {
     "word": "committal",
@@ -4396,7 +4491,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 96
   },
   {
     "word": "consummate",
@@ -4419,7 +4515,8 @@
         "definition": "to make something complete or perfect",
         "examples": []
       }
-    ]
+    ],
+    "id": 97
   },
   {
     "word": "conjugal",
@@ -4438,7 +4535,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 98
   },
   {
     "word": "consummation",
@@ -4461,7 +4559,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 99
   },
   {
     "word": "cot",
@@ -4484,7 +4583,8 @@
         "definition": "a light narrow bed that you can fold up and carry easily",
         "examples": []
       }
-    ]
+    ],
+    "id": 100
   },
   {
     "word": "co-parent",
@@ -4503,7 +4603,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 101
   },
   {
     "word": "co-parenting",
@@ -4522,7 +4623,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 102
   },
   {
     "word": "confetti",
@@ -4545,7 +4647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 103
   },
   {
     "word": "contraction",
@@ -4602,7 +4705,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 104
   },
   {
     "word": "corpse",
@@ -4621,7 +4725,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 105
   },
   {
     "word": "coddle",
@@ -4644,7 +4749,8 @@
         "definition": "to cook eggs in water slightly below boiling point",
         "examples": []
       }
-    ]
+    ],
+    "id": 106
   },
   {
     "word": "co-parent",
@@ -4663,7 +4769,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 107
   },
   {
     "word": "conception",
@@ -4712,7 +4819,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 108
   },
   {
     "word": "crawl",
@@ -4797,7 +4905,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 109
   },
   {
     "word": "connubial",
@@ -4811,7 +4920,8 @@
         "definition": "relating to marriage, or the relationship between people who are married",
         "examples": []
       }
-    ]
+    ],
+    "id": 110
   },
   {
     "word": "cremate",
@@ -4830,7 +4940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 111
   },
   {
     "word": "cremation",
@@ -4853,7 +4964,8 @@
         "definition": "a funeral at which the dead person is cremated",
         "examples": []
       }
-    ]
+    ],
+    "id": 112
   },
   {
     "word": "crematorium",
@@ -4867,7 +4979,8 @@
         "definition": "a building in which the bodies of dead people are burned",
         "examples": []
       }
-    ]
+    ],
+    "id": 113
   },
   {
     "word": "day nursery",
@@ -4881,7 +4994,8 @@
         "definition": "a place where young children are cared for while their parents are at work",
         "examples": []
       }
-    ]
+    ],
+    "id": 114
   },
   {
     "word": "crib",
@@ -4920,7 +5034,8 @@
         "definition": "the house, flat, etc. where somebody lives",
         "examples": []
       }
-    ]
+    ],
+    "id": 115
   },
   {
     "word": "cremains",
@@ -4934,7 +5049,8 @@
         "definition": "the powder that is left after a dead person’s body has been cremated (= burned)",
         "examples": []
       }
-    ]
+    ],
+    "id": 116
   },
   {
     "word": "dead",
@@ -5309,7 +5425,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 117
   },
   {
     "word": "curfew",
@@ -5341,7 +5458,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 118
   },
   {
     "word": "cradle",
@@ -5385,7 +5503,8 @@
         "definition": "to have a sexual relationship with a much younger person",
         "examples": []
       }
-    ]
+    ],
+    "id": 119
   },
   {
     "word": "crèche",
@@ -5408,7 +5527,8 @@
         "definition": "a model of the scene of Jesus Christ’s birth, placed in churches and homes at Christmas",
         "examples": []
       }
-    ]
+    ],
+    "id": 120
   },
   {
     "word": "departed",
@@ -5436,7 +5556,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 121
   },
   {
     "word": "depart this life",
@@ -5480,7 +5601,8 @@
         "definition": "to die. People say ‘depart this life’ to avoid saying ‘die’.",
         "examples": []
       }
-    ]
+    ],
+    "id": 122
   },
   {
     "word": "deliver",
@@ -5664,7 +5786,8 @@
         "definition": "definite, because all the legal documents have been signed",
         "examples": []
       }
-    ]
+    ],
+    "id": 123
   },
   {
     "word": "diaper rash",
@@ -5683,7 +5806,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 124
   },
   {
     "word": "diaper",
@@ -5710,7 +5834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 125
   },
   {
     "word": "dependant",
@@ -5729,7 +5854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 126
   },
   {
     "word": "deceased",
@@ -5757,7 +5883,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 127
   },
   {
     "word": "delivery",
@@ -5856,7 +5983,8 @@
         "definition": "a system of paying for goods when they are delivered",
         "examples": []
       }
-    ]
+    ],
+    "id": 128
   },
   {
     "word": "dowry",
@@ -5879,7 +6007,8 @@
         "definition": "money and/or property that, in some societies, a husband must pay to his wife’s family when they get married",
         "examples": []
       }
-    ]
+    ],
+    "id": 129
   },
   {
     "word": "dotage",
@@ -5902,7 +6031,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 130
   },
   {
     "word": "dementia",
@@ -5937,7 +6067,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 131
   },
   {
     "word": "death",
@@ -6215,7 +6346,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 132
   },
   {
     "word": "doula",
@@ -6229,7 +6361,8 @@
         "definition": "a person, usually a woman, whose role is to give support, help and advice to a woman who is having a baby",
         "examples": []
       }
-    ]
+    ],
+    "id": 133
   },
   {
     "word": "doddering",
@@ -6248,7 +6381,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 134
   },
   {
     "word": "dummy",
@@ -6306,7 +6440,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 135
   },
   {
     "word": "diamond wedding",
@@ -6325,7 +6460,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 136
   },
   {
     "word": "elder",
@@ -6373,7 +6509,8 @@
         "definition": "people who are older and wiser than you and that you should respect",
         "examples": []
       }
-    ]
+    ],
+    "id": 137
   },
   {
     "word": "elderly",
@@ -6413,7 +6550,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 138
   },
   {
     "word": "engagement",
@@ -6500,7 +6638,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 139
   },
   {
     "word": "extramarital",
@@ -6519,7 +6658,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 140
   },
   {
     "word": "die",
@@ -6715,7 +6855,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 141
   },
   {
     "word": "elder",
@@ -6760,7 +6901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 142
   },
   {
     "word": "engaged",
@@ -6849,7 +6991,8 @@
         "definition": "being used",
         "examples": []
       }
-    ]
+    ],
+    "id": 143
   },
   {
     "word": "feed",
@@ -6933,7 +7076,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 144
   },
   {
     "word": "family",
@@ -7150,7 +7294,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 145
   },
   {
     "word": "discipline",
@@ -7191,7 +7336,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 146
   },
   {
     "word": "father",
@@ -7290,7 +7436,8 @@
         "definition": "we believe a thing because we want it to be true",
         "examples": []
       }
-    ]
+    ],
+    "id": 147
   },
   {
     "word": "fatherhood",
@@ -7304,7 +7451,8 @@
         "definition": "the state of being a father",
         "examples": []
       }
-    ]
+    ],
+    "id": 148
   },
   {
     "word": "fathering",
@@ -7323,7 +7471,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 149
   },
   {
     "word": "epitaph",
@@ -7351,7 +7500,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 150
   },
   {
     "word": "foster",
@@ -7383,7 +7533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 151
   },
   {
     "word": "fiancée",
@@ -7402,7 +7553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 152
   },
   {
     "word": "full-term",
@@ -7420,7 +7572,8 @@
         "definition": "born after a pregnancy lasting the normal length of time",
         "examples": []
       }
-    ]
+    ],
+    "id": 153
   },
   {
     "word": "funeral",
@@ -7451,7 +7604,8 @@
         "definition": "used to tell somebody that they, and nobody else, will have to deal with the unpleasant results of their own actions",
         "examples": []
       }
-    ]
+    ],
+    "id": 154
   },
   {
     "word": "funeral director",
@@ -7465,7 +7619,8 @@
         "definition": "an undertaker (= a person whose job is to prepare the bodies of dead people to be buried or cremated, and to arrange funerals)",
         "examples": []
       }
-    ]
+    ],
+    "id": 155
   },
   {
     "word": "forceps",
@@ -7488,7 +7643,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 156
   },
   {
     "word": "geriatric",
@@ -7520,7 +7676,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 157
   },
   {
     "word": "fresh-faced",
@@ -7543,7 +7700,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 158
   },
   {
     "word": "free-range",
@@ -7579,7 +7737,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 159
   },
   {
     "word": "geriatric",
@@ -7597,7 +7756,8 @@
         "definition": "an offensive word for an old person",
         "examples": []
       }
-    ]
+    ],
+    "id": 160
   },
   {
     "word": "girlhood",
@@ -7611,7 +7771,8 @@
         "definition": "the time when somebody is a girl; the fact of being a girl",
         "examples": []
       }
-    ]
+    ],
+    "id": 161
   },
   {
     "word": "get hitched",
@@ -7693,7 +7854,8 @@
         "definition": "to get married",
         "examples": []
       }
-    ]
+    ],
+    "id": 162
   },
   {
     "word": "fiancé",
@@ -7712,7 +7874,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 163
   },
   {
     "word": "golden wedding",
@@ -7731,7 +7894,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 164
   },
   {
     "word": "girl",
@@ -7835,7 +7999,8 @@
         "definition": "an offensive term for a weak man, who is not brave or confident",
         "examples": []
       }
-    ]
+    ],
+    "id": 165
   },
   {
     "word": "grave",
@@ -7904,7 +8069,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 166
   },
   {
     "word": "engagement ring",
@@ -7923,7 +8089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 167
   },
   {
     "word": "gawky",
@@ -7942,7 +8109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 168
   },
   {
     "word": "gerontology",
@@ -7956,7 +8124,8 @@
         "definition": "the scientific study of old age and the process of growing old",
         "examples": []
       }
-    ]
+    ],
+    "id": 169
   },
   {
     "word": "gravestone",
@@ -7970,7 +8139,8 @@
         "definition": "a stone that is put on a grave, showing the name, etc. of the person buried there",
         "examples": []
       }
-    ]
+    ],
+    "id": 170
   },
   {
     "word": "go/walk down the aisle",
@@ -8023,7 +8193,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 171
   },
   {
     "word": "godparent",
@@ -8037,7 +8208,8 @@
         "definition": "a person who promises at a Christian baptism ceremony to be responsible for a child (= their godchild) and to teach them about the Christian religion",
         "examples": []
       }
-    ]
+    ],
+    "id": 172
   },
   {
     "word": "gray",
@@ -8142,7 +8314,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 173
   },
   {
     "word": "grey",
@@ -8247,7 +8420,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 174
   },
   {
     "word": "graveyard",
@@ -8274,7 +8448,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 175
   },
   {
     "word": "grown-up",
@@ -8306,7 +8481,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 176
   },
   {
     "word": "growing pains",
@@ -8333,7 +8509,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 177
   },
   {
     "word": "groom",
@@ -8351,7 +8528,8 @@
         "definition": "a man on his wedding day, or just before or just after it",
         "examples": []
       }
-    ]
+    ],
+    "id": 178
   },
   {
     "word": "grow into",
@@ -8392,7 +8570,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 179
   },
   {
     "word": "hearse",
@@ -8406,7 +8585,8 @@
         "definition": "a long vehicle used for carrying the coffin (= the box for the dead body) at a funeral",
         "examples": []
       }
-    ]
+    ],
+    "id": 180
   },
   {
     "word": "grey",
@@ -8429,7 +8609,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 181
   },
   {
     "word": "ground",
@@ -8483,7 +8664,8 @@
         "definition": "",
         "examples": []
       }
-    ]
+    ],
+    "id": 182
   },
   {
     "word": "give away",
@@ -8550,7 +8732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 183
   },
   {
     "word": "homeschool",
@@ -8569,7 +8752,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 184
   },
   {
     "word": "grown-up",
@@ -8588,7 +8772,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 185
   },
   {
     "word": "grow out of",
@@ -8629,7 +8814,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 186
   },
   {
     "word": "groomsman",
@@ -8643,7 +8829,8 @@
         "definition": "one of the male friends of the bridegroom at a wedding who have special duties",
         "examples": []
       }
-    ]
+    ],
+    "id": 187
   },
   {
     "word": "hen party",
@@ -8657,7 +8844,8 @@
         "definition": "a party that a woman has with her (usually female) friends just before she gets married",
         "examples": []
       }
-    ]
+    ],
+    "id": 188
   },
   {
     "word": "immature",
@@ -8689,7 +8877,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 189
   },
   {
     "word": "honeymoon",
@@ -8725,7 +8914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 190
   },
   {
     "word": "housewife",
@@ -8739,7 +8929,8 @@
         "definition": "a woman who stays at home to cook, clean, take care of the children, etc. while her husband or partner goes out to work",
         "examples": []
       }
-    ]
+    ],
+    "id": 191
   },
   {
     "word": "homeschooling",
@@ -8753,7 +8944,8 @@
         "definition": "the practice of educating children at home, not in schools",
         "examples": []
       }
-    ]
+    ],
+    "id": 192
   },
   {
     "word": "infancy",
@@ -8781,7 +8973,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 193
   },
   {
     "word": "induction",
@@ -8821,7 +9014,8 @@
         "definition": "the process by which electricity or magnetism passes from one object to another without them touching",
         "examples": []
       }
-    ]
+    ],
+    "id": 194
   },
   {
     "word": "grow up",
@@ -8870,7 +9064,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 195
   },
   {
     "word": "induce",
@@ -8923,7 +9118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 196
   },
   {
     "word": "infirm",
@@ -8955,7 +9151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 197
   },
   {
     "word": "incubator",
@@ -8978,7 +9175,8 @@
         "definition": "a machine like a box where eggs are kept warm until the young birds are born",
         "examples": []
       }
-    ]
+    ],
+    "id": 198
   },
   {
     "word": "inter",
@@ -8997,7 +9195,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 199
   },
   {
     "word": "infant",
@@ -9041,7 +9240,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 200
   },
   {
     "word": "ingénue",
@@ -9060,7 +9260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 201
   },
   {
     "word": "guardian",
@@ -9100,7 +9301,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 202
   },
   {
     "word": "kid",
@@ -9207,7 +9409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 203
   },
   {
     "word": "innocent",
@@ -9297,7 +9500,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 204
   },
   {
     "word": "labor",
@@ -9396,7 +9600,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 205
   },
   {
     "word": "lone parent",
@@ -9410,7 +9615,8 @@
         "definition": "a person who takes care of their child or children without a husband, wife or partner",
         "examples": []
       }
-    ]
+    ],
+    "id": 206
   },
   {
     "word": "love match",
@@ -9424,7 +9630,8 @@
         "definition": "a marriage of two people who are in love with each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 207
   },
   {
     "word": "lullaby",
@@ -9443,7 +9650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 208
   },
   {
     "word": "lone-parent family",
@@ -9462,7 +9670,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 209
   },
   {
     "word": "labour",
@@ -9578,7 +9787,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 210
   },
   {
     "word": "lying-in",
@@ -9592,7 +9802,8 @@
         "definition": "the period of time during which a woman in the past stayed in bed before and after giving birth to a child",
         "examples": []
       }
-    ]
+    ],
+    "id": 211
   },
   {
     "word": "maid of honour",
@@ -9606,7 +9817,8 @@
         "definition": "(especially in the US) a young woman or girl who is the main bridesmaid at a wedding",
         "examples": []
       }
-    ]
+    ],
+    "id": 212
   },
   {
     "word": "interment",
@@ -9620,7 +9832,8 @@
         "definition": "the act of burying a dead person",
         "examples": []
       }
-    ]
+    ],
+    "id": 213
   },
   {
     "word": "marital",
@@ -9639,7 +9852,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 214
   },
   {
     "word": "lad",
@@ -9692,7 +9906,8 @@
         "definition": "a person who works in a stable",
         "examples": []
       }
-    ]
+    ],
+    "id": 215
   },
   {
     "word": "marriage",
@@ -9788,7 +10003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 216
   },
   {
     "word": "juvenile",
@@ -9837,7 +10053,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 217
   },
   {
     "word": "lass",
@@ -9851,7 +10068,8 @@
         "definition": "a girl; a young woman",
         "examples": []
       }
-    ]
+    ],
+    "id": 218
   },
   {
     "word": "man",
@@ -10336,7 +10554,8 @@
         "definition": "a person who is determined or wants something very much will succeed",
         "examples": []
       }
-    ]
+    ],
+    "id": 219
   },
   {
     "word": "marriageable",
@@ -10355,7 +10574,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 220
   },
   {
     "word": "life partner",
@@ -10374,7 +10594,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 221
   },
   {
     "word": "marriage of convenience",
@@ -10388,7 +10609,8 @@
         "definition": "a marriage that is made for practical, financial or political reasons and not because the two people love each other",
         "examples": []
       }
-    ]
+    ],
+    "id": 222
   },
   {
     "word": "marriage counselling",
@@ -10407,7 +10629,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 223
   },
   {
     "word": "married",
@@ -10468,7 +10691,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 224
   },
   {
     "word": "marriage guidance",
@@ -10491,7 +10715,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 225
   },
   {
     "word": "marry",
@@ -10572,7 +10797,8 @@
         "definition": "to marry a rich person",
         "examples": []
       }
-    ]
+    ],
+    "id": 226
   },
   {
     "word": "match",
@@ -10730,7 +10956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 227
   },
   {
     "word": "matronly",
@@ -10744,7 +10971,8 @@
         "definition": "a matronly woman is no longer young and fashionable in appearance, and may be rather large and heavy in build",
         "examples": []
       }
-    ]
+    ],
+    "id": 228
   },
   {
     "word": "marriage lines",
@@ -10758,7 +10986,8 @@
         "definition": "an official document that shows that two people are married; a marriage certificate",
         "examples": []
       }
-    ]
+    ],
+    "id": 229
   },
   {
     "word": "maternity leave",
@@ -10777,7 +11006,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 230
   },
   {
     "word": "matrimony",
@@ -10796,7 +11026,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 231
   },
   {
     "word": "mausoleum",
@@ -10815,7 +11046,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 232
   },
   {
     "word": "maturity",
@@ -10868,7 +11100,8 @@
         "definition": "the time when money you have invested is ready to be paid",
         "examples": []
       }
-    ]
+    ],
+    "id": 233
   },
   {
     "word": "middle-aged",
@@ -10895,7 +11128,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 234
   },
   {
     "word": "menopause",
@@ -10922,7 +11156,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 235
   },
   {
     "word": "matrimonial",
@@ -10945,7 +11180,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 236
   },
   {
     "word": "menopausal",
@@ -10964,7 +11200,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 237
   },
   {
     "word": "middle-age spread",
@@ -10978,7 +11215,8 @@
         "definition": "the fat around the stomach that some people develop in middle age",
         "examples": []
       }
-    ]
+    ],
+    "id": 238
   },
   {
     "word": "manhood",
@@ -11027,7 +11265,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 239
   },
   {
     "word": "middle age",
@@ -11046,7 +11285,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 240
   },
   {
     "word": "mature",
@@ -11115,7 +11355,8 @@
         "definition": "after thinking about something carefully and for a long time",
         "examples": []
       }
-    ]
+    ],
+    "id": 241
   },
   {
     "word": "mature",
@@ -11178,7 +11419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 242
   },
   {
     "word": "maturation",
@@ -11196,7 +11438,8 @@
         "definition": "the process of becoming adult",
         "examples": []
       }
-    ]
+    ],
+    "id": 243
   },
   {
     "word": "midwife",
@@ -11210,7 +11453,8 @@
         "definition": "a person, especially a woman, who is trained to help women give birth to babies",
         "examples": []
       }
-    ]
+    ],
+    "id": 244
   },
   {
     "word": "midlife crisis",
@@ -11233,7 +11477,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 245
   },
   {
     "word": "mortal",
@@ -11291,7 +11536,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 246
   },
   {
     "word": "morning sickness",
@@ -11305,7 +11551,8 @@
         "definition": "the need to vomit that some women feel, often only in the morning, when they are pregnant, especially in the first months",
         "examples": []
       }
-    ]
+    ],
+    "id": 247
   },
   {
     "word": "midlife",
@@ -11328,7 +11575,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 248
   },
   {
     "word": "mollycoddle",
@@ -11347,7 +11595,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 249
   },
   {
     "word": "minor",
@@ -11370,7 +11619,8 @@
         "definition": "a subject that you study at university in addition to your major",
         "examples": []
       }
-    ]
+    ],
+    "id": 250
   },
   {
     "word": "motherhood",
@@ -11393,7 +11643,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 251
   },
   {
     "word": "mortician",
@@ -11407,7 +11658,8 @@
         "definition": "a person whose job is to prepare the bodies of dead people to be buried or cremated, and to arrange funerals",
         "examples": []
       }
-    ]
+    ],
+    "id": 252
   },
   {
     "word": "miscarry",
@@ -11430,7 +11682,8 @@
         "definition": "to fail",
         "examples": []
       }
-    ]
+    ],
+    "id": 253
   },
   {
     "word": "morgue",
@@ -11457,7 +11710,8 @@
         "definition": "a place where dead bodies that have been found are kept until they can be identified",
         "examples": []
       }
-    ]
+    ],
+    "id": 254
   },
   {
     "word": "miscarriage",
@@ -11492,7 +11746,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 255
   },
   {
     "word": "mortuary",
@@ -11519,7 +11774,8 @@
         "definition": "a place where dead people are prepared for being buried or cremated (= burned) and where visitors can see the body",
         "examples": []
       }
-    ]
+    ],
+    "id": 256
   },
   {
     "word": "nanny",
@@ -11564,7 +11820,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 257
   },
   {
     "word": "mother-to-be",
@@ -11578,7 +11835,8 @@
         "definition": "a woman who is pregnant",
         "examples": []
       }
-    ]
+    ],
+    "id": 258
   },
   {
     "word": "nappy rash",
@@ -11597,7 +11855,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 259
   },
   {
     "word": "mummify",
@@ -11620,7 +11879,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 260
   },
   {
     "word": "mother",
@@ -11705,7 +11965,8 @@
         "definition": "very much older than somebody (especially used to suggest that a romantic or sexual relationship between the two people is not appropriate)",
         "examples": []
       }
-    ]
+    ],
+    "id": 261
   },
   {
     "word": "newborn",
@@ -11724,7 +11985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 262
   },
   {
     "word": "natal",
@@ -11743,7 +12005,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 263
   },
   {
     "word": "natural childbirth",
@@ -11757,7 +12020,8 @@
         "definition": "a method of giving birth to a baby in which a woman chooses not to take drugs and does special exercises to make her relaxed",
         "examples": []
       }
-    ]
+    ],
+    "id": 264
   },
   {
     "word": "newborn",
@@ -11776,7 +12040,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 265
   },
   {
     "word": "naive",
@@ -11820,7 +12085,8 @@
         "definition": "in a style which is deliberately very simple, often uses bright colours and is similar to that produced by a child",
         "examples": []
       }
-    ]
+    ],
+    "id": 266
   },
   {
     "word": "nappy",
@@ -11855,7 +12121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 267
   },
   {
     "word": "mourner",
@@ -11869,7 +12136,8 @@
         "definition": "a person who attends a funeral, especially a friend or a relative of the dead person",
         "examples": []
       }
-    ]
+    ],
+    "id": 268
   },
   {
     "word": "nuptials",
@@ -11883,7 +12151,8 @@
         "definition": "a wedding",
         "examples": []
       }
-    ]
+    ],
+    "id": 269
   },
   {
     "word": "neonate",
@@ -11897,7 +12166,8 @@
         "definition": "a baby that has recently been born, especially within the last four weeks",
         "examples": []
       }
-    ]
+    ],
+    "id": 270
   },
   {
     "word": "newly-wed",
@@ -11916,7 +12186,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 271
   },
   {
     "word": "nursery",
@@ -11951,7 +12222,8 @@
         "definition": "a place where young plants and trees are grown for sale or for planting somewhere else",
         "examples": []
       }
-    ]
+    ],
+    "id": 272
   },
   {
     "word": "newly-wed",
@@ -11970,7 +12242,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 273
   },
   {
     "word": "nurture",
@@ -11993,7 +12266,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 274
   },
   {
     "word": "nuptial",
@@ -12016,7 +12290,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 275
   },
   {
     "word": "nuclear family",
@@ -12039,7 +12314,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 276
   },
   {
     "word": "OAP",
@@ -12053,7 +12329,8 @@
         "definition": "a person who receives a pension because they have reached a particular age (the abbreviation for old-age pensioner)",
         "examples": []
       }
-    ]
+    ],
+    "id": 277
   },
   {
     "word": "nursing home",
@@ -12072,7 +12349,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 278
   },
   {
     "word": "old age",
@@ -12099,7 +12377,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 279
   },
   {
     "word": "one-parent family",
@@ -12118,7 +12397,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 280
   },
   {
     "word": "old people’s home",
@@ -12132,7 +12412,8 @@
         "definition": "a place where old people live and are cared for",
         "examples": []
       }
-    ]
+    ],
+    "id": 281
   },
   {
     "word": "mothering",
@@ -12155,7 +12436,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 282
   },
   {
     "word": "obstetric",
@@ -12174,7 +12456,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 283
   },
   {
     "word": "old-age pensioner",
@@ -12188,7 +12471,8 @@
         "definition": "a person who receives a pension because they have reached a particular age",
         "examples": []
       }
-    ]
+    ],
+    "id": 284
   },
   {
     "word": "orphan",
@@ -12215,7 +12499,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 285
   },
   {
     "word": "obstetrics",
@@ -12229,7 +12514,8 @@
         "definition": "the branch of medicine that deals with the birth of children",
         "examples": []
       }
-    ]
+    ],
+    "id": 286
   },
   {
     "word": "pageboy",
@@ -12251,7 +12537,8 @@
         "definition": "a hairstyle in which the hair is shoulder-length and turned under at the ends",
         "examples": []
       }
-    ]
+    ],
+    "id": 287
   },
   {
     "word": "parent",
@@ -12274,7 +12561,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 288
   },
   {
     "word": "paternity leave",
@@ -12293,7 +12581,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 289
   },
   {
     "word": "parent",
@@ -12362,7 +12651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 290
   },
   {
     "word": "old",
@@ -12729,7 +13019,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 291
   },
   {
     "word": "pensioner",
@@ -12748,7 +13039,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 292
   },
   {
     "word": "parental",
@@ -12775,7 +13067,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 293
   },
   {
     "word": "nurture",
@@ -12828,7 +13121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 294
   },
   {
     "word": "pension",
@@ -12879,7 +13173,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 295
   },
   {
     "word": "pass away",
@@ -12907,7 +13202,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 296
   },
   {
     "word": "parenting",
@@ -12930,7 +13226,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 297
   },
   {
     "word": "placenta",
@@ -12944,7 +13241,8 @@
         "definition": "an organ inside the uterus of a pregnant woman or animal to which the baby is attached and that is necessary to feed and protect the baby",
         "examples": []
       }
-    ]
+    ],
+    "id": 298
   },
   {
     "word": "partner",
@@ -13034,7 +13332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 299
   },
   {
     "word": "playpen",
@@ -13048,7 +13347,8 @@
         "definition": "a frame with wooden bars or netting that surrounds a small area in which a baby or small child can play safely",
         "examples": []
       }
-    ]
+    ],
+    "id": 300
   },
   {
     "word": "parenthood",
@@ -13071,7 +13371,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 301
   },
   {
     "word": "playroom",
@@ -13085,7 +13386,8 @@
         "definition": "a room in a house for children to play in",
         "examples": []
       }
-    ]
+    ],
+    "id": 302
   },
   {
     "word": "plural",
@@ -13117,7 +13419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 303
   },
   {
     "word": "playschool",
@@ -13131,7 +13434,8 @@
         "definition": "a place where children who are below school age go regularly to play together and to learn through playing",
         "examples": []
       }
-    ]
+    ],
+    "id": 304
   },
   {
     "word": "playgroup",
@@ -13158,7 +13462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 305
   },
   {
     "word": "post-partum",
@@ -13172,7 +13477,8 @@
         "definition": "connected with the period after the birth of a child",
         "examples": []
       }
-    ]
+    ],
+    "id": 306
   },
   {
     "word": "playground",
@@ -13208,7 +13514,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 307
   },
   {
     "word": "playscheme",
@@ -13222,7 +13529,8 @@
         "definition": "a project that provides organized activities for children, especially during school holidays",
         "examples": []
       }
-    ]
+    ],
+    "id": 308
   },
   {
     "word": "postnatal depression",
@@ -13236,7 +13544,8 @@
         "definition": "a medical condition in which a woman feels very sad and anxious in the period after her baby is born, and may have negative thoughts or problems dealing with normal life",
         "examples": []
       }
-    ]
+    ],
+    "id": 309
   },
   {
     "word": "potty-train",
@@ -13250,7 +13559,8 @@
         "definition": "to teach a small child to use a potty or toilet",
         "examples": []
       }
-    ]
+    ],
+    "id": 310
   },
   {
     "word": "pension off",
@@ -13273,7 +13583,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 311
   },
   {
     "word": "perinatal",
@@ -13296,7 +13607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 312
   },
   {
     "word": "postnatal",
@@ -13315,7 +13627,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 313
   },
   {
     "word": "pregnancy",
@@ -13346,7 +13659,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 314
   },
   {
     "word": "pre-teen",
@@ -13369,7 +13683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 315
   },
   {
     "word": "pre-teen",
@@ -13383,7 +13698,8 @@
         "definition": "a young person of about 11 or 12 years of age",
         "examples": []
       }
-    ]
+    ],
+    "id": 316
   },
   {
     "word": "premature",
@@ -13436,7 +13752,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 317
   },
   {
     "word": "post-mortem",
@@ -13472,7 +13789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 318
   },
   {
     "word": "potty-training",
@@ -13486,7 +13804,8 @@
         "definition": "the process of teaching a small child to use a potty or toilet",
         "examples": []
       }
-    ]
+    ],
+    "id": 319
   },
   {
     "word": "pregnant",
@@ -13543,7 +13862,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 320
   },
   {
     "word": "proposal",
@@ -13615,7 +13935,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 321
   },
   {
     "word": "prenuptial agreement",
@@ -13629,7 +13950,8 @@
         "definition": "an agreement made by a couple before they get married in which they say how their money and property is to be divided if they get divorced",
         "examples": []
       }
-    ]
+    ],
+    "id": 322
   },
   {
     "word": "propose",
@@ -13769,7 +14091,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 323
   },
   {
     "word": "prenatal",
@@ -13783,7 +14106,8 @@
         "definition": "relating to the medical care given to pregnant women",
         "examples": []
       }
-    ]
+    ],
+    "id": 324
   },
   {
     "word": "pram",
@@ -13802,7 +14126,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 325
   },
   {
     "word": "pushchair",
@@ -13816,7 +14141,8 @@
         "definition": "a small folding seat on wheels in which a small child sits and is pushed along",
         "examples": []
       }
-    ]
+    ],
+    "id": 326
   },
   {
     "word": "pyre",
@@ -13830,7 +14156,8 @@
         "definition": "a large pile of wood on which a dead body is placed and burned in a funeral ceremony",
         "examples": []
       }
-    ]
+    ],
+    "id": 327
   },
   {
     "word": "reception",
@@ -13967,7 +14294,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 328
   },
   {
     "word": "remembrance",
@@ -14011,7 +14339,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 329
   },
   {
     "word": "remains",
@@ -14052,7 +14381,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 330
   },
   {
     "word": "puberty",
@@ -14071,7 +14401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 331
   },
   {
     "word": "registry office",
@@ -14090,7 +14421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 332
   },
   {
     "word": "pubescent",
@@ -14104,7 +14436,8 @@
         "definition": "in the period of a person’s life when they are changing physically from a child to an adult",
         "examples": []
       }
-    ]
+    ],
+    "id": 333
   },
   {
     "word": "raise",
@@ -14484,7 +14817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 334
   },
   {
     "word": "reminisce",
@@ -14503,7 +14837,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 335
   },
   {
     "word": "retirement community",
@@ -14522,7 +14857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 336
   },
   {
     "word": "retire",
@@ -14621,7 +14957,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 337
   },
   {
     "word": "retirement home",
@@ -14644,7 +14981,8 @@
         "definition": "a place where old people live and are cared for",
         "examples": []
       }
-    ]
+    ],
+    "id": 338
   },
   {
     "word": "reminiscence",
@@ -14685,7 +15023,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 339
   },
   {
     "word": "rear",
@@ -14739,7 +15078,8 @@
         "definition": "if something unpleasant rears its head or rears its ugly head, it appears or happens",
         "examples": []
       }
-    ]
+    ],
+    "id": 340
   },
   {
     "word": "ring bearer",
@@ -14753,7 +15093,8 @@
         "definition": "a person, usually a boy, who carries the rings for the bride and groom at a wedding",
         "examples": []
       }
-    ]
+    ],
+    "id": 341
   },
   {
     "word": "retirement",
@@ -14818,7 +15159,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 342
   },
   {
     "word": "school day",
@@ -14863,7 +15205,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 343
   },
   {
     "word": "ring",
@@ -14997,7 +15340,8 @@
         "definition": "to announce officially that you are going to compete in an election, a competition, etc.",
         "examples": []
       }
-    ]
+    ],
+    "id": 344
   },
   {
     "word": "senility",
@@ -15016,7 +15360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 345
   },
   {
     "word": "ruby wedding",
@@ -15030,7 +15375,8 @@
         "definition": "the 40th anniversary of a wedding",
         "examples": []
       }
-    ]
+    ],
+    "id": 346
   },
   {
     "word": "sarcophagus",
@@ -15044,7 +15390,8 @@
         "definition": "a stone coffin (= box that a dead person is buried in), especially one that is decorated, used in ancient times",
         "examples": []
       }
-    ]
+    ],
+    "id": 347
   },
   {
     "word": "senior",
@@ -15158,7 +15505,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 348
   },
   {
     "word": "rompers",
@@ -15172,7 +15520,8 @@
         "definition": "a piece of clothing worn by a baby, that covers the body and legs",
         "examples": []
       }
-    ]
+    ],
+    "id": 349
   },
   {
     "word": "senior citizen",
@@ -15191,7 +15540,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 350
   },
   {
     "word": "senior",
@@ -15254,7 +15604,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 351
   },
   {
     "word": "role model",
@@ -15277,7 +15628,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 352
   },
   {
     "word": "senior moment",
@@ -15296,7 +15648,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 353
   },
   {
     "word": "SIDS",
@@ -15310,7 +15663,8 @@
         "definition": "the sudden death while sleeping of a baby that appears to be healthy (the abbreviation for ‘sudden infant death syndrome’)",
         "examples": []
       }
-    ]
+    ],
+    "id": 354
   },
   {
     "word": "silver wedding",
@@ -15329,7 +15683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 355
   },
   {
     "word": "scan",
@@ -15365,7 +15720,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 356
   },
   {
     "word": "shroud",
@@ -15401,7 +15757,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 357
   },
   {
     "word": "shower",
@@ -15528,7 +15885,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 358
   },
   {
     "word": "senile",
@@ -15560,7 +15918,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 359
   },
   {
     "word": "single-parent family",
@@ -15574,7 +15933,8 @@
         "definition": "a family in which the children live with one parent rather than two",
         "examples": []
       }
-    ]
+    ],
+    "id": 360
   },
   {
     "word": "shotgun wedding",
@@ -15588,7 +15948,8 @@
         "definition": "a wedding that has to take place quickly because the woman is pregnant",
         "examples": []
       }
-    ]
+    ],
+    "id": 361
   },
   {
     "word": "smacking",
@@ -15615,7 +15976,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 362
   },
   {
     "word": "soother",
@@ -15629,7 +15991,8 @@
         "definition": "a rubber or plastic object with a special shape that a baby sucks on with its lips and tongue",
         "examples": []
       }
-    ]
+    ],
+    "id": 363
   },
   {
     "word": "smack",
@@ -15691,7 +16054,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 364
   },
   {
     "word": "sepulchre",
@@ -15705,7 +16069,8 @@
         "definition": "a place for a dead body, either cut in rock or built of stone",
         "examples": []
       }
-    ]
+    ],
+    "id": 365
   },
   {
     "word": "spanking",
@@ -15728,7 +16093,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 366
   },
   {
     "word": "spank",
@@ -15751,7 +16117,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 367
   },
   {
     "word": "settle down",
@@ -15812,7 +16179,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 368
   },
   {
     "word": "sleepsuit",
@@ -15826,7 +16194,8 @@
         "definition": "a piece of clothing for a baby, which covers the body, arms, and legs, worn especially at night",
         "examples": []
       }
-    ]
+    ],
+    "id": 369
   },
   {
     "word": "socialization",
@@ -15840,7 +16209,8 @@
         "definition": "the process by which somebody, especially a child, learns to behave in a way that is acceptable in their society",
         "examples": []
       }
-    ]
+    ],
+    "id": 370
   },
   {
     "word": "spry",
@@ -15854,7 +16224,8 @@
         "definition": "full of life and energy",
         "examples": []
       }
-    ]
+    ],
+    "id": 371
   },
   {
     "word": "spoon-feed",
@@ -15885,7 +16256,8 @@
         "definition": "to feed somebody, especially a baby, with a spoon",
         "examples": []
       }
-    ]
+    ],
+    "id": 372
   },
   {
     "word": "sprightly",
@@ -15908,7 +16280,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 373
   },
   {
     "word": "stag night",
@@ -15922,7 +16295,8 @@
         "definition": "a party that a man has with his (usually male) friends just before he gets married",
         "examples": []
       }
-    ]
+    ],
+    "id": 374
   },
   {
     "word": "somebody’s waters break",
@@ -16238,7 +16612,8 @@
         "definition": "you can give somebody the opportunity to do something, but you cannot force them to do it if they do not want to",
         "examples": []
       }
-    ]
+    ],
+    "id": 375
   },
   {
     "word": "single parent",
@@ -16252,7 +16627,8 @@
         "definition": "a person who takes care of their child or children without a husband, wife or partner",
         "examples": []
       }
-    ]
+    ],
+    "id": 376
   },
   {
     "word": "sperm bank",
@@ -16266,7 +16642,8 @@
         "definition": "a place where sperm is kept and then used to help women become pregnant artificially",
         "examples": []
       }
-    ]
+    ],
+    "id": 377
   },
   {
     "word": "sprightliness",
@@ -16280,7 +16657,8 @@
         "definition": "the quality, especially in older people, of being full of life and energy",
         "examples": []
       }
-    ]
+    ],
+    "id": 378
   },
   {
     "word": "stretch marks",
@@ -16294,7 +16672,8 @@
         "definition": "the marks that are left on a person’s skin after it has been stretched, particularly after a woman has been pregnant",
         "examples": []
       }
-    ]
+    ],
+    "id": 379
   },
   {
     "word": "stroller",
@@ -16317,7 +16696,8 @@
         "definition": "a small folding seat on wheels in which a small child sits and is pushed along",
         "examples": []
       }
-    ]
+    ],
+    "id": 380
   },
   {
     "word": "suckle",
@@ -16349,7 +16729,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 381
   },
   {
     "word": "stay-at-home",
@@ -16363,7 +16744,8 @@
         "definition": "a stay-at-home mother or father is one who stays at home to take care of their children instead of going out to work",
         "examples": []
       }
-    ]
+    ],
+    "id": 382
   },
   {
     "word": "suckling",
@@ -16381,7 +16763,8 @@
         "definition": "used when a small child has just said something that seems very wise or clever",
         "examples": []
       }
-    ]
+    ],
+    "id": 383
   },
   {
     "word": "surrogacy",
@@ -16395,7 +16778,8 @@
         "definition": "the practice of giving birth to a baby for another person or couple, usually because they are unable to have babies themselves",
         "examples": []
       }
-    ]
+    ],
+    "id": 384
   },
   {
     "word": "stillbirth",
@@ -16409,7 +16793,8 @@
         "definition": "a birth in which the baby is born dead",
         "examples": []
       }
-    ]
+    ],
+    "id": 385
   },
   {
     "word": "teenage",
@@ -16440,7 +16825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 386
   },
   {
     "word": "tearaway",
@@ -16454,7 +16840,8 @@
         "definition": "a young person who is difficult to control and often does stupid, dangerous and/or illegal things",
         "examples": []
       }
-    ]
+    ],
+    "id": 387
   },
   {
     "word": "tantrum",
@@ -16481,7 +16868,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 388
   },
   {
     "word": "teenager",
@@ -16508,7 +16896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 389
   },
   {
     "word": "test-tube baby",
@@ -16522,7 +16911,8 @@
         "definition": "a baby that grows from an egg that is fertilized outside the mother’s body and then put back inside to continue developing inside the mother's body",
         "examples": []
       }
-    ]
+    ],
+    "id": 390
   },
   {
     "word": "toddler",
@@ -16545,7 +16935,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 391
   },
   {
     "word": "termination",
@@ -16573,7 +16964,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 392
   },
   {
     "word": "surrogate",
@@ -16596,7 +16988,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 393
   },
   {
     "word": "tot",
@@ -16624,7 +17017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 394
   },
   {
     "word": "toilet-train",
@@ -16638,7 +17032,8 @@
         "definition": "to teach a small child to use the toilet",
         "examples": []
       }
-    ]
+    ],
+    "id": 395
   },
   {
     "word": "teens",
@@ -16661,7 +17056,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 396
   },
   {
     "word": "toddle",
@@ -16693,7 +17089,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 397
   },
   {
     "word": "trimester",
@@ -16721,7 +17118,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 398
   },
   {
     "word": "teethe",
@@ -16735,7 +17133,8 @@
         "definition": "when a baby is teething, its first teeth are starting to grow",
         "examples": []
       }
-    ]
+    ],
+    "id": 399
   },
   {
     "word": "telling-off",
@@ -16754,7 +17153,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 400
   },
   {
     "word": "tween",
@@ -16768,7 +17168,8 @@
         "definition": "a child between the ages of about 10 and 12",
         "examples": []
       }
-    ]
+    ],
+    "id": 401
   },
   {
     "word": "umbilical cord",
@@ -16782,7 +17183,8 @@
         "definition": "a long piece of tissue that connects a baby to its mother before it is born and is cut at the moment of birth",
         "examples": []
       }
-    ]
+    ],
+    "id": 402
   },
   {
     "word": "toast",
@@ -16839,7 +17241,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 403
   },
   {
     "word": "terminate",
@@ -16875,7 +17278,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 404
   },
   {
     "word": "toilet-training",
@@ -16889,7 +17293,8 @@
         "definition": "the process of teaching a small child to use the toilet",
         "examples": []
       }
-    ]
+    ],
+    "id": 405
   },
   {
     "word": "undertaker",
@@ -16903,7 +17308,8 @@
         "definition": "a person whose job is to prepare the bodies of dead people to be buried or cremated, and to arrange funerals",
         "examples": []
       }
-    ]
+    ],
+    "id": 406
   },
   {
     "word": "underage",
@@ -16922,7 +17328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 407
   },
   {
     "word": "upbringing",
@@ -16945,7 +17352,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 408
   },
   {
     "word": "unmarried",
@@ -16976,7 +17384,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 409
   },
   {
     "word": "urn",
@@ -17003,7 +17412,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 410
   },
   {
     "word": "unborn",
@@ -17022,7 +17432,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 411
   },
   {
     "word": "wake",
@@ -17057,7 +17468,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 412
   },
   {
     "word": "union",
@@ -17189,7 +17601,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 413
   },
   {
     "word": "venerable",
@@ -17229,7 +17642,8 @@
         "definition": "(in the Roman Catholic Church) a title given to a dead person who is very holy but who has not yet been made a saint",
         "examples": []
       }
-    ]
+    ],
+    "id": 414
   },
   {
     "word": "walker",
@@ -17265,7 +17679,8 @@
         "definition": "a frame with wheels and a harness that enables a baby to walk around a room, supported by the frame",
         "examples": []
       }
-    ]
+    ],
+    "id": 415
   },
   {
     "word": "wardship",
@@ -17279,7 +17694,8 @@
         "definition": "the fact of a child being cared for by a guardian (= a person who is not his or her parent) or of being protected by a court",
         "examples": []
       }
-    ]
+    ],
+    "id": 416
   },
   {
     "word": "ward",
@@ -17315,7 +17731,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 417
   },
   {
     "word": "vow",
@@ -17346,7 +17763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 418
   },
   {
     "word": "vow",
@@ -17377,7 +17795,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 419
   },
   {
     "word": "wedding",
@@ -17432,7 +17851,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 420
   },
   {
     "word": "wedding anniversary",
@@ -17451,7 +17871,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 421
   },
   {
     "word": "wedding band",
@@ -17470,7 +17891,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 422
   },
   {
     "word": "wedlock",
@@ -17489,7 +17911,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 423
   },
   {
     "word": "white wedding",
@@ -17503,7 +17926,8 @@
         "definition": "a traditional wedding, especially in a church, at which the bride wears a white dress",
         "examples": []
       }
-    ]
+    ],
+    "id": 424
   },
   {
     "word": "wedding cake",
@@ -17517,7 +17941,8 @@
         "definition": "a special cake eaten at a wedding party, usually covered with icing and with several layers",
         "examples": []
       }
-    ]
+    ],
+    "id": 425
   },
   {
     "word": "widower",
@@ -17531,7 +17956,8 @@
         "definition": "a man whose wife or husband has died and who has not married again",
         "examples": []
       }
-    ]
+    ],
+    "id": 426
   },
   {
     "word": "wedding party",
@@ -17559,7 +17985,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 427
   },
   {
     "word": "winding sheet",
@@ -17573,7 +18000,8 @@
         "definition": "(especially in the past) a piece of cloth that a dead person’s body was wrapped in before it was buried",
         "examples": []
       }
-    ]
+    ],
+    "id": 428
   },
   {
     "word": "wedding ring",
@@ -17587,7 +18015,8 @@
         "definition": "a ring, usually in the form of a plain gold band, that is given during a marriage ceremony and worn afterwards to show that you are married",
         "examples": []
       }
-    ]
+    ],
+    "id": 429
   },
   {
     "word": "womanhood",
@@ -17615,7 +18044,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 430
   },
   {
     "word": "wizened",
@@ -17642,7 +18072,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 431
   },
   {
     "word": "widowhood",
@@ -17656,7 +18087,8 @@
         "definition": "the state or period of being a widow or widower",
         "examples": []
       }
-    ]
+    ],
+    "id": 432
   },
   {
     "word": "wedding dress",
@@ -17670,7 +18102,8 @@
         "definition": "a dress worn by a woman who is getting married, especially a long white dress",
         "examples": []
       }
-    ]
+    ],
+    "id": 433
   },
   {
     "word": "wedding reception",
@@ -17689,7 +18122,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 434
   },
   {
     "word": "wisdom",
@@ -17761,7 +18195,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 435
   },
   {
     "word": "young adult",
@@ -17780,7 +18215,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 436
   },
   {
     "word": "widow",
@@ -17799,7 +18235,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 437
   },
   {
     "word": "youthful",
@@ -17827,7 +18264,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 438
   },
   {
     "word": "youngster",
@@ -17846,7 +18284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 439
   },
   {
     "word": "wunderkind",
@@ -17860,7 +18299,8 @@
         "definition": "a person who is very successful at a young age",
         "examples": []
       }
-    ]
+    ],
+    "id": 440
   },
   {
     "word": "young",
@@ -18055,7 +18495,8 @@
         "definition": "young people should enjoy themselves as much as possible, because they will have to work and worry later in their lives",
         "examples": []
       }
-    ]
+    ],
+    "id": 441
   },
   {
     "word": "youth",
@@ -18141,7 +18582,8 @@
           }
         ]
       }
-    ]
+    ],
+    "id": 442
   },
   {
     "word": "woman",
@@ -18301,7 +18743,8 @@
         "definition": "a person with a lot of experience of life, who is not easily surprised or shocked",
         "examples": []
       }
-    ]
+    ],
+    "id": 443
   },
   {
     "word": "wise",
@@ -18414,6 +18857,7 @@
         "definition": "to inform somebody about something",
         "examples": []
       }
-    ]
+    ],
+    "id": 444
   }
 ]
