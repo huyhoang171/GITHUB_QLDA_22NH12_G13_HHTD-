@@ -58,5 +58,305 @@
     "phonetic": "/haʊ fɑːr ɪz ði ˈɛəpɔːrt/",
     "vietnamese": "Sân bay cách đây bao xa?",
     "audio": "how_far_is_the_airport.mp3"
+  },
+  {
+    "english": "Can you show me the way to the train station?",
+    "phonetic": "/kæn juː ʃoʊ miː ðə weɪ tuː ðə treɪn ˈsteɪʃən/",
+    "vietnamese": "Bạn có thể chỉ tôi đường đến ga tàu không?",
+    "audio": "can_you_show_me_the_way_to_the_train_station.mp3"
+  },
+  {
+    "english": "Is this seat taken?",
+    "phonetic": "/ɪz ðɪs siːt ˈteɪkən/",
+    "vietnamese": "Chỗ này có ai ngồi chưa?",
+    "audio": "is_this_seat_taken.mp3"
+  },
+  {
+    "english": "How long does the journey take?",
+    "phonetic": "/haʊ lɔːŋ dʌz ðə ˈdʒɜːrni teɪk/",
+    "vietnamese": "Chuyến đi này mất bao lâu?",
+    "audio": "how_long_does_the_journey_take.mp3"
+  },
+  {
+    "english": "Can I get a map of the city?",
+    "phonetic": "/kæn aɪ ɡɛt ə mæp ʌv ðə ˈsɪti/",
+    "vietnamese": "Tôi có thể lấy bản đồ thành phố không?",
+    "audio": "can_i_get_a_map_of_the_city.mp3"
+  },
+  {
+    "english": "What is the best way to get downtown?",
+    "phonetic": "/wʌt ɪz ðə bɛst weɪ tuː ɡɛt ˌdaʊnˈtaʊn/",
+    "vietnamese": "Cách tốt nhất để đến trung tâm là gì?",
+    "audio": "what_is_the_best_way_to_get_downtown.mp3"
+  },
+  {
+    "english": "Do you have any recommendations for restaurants?",
+    "phonetic": "/duː juː hæv ˈɛni ˌrɛkəmɛnˈdeɪʃənz fɔːr ˈrɛstərənts/",
+    "vietnamese": "Bạn có gợi ý nhà hàng nào không?",
+    "audio": "do_you_have_any_recommendations_for_restaurants.mp3"
+  },
+  {
+    "english": "Can I pay by credit card?",
+    "phonetic": "/kæn aɪ peɪ baɪ ˈkrɛdɪt kɑːrd/",
+    "vietnamese": "Tôi có thể thanh toán bằng thẻ tín dụng không?",
+    "audio": "can_i_pay_by_credit_card.mp3"
+  },
+  {
+    "english": "Where is the nearest ATM?",
+    "phonetic": "/wɛr ɪz ðə ˈnɪrɪst ˌeɪtiːˈɛm/",
+    "vietnamese": "Cây ATM gần nhất ở đâu?",
+    "audio": "where_is_the_nearest_atm.mp3"
+  },
+  {
+    "english": "What time is check-out?",
+    "phonetic": "/wʌt taɪm ɪz ˈtʃɛk aʊt/",
+    "vietnamese": "Khi nào phải trả phòng?",
+    "audio": "what_time_is_check_out.mp3"
+  },
+  {
+    "english": "Can I have a wake-up call?",
+    "phonetic": "/kæn aɪ hæv ə ˈweɪk ʌp kɔːl/",
+    "vietnamese": "Tôi có thể đặt báo thức không?",
+    "audio": "can_i_have_a_wake_up_call.mp3"
+  },
+  {
+    "english": "Is breakfast included?",
+    "phonetic": "/ɪz ˈbrɛkfəst ɪnˈkluːdɪd/",
+    "vietnamese": "Bữa sáng đã bao gồm chưa?",
+    "audio": "is_breakfast_included.mp3"
+  },
+  {
+    "english": "Can I get a late check-out?",
+    "phonetic": "/kæn aɪ ɡɛt ə leɪt ˈtʃɛk aʊt/",
+    "vietnamese": "Tôi có thể trả phòng muộn không?",
+    "audio": "can_i_get_a_late_check_out.mp3"
+  },
+  {
+    "english": "Where can I rent a car?",
+    "phonetic": "/wɛr kæn aɪ rɛnt ə kɑːr/",
+    "vietnamese": "Tôi có thể thuê xe ở đâu?",
+    "audio": "where_can_i_rent_a_car.mp3"
+  },
+  {
+    "english": "Is there a pharmacy nearby?",
+    "phonetic": "/ɪz ðɛr ə ˈfɑːrməsi ˈnɪrbaɪ/",
+    "vietnamese": "Có hiệu thuốc nào gần đây không?",
+    "audio": "is_there_a_pharmacy_nearby.mp3"
+  },
+  {
+    "english": "Can you take a picture of us?",
+    "phonetic": "/kæn juː teɪk ə ˈpɪktʃər ʌv ʌs/",
+    "vietnamese": "Bạn có thể chụp ảnh giúp chúng tôi không?",
+    "audio": "can_you_take_a_picture_of_us.mp3"
+  },
+  {
+    "english": "How do I get to the museum?",
+    "phonetic": "/haʊ duː aɪ ɡɛt tuː ðə mjuːˈziːəm/",
+    "vietnamese": "Làm sao để đến bảo tàng?",
+    "audio": "how_do_i_get_to_the_museum.mp3"
+  },
+  {
+    "english": "Is there a hospital nearby?",
+    "phonetic": "/ɪz ðɛr ə ˈhɒspɪtəl ˈnɪrbaɪ/",
+    "vietnamese": "Có bệnh viện nào gần đây không?",
+    "audio": "is_there_a_hospital_nearby.mp3"
+  },
+  {
+    "english": "Can I have a non-smoking room?",
+    "phonetic": "/kæn aɪ hæv ə nɒn ˈsmoʊkɪŋ ruːm/",
+    "vietnamese": "Tôi có thể lấy phòng không hút thuốc không?",
+    "audio": "can_i_have_a_non_smoking_room.mp3"
+  },
+  {
+    "english": "What is the exchange rate?",
+    "phonetic": "/wʌt ɪz ði ɪksˈtʃeɪndʒ reɪt/",
+    "vietnamese": "Tỷ giá hối đoái là bao nhiêu?",
+    "audio": "what_is_the_exchange_rate.mp3"
+  },
+  {
+    "english": "Can I get a receipt, please?",
+    "phonetic": "/kæn aɪ ɡɛt ə rɪˈsiːt pliːz/",
+    "vietnamese": "Tôi có thể lấy hóa đơn không?",
+    "audio": "can_i_get_a_receipt_please.mp3"
+  },
+  {
+    "english": "Where is the tourist information center?",
+    "phonetic": "/wɛr ɪz ðə ˈtʊrɪst ˌɪnfərˈmeɪʃən ˈsɛntər/",
+    "vietnamese": "Trung tâm thông tin du lịch ở đâu?",
+    "audio": "where_is_the_tourist_information_center.mp3"
+  },
+  {
+    "english": "Is there a supermarket nearby?",
+    "phonetic": "/ɪz ðɛr ə ˈsuːpərˌmɑːrkɪt ˈnɪrbaɪ/",
+    "vietnamese": "Có siêu thị nào gần đây không?",
+    "audio": "is_there_a_supermarket_nearby.mp3"
+  },
+  {
+    "english": "Can I get a ticket to the city center?",
+    "phonetic": "/kæn aɪ ɡɛt ə ˈtɪkɪt tuː ðə ˈsɪti ˈsɛntər/",
+    "vietnamese": "Tôi có thể mua vé đến trung tâm thành phố không?",
+    "audio": "can_i_get_a_ticket_to_the_city_center.mp3"
+  },
+  {
+    "english": "What platform does the train leave from?",
+    "phonetic": "/wʌt ˈplætfɔːrm dʌz ðə treɪn liːv frɒm/",
+    "vietnamese": "Tàu rời đi từ sân ga nào?",
+    "audio": "what_platform_does_the_train_leave_from.mp3"
+  },
+  {
+    "english": "Is there a direct bus to the airport?",
+    "phonetic": "/ɪz ðɛr ə dəˈrɛkt bʌs tuː ði ˈɛəpɔːrt/",
+    "vietnamese": "Có xe buýt thẳng đến sân bay không?",
+    "audio": "is_there_a_direct_bus_to_the_airport.mp3"
+  },
+  {
+    "english": "Can I have a window seat?",
+    "phonetic": "/kæn aɪ hæv ə ˈwɪndoʊ siːt/",
+    "vietnamese": "Tôi có thể ngồi gần cửa sổ không?",
+    "audio": "can_i_have_a_window_seat.mp3"
+  },
+  {
+    "english": "How much is a ticket to Paris?",
+    "phonetic": "/haʊ mʌtʃ ɪz ə ˈtɪkɪt tuː ˈpærɪs/",
+    "vietnamese": "Vé đi Paris giá bao nhiêu?",
+    "audio": "how_much_is_a_ticket_to_paris.mp3"
+  },
+  {
+    "english": "Can you recommend a good hotel?",
+    "phonetic": "/kæn juː ˌrɛkəˈmɛnd ə ɡʊd hoʊˈtɛl/",
+    "vietnamese": "Bạn có thể giới thiệu khách sạn tốt không?",
+    "audio": "can_you_recommend_a_good_hotel.mp3"
+  },
+  {
+    "english": "Is there a bus to the beach?",
+    "phonetic": "/ɪz ðɛr ə bʌs tuː ðə biːtʃ/",
+    "vietnamese": "Có xe buýt đến bãi biển không?",
+    "audio": "is_there_a_bus_to_the_beach.mp3"
+  },
+  {
+    "english": "Can I have a glass of water?",
+    "phonetic": "/kæn aɪ hæv ə ɡlæs ʌv ˈwɔːtər/",
+    "vietnamese": "Tôi có thể xin một ly nước không?",
+    "audio": "can_i_have_a_glass_of_water.mp3"
+  },
+  {
+    "english": "Where is the nearest police station?",
+    "phonetic": "/wɛr ɪz ðə ˈnɪrɪst pəˈliːs ˈsteɪʃən/",
+    "vietnamese": "Đồn cảnh sát gần nhất ở đâu?",
+    "audio": "where_is_the_nearest_police_station.mp3"
+  },
+  {
+    "english": "Can I get a SIM card here?",
+    "phonetic": "/kæn aɪ ɡɛt ə sɪm kɑːrd hɪr/",
+    "vietnamese": "Tôi có thể mua SIM ở đây không?",
+    "audio": "can_i_get_a_sim_card_here.mp3"
+  },
+  {
+    "english": "Is there a laundry service?",
+    "phonetic": "/ɪz ðɛr ə ˈlɔːndri ˈsɜːrvɪs/",
+    "vietnamese": "Có dịch vụ giặt là không?",
+    "audio": "is_there_a_laundry_service.mp3"
+  },
+  {
+    "english": "Can I have the bill, please?",
+    "phonetic": "/kæn aɪ hæv ðə bɪl pliːz/",
+    "vietnamese": "Làm ơn cho tôi xin hóa đơn.",
+    "audio": "can_i_have_the_bill_please.mp3"
+  },
+  {
+    "english": "What time does the museum close?",
+    "phonetic": "/wʌt taɪm dʌz ðə mjuːˈziːəm kloʊz/",
+    "vietnamese": "Bảo tàng đóng cửa lúc mấy giờ?",
+    "audio": "what_time_does_the_museum_close.mp3"
+  },
+  {
+    "english": "Is there a public restroom nearby?",
+    "phonetic": "/ɪz ðɛr ə ˈpʌblɪk ˈrɛstrʊm ˈnɪrbaɪ/",
+    "vietnamese": "Có nhà vệ sinh công cộng gần đây không?",
+    "audio": "is_there_a_public_restroom_nearby.mp3"
+  },
+  {
+    "english": "Can I have a blanket, please?",
+    "phonetic": "/kæn aɪ hæv ə ˈblæŋkɪt pliːz/",
+    "vietnamese": "Tôi có thể xin một cái chăn không?",
+    "audio": "can_i_have_a_blanket_please.mp3"
+  },
+  {
+    "english": "Where can I buy souvenirs?",
+    "phonetic": "/wɛr kæn aɪ baɪ ˌsuːvəˈnɪrz/",
+    "vietnamese": "Tôi có thể mua quà lưu niệm ở đâu?",
+    "audio": "where_can_i_buy_souvenirs.mp3"
+  },
+  {
+    "english": "How do I get to the city center?",
+    "phonetic": "/haʊ duː aɪ ɡɛt tuː ðə ˈsɪti ˈsɛntər/",
+    "vietnamese": "Làm sao để đến trung tâm thành phố?",
+    "audio": "how_do_i_get_to_the_city_center.mp3"
+  },
+  {
+    "english": "Is there a currency exchange nearby?",
+    "phonetic": "/ɪz ðɛr ə ˈkɜːrənsi ɪksˈtʃeɪndʒ ˈnɪrbaɪ/",
+    "vietnamese": "Có nơi đổi tiền gần đây không?",
+    "audio": "is_there_a_currency_exchange_nearby.mp3"
+  },
+  {
+    "english": "Can I have a taxi to the airport?",
+    "phonetic": "/kæn aɪ hæv ə ˈtæksi tuː ði ˈɛəpɔːrt/",
+    "vietnamese": "Tôi có thể gọi taxi đến sân bay không?",
+    "audio": "can_i_have_a_taxi_to_the_airport.mp3"
+  },
+  {
+    "english": "Where is the embassy?",
+    "phonetic": "/wɛr ɪz ði ˈɛmbəsi/",
+    "vietnamese": "Đại sứ quán ở đâu?",
+    "audio": "where_is_the_embassy.mp3"
+  },
+  {
+    "english": "Can I get a guidebook?",
+    "phonetic": "/kæn aɪ ɡɛt ə ˈɡaɪdbʊk/",
+    "vietnamese": "Tôi có thể lấy sách hướng dẫn không?",
+    "audio": "can_i_get_a_guidebook.mp3"
+  },
+  {
+    "english": "Is there a place to store luggage?",
+    "phonetic": "/ɪz ðɛr ə pleɪs tuː stɔːr ˈlʌɡɪdʒ/",
+    "vietnamese": "Có chỗ gửi hành lý không?",
+    "audio": "is_there_a_place_to_store_luggage.mp3"
+  },
+  {
+    "english": "Can I have a vegetarian meal?",
+    "phonetic": "/kæn aɪ hæv ə ˌvɛdʒəˈtɛriən miːl/",
+    "vietnamese": "Tôi có thể ăn chay không?",
+    "audio": "can_i_have_a_vegetarian_meal.mp3"
+  },
+  {
+    "english": "How do I get to the nearest metro station?",
+    "phonetic": "/haʊ duː aɪ ɡɛt tuː ðə ˈnɪrɪst ˈmɛtroʊ ˈsteɪʃən/",
+    "vietnamese": "Làm sao để đến ga tàu điện ngầm gần nhất?",
+    "audio": "how_do_i_get_to_the_nearest_metro_station.mp3"
+  },
+  {
+    "english": "Is there a doctor available?",
+    "phonetic": "/ɪz ðɛr ə ˈdɒktər əˈveɪləbl/",
+    "vietnamese": "Có bác sĩ nào ở đây không?",
+    "audio": "is_there_a_doctor_available.mp3"
+  },
+  {
+    "english": "Can I have a room with a view?",
+    "phonetic": "/kæn aɪ hæv ə ruːm wɪð ə vjuː/",
+    "vietnamese": "Tôi có thể lấy phòng có view không?",
+    "audio": "can_i_have_a_room_with_a_view.mp3"
+  },
+  {
+    "english": "Where can I buy a ticket?",
+    "phonetic": "/wɛr kæn aɪ baɪ ə ˈtɪkɪt/",
+    "vietnamese": "Tôi có thể mua vé ở đâu?",
+    "audio": "where_can_i_buy_a_ticket.mp3"
+  },
+  {
+    "english": "Is there a shuttle bus to the hotel?",
+    "phonetic": "/ɪz ðɛr ə ˈʃʌtl bʌs tuː ðə hoʊˈtɛl/",
+    "vietnamese": "Có xe buýt đưa đón đến khách sạn không?",
+    "audio": "is_there_a_shuttle_bus_to_the_hotel.mp3"
   }
 ]

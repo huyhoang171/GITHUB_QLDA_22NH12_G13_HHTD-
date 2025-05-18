@@ -58,5 +58,281 @@
     "phonetic": "/lɛt miː ˌɪntrəˈdjuːs maɪˈsɛlf/",
     "vietnamese": "Để tôi tự giới thiệu bản thân.",
     "audio": "let_me_introduce_myself.mp3"
+  },
+  {
+    "english": "I am 25 years old.",
+    "phonetic": "/aɪ æm twɛnti faɪv jɪrz oʊld/",
+    "vietnamese": "Tôi 25 tuổi.",
+    "audio": "i_am_25_years_old.mp3"
+  },
+  {
+    "english": "I live in Hanoi.",
+    "phonetic": "/aɪ lɪv ɪn hæˈnɔɪ/",
+    "vietnamese": "Tôi sống ở Hà Nội.",
+    "audio": "i_live_in_hanoi.mp3"
+  },
+  {
+    "english": "I am a software engineer.",
+    "phonetic": "/aɪ æm ə ˈsɒftwɛr ˌɛnʤɪˈnɪr/",
+    "vietnamese": "Tôi là kỹ sư phần mềm.",
+    "audio": "i_am_a_software_engineer.mp3"
+  },
+  {
+    "english": "I like reading books.",
+    "phonetic": "/aɪ laɪk ˈriːdɪŋ bʊks/",
+    "vietnamese": "Tôi thích đọc sách.",
+    "audio": "i_like_reading_books.mp3"
+  },
+  {
+    "english": "My favorite color is blue.",
+    "phonetic": "/maɪ ˈfeɪvərɪt ˈkʌlər ɪz bluː/",
+    "vietnamese": "Màu yêu thích của tôi là màu xanh dương.",
+    "audio": "my_favorite_color_is_blue.mp3"
+  },
+  {
+    "english": "I have two brothers.",
+    "phonetic": "/aɪ hæv tuː ˈbrʌðərz/",
+    "vietnamese": "Tôi có hai anh/em trai.",
+    "audio": "i_have_two_brothers.mp3"
+  },
+  {
+    "english": "I am single.",
+    "phonetic": "/aɪ æm ˈsɪŋɡl/",
+    "vietnamese": "Tôi độc thân.",
+    "audio": "i_am_single.mp3"
+  },
+  {
+    "english": "I love playing football.",
+    "phonetic": "/aɪ lʌv ˈpleɪɪŋ ˈfʊtbɔːl/",
+    "vietnamese": "Tôi thích chơi bóng đá.",
+    "audio": "i_love_playing_football.mp3"
+  },
+  {
+    "english": "I can speak English and Vietnamese.",
+    "phonetic": "/aɪ kæn spiːk ˈɪŋɡlɪʃ ənd ˌviːetˈnæmiz/",
+    "vietnamese": "Tôi có thể nói tiếng Anh và tiếng Việt.",
+    "audio": "i_can_speak_english_and_vietnamese.mp3"
+  },
+  {
+    "english": "I graduated from university last year.",
+    "phonetic": "/aɪ ˈɡrædʒueɪtɪd frɒm ˌjuːnɪˈvɜːrsɪti læst jɪr/",
+    "vietnamese": "Tôi tốt nghiệp đại học năm ngoái.",
+    "audio": "i_graduated_from_university_last_year.mp3"
+  },
+  {
+    "english": "I am interested in music.",
+    "phonetic": "/aɪ æm ˈɪntrəstɪd ɪn ˈmjuːzɪk/",
+    "vietnamese": "Tôi quan tâm đến âm nhạc.",
+    "audio": "i_am_interested_in_music.mp3"
+  },
+  {
+    "english": "I have a pet cat.",
+    "phonetic": "/aɪ hæv ə pɛt kæt/",
+    "vietnamese": "Tôi có một con mèo cưng.",
+    "audio": "i_have_a_pet_cat.mp3"
+  },
+  {
+    "english": "I am married.",
+    "phonetic": "/aɪ æm ˈmærid/",
+    "vietnamese": "Tôi đã kết hôn.",
+    "audio": "i_am_married.mp3"
+  },
+  {
+    "english": "I enjoy cooking.",
+    "phonetic": "/aɪ ɪnˈʤɔɪ ˈkʊkɪŋ/",
+    "vietnamese": "Tôi thích nấu ăn.",
+    "audio": "i_enjoy_cooking.mp3"
+  },
+  {
+    "english": "I am learning English.",
+    "phonetic": "/aɪ æm ˈlɜːrnɪŋ ˈɪŋɡlɪʃ/",
+    "vietnamese": "Tôi đang học tiếng Anh.",
+    "audio": "i_am_learning_english.mp3"
+  },
+  {
+    "english": "I like traveling.",
+    "phonetic": "/aɪ laɪk ˈtrævəlɪŋ/",
+    "vietnamese": "Tôi thích đi du lịch.",
+    "audio": "i_like_traveling.mp3"
+  },
+  {
+    "english": "I am the youngest in my family.",
+    "phonetic": "/aɪ æm ðə ˈjʌŋɡɪst ɪn maɪ ˈfæmɪli/",
+    "vietnamese": "Tôi là con út trong gia đình.",
+    "audio": "i_am_the_youngest_in_my_family.mp3"
+  },
+  {
+    "english": "I work in a hospital.",
+    "phonetic": "/aɪ wɜːrk ɪn ə ˈhɒspɪtl/",
+    "vietnamese": "Tôi làm việc ở bệnh viện.",
+    "audio": "i_work_in_a_hospital.mp3"
+  },
+  {
+    "english": "I am an only child.",
+    "phonetic": "/aɪ æm ən ˈoʊnli tʃaɪld/",
+    "vietnamese": "Tôi là con một.",
+    "audio": "i_am_an_only_child.mp3"
+  },
+  {
+    "english": "I like watching movies.",
+    "phonetic": "/aɪ laɪk ˈwɒtʃɪŋ ˈmuːviz/",
+    "vietnamese": "Tôi thích xem phim.",
+    "audio": "i_like_watching_movies.mp3"
+  },
+  {
+    "english": "I am from Ho Chi Minh City.",
+    "phonetic": "/aɪ æm frɒm hoʊ tʃiː mɪn ˈsɪti/",
+    "vietnamese": "Tôi đến từ thành phố Hồ Chí Minh.",
+    "audio": "i_am_from_ho_chi_minh_city.mp3"
+  },
+  {
+    "english": "I am a doctor.",
+    "phonetic": "/aɪ æm ə ˈdɒktər/",
+    "vietnamese": "Tôi là bác sĩ.",
+    "audio": "i_am_a_doctor.mp3"
+  },
+  {
+    "english": "I have a younger sister.",
+    "phonetic": "/aɪ hæv ə ˈjʌŋɡər ˈsɪstər/",
+    "vietnamese": "Tôi có một em gái.",
+    "audio": "i_have_a_younger_sister.mp3"
+  },
+  {
+    "english": "I am a graphic designer.",
+    "phonetic": "/aɪ æm ə ˈɡræfɪk dɪˈzaɪnər/",
+    "vietnamese": "Tôi là nhà thiết kế đồ họa.",
+    "audio": "i_am_a_graphic_designer.mp3"
+  },
+  {
+    "english": "I love animals.",
+    "phonetic": "/aɪ lʌv ˈænɪməlz/",
+    "vietnamese": "Tôi yêu động vật.",
+    "audio": "i_love_animals.mp3"
+  },
+  {
+    "english": "I am a high school student.",
+    "phonetic": "/aɪ æm ə haɪ skuːl ˈstjuːdənt/",
+    "vietnamese": "Tôi là học sinh trung học.",
+    "audio": "i_am_a_high_school_student.mp3"
+  },
+  {
+    "english": "I like listening to music.",
+    "phonetic": "/aɪ laɪk ˈlɪsənɪŋ tə ˈmjuːzɪk/",
+    "vietnamese": "Tôi thích nghe nhạc.",
+    "audio": "i_like_listening_to_music.mp3"
+  },
+  {
+    "english": "I am a university student.",
+    "phonetic": "/aɪ æm ə ˌjuːnɪˈvɜːrsɪti ˈstjuːdənt/",
+    "vietnamese": "Tôi là sinh viên đại học.",
+    "audio": "i_am_a_university_student.mp3"
+  },
+  {
+    "english": "I am from the countryside.",
+    "phonetic": "/aɪ æm frɒm ðə ˈkʌntrisaɪd/",
+    "vietnamese": "Tôi đến từ nông thôn.",
+    "audio": "i_am_from_the_countryside.mp3"
+  },
+  {
+    "english": "I am a nurse.",
+    "phonetic": "/aɪ æm ə nɜːrs/",
+    "vietnamese": "Tôi là y tá.",
+    "audio": "i_am_a_nurse.mp3"
+  },
+  {
+    "english": "I am 30 years old.",
+    "phonetic": "/aɪ æm ˈθɜːrti jɪrz oʊld/",
+    "vietnamese": "Tôi 30 tuổi.",
+    "audio": "i_am_30_years_old.mp3"
+  },
+  {
+    "english": "I am a tour guide.",
+    "phonetic": "/aɪ æm ə tʊr ɡaɪd/",
+    "vietnamese": "Tôi là hướng dẫn viên du lịch.",
+    "audio": "i_am_a_tour_guide.mp3"
+  },
+  {
+    "english": "I am a businesswoman.",
+    "phonetic": "/aɪ æm ə ˈbɪznɪswʊmən/",
+    "vietnamese": "Tôi là nữ doanh nhân.",
+    "audio": "i_am_a_businesswoman.mp3"
+  },
+  {
+    "english": "I am a businessman.",
+    "phonetic": "/aɪ æm ə ˈbɪznɪsmæn/",
+    "vietnamese": "Tôi là nam doanh nhân.",
+    "audio": "i_am_a_businessman.mp3"
+  },
+  {
+    "english": "I am a chef.",
+    "phonetic": "/aɪ æm ə ʃɛf/",
+    "vietnamese": "Tôi là đầu bếp.",
+    "audio": "i_am_a_chef.mp3"
+  },
+  {
+    "english": "I am a photographer.",
+    "phonetic": "/aɪ æm ə fəˈtɒɡrəfər/",
+    "vietnamese": "Tôi là nhiếp ảnh gia.",
+    "audio": "i_am_a_photographer.mp3"
+  },
+  {
+    "english": "I am a dancer.",
+    "phonetic": "/aɪ æm ə ˈdænsər/",
+    "vietnamese": "Tôi là vũ công.",
+    "audio": "i_am_a_dancer.mp3"
+  },
+  {
+    "english": "I am a singer.",
+    "phonetic": "/aɪ æm ə ˈsɪŋər/",
+    "vietnamese": "Tôi là ca sĩ.",
+    "audio": "i_am_a_singer.mp3"
+  },
+  {
+    "english": "I am a writer.",
+    "phonetic": "/aɪ æm ə ˈraɪtər/",
+    "vietnamese": "Tôi là nhà văn.",
+    "audio": "i_am_a_writer.mp3"
+  },
+  {
+    "english": "I am a student at ABC University.",
+    "phonetic": "/aɪ æm ə ˈstjuːdənt æt eɪ biː siː ˌjuːnɪˈvɜːrsɪti/",
+    "vietnamese": "Tôi là sinh viên trường đại học ABC.",
+    "audio": "i_am_a_student_at_abc_university.mp3"
+  },
+  {
+    "english": "I am a new member here.",
+    "phonetic": "/aɪ æm ə njuː ˈmɛmbər hɪr/",
+    "vietnamese": "Tôi là thành viên mới ở đây.",
+    "audio": "i_am_a_new_member_here.mp3"
+  },
+  {
+    "english": "I am happy to join this group.",
+    "phonetic": "/aɪ æm ˈhæpi tə ʤɔɪn ðɪs ɡruːp/",
+    "vietnamese": "Tôi rất vui khi tham gia nhóm này.",
+    "audio": "i_am_happy_to_join_this_group.mp3"
+  },
+  {
+    "english": "I am here to learn English.",
+    "phonetic": "/aɪ æm hɪr tə lɜːrn ˈɪŋɡlɪʃ/",
+    "vietnamese": "Tôi ở đây để học tiếng Anh.",
+    "audio": "i_am_here_to_learn_english.mp3"
+  },
+  {
+    "english": "I am excited to meet everyone.",
+    "phonetic": "/aɪ æm ɪkˈsaɪtɪd tə miːt ˈɛvrɪwʌn/",
+    "vietnamese": "Tôi rất háo hức được gặp mọi người.",
+    "audio": "i_am_excited_to_meet_everyone.mp3"
+  },
+  {
+    "english": "I am looking forward to working with you.",
+    "phonetic": "/aɪ æm ˈlʊkɪŋ ˈfɔːrwərd tə ˈwɜːrkɪŋ wɪð juː/",
+    "vietnamese": "Tôi mong được làm việc cùng bạn.",
+    "audio": "i_am_looking_forward_to_working_with_you.mp3"
+  },
+  {
+    "english": "I am glad to be here.",
+    "phonetic": "/aɪ æm ɡlæd tə biː hɪr/",
+    "vietnamese": "Tôi rất vui khi có mặt ở đây.",
+    "audio": "i_am_glad_to_be_here.mp3"
   }
 ]

@@ -3,9 +3,9 @@ import os
 import json
 
 # Đường dẫn đến file JSON chứa danh sách câu
-INPUT_FILE = 'introductions.json'
+INPUT_FILE = 'work.json'
 # Thư mục để lưu file mp3
-OUTPUT_DIR = 'audio_output'
+OUTPUT_DIR = '../../audio/work'
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

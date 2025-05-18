@@ -58,5 +58,245 @@
     "phonetic": "/lɛts ˈʃɛdjuːl ə kɔːl/",
     "vietnamese": "Hãy lên lịch một cuộc gọi.",
     "audio": "lets_schedule_a_call.mp3"
+  },
+  {
+    "english": "Could you please review this document?",
+    "phonetic": "/kʊd juː pliːz rɪˈvjuː ðɪs ˈdɒkjumənt/",
+    "vietnamese": "Bạn có thể xem lại tài liệu này không?",
+    "audio": "work_11.mp3"
+  },
+  {
+    "english": "I will send you an email.",
+    "phonetic": "/aɪ wɪl sɛnd juː ən ˈiːmeɪl/",
+    "vietnamese": "Tôi sẽ gửi bạn một email.",
+    "audio": "work_12.mp3"
+  },
+  {
+    "english": "Let’s discuss this in the meeting.",
+    "phonetic": "/lɛts dɪsˈkʌs ðɪs ɪn ðə ˈmiːtɪŋ/",
+    "vietnamese": "Hãy thảo luận điều này trong cuộc họp.",
+    "audio": "work_13.mp3"
+  },
+  {
+    "english": "I need your feedback.",
+    "phonetic": "/aɪ niːd jɔːr ˈfiːdbæk/",
+    "vietnamese": "Tôi cần phản hồi của bạn.",
+    "audio": "work_14.mp3"
+  },
+  {
+    "english": "Can you help me with this task?",
+    "phonetic": "/kæn juː hɛlp miː wɪð ðɪs tɑːsk/",
+    "vietnamese": "Bạn có thể giúp tôi với nhiệm vụ này không?",
+    "audio": "work_15.mp3"
+  },
+  {
+    "english": "I will call you back soon.",
+    "phonetic": "/aɪ wɪl kɔːl juː bæk suːn/",
+    "vietnamese": "Tôi sẽ gọi lại cho bạn sớm.",
+    "audio": "work_16.mp3"
+  },
+  {
+    "english": "Let’s work as a team.",
+    "phonetic": "/lɛts wɜːrk æz ə tiːm/",
+    "vietnamese": "Hãy làm việc như một đội nhóm.",
+    "audio": "work_17.mp3"
+  },
+  {
+    "english": "I have finished my part.",
+    "phonetic": "/aɪ hæv ˈfɪnɪʃt maɪ pɑːrt/",
+    "vietnamese": "Tôi đã hoàn thành phần việc của mình.",
+    "audio": "work_18.mp3"
+  },
+  {
+    "english": "The deadline is next week.",
+    "phonetic": "/ðə ˈdɛdlaɪn ɪz nɛkst wiːk/",
+    "vietnamese": "Hạn chót là tuần sau.",
+    "audio": "work_19.mp3"
+  },
+  {
+    "english": "I need to make a phone call.",
+    "phonetic": "/aɪ niːd tə meɪk ə fəʊn kɔːl/",
+    "vietnamese": "Tôi cần gọi một cuộc điện thoại.",
+    "audio": "work_20.mp3"
+  },
+  {
+    "english": "Let’s have a quick meeting.",
+    "phonetic": "/lɛts hæv ə kwɪk ˈmiːtɪŋ/",
+    "vietnamese": "Hãy họp nhanh một chút.",
+    "audio": "work_21.mp3"
+  },
+  {
+    "english": "I will update you soon.",
+    "phonetic": "/aɪ wɪl ˈʌpdeɪt juː suːn/",
+    "vietnamese": "Tôi sẽ cập nhật cho bạn sớm.",
+    "audio": "work_22.mp3"
+  },
+  {
+    "english": "Please check your email.",
+    "phonetic": "/pliːz tʃɛk jɔːr ˈiːmeɪl/",
+    "vietnamese": "Vui lòng kiểm tra email của bạn.",
+    "audio": "work_23.mp3"
+  },
+  {
+    "english": "I am waiting for approval.",
+    "phonetic": "/aɪ æm ˈweɪtɪŋ fɔːr əˈpruːvəl/",
+    "vietnamese": "Tôi đang chờ phê duyệt.",
+    "audio": "work_24.mp3"
+  },
+  {
+    "english": "Let’s start the presentation.",
+    "phonetic": "/lɛts stɑːrt ðə ˌprɛzənˈteɪʃən/",
+    "vietnamese": "Hãy bắt đầu bài thuyết trình.",
+    "audio": "work_25.mp3"
+  },
+  {
+    "english": "I need to print this document.",
+    "phonetic": "/aɪ niːd tə prɪnt ðɪs ˈdɒkjumənt/",
+    "vietnamese": "Tôi cần in tài liệu này.",
+    "audio": "work_26.mp3"
+  },
+  {
+    "english": "Can you join the call?",
+    "phonetic": "/kæn juː ʤɔɪn ðə kɔːl/",
+    "vietnamese": "Bạn có thể tham gia cuộc gọi không?",
+    "audio": "work_27.mp3"
+  },
+  {
+    "english": "I will send the invoice.",
+    "phonetic": "/aɪ wɪl sɛnd ði ˈɪnvɔɪs/",
+    "vietnamese": "Tôi sẽ gửi hóa đơn.",
+    "audio": "work_28.mp3"
+  },
+  {
+    "english": "Let’s finish this today.",
+    "phonetic": "/lɛts ˈfɪnɪʃ ðɪs təˈdeɪ/",
+    "vietnamese": "Hãy hoàn thành việc này hôm nay.",
+    "audio": "work_29.mp3"
+  },
+  {
+    "english": "I am on a business trip.",
+    "phonetic": "/aɪ æm ɒn ə ˈbɪznɪs trɪp/",
+    "vietnamese": "Tôi đang đi công tác.",
+    "audio": "work_30.mp3"
+  },
+  {
+    "english": "Please call me if you need help.",
+    "phonetic": "/pliːz kɔːl miː ɪf juː niːd hɛlp/",
+    "vietnamese": "Vui lòng gọi tôi nếu bạn cần giúp đỡ.",
+    "audio": "work_31.mp3"
+  },
+  {
+    "english": "I have a lot of work to do.",
+    "phonetic": "/aɪ hæv ə lɒt əv wɜːrk tə duː/",
+    "vietnamese": "Tôi có nhiều việc phải làm.",
+    "audio": "work_32.mp3"
+  },
+  {
+    "english": "Let’s meet in my office.",
+    "phonetic": "/lɛts miːt ɪn maɪ ˈɒfɪs/",
+    "vietnamese": "Hãy gặp nhau ở văn phòng tôi.",
+    "audio": "work_33.mp3"
+  },
+  {
+    "english": "I will send you the details.",
+    "phonetic": "/aɪ wɪl sɛnd juː ðə ˈdiːteɪlz/",
+    "vietnamese": "Tôi sẽ gửi bạn chi tiết.",
+    "audio": "work_34.mp3"
+  },
+  {
+    "english": "Can you finish this by Friday?",
+    "phonetic": "/kæn juː ˈfɪnɪʃ ðɪs baɪ ˈfraɪdeɪ/",
+    "vietnamese": "Bạn có thể hoàn thành việc này trước thứ Sáu không?",
+    "audio": "work_35.mp3"
+  },
+  {
+    "english": "I am working from home today.",
+    "phonetic": "/aɪ æm ˈwɜːrkɪŋ frɒm həʊm təˈdeɪ/",
+    "vietnamese": "Hôm nay tôi làm việc tại nhà.",
+    "audio": "work_36.mp3"
+  },
+  {
+    "english": "Let’s have lunch together.",
+    "phonetic": "/lɛts hæv lʌntʃ təˈɡɛðər/",
+    "vietnamese": "Hãy ăn trưa cùng nhau.",
+    "audio": "work_37.mp3"
+  },
+  {
+    "english": "I need to sign these papers.",
+    "phonetic": "/aɪ niːd tə saɪn ðiːz ˈpeɪpərz/",
+    "vietnamese": "Tôi cần ký các giấy tờ này.",
+    "audio": "work_38.mp3"
+  },
+  {
+    "english": "Please send me the agenda.",
+    "phonetic": "/pliːz sɛnd miː ði əˈʤɛndə/",
+    "vietnamese": "Vui lòng gửi tôi chương trình nghị sự.",
+    "audio": "work_39.mp3"
+  },
+  {
+    "english": "I will join the video call.",
+    "phonetic": "/aɪ wɪl ʤɔɪn ðə ˈvɪdiəʊ kɔːl/",
+    "vietnamese": "Tôi sẽ tham gia cuộc gọi video.",
+    "audio": "work_40.mp3"
+  },
+  {
+    "english": "Let’s review the plan.",
+    "phonetic": "/lɛts rɪˈvjuː ðə plæn/",
+    "vietnamese": "Hãy xem lại kế hoạch.",
+    "audio": "work_41.mp3"
+  },
+  {
+    "english": "I need to update the file.",
+    "phonetic": "/aɪ niːd tə ˈʌpdeɪt ðə faɪl/",
+    "vietnamese": "Tôi cần cập nhật tệp này.",
+    "audio": "work_42.mp3"
+  },
+  {
+    "english": "Please send me your comments.",
+    "phonetic": "/pliːz sɛnd miː jɔːr ˈkɒmɛnts/",
+    "vietnamese": "Vui lòng gửi tôi nhận xét của bạn.",
+    "audio": "work_43.mp3"
+  },
+  {
+    "english": "I am waiting for your reply.",
+    "phonetic": "/aɪ æm ˈweɪtɪŋ fɔːr jɔːr rɪˈplaɪ/",
+    "vietnamese": "Tôi đang chờ phản hồi của bạn.",
+    "audio": "work_44.mp3"
+  },
+  {
+    "english": "Let’s start the project.",
+    "phonetic": "/lɛts stɑːrt ðə ˈprɒdʒɛkt/",
+    "vietnamese": "Hãy bắt đầu dự án.",
+    "audio": "work_45.mp3"
+  },
+  {
+    "english": "I need to check the schedule.",
+    "phonetic": "/aɪ niːd tə tʃɛk ðə ˈʃɛdjuːl/",
+    "vietnamese": "Tôi cần kiểm tra lịch trình.",
+    "audio": "work_46.mp3"
+  },
+  {
+    "english": "Please send me the contract.",
+    "phonetic": "/pliːz sɛnd miː ðə ˈkɒntrækt/",
+    "vietnamese": "Vui lòng gửi tôi hợp đồng.",
+    "audio": "work_47.mp3"
+  },
+  {
+    "english": "I will prepare the documents.",
+    "phonetic": "/aɪ wɪl prɪˈpeər ðə ˈdɒkjumənts/",
+    "vietnamese": "Tôi sẽ chuẩn bị các tài liệu.",
+    "audio": "work_48.mp3"
+  },
+  {
+    "english": "Let’s finish the report.",
+    "phonetic": "/lɛts ˈfɪnɪʃ ðə rɪˈpɔːrt/",
+    "vietnamese": "Hãy hoàn thành báo cáo.",
+    "audio": "work_49.mp3"
+  },
+  {
+    "english": "I am ready for the meeting.",
+    "phonetic": "/aɪ æm ˈrɛdi fɔːr ðə ˈmiːtɪŋ/",
+    "vietnamese": "Tôi đã sẵn sàng cho cuộc họp.",
+    "audio": "work_50.mp3"
   }
 ]
