@@ -13,6 +13,7 @@ import {
   Animated,
   Keyboard,
   TouchableWithoutFeedback,
+  ActivityIndicator,
 } from 'react-native';
 import { useRouter, useNavigation } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
@@ -20,6 +21,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { BlurView } from 'expo-blur';
 import { useFonts, Poppins_400Regular, Poppins_500Medium, Poppins_600SemiBold, Poppins_700Bold } from '@expo-google-fonts/poppins';
 import { Ionicons } from '@expo/vector-icons';
+import { forgotPasswordApi } from '../../services/api.service'; // Giả sử đường dẫn tới api.service
 
 const { width, height } = Dimensions.get('window');
 
@@ -27,6 +29,7 @@ const ForgotPasswordScreen = () => {
   const [email, setEmail] = useState('');
   const [emailFocused, setEmailFocused] = useState(false);
   const [isKeyboardVisible, setKeyboardVisible] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
   const fadeAnim = useState(new Animated.Value(0))[0];
   const slideAnim = useState(new Animated.Value(30))[0];
   const emailInputRef = useRef(null);
@@ -92,11 +95,37 @@ const ForgotPasswordScreen = () => {
     }, 300);
   };
 
-  const handleResetPassword = () => {
+  const handleResetPassword = async () => {
     Keyboard.dismiss();
-    console.log('Reset password for:', email);
-    // Add API call for password reset here
-    alert('Liên kết đặt lại mật khẩu đã được gửi đến email của bạn.');
+
+    // Kiểm tra email
+    if (!email) {
+      alert('Vui lòng nhập email.');
+      return;
+    }
+
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(email)) {
+      alert('Vui lòng nhập email hợp lệ.');
+      return;
+    }
+
+    setIsLoading(true);
+    try {
+      const result = await forgotPasswordApi(email);
+      if (result.success) {
+        alert(result.message || 'Liên kết đặt lại mật khẩu đã được gửi đến email của bạn.');
+        // Tùy chọn: Chuyển hướng về màn hình đăng nhập
+        router.push('/login');
+      } else {
+        alert(result.message || 'Không thể gửi liên kết đặt lại mật khẩu. Vui lòng thử lại.');
+      }
+    } catch (error) {
+      console.error('Lỗi khi gửi yêu cầu quên mật khẩu:', error);
+      alert('Đã xảy ra lỗi. Vui lòng thử lại sau.');
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   if (!fontsLoaded) {
@@ -176,7 +205,7 @@ const ForgotPasswordScreen = () => {
               >
                 <Ionicons
                   name="mail-outline"
-                  size= {20}
+                  size={20}
                   color={emailFocused ? '#20b584' : '#666'}
                   style={styles.inputIcon}
                 />
@@ -201,9 +230,10 @@ const ForgotPasswordScreen = () => {
 
               {/* Reset button */}
               <TouchableOpacity
-                style={styles.resetButton}
+                style={[styles.resetButton, isLoading && styles.disabledButton]}
                 onPress={handleResetPassword}
                 activeOpacity={0.8}
+                disabled={isLoading}
               >
                 <LinearGradient
                   colors={['#20b584', '#18a070']}
@@ -211,7 +241,11 @@ const ForgotPasswordScreen = () => {
                   start={{ x: 0, y: 0 }}
                   end={{ x: 1, y: 0 }}
                 >
-                  <Text style={styles.resetButtonText}>Gửi liên kết</Text>
+                  {isLoading ? (
+                    <ActivityIndicator color="#fff" />
+                  ) : (
+                    <Text style={styles.resetButtonText}>Gửi lại mật khẩu</Text>
+                  )}
                 </LinearGradient>
               </TouchableOpacity>
 
@@ -397,6 +431,9 @@ const styles = StyleSheet.create({
   policyLink: {
     color: '#20b584',
     fontFamily: 'Poppins_500Medium',
+  },
+  disabledButton: {
+    opacity: 0.7,
   },
 });
 

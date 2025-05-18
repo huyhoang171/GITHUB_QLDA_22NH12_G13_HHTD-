@@ -28,6 +28,13 @@ interface Feature {
   image: any;
 }
 
+type SpeakingTopicId = 'daily-conversations' | 'greetings' | 'introductions' | 'travel' | 'work';
+
+interface ProgressData {
+  subtopicId: SpeakingTopicId;
+  progress: number;
+}
+
 const features: Feature[] = [
   {
     id: 'vocabulary',
@@ -131,8 +138,7 @@ const FeatureCard = ({ feature, onPress, progress }: FeatureCardProps) => {
               <View style={[styles.iconContainer, { backgroundColor: feature.color }]}>
                 <Ionicons name={feature.icon as any} size={28} color="white" />
               </View>
-              {/* Hiển thị ProgressCircle cho cả Vocabulary và Grammar */}
-              {(feature.id === 'vocabulary' || feature.id === 'grammar') && (
+              {(feature.id === 'vocabulary' || feature.id === 'grammar' || feature.id === 'speaking') && (
                 <ProgressCircle progress={progress ?? 0} color={feature.color} size={50} />
               )}
             </View>
@@ -164,6 +170,7 @@ const FeatureCard = ({ feature, onPress, progress }: FeatureCardProps) => {
 export default function HomeScreen() {
   const [vocabProgress, setVocabProgress] = useState(0);
   const [grammarProgress, setGrammarProgress] = useState(0);
+  const [speakingProgress, setSpeakingProgress] = useState(0);
 
   const loadProgress = async () => {
     try {
@@ -181,13 +188,34 @@ export default function HomeScreen() {
       const grammarJson = await AsyncStorage.getItem('progressListGrammar');
       if (grammarJson) {
         const grammarList = JSON.parse(grammarJson);
-        const totalGrammar = 35; // Tổng số bài học grammar
+        const totalGrammar = 35;
         const totalGrammarProgress = grammarList.reduce(
           (sum: number, item: { progress: 0 | 1 }) => sum + item.progress,
           0
         );
         const grammarPercent = Math.floor((totalGrammarProgress / totalGrammar) * 100);
         setGrammarProgress(grammarPercent);
+      }
+
+      // Load Speaking progress
+      const speakingJson = await AsyncStorage.getItem('progressListSpeaking');
+      if (speakingJson) {
+        const speakingList: ProgressData[] = JSON.parse(speakingJson);
+        const totalWordsPerTopic: Record<SpeakingTopicId, number> = {
+          'daily-conversations': 51,
+          greetings: 57,
+          introductions: 56,
+          travel: 60,
+          work: 50,
+        };
+        const totalSpeakingWords = 274; // 51 + 57 + 56 + 60 + 50
+        const totalSpeakingProgress = speakingList.reduce(
+          (sum: number, item: ProgressData) =>
+            sum + Math.min(item.progress, totalWordsPerTopic[item.subtopicId]),
+          0
+        );
+        const speakingPercent = Math.floor((totalSpeakingProgress / totalSpeakingWords) * 100);
+        setSpeakingProgress(speakingPercent);
       }
     } catch (err) {
       console.log('Lỗi đọc tiến độ:', err);
@@ -231,6 +259,8 @@ export default function HomeScreen() {
                   ? vocabProgress
                   : feature.id === 'grammar'
                   ? grammarProgress
+                  : feature.id === 'speaking'
+                  ? speakingProgress
                   : 0
               }
             />
@@ -298,7 +328,7 @@ const styles = StyleSheet.create({
   featureCard: {
     borderRadius: 16,
     overflow: 'hidden',
-    height: 180,
+    height: 200, // Increased card height to allow more spacing
   },
   cardBackground: {
     flex: 1,
@@ -309,6 +339,7 @@ const styles = StyleSheet.create({
   cardGradient: {
     flex: 1,
     padding: 16,
+    paddingBottom: 24, // Added more padding at the bottom
     justifyContent: 'space-between',
   },
   cardHeader: {
@@ -330,22 +361,23 @@ const styles = StyleSheet.create({
     fontSize: 22,
     fontWeight: 'bold',
     color: 'white',
-    marginBottom: 4,
+    marginBottom: 6, // Slightly increased spacing
   },
   featureDescription: {
     fontSize: 14,
     color: 'rgba(255, 255, 255, 0.8)',
-    marginBottom: 12,
+    marginBottom: 16, // Increased spacing before footer
   },
   cardFooter: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    marginTop: 8,
+    marginTop: 12, // Increased top margin
+    marginBottom: 8, // Added margin at the bottom of footer
   },
   tagContainer: {
     backgroundColor: 'rgba(255, 255, 255, 0.2)',
-    paddingVertical: 4,
+    paddingVertical: 6, // Slightly increased padding
     paddingHorizontal: 10,
     borderRadius: 12,
   },
@@ -357,8 +389,8 @@ const styles = StyleSheet.create({
   startButton: {
     flexDirection: 'row',
     alignItems: 'center',
-    paddingVertical: 6,
-    paddingHorizontal: 12,
+    paddingVertical: 8, // Slightly increased padding
+    paddingHorizontal: 14, // Slightly increased padding
     borderRadius: 12,
   },
   startButtonText: {

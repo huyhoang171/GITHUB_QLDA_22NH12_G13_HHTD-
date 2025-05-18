@@ -74,10 +74,6 @@ export default function QuizzesScreen() {
                 <Text style={styles.categoryDescription}>{category.description}</Text>
                 <View style={styles.categoryFooter}>
                   <View style={styles.categoryStats}>
-                    <Ionicons name="time-outline" size={14} color="#FFFFFF" />
-                    <Text style={styles.categoryStatsText}>15 min</Text>
-                  </View>
-                  <View style={styles.categoryStats}>
                     <Ionicons name="help-circle-outline" size={14} color="#FFFFFF" />
                     <Text style={styles.categoryStatsText}>20 questions</Text>
                   </View>

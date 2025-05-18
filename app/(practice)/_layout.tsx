@@ -36,6 +36,9 @@ export default function PracticeLayout() {
     if (path === '/speakingDetail') {
       return '/speaking';
     }
+    if (path === '/change_password') {
+      return '/infor';
+    }
     const pathSegments = path.split('/').filter(segment => segment !== '');
     if (pathSegments.length > 1) {
       const parentPath = '/' + pathSegments.slice(0, -1).join('/');
@@ -149,7 +152,7 @@ export default function PracticeLayout() {
         name="quizzes"
         options={{
           title: 'Quizzes',
-          headerTitle: 'Quizzes',
+          headerShown: false,
           tabBarIcon: ({ color, size }) => (
             <Ionicons name="reader" size={size} color={color} />
           ),
@@ -159,7 +162,7 @@ export default function PracticeLayout() {
         name="ai"
         options={{
           title: 'AI',
-          headerTitle: 'AI',
+          headerShown: false,
           tabBarIcon: ({ color, size }) => (
             <Ionicons name="chatbubble-ellipses" size={size} color={color} />
           ),
@@ -184,7 +187,7 @@ export default function PracticeLayout() {
       <Tabs.Screen
         name="vocabulary_quizzes"
          options={{
-          headerTitle: '',
+          headerShown: false,
           tabBarIcon: () => null,
           href: null,
         }}
@@ -192,7 +195,7 @@ export default function PracticeLayout() {
       <Tabs.Screen
         name="grammar_quizzes"
          options={{
-          headerTitle: '',
+          headerShown: false,
           tabBarIcon: () => null,
           href: null,
         }}
@@ -214,10 +217,18 @@ export default function PracticeLayout() {
         }}
       />
       <Tabs.Screen
+        name="change_password"
+         options={{
+          headerTitle: 'Change Password',
+          tabBarIcon: () => null,
+          href: null,
+        }}
+      />
+      <Tabs.Screen
         name="infor"
         options={{
           title: 'Information',
-          headerTitle: 'Information',
+          headerShown: false,
           tabBarIcon: ({ color, size }) => (
             <Ionicons name="person-circle" size={size} color={color} />
           ),

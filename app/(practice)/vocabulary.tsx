@@ -10,6 +10,8 @@ import { SubtopicList } from '../../components/VocabularySubtopicList';
 import { VocabularyCard } from '../../components/vocabularyCard';
 import { playSound, translateSenses } from '../../hooks/useVocabulary';
 import { styles } from '../styles/vocabularyStyle';
+// Import hàm API
+import { saveProgressApi } from '../../services/api.service';
 
 export default function VocabularyScreen() {
   const [selectedTopic, setSelectedTopic] = useState<string | null>(null);
@@ -93,9 +95,15 @@ export default function VocabularyScreen() {
           progressList.push({ subtopicId, progress: index });
         }
         await AsyncStorage.setItem('progressList', JSON.stringify(progressList));
+
+        // Gửi tiến trình đến server
+        const result = await saveProgressApi(subtopicId, index);
+        if (!result.success) {
+          throw new Error('Gửi tiến trình đến server thất bại');
+        }
       }
     } catch (error) {
-      console.error("Error saving progress:", error);
+      console.error("Lỗi khi lưu tiến trình:", error);
     }
   };
 
@@ -219,7 +227,7 @@ export default function VocabularyScreen() {
           )}
           currentTopic={selectedTopic || ''}
           isPreviousDisabled={currentIndex === 0}
-          wordIndex={currentIndex + 1} // Truyền số thứ tự (bắt đầu từ 1)
+          wordIndex={currentIndex + 1}
           setShowAnswer={setShowAnswer}
           setTranslationError={setTranslationError}
           setIsTranslating={setIsTranslating}

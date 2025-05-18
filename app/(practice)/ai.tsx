@@ -26,11 +26,11 @@ export default function ChatScreen() {
 
     const question = input;
     setInput('');
-    setMessages([]); // Xóa toàn bộ hội thoại trước đó
+    setMessages([]); // Clear all previous conversations
     setIsLoading(true);
 
     if (containsVietnamese(question)) {
-      const answer = 'Xin lỗi, tôi chỉ nhận câu hỏi tiếng Anh.';
+      const answer = 'Sorry, I only accept questions in English.';
       setMessages([{ question, answer }]);
       setIsLoading(false);
       return;
@@ -40,14 +40,14 @@ export default function ChatScreen() {
       const botReply = await processAIRequest(question);
       setMessages([{ question, answer: botReply.result }]);
     } catch (error: any) {
-      let answer = 'Bot gặp lỗi, vui lòng thử lại sau.';
+      let answer = 'The bot encountered an error, please try again later.';
       if (error.response?.status === 429) {
-        answer = 'Quá nhiều yêu cầu, vui lòng đợi vài giây rồi thử lại.';
+        answer = 'Too many requests, please wait a few seconds and try again.';
       }
       setMessages([{ question, answer }]);
     } finally {
       setIsLoading(false);
-      // Cuộn xuống dưới khi có tin nhắn mới
+      // Scroll to bottom when new message is added
       setTimeout(() => {
         scrollViewRef.current?.scrollToEnd({ animated: true });
       }, 100);
@@ -80,7 +80,7 @@ export default function ChatScreen() {
               <View style={styles.emptyState}>
                 <Text style={styles.emptyStateIcon}>💬</Text>
                 <Text style={styles.emptyStateText}>
-                  Hãy đặt câu hỏi bằng tiếng Anh
+                  Ask a question in English
                 </Text>
               </View>
             )}
@@ -113,7 +113,7 @@ export default function ChatScreen() {
                 </View>
                 <View style={[styles.botMessage, styles.loadingMessage]}>
                   <ActivityIndicator size="small" color="#4A90E2" />
-                  <Text style={styles.loadingText}>Đang trả lời...</Text>
+                  <Text style={styles.loadingText}>Responding...</Text>
                 </View>
               </View>
             )}
@@ -123,7 +123,7 @@ export default function ChatScreen() {
             <TextInput
               value={input}
               onChangeText={setInput}
-              placeholder="Nhập câu hỏi bằng tiếng Anh..."
+              placeholder="Enter your question in English..."
               style={styles.input}
               editable={!isLoading}
               multiline

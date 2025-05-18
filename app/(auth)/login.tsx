@@ -16,7 +16,7 @@ import {
   TouchableWithoutFeedback,
 } from 'react-native';
 import { useRouter, useNavigation } from 'expo-router';
-import { checkLogin } from '../../services/api.service';
+import { checkLogin, getStudyCalendarApi } from '../../services/api.service';
 import { StatusBar } from 'expo-status-bar';
 import { LinearGradient } from 'expo-linear-gradient';
 import { BlurView } from 'expo-blur';
@@ -34,6 +34,7 @@ const LoginScreen = () => {
   const [isKeyboardVisible, setKeyboardVisible] = useState(false);
   const [emailFocused, setEmailFocused] = useState(false);
   const [passwordFocused, setPasswordFocused] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
   const fadeAnim = useState(new Animated.Value(0))[0];
   const slideAnim = useState(new Animated.Value(30))[0];
   const emailInputRef = useRef(null);
@@ -41,7 +42,7 @@ const LoginScreen = () => {
 
   const router = useRouter();
   const navigation = useNavigation();
-  const scrollViewRef = useRef<ScrollView>(null);
+  const scrollViewRef = useRef(null);
   const formContainerRef = useRef(null);
 
   // Load custom fonts
@@ -74,14 +75,12 @@ const LoginScreen = () => {
       Platform.OS === 'ios' ? 'keyboardWillShow' : 'keyboardDidShow',
       () => {
         setKeyboardVisible(true);
-        console.log('Keyboard shown');
       }
     );
     const keyboardDidHideListener = Keyboard.addListener(
       Platform.OS === 'ios' ? 'keyboardWillHide' : 'keyboardDidHide',
       () => {
         setKeyboardVisible(false);
-        console.log('Keyboard hidden');
       }
     );
 
@@ -91,7 +90,7 @@ const LoginScreen = () => {
     };
   }, [fadeAnim, slideAnim, navigation]);
 
-  const scrollToInput = (ref: React.RefObject<TextInput>) => {
+  const scrollToInput = (ref) => {
     setTimeout(() => {
       ref.current?.measure((fx, fy, width, height, px, py) => {
         if (scrollViewRef.current) {
@@ -101,166 +100,125 @@ const LoginScreen = () => {
           });
         }
       });
-    }, 300); // đợi bàn phím hiện ra
+    }, 300); // wait for keyboard to appear
   };
-
 
   const handleLogin = async () => {
     Keyboard.dismiss();
 
-      if (email === 'root' && password === '123456789') {
-    navigation.dispatch(
-      CommonActions.reset({
-        index: 0,
-        routes: [{ name: '(practice)' }],
-      })
-    );
-    return;
-  }
+    // Input validation
+    if (!email || !password) {
+      alert('Please enter both email and password.');
+      return;
+    }
+
+    if (password.length < 6) {
+      alert('Password must be at least 6 characters.');
+      return;
+    }
+
+    setIsLoading(true);
+
     try {
       const response = await checkLogin(email, password);
+
+      // Validate API response
+      if (!response || typeof response !== 'object') {
+        throw new Error('Invalid API response.');
+      }
+
       if (response.success) {
+        // Check for required fields
+        const { username, email: responseEmail, userid, createAt, message, progress } = response;
 
-        // 🌐 Gọi mock API lấy tiến độ học
-        const progressList = [
-          { subtopicId: 'animals', progress: 400 },
-          { subtopicId: 'birds', progress: 0 },
-          { subtopicId: 'fish_and_shellfish', progress: 0 },
-          { subtopicId: 'insects_worms_etc', progress: 0 },
-          { subtopicId: 'appearance', progress: 0 },
-          { subtopicId: 'body', progress: 0 },
-          { subtopicId: 'clothes_and_fashion', progress: 0 },
-          { subtopicId: 'colours_and_shapes', progress: 0 },
-          { subtopicId: 'language', progress: 0 },
-          { subtopicId: 'phones_email_and_the_internet', progress: 0 },
-          { subtopicId: 'art', progress: 0 },
-          { subtopicId: 'film_and_theatre', progress: 0 },
-          { subtopicId: 'literature_and_writing', progress: 0 },
-          { subtopicId: 'music', progress: 0 },
-          { subtopicId: 'tv_radio_and_news', progress: 0 },
-          { subtopicId: 'cooking_and_eating', progress: 0 },
-          { subtopicId: 'drinks', progress: 0 },
-          { subtopicId: 'food', progress: 0 },
-          { subtopicId: 'discussion_and_agreement', progress: 0 },
-          { subtopicId: 'doubt-guessing_and_certainty', progress: 0 },
-          { subtopicId: 'opinion_and_argument', progress: 0 },
-          { subtopicId: 'permission_and_obligation', progress: 0 },
-          { subtopicId: 'preferences_and_decisions', progress: 0 },
-          { subtopicId: 'suggestions_and_advice', progress: 0 },
-          { subtopicId: 'disability', progress: 0 },
-          { subtopicId: 'health_and_fitness', progress: 0 },
-          { subtopicId: 'health_problems', progress: 0 },
-          { subtopicId: 'healthcare', progress: 0 },
-          { subtopicId: 'mental_health', progress: 0 },
-          { subtopicId: 'buildings', progress: 0 },
-          { subtopicId: 'gardens', progress: 0 },
-          { subtopicId: 'house_and_homes', progress: 0 },
-          { subtopicId: 'games_and_toys', progress: 0 },
-          { subtopicId: 'hobbies', progress: 0 },
-          { subtopicId: 'shopping', progress: 0 },
-          { subtopicId: 'change_cause_and_effect', progress: 0 },
-          { subtopicId: 'danger', progress: 0 },
-          { subtopicId: 'difficulty_and_failure', progress: 0 },
-          { subtopicId: 'success', progress: 0 },
-          { subtopicId: 'education', progress: 0 },
-          { subtopicId: 'family_and_relationships', progress: 0 },
-          { subtopicId: 'feelings', progress: 0 },
-          { subtopicId: 'life_stages', progress: 0 },
-          { subtopicId: 'personal_qualities', progress: 0 },
-          { subtopicId: 'crime_and_punishment', progress: 0 },
-          { subtopicId: 'law_and_justice', progress: 0 },
-          { subtopicId: 'people_in_society', progress: 0 },
-          { subtopicId: 'politics', progress: 0 },
-          { subtopicId: 'religion_and_festivals', progress: 0 },
-          { subtopicId: 'social_issues', progress: 0 },
-          { subtopicId: 'biology', progress: 0 },
-          { subtopicId: 'computers', progress: 0 },
-          { subtopicId: 'engineering', progress: 0 },
-          { subtopicId: 'maths_and_measurement', progress: 0 },
-          { subtopicId: 'physics_and_chemistry', progress: 0 },
-          { subtopicId: 'scientific_research', progress: 0 },
-          { subtopicId: 'sports_ball_and_racket_sports', progress: 0 },
-          { subtopicId: 'sports_other_sports', progress: 0 },
-          { subtopicId: 'sports_water_sports', progress: 0 },
-          { subtopicId: 'farming', progress: 0 },
-          { subtopicId: 'geography', progress: 0 },
-          { subtopicId: 'plants_and_trees', progress: 0 },
-          { subtopicId: 'the_environment', progress: 0 },
-          { subtopicId: 'weather', progress: 0 },
-          { subtopicId: 'history', progress: 0 },
-          { subtopicId: 'space', progress: 0 },
-          { subtopicId: 'time', progress: 0 },
-          { subtopicId: 'holidays', progress: 0 },
-          { subtopicId: 'transport_by_air', progress: 0 },
-          { subtopicId: 'transport_by_bus_and_train', progress: 0 },
-          { subtopicId: 'transport_by_car_or_lorry', progress: 0 },
-          { subtopicId: 'transport_by_water', progress: 0 },
-          { subtopicId: 'business', progress: 0 },
-          { subtopicId: 'jobs', progress: 0 },
-          { subtopicId: 'money', progress: 0 },
-          { subtopicId: 'working_life', progress: 0 },
-        ];
+        if (!username || !responseEmail || !userid || !createAt || !message) {
+          throw new Error('Incomplete user data.');
+        }
 
-         // 🌐 Gọi mock API lấy tiến độ học grammar
-        const progressListGrammar = [
-          { subtopicId: '1', progress: 1 },
-          { subtopicId: '2', progress: 1 },
-          { subtopicId: '3', progress: 0 },
-          { subtopicId: '4', progress: 0 },
-          { subtopicId: '5', progress: 0 },
-          { subtopicId: '6', progress: 0 },
-          { subtopicId: '7', progress: 0 },
-          { subtopicId: '8', progress: 0 },
-          { subtopicId: '9', progress: 0 },
-          { subtopicId: '10', progress: 0 },
-          { subtopicId: '11', progress: 0 },
-          { subtopicId: '12', progress: 0 },
-          { subtopicId: '13', progress: 0 },
-          { subtopicId: '14', progress: 0 },
-          { subtopicId: '15', progress: 0 },
-          { subtopicId: '16', progress: 0 },
-          { subtopicId: '17', progress: 0 },
-          { subtopicId: '18', progress: 0 },
-          { subtopicId: '19', progress: 0 },
-          { subtopicId: '20', progress: 0 },
-          { subtopicId: '21', progress: 0 },
-          { subtopicId: '22', progress: 0 },
-          { subtopicId: '23', progress: 0 },
-          { subtopicId: '24', progress: 0 },
-          { subtopicId: '25', progress: 0 },
-          { subtopicId: '26', progress: 0 },
-          { subtopicId: '27', progress: 0 },
-          { subtopicId: '28', progress: 0 },
-          { subtopicId: '29', progress: 0 },
-          { subtopicId: '30', progress: 0 },
-          { subtopicId: '31', progress: 0 },
-          { subtopicId: '32', progress: 0 },
-          { subtopicId: '33', progress: 0 },
-          { subtopicId: '34', progress: 0 },
-          { subtopicId: '35', progress: 1 },
-          { subtopicId: '36', progress: 0 },
-          { subtopicId: '37', progress: 0 },
-        ]
+        // Save user data to AsyncStorage
+        try {
+          await Promise.all([
+            AsyncStorage.setItem('username', username),
+            AsyncStorage.setItem('email', responseEmail),
+            AsyncStorage.setItem('userid', JSON.stringify(userid)),
+            AsyncStorage.setItem('createAt', createAt),
+            AsyncStorage.setItem('message', message),
+          ]);
+        } catch (storageError) {
+          console.error('Error saving to AsyncStorage:', storageError);
+          throw new Error('Unable to save user data.');
+        }
 
+        // Get and save study calendar to AsyncStorage
+        try {
+          const calendarResponse = await getStudyCalendarApi(userid);
+          if (calendarResponse.success && Array.isArray(calendarResponse.data)) {
+            await AsyncStorage.setItem('studyCalendar', JSON.stringify(calendarResponse.data));
+            console.log('Study calendar saved to AsyncStorage:', calendarResponse.data);
+          } else {
+            console.warn('Invalid study calendar data:', calendarResponse);
+          }
+        } catch (calendarError) {
+          console.error('Error fetching or saving study calendar:', calendarError);
+          // Don't interrupt login process for calendar issues
+        }
 
-        // 💾 Lưu vào AsyncStorage (cache)
-        await AsyncStorage.setItem('progressList', JSON.stringify(progressList));
-        await AsyncStorage.setItem('progressListGrammar', JSON.stringify(progressListGrammar));
+        // Handle progress data if exists
+        if (progress && typeof progress === 'object') {
+          try {
+            // Topic progress
+            const progressList = Array.isArray(progress.topicProgress)
+              ? progress.topicProgress.map(item => ({
+                  subtopicId: item.topicName || '',
+                  progress: item.learnedWords || 0,
+                }))
+              : [];
 
+            // Grammar progress
+            const progressListGrammar = Array.isArray(progress.grammarLessonProgress)
+              ? progress.grammarLessonProgress.map(item => ({
+                  subtopicId: item.id ? item.id.toString() : '',
+                  progress: item.status || '',
+                }))
+              : [];
 
-        const targetRoute = '(practice)';
+            // Speaking progress
+            const progressListSpeaking = Array.isArray(progress.speakingProgress)
+              ? progress.speakingProgress.map(item => ({
+                  subtopicId: item.title || '',
+                  progress: item.learnedWords || 0,
+                }))
+              : [];
 
+            // Save progress to AsyncStorage
+            await Promise.all([
+              AsyncStorage.setItem('progressList', JSON.stringify(progressList)),
+              AsyncStorage.setItem('progressListGrammar', JSON.stringify(progressListGrammar)),
+              AsyncStorage.setItem('progressListSpeaking', JSON.stringify(progressListSpeaking)),
+            ]);
+          } catch (storageError) {
+            console.error('Error saving progress:', storageError);
+            throw new Error('Unable to save progress data.');
+          }
+        } else {
+          console.warn('No progress data from API.');
+        }
+
+        // Navigate to practice screen
         navigation.dispatch(
           CommonActions.reset({
             index: 0,
-            routes: [{ name: targetRoute }],
+            routes: [{ name: '(practice)' }],
           })
         );
       } else {
-        alert('Đăng nhập không thành công. Vui lòng thử lại.');
+        alert(response.message || 'Login failed. Please check your email or password.');
       }
     } catch (error) {
-      alert('Đã xảy ra lỗi. Vui lòng thử lại sau.');
+      console.error('Login error:', error);
+      alert('An error occurred. Please try again later.');
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -271,7 +229,6 @@ const LoginScreen = () => {
   if (!fontsLoaded) {
     return <View style={styles.loadingContainer}><Text>Loading...</Text></View>;
   }
-
 
   return (
     <SafeAreaView style={styles.container}>
@@ -292,7 +249,7 @@ const LoginScreen = () => {
       </View>
 
       <KeyboardAvoidingView
-        behavior={Platform.OS === 'ios' ? 'padding' : 'padding'} // Sử dụng padding cho cả hai
+        behavior={Platform.OS === 'ios' ? 'padding' : 'padding'}
         style={styles.keyboardAvoidView}
         enabled
       >
@@ -305,8 +262,9 @@ const LoginScreen = () => {
             keyboardDismissMode="interactive"
           >
             <View ref={formContainerRef} style={{ flex: 1 }}>
-              {/* Nội dung ScrollView */}
+              {/* ScrollView content */}
             </View>
+            
             {/* Header with logo and welcome text */}
             <Animated.View
               style={[
@@ -331,8 +289,8 @@ const LoginScreen = () => {
                   />
                 </LinearGradient>
               </View>
-              <Text style={styles.welcomeText}>Chào mừng trở lại</Text>
-              <Text style={styles.appTitle}>Đăng nhập vào Ezylearn</Text>
+              <Text style={styles.welcomeText}>Welcome Back</Text>
+              <Text style={styles.appTitle}>Sign in to Ezylearn</Text>
             </Animated.View>
 
             {/* Form container */}
@@ -345,13 +303,13 @@ const LoginScreen = () => {
                 },
               ]}
             >
-              {/* Email input */}
+              {/* Email/Username input */}
               <View
                 style={[
                   styles.inputContainer,
                   emailFocused && styles.inputContainerFocused,
                 ]}
-                onStartShouldSetResponder={() => true} // Ngăn sự kiện chạm lan tỏa
+                onStartShouldSetResponder={() => true}
               >
                 <Ionicons
                   name="mail-outline"
@@ -362,7 +320,7 @@ const LoginScreen = () => {
                 <TextInput
                   ref={emailInputRef}
                   style={styles.input}
-                  placeholder="Email"
+                  placeholder="Username"
                   placeholderTextColor="#999"
                   value={email}
                   onChangeText={setEmail}
@@ -370,12 +328,10 @@ const LoginScreen = () => {
                   autoCapitalize="none"
                   onFocus={() => {
                     setEmailFocused(true);
-                    console.log('Email input focused');
                     scrollToInput(emailInputRef);
                   }}
                   onBlur={() => {
                     setEmailFocused(false);
-                    console.log('Email input blurred');
                   }}
                 />
               </View>
@@ -386,7 +342,7 @@ const LoginScreen = () => {
                   styles.inputContainer,
                   passwordFocused && styles.inputContainerFocused,
                 ]}
-                onStartShouldSetResponder={() => true} // Ngăn sự kiện chạm lan tỏa
+                onStartShouldSetResponder={() => true}
               >
                 <Ionicons
                   name="lock-closed-outline"
@@ -397,19 +353,17 @@ const LoginScreen = () => {
                 <TextInput
                   ref={passwordInputRef}
                   style={styles.input}
-                  placeholder="Mật khẩu"
+                  placeholder="Password"
                   placeholderTextColor="#999"
                   value={password}
                   onChangeText={setPassword}
                   secureTextEntry={!showPassword}
                   onFocus={() => {
                     setPasswordFocused(true);
-                    console.log('Password input focused');
                     scrollToInput(passwordInputRef);
                   }}
                   onBlur={() => {
                     setPasswordFocused(false);
-                    console.log('Password input blurred');
                   }}
                 />
                 <TouchableOpacity
@@ -427,7 +381,7 @@ const LoginScreen = () => {
               {/* Forgot password link */}
               <View style={styles.forgotPasswordContainer}>
                 <TouchableOpacity onPress={() => router.push('/forgot-password')}>
-                  <Text style={styles.forgotPasswordText}>Quên mật khẩu?</Text>
+                  <Text style={styles.forgotPasswordText}>Forgot Password?</Text>
                 </TouchableOpacity>
               </View>
 
@@ -436,6 +390,7 @@ const LoginScreen = () => {
                 style={styles.loginButton}
                 onPress={handleLogin}
                 activeOpacity={0.8}
+                disabled={isLoading}
               >
                 <LinearGradient
                   colors={['#20b584', '#18a070']}
@@ -443,7 +398,9 @@ const LoginScreen = () => {
                   start={{ x: 0, y: 0 }}
                   end={{ x: 1, y: 0 }}
                 >
-                  <Text style={styles.loginButtonText}>Đăng nhập</Text>
+                  <Text style={styles.loginButtonText}>
+                    {isLoading ? 'Signing in...' : 'Sign In'}
+                  </Text>
                 </LinearGradient>
               </TouchableOpacity>
 
@@ -452,42 +409,22 @@ const LoginScreen = () => {
                 style={styles.registerButton}
                 onPress={handleRegister}
                 activeOpacity={0.7}
+                disabled={isLoading}
               >
-                <Text style={styles.registerButtonText}>Tạo tài khoản mới</Text>
+                <Text style={styles.registerButtonText}>Create New Account</Text>
               </TouchableOpacity>
-
-              {/* Social login */}
-              <View style={styles.socialLoginContainer}>
-                <View style={styles.dividerContainer}>
-                  <View style={styles.divider} />
-                  <Text style={styles.orText}>Hoặc đăng nhập với</Text>
-                  <View style={styles.divider} />
-                </View>
-
-                <View style={styles.socialButtonsRow}>
-                  <TouchableOpacity style={styles.socialButton}>
-                    <FontAwesome name="google" size={20} color="#DB4437" />
-                  </TouchableOpacity>
-                  <TouchableOpacity style={styles.socialButton}>
-                    <FontAwesome name="facebook" size={20} color="#4267B2" />
-                  </TouchableOpacity>
-                  <TouchableOpacity style={styles.socialButton}>
-                    <FontAwesome name="apple" size={20} color="#000" />
-                  </TouchableOpacity>
-                </View>
-              </View>
             </Animated.View>
           </ScrollView>
         </TouchableWithoutFeedback>
       </KeyboardAvoidingView>
 
-      {/* Footer với policy text */}
+      {/* Footer with policy text */}
       {!isKeyboardVisible && (
         <BlurView intensity={20} tint="light" style={styles.footerContainer}>
           <Text style={styles.policyText}>
-            Bằng cách đăng nhập, bạn đồng ý với{' '}
-            <Text style={styles.policyLink}>Điều khoản dịch vụ</Text> và{' '}
-            <Text style={styles.policyLink}>Chính sách bảo mật</Text> của chúng tôi
+            By signing in, you agree to our{' '}
+            <Text style={styles.policyLink}>Terms of Service</Text> and{' '}
+            <Text style={styles.policyLink}>Privacy Policy</Text>
           </Text>
         </BlurView>
       )}
@@ -661,46 +598,6 @@ const styles = StyleSheet.create({
     color: '#333',
     fontSize: 18,
     fontFamily: 'Poppins_500Medium',
-  },
-  socialLoginContainer: {
-    alignItems: 'center',
-  },
-  dividerContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    marginBottom: 16,
-    width: '100%',
-  },
-  divider: {
-    flex: 1,
-    height: 1,
-    backgroundColor: '#e0e0e0',
-  },
-  orText: {
-    paddingHorizontal: 16,
-    color: '#666',
-    fontSize: 14,
-    fontFamily: 'Poppins_400Regular',
-  },
-  socialButtonsRow: {
-    flexDirection: 'row',
-    justifyContent: 'center',
-  },
-  socialButton: {
-    width: 54,
-    height: 54,
-    borderRadius: 16,
-    backgroundColor: '#fff',
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginHorizontal: 12,
-    borderWidth: 1,
-    borderColor: '#e0e0e0',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.1,
-    shadowRadius: 4,
-    elevation: 2,
   },
   footerContainer: {
     paddingVertical: 16,

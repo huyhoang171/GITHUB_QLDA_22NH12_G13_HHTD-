@@ -71,7 +71,7 @@ const StartScreen = () => {
             <Text style={styles.title}>Ezylearn</Text>
             <View style={styles.taglineRow}>
               <View style={styles.taglineDot} />
-              <Text style={styles.tagline}>Học thông minh</Text>
+              <Text style={styles.tagline}>Smart Learning</Text>
             </View>
           </View>
         </View>
@@ -86,10 +86,10 @@ const StartScreen = () => {
 
         <View style={styles.infoContainer}>
           <Text style={styles.subtitle}>
-            Học tiếng Anh dễ dàng
+            Learn English Easily
           </Text>
           <Text style={styles.description}>
-            Phương pháp học tương tác, cá nhân hóa giúp bạn tiến bộ nhanh chóng và duy trì động lực
+            Interactive, personalized learning methods help you progress quickly and stay motivated
           </Text>
         </View>
       </View>
@@ -107,20 +107,11 @@ const StartScreen = () => {
             start={{ x: 0, y: 0 }}
             end={{ x: 1, y: 0 }}
           >
-            <Text style={styles.startButtonText}>Bắt đầu ngay</Text>
+            <Text style={styles.startButtonText}>Get Started</Text>
             <Ionicons name="arrow-forward" size={20} color="#fff" style={styles.buttonIcon} />
           </LinearGradient>
         </TouchableOpacity>
         
-        <View style={styles.secondaryActionsRow}>
-          <TouchableOpacity style={styles.learnMoreButton}>
-            <Text style={styles.learnMoreText}>Tìm hiểu thêm</Text>
-          </TouchableOpacity>
-          
-          <TouchableOpacity style={styles.skipButton}>
-            <Text style={styles.skipText}>Đã có tài khoản?</Text>
-          </TouchableOpacity>
-        </View>
       </BlurView>
     </SafeAreaView>
   );
